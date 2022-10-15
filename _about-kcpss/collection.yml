@@ -2,5 +2,6 @@ collections:
   about-kcpss:
     output: true
     order:
+      - Our Philosophy.md
       - Our Mission and Vision.md
       - Our History.md
