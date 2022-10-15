@@ -1,0 +1,4 @@
+collections:
+  principals-message-page:
+    output: true
+    order: []
