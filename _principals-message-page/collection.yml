@@ -2,4 +2,5 @@ collections:
   principals-message-page:
     output: true
     order:
+      - 2022 Principal's Message.md
       - 2021 Principal's Message.md
