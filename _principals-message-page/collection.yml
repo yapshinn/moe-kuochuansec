@@ -1,4 +1,5 @@
 collections:
   principals-message-page:
     output: true
-    order: []
+    order:
+      - 2021 Principal's Message.md
