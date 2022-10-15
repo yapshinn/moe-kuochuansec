@@ -1,4 +1,5 @@
 collections:
   about-kcpss:
     output: true
-    order: []
+    order:
+      - Our History.md
