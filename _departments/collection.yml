@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - CCE/Teachers.md
-      - CCE/Programmes.md
-      - CCE/Area of Focus.md
       - CCE/.keep
+      - CCE/Area of Focus.md
+      - CCE/Programmes.md
+      - CCE/Teachers.md
       - Craft & Technology/.keep
       - Craft & Technology/Area of Focus.md
       - Craft & Technology/Programmes.md
