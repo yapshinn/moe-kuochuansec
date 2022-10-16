@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About KCPSS
     collection: about-kcpss
-  - title: Our People
-    collection: our-people
   - title: Departments
     url: /permalink
     sublinks: []
