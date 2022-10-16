@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - School Executive Committee.md
       - Departments.md
