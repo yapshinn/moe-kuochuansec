@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Adam Road Presbyterian Church.md
       - Alumni.md
       - Parent Support Group.md
