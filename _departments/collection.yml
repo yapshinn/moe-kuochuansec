@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/Teachers.md
-      - Mathematics/Programmes.md
-      - Mathematics/Area of Focus.md
       - Mathematics/.keep
+      - Mathematics/Area of Focus.md
+      - Mathematics/Programmes.md
+      - Mathematics/Teachers.md
       - IT/.keep
       - IT/Area of Focus.md
       - IT/Programmes.md
