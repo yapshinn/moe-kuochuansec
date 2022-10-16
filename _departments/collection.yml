@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Teachers.md
       - English/Programmes.md
       - English/Area of Focus.md
       - English/.keep
