@@ -63,3 +63,23 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<table>
+<thead>
+  <tr>
+    <th>KCPSS Principal (In attendance)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Justin Tan</td>
+  </tr>
+  <tr>
+    <th>KCPPS Principal (In attendance)</th>
+  </tr>
+  <tr>
+    <td>Mrs Yee Toh Gek Khiaw</td>
+  </tr>
+</tbody>
+</table>
