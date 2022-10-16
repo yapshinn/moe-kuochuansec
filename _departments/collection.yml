@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - PE/Teachers.md
-      - PE/Programmes.md
-      - PE/Area of Focus.md
       - PE/.keep
+      - PE/Area of Focus.md
+      - PE/Programmes.md
+      - PE/Teachers.md
       - Mother Tongue/.keep
       - Mother Tongue/Area of Focus.md
       - Mother Tongue/Programmes.md
