@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/.keep
       - IT/.keep
       - IT/Area of Focus.md
       - IT/Programmes.md
