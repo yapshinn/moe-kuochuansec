@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - English/.keep
       - School Executive Committee.md
       - Departments.md
