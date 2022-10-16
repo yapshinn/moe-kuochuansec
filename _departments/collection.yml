@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE/Area of Focus.md
       - PE/.keep
       - Mother Tongue/.keep
       - Mother Tongue/Area of Focus.md
