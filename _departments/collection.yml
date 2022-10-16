@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Humanities/Teachers.md
-      - Humanities/Programmes.md
-      - Humanities/Area of Focus.md
       - Humanities/.keep
+      - Humanities/Area of Focus.md
+      - Humanities/Programmes.md
+      - Humanities/Teachers.md
       - CCE/.keep
       - CCE/Area of Focus.md
       - CCE/Programmes.md
