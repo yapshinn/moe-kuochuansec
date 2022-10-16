@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - IT/Area of Focus.md
       - IT/.keep
       - Humanities/.keep
       - Humanities/Area of Focus.md
