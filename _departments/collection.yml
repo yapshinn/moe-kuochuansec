@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Craft & Technology/Teachers.md
-      - Craft & Technology/Programmes.md
-      - Craft & Technology/Area of Focus.md
       - Craft & Technology/.keep
+      - Craft & Technology/Area of Focus.md
+      - Craft & Technology/Programmes.md
+      - Craft & Technology/Teachers.md
       - English/.keep
       - English/Area of Focus.md
       - English/Programmes.md
