@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Area of Focus.md
       - Science/.keep
       - PE/.keep
       - PE/Area of Focus.md
