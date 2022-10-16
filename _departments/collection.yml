@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue/Teachers.md
-      - Mother Tongue/Programmes.md
-      - Mother Tongue/Area of Focus.md
       - Mother Tongue/.keep
+      - Mother Tongue/Area of Focus.md
+      - Mother Tongue/Programmes.md
+      - Mother Tongue/Teachers.md
       - Mathematics/.keep
       - Mathematics/Area of Focus.md
       - Mathematics/Programmes.md
