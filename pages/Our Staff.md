@@ -13,9 +13,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mr. Justin TAN</td>
@@ -33,12 +33,12 @@ description: ""
     <td>Edmund_TIN@schools.gov.sg</td>
   </tr>
   <tr>
-    <td colspan="3">Head of Department </td>
+    <td colspan="3"><b>Head of Department</b> </td>
   </tr>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mr. Chelliah Trevor Devendran </td>
@@ -101,12 +101,12 @@ description: ""
     <td>ng_soon_chye@schools.gov.sg</td>
   </tr>
   <tr>
-    <td colspan="3">Subject Head / Senior Teacher / Lead Teacher</td>
+    <td colspan="3"><b>Subject Head / Senior Teacher / Lead Teacher</b></td>
   </tr>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mdm. Ravathi Velayuthan </td>
@@ -154,12 +154,12 @@ description: ""
     <td>Jazlyn_Chua@schools.gov.sg</td>
   </tr>
   <tr>
-    <td colspan="3">Teaching Staff</td>
+    <td colspan="3"><b>Teaching Staff</b></td>
   </tr>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mdm. Kavitha Ramachandran </td>
@@ -407,22 +407,12 @@ description: ""
     <td>teo_han_yang_edwin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"><b>Flexi-Teachers / Relief Teachers</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="3">Flexi-Teachers / Relief Teachers</td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mdm. Tan Pei yin elaine</td>
@@ -475,12 +465,12 @@ description: ""
     <td>koh_tong_seah@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td colspan="3">Allied Educators</td>
+    <td colspan="3"><b>Allied Educators</b></td>
   </tr>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Miss. Ng Sian erh angelia</td>
@@ -498,12 +488,12 @@ description: ""
     <td>Nil</td>
   </tr>
   <tr>
-    <td colspan="3">Executive &amp; Admin Staff</td>
+    <td colspan="3"><b>Executive &amp; Admin Staff</b></td>
   </tr>
   <tr>
-    <td>Name</td>
-    <td>Designation</td>
-    <td>Email</td>
+    <td><b>Name</b></td>
+    <td><b>Designation</b></td>
+    <td><b>Email</b></td>
   </tr>
   <tr>
     <td>Mdm. Oh Poh Lay Jeslyn</td>
