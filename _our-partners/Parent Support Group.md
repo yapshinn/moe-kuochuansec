@@ -26,4 +26,3 @@ Please register at&nbsp;**[HERE](https://go.gov.sg/kcpss-psgmember-registration-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7dSmaKKflN3zRGX7tj8lD-VJhRX-Qp82zovxxc3OL1YUaz3w1MGz_ReU-ny02vdoLZptXCK8KxVKm/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **2022 January: Sec1 Orientation**
-
