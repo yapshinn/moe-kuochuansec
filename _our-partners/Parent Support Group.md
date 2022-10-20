@@ -23,6 +23,17 @@ Please register at&nbsp;**[HERE](https://go.gov.sg/kcpss-psgmember-registration-
 
 ### Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7dSmaKKflN3zRGX7tj8lD-VJhRX-Qp82zovxxc3OL1YUaz3w1MGz_ReU-ny02vdoLZptXCK8KxVKm/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
 **2022 January: Sec1 Orientation**
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7dSmaKKflN3zRGX7tj8lD-VJhRX-Qp82zovxxc3OL1YUaz3w1MGz_ReU-ny02vdoLZptXCK8KxVKm/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+**2021 Thanksgiving Ceremony**
+
+![](/images/Our%20People/Thanksgiving%202021.jpg)
+
+**2021 Student PDLP**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxkcB9Q4irPOcgatMHCmrp1y5cbke7IQxevFjvdXacrGK1_yn9Ig6DDO17J3UBel90iIyit9yEu0v0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+**2021 S3 NRIC Presentation**
+
+
