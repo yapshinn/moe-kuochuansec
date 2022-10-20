@@ -27,3 +27,17 @@ The various exchange programme allows the KCPians to immerse in the culture of t
 KCPians have also gone to Cambodia, Indonesia and Thailand for their Values In Action (VIA) Programmes where they gained valuable insights in the lives of those who are in need and develop a sense of empathy and purpose in their own lives. Through these overseas VIA opportunities, our students developed resilience and learned to be adaptable in the different environments and situations that they are in. They learned to improvise when things go wrong and be the support for their friends as they worked in teams.
 
 Through TIE, we hope to further develop our KCPians as future-ready Servant Leaders and Scholars who encompass and display the school’s G.R.A.C.E values.
+
+**Trips for International Experience**
+
+**Korea** <br>
+Upload video to Youtube/Vimeo
+
+**China** <br>
+Upload video to Youtube/Vimeo
+
+**Cambodia** <br>
+Upload video to Youtube/Vimeo
+
+**Vietnam**<br>
+Upload video to Youtube/Vimeo
