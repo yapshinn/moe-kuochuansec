@@ -26,7 +26,7 @@ The Department of English and Literature offers a variety of language-enriched l
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-leiu"><img height="340" width="475" src="/images/Our%20People/Departments/English/EL%20Prog%201.jpg"></td>
+    <td class="tg-leiu"><img src="/images/Our%20People/Departments/English/EL%20Prog%201.jpg" width="475" height="340"></td>
     <td class="tg-2l0r"><span style="color:#292929">The Secondary One students embark on recording a podcast as an Alternative Assessment over a few weeks. Students become confident speakers, taking ownership of their learning. Podcasting serves as a platform for each student to vocalise their thoughts.</span><br><br><span style="color:#292929">Before students start recording, scaffolds are usually put in place to enable learning and for them to perform to the best of their abilities. Students are taught reading aloud oral communication skills. They also learn about the structure of writing a speech followed by carrying out process writing of the speech. Students will have hands-on experience with the recorder application in the iPad to record their podcast. Finally, as the finishing touch, students will edit their podcast and add the finishing touches i.e. background music to their podcast.</span></td>
   </tr>
 </thead>
@@ -45,8 +45,26 @@ The Department of English and Literature offers a variety of language-enriched l
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-2l0r"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></td>
+    <td class="tg-2l0r"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
     <td class="tg-2l0r">The Secondary 2EN cohort put their media literacy skills to the test in an innovative interdisciplinary project marrying expository writing for English and film literacy for Literature. Students are given the task of composing pictures using framing and mise-en-scene techniques learnt in their film theory module during their Literature lessons, to complement and showcase the argument of their expository paragraphs, in this level-wide ALP initiative.</td>
+  </tr>
+</thead>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2l0r{background-color:#F6F6F6;color:#292929;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-2l0r"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></td>
+    <td class="tg-2l0r"><span style="color:#292929">Espoir is a biannual school publication that offers news of school events, innovative practices, features personalities that define the Kuo Chuan community and student perspectives on issues that have an impact on the individual and the larger school community. It is the product of an innovative EL curriculum which develops relevant skills to face the global landscape. Espoir is a Secondary 3 EL Level project and also serves as a platform to hone writing skills of high progress learners.</span><br></td>
   </tr>
 </thead>
 </table>
