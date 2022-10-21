@@ -64,3 +64,19 @@ description: ""
 <p><a href="mailto:tan_lay_hiok@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2011.png">
 </a></p>
+
+
+<p><a href="mailto:dorothy_tay_wyn_hui@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2012.png">
+</a></p>
+
+<br><br>
+
+<p><a href="mailto:goh_boon_loon@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
+</a></p>
+
+
+<p><a href="mailto:pandiyan_govindaraju@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2014.png">
+</a></p>
