@@ -39,7 +39,7 @@ description: ""
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%206.png">
 </a></p>
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 <p><a href="mailto:genevieve_tan_hui_hong@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%207.png">
