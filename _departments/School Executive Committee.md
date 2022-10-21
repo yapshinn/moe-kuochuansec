@@ -39,7 +39,28 @@ description: ""
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%206.png">
 </a></p>
 
+<br><br>
 
 <p><a href="mailto:genevieve_tan_hui_hong@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%207.png">
+</a></p>
+
+<p><a href="mailto:samboo_elaine_natalie@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%208.png">
+</a></p>
+
+
+<p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
+</a></p>
+
+<br><br>
+
+<p><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2010.png">
+</a></p>
+
+
+<p><a href="mailto:tan_lay_hiok@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2011.png">
 </a></p>
