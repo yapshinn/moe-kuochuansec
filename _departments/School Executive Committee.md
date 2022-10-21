@@ -10,19 +10,20 @@ description: ""
 **<center>School Leaders</center>**
 
 <p><a href="mailto:Justin_TAN@schools.gov.sg">
-<img style="width:35%" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
+<img style="width:35%;margin-right:px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
 </a></p>
 
 
 <p><a href="mailto:Lee_Chui_Eng@schools.gov.sg">
-<img style="width:35%" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%202.png">
+<img style="width:35%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%202.png">
 </a></p>
 
 
 <p><a href="mailto:Edmund_TIN@schools.gov.sg">
-<img style="width:35%" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
+<img style="width:35%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
 </a></p>
 
+<br><br><br>
 
 **<center>Head of Department</center>**
 
