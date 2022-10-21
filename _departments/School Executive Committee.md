@@ -7,7 +7,7 @@ description: ""
 
 **Click on the image for email!**
 
-**<center>School Leaders</center>**
+**School Leaders**
 
 <p><a href="mailto:Justin_TAN@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
@@ -25,7 +25,7 @@ description: ""
 
 <br><br><br><br><br>
 
-**<center>Head of Department</center>**
+**Head of Department**
 
 <p><a href="mailto:yeo_li_li_clara@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%204.png">
@@ -110,7 +110,7 @@ description: ""
 </a></p>
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 **Admin & Operation**
 
