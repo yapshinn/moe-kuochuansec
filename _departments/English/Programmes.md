@@ -114,7 +114,7 @@ The Department of English and Literature offers a variety of language-enriched l
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-leiu"><img src="/images/Our%20People/Departments/English/EL%20Prog%202.png" alt="s1podcast.jpg" width="475" height="340"></td>
+    <td class="tg-leiu"><img src="/images/Our%20People/Departments/English/EL%20Prog%202.png" width="475" height="340"></td>
     <td class="tg-leiu">The English Language First is a support programme for selected Lower Secondary students to provide the necessary learning support for students to bridge their learning gaps in the English Language. To ensure early intervention, diagnostic tests are administered at the start of Secondary One<br><br><br><br>- Grammar application<br>- Vocabulary acquisition<br>- Synthesis and transformation<br>- Reading skills</td>
     <td class="tg-0lax">to ascertain the language proficiency of every student. Students who require more support would then be identified for the English Language First programme, to help them establish the fundamental understanding of the language at an early stage. Some of the areas of focus of the English Language First programmes are:</td>
   </tr>
