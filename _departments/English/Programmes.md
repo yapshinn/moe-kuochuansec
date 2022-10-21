@@ -4,8 +4,8 @@ permalink: /our-people/departments/english/programmes/
 description: ""
 third_nav_title: English
 ---
-**ENGLISH DEPARTMENT**<br>
-**A creative and critical thinker, who is a voice for change**
+**<center>ENGLISH DEPARTMENT</center>**<br>
+**<center>A creative and critical thinker, who is a voice for change</center>**
 
 ## PROGRAMMES
 
