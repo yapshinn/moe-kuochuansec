@@ -80,3 +80,49 @@ description: ""
 <p><a href="mailto:pandiyan_govindaraju@schools.gov.sg">
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2014.png">
 </a></p>
+
+<br><br><br><br><br>
+
+**Subject Head**
+
+
+<p><a href="">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2015.png">
+</a></p>
+
+<p><a href="mailto:ng_soon_chye@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
+</a></p>
+
+
+<p><a href="mailto:yap_shinn@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2017.png">
+</a></p>
+
+<br><br>
+
+<p><a href="mailto:png_siew_hoon@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2018.png">
+</a></p>
+
+<p><a href="mailto:Jazlyn_Chua@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
+</a></p>
+
+
+<br><br><br><br>
+
+**Admin & Operation**
+
+<p><a href="mailto:OH_Poh_Lay@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2020.png">
+</a></p>
+
+<p><a href="mailto:maram_subramaniam@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2021.png">
+</a></p>
+
+
+<p><a href="mailto:Mahendran_Paramasivam_alex@schools.gov.sg">
+<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2022.png">
+</a></p>
