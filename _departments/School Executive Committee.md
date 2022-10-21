@@ -23,7 +23,7 @@ description: ""
 <img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
 </a></p>
 
-<br><br><br>
+<br><br><br><br><br>
 
 **<center>Head of Department</center>**
 
