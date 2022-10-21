@@ -26,7 +26,7 @@ The Department of English and Literature offers a variety of language-enriched l
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-leiu"><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/programmes/s1podcast.jpg" alt="s1podcast.jpg" width="475" height="340"></td>
+    <td class="tg-leiu"><img src="/images/Our%20People/Departments/English/EL%20Prog%201.jpg" width="475" height="340"></td>
     <td class="tg-2l0r"><span style="color:#292929">The Secondary One students embark on recording a podcast as an Alternative Assessment over a few weeks. Students become confident speakers, taking ownership of their learning. Podcasting serves as a platform for each student to vocalise their thoughts.</span><br><br><span style="color:#292929">Before students start recording, scaffolds are usually put in place to enable learning and for them to perform to the best of their abilities. Students are taught reading aloud oral communication skills. They also learn about the structure of writing a speech followed by carrying out process writing of the speech. Students will have hands-on experience with the recorder application in the iPad to record their podcast. Finally, as the finishing touch, students will edit their podcast and add the finishing touches i.e. background music to their podcast.</span></td>
   </tr>
 </thead>
