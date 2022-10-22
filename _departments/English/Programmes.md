@@ -35,6 +35,10 @@ The Secondary 2EN cohort put their media literacy skills to the test in an innov
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
+Espoir is a biannual school publication that offers news of school events, innovative practices, features personalities that define the Kuo Chuan community and student perspectives on issues that have an impact on the individual and the larger school community. It is the product of an innovative EL curriculum which develops relevant skills to face the global landscape. Espoir is a Secondary 3 EL Level project and also serves as a platform to hone writing skills of high progress learners.
+
+
+
 **Our Stretch Programme; The Spin Doctors**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
@@ -72,7 +76,6 @@ Since 2015, different groups of students have had the opportunity to be part of 
 
 **Upper Sec Pure Literature Texts (wef 2020 onwards)**
 
-<br>
 
 <img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
 
