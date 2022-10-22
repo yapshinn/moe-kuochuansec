@@ -77,8 +77,10 @@ Since 2015, different groups of students have had the opportunity to be part of 
 **Upper Sec Pure Literature Texts (wef 2020 onwards)**
 
 
-<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
+<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
 
 **Set Text Prose**  
 
 Pure Literature students will study a prose text. It is a Dystopian novel which introduces a dystopic society where censorship and thought suppression is prevalent. Books, which are considered dangerous and evil, are banned. Individuality and thinking are viewed as threats to social stability and the population is controlled through its consumption of media, which serves as an endless stream of distractions to its passive and addicted audience. This novel raises questions about the influence of mass media and the dangers of being ignorant and illiterate.
+
+<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
