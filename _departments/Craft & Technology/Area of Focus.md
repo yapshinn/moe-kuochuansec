@@ -32,3 +32,27 @@ third_nav_title: Craft & Technology
   </tr>
 </tbody>
 </table>
+
+
+<table>
+<thead>
+  <tr>
+    <td>Art</td>
+    <td>- To enable students to be visually literate and appreciate art.<br>- To enable students to observe, understand and communicate their ideas by using and creating visuals.<br>- To enable students to see the value and recognize the relevance of art in their life.</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Design &amp; Technology (D&amp;T)<br></td>
+    <td>- To foster students’ positive values and develop dispositions for enterprise, creativity and innovation through research and exploration, idea conceptualization and development, communication, working with materials and tools in response to needs identified<br>- To harness students’ innate curiosity and ability to create through design-and-make activities<br>- To develop students an awareness of design in the areas of social, culture and environment</td>
+  </tr>
+  <tr>
+    <td>Food &amp; Consumer Education (FCE)</td>
+    <td>- To empower students to be health-conscious and discerning consumers, so that they could better manage their lives for the present and future<br>- To enable students to learn how individuals and families can optimize their resources in terms of food, finance and time to meet physical, mental, social and economic needs</td>
+  </tr>
+  <tr>
+    <td>Music</td>
+    <td>- To develop students’ awareness of and appreciation for music of various cultures and the role of music in daily living<br>- To develop students’ ability for creative expression and communication through music<br>- To provide the basis for students to develop an informed and life-long involvement in music</td>
+  </tr>
+</tbody>
+</table>
