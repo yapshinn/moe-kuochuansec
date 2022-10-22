@@ -6,6 +6,8 @@ third_nav_title: Craft & Technology
 ---
 **<center>CRAFT & TECHNOLOGY DEPARTMENT</center>**
 
+<img src="/images/Our%20People/Departments/Craft%20&%20Technology/art1.png" style="width:75%;margin-left:15px;" align = "right">
+
 **<u>ART:</u>**<br>
 **Overview of the Art Curriculum**<br>
 The Art curriculum aims to enable students to be visually literate and appreciate art.  The Lower Secondary Art Programme aims to introduce Artistic Literacy in students to appreciate and communicate their ideas effectively through Art.
