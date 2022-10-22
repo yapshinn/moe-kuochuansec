@@ -61,3 +61,15 @@ In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.�
 ·        Sudoku Competition  
 ·        Singapore and Asian Schools Mathematics Olympiad (SASMO)  
 ·        Problems in Real World Context Mathematics Competition
+
+
+![](/images/Our%20People/Departments/Math/Math%20Prog%208.jpg)
+
+
+**4\. Mathematics Week**
+
+![](/images/Our%20People/Departments/Math/Math%20Prog%209.png)
+![](/images/Our%20People/Departments/Math/Math%20Prog%2010.png)
+	![](/images/Our%20People/Departments/Math/Math%20Prog%2011.png)
+![](/images/Our%20People/Departments/Math/Math%20Prog%2012.png)
+![](/images/Our%20People/Departments/Math/Math%20Prog%2013.png)
