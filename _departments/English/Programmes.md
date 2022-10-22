@@ -27,13 +27,13 @@ Before students start recording, scaffolds are usually put in place to enable le
 
 **Sec 2 Film &amp; Broadcasting**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 The Secondary 2EN cohort put their media literacy skills to the test in an innovative interdisciplinary project marrying expository writing for English and film literacy for Literature. Students are given the task of composing pictures using framing and mise-en-scene techniques learnt in their film theory module during their Literature lessons, to complement and showcase the argument of their expository paragraphs, in this level-wide ALP initiative.
 
 **Sec 3 Journalistic (Writing Espoir Newsletter)**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 Espoir is a biannual school publication that offers news of school events, innovative practices, features personalities that define the Kuo Chuan community and student perspectives on issues that have an impact on the individual and the larger school community. It is the product of an innovative EL curriculum which develops relevant skills to face the global landscape. Espoir is a Secondary 3 EL Level project and also serves as a platform to hone writing skills of high progress learners.
 
@@ -41,7 +41,7 @@ Espoir is a biannual school publication that offers news of school events, innov
 
 **Our Stretch Programme; The Spin Doctors**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 The Spin Doctors enrichment programme is part of the school’s distinctive Applied Learning Programme which focuses on equipping students to be more media literate leveraging on media literacy tools to hone their speaking and writing skills, in order to meet the demands of a changing landscape where 21st century skills prevail. The students are given platforms to hone and showcase their talents through advanced elective modules, enrichment workshops, speaking and writing competitions and hosting for school events. Some skills that students will develop throughout the programme are:
 
@@ -67,7 +67,7 @@ The English Language First is a support programme for selected Lower Secondary s
 
 **Applied Elective Module (AEM)**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 As part of the school’s ALP in Media Literacy, selected Sec 3 students will have the opportunity to participate in the highly-sought after Advanced Elective Modules (AEMs) at Ngee Ann Polytechnic as well as visits to radio stations for students to have a first-hand experience of understanding how information is gathered and presented.&nbsp;Every year since 2015,&nbsp; Sec 3 students will have a chance to be radio deejays during a 4 day AEM known as The Radio Experience where the module is taught by current Ngee Ann Polytechnic lecturers or current deejays/celebrities.
 
@@ -77,15 +77,15 @@ Since 2015, different groups of students have had the opportunity to be part of 
 **Upper Sec Pure Literature Texts (wef 2020 onwards)**
 
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg" style="width:55%;margin-right:15px;" align="left">
 
 **Set Text Prose**  
 
 Pure Literature students will study a prose text. It is a Dystopian novel which introduces a dystopic society where censorship and thought suppression is prevalent. Books, which are considered dangerous and evil, are banned. Individuality and thinking are viewed as threats to social stability and the population is controlled through its consumption of media, which serves as an endless stream of distractions to its passive and addicted audience. This novel raises questions about the influence of mass media and the dangers of being ignorant and illiterate.
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/El%20Prog%204.jpg">
+<img src="/images/Our%20People/Departments/English/El%20Prog%204.jpg" style="width:55%;margin-right:15px;" align="left">
 
-**Sec 4E Pure Literature  Set Drama Texts (wef 2020 - 2021)**
+**Sec 4E Pure Literature&nbsp; Set Drama Texts (wef 2020 - 2021)**
 
 Off Centre, is a play written by Haresh Sharma and directed by Alvin Tan. Off Centre is a landmark play in the history of Singapore theatre, best remembered for presenting an honest and unflinching look at mental illness and the stigma surrounding it.
 
@@ -94,7 +94,7 @@ Off Centre, is a play written by Haresh Sharma and directed by Alvin Tan. Off Ce
 The plot follows the unlikely friendship between Saloma and Vinod, and traces their journeys as they deal with their personal conflicts as well as social prejudices against mental health conditions.
 
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%205.jpg">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%205.jpg" style="width:55%;margin-right:15px;" align="left">
 
 **Unseen Poetry Textbook**  
   
@@ -103,7 +103,7 @@ All Pure Literature students must purchase the Unseen text as a reference guide 
 
 <br><br>
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%206.png">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%206.png" style="width:55%;margin-right:15px;" align="left">
 
 **Sec 3E Pure Literature Set Drama Text (wef from 2021-2022 onwards)**
 
@@ -112,13 +112,13 @@ The Glass Menagerie is a memory play by Tennessee Williams that premiered in 194
 
 <br>
 
-**Sec 2EN Literature** **(wef 2020 onwards)**
+**Sec 2EN Literature**&nbsp;**(wef 2020 onwards)**
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%207.png">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%207.png" style="width:55%;margin-right:15px;" align="left">
 
 **Sec 2EN Literature Set Text**
 
-_Flowers for Algernon_ is a science fiction short story written by Daniel Keyes and published in 1966. The story is told by a series of progress reports written by Charlie Gordon, the first human subject for the surgery, and it touches on ethical and moral themes such as the treatment of the mentally disabled.
+_Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel Keyes and published in 1966. The story is told by a series of progress reports written by Charlie Gordon, the first human subject for the surgery, and it touches on ethical and moral themes such as the treatment of the mentally disabled.
 
 The study of the text challenges Secondary Two students to question societal discrimination and treatment of people with differing intelligence quotients. They also engage with the discourse about the ethics of experimentation.
 
@@ -126,18 +126,18 @@ The study of the text challenges Secondary Two students to question societal dis
 
 **Sec 1EN Literature (wef 2020 onwards)**
 
-<img align="left" style="width:55%;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%208.jpg">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%208.jpg" style="width:55%;margin-right:15px;" align="left">
 
 **Sec 1EN Literature Set Text**
 
-Inspired by a true story, August (Auggie) Pullman was born with a severe facial difference that, up until now, has prevented him from going to a mainstream school. Wonder begins from Auggie's point of view, but soon switches to include the perspectives of his family members and classmates. These voices converge to portray a community as it struggles with differences, and challenges readers, both young and old, to wonder about the true nature of empathy, compassion, acceptance and friendship. Auggie is a hero for the ages, one who proves that you can’t blend in when you were born to stand out.
+Inspired by a true story,&nbsp;August (Auggie) Pullman was born with a severe facial difference that, up until now, has prevented him from going to a mainstream school.&nbsp;Wonder begins from Auggie's point of view, but soon switches to include the perspectives of his family members and classmates. These voices converge to portray a community as it struggles with differences, and challenges readers, both young and old, to wonder about the true nature of empathy, compassion, acceptance and friendship. Auggie is a hero for the ages, one who proves that you can’t blend in when you were born to stand out.
 
 Our Sec 1s are encouraged to take part in activities that help inculcate this sense of compassion and kindness. Through putting themselves in the shoes of Auggie and other characters, they truly learn and see the importance of being, ultimately, kind.
 
 
 **Accolades and Achievements of the Department**  
 
-In the spirit of innovation, the department prides’ itself in continual learning among its teaching staff to incorporate innovative practices in the instructional approaches used in the teaching of English and Literature. The English and Literature **teachers’ contributions to the Ministry of Education’s professional development** platforms are laudable and testament of the time spent on review, research and refinement to current teaching practices.Throughout the years, the department has always maintained a strong of culture of sharing good teaching practices, both internally and at the national level.
+In the spirit of innovation, the department prides’ itself in continual learning among its teaching staff to incorporate innovative practices in the instructional approaches used in the teaching of English and Literature. The English and Literature&nbsp;**teachers’ contributions to the Ministry of Education’s professional development**&nbsp;platforms are laudable and testament of the time spent on review, research and refinement to current teaching practices.Throughout the years, the department has always maintained a strong of culture of sharing good teaching practices, both internally and at the national level.
 
 ![](/images/Our%20People/Departments/English/EL%20Prog%209.png)
 
@@ -175,4 +175,9 @@ The lesson study involved a thorough study on facilitating a structured thinking
 **Eliciting Literary Discourse and Active Learning Through Game-based Learning**
 
 
-The Literature team shared with fellow Literature educators at the Teacher-led workshop hosted by the Academy of Singapore Teachers in 2021 on the department’s first ever game-based learning strategies enacted in the English Literature classroom to elicit literary discourse and encourage active learning. An innovative approach to teaching literary discourse via an innovative card game was mooted by the Literature team which aims to encourage self-directed learning as well as cooperative learning. This enabled the team to explore the use of game-play to engage learners in an exploratory and collaborative study of poetry to enhance students’ engagement, appreciation and understanding in the Literature classroom. 
+The Literature team shared with fellow Literature educators at the Teacher-led workshop hosted by the Academy of Singapore Teachers in 2021 on the department’s first ever game-based learning strategies enacted in the English Literature classroom to elicit literary discourse and encourage active learning. An innovative approach to teaching literary discourse via an innovative card game was mooted by the Literature team which aims to encourage self-directed learning as well as cooperative learning. This enabled the team to explore the use of game-play to engage learners in an exploratory and collaborative study of poetry to enhance students’ engagement, appreciation and understanding in the Literature classroom.
+
+
+**INSERT VIDEO HERE** <br>
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
