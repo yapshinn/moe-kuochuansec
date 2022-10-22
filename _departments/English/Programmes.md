@@ -133,3 +133,27 @@ The study of the text challenges Secondary Two students to question societal dis
 Inspired by a true story, August (Auggie) Pullman was born with a severe facial difference that, up until now, has prevented him from going to a mainstream school. Wonder begins from Auggie's point of view, but soon switches to include the perspectives of his family members and classmates. These voices converge to portray a community as it struggles with differences, and challenges readers, both young and old, to wonder about the true nature of empathy, compassion, acceptance and friendship. Auggie is a hero for the ages, one who proves that you can’t blend in when you were born to stand out.
 
 Our Sec 1s are encouraged to take part in activities that help inculcate this sense of compassion and kindness. Through putting themselves in the shoes of Auggie and other characters, they truly learn and see the importance of being, ultimately, kind.
+
+
+**Accolades and Achievements of the Department**  
+
+In the spirit of innovation, the department prides’ itself in continual learning among its teaching staff to incorporate innovative practices in the instructional approaches used in the teaching of English and Literature. The English and Literature **teachers’ contributions to the Ministry of Education’s professional development** platforms are laudable and testament of the time spent on review, research and refinement to current teaching practices.Throughout the years, the department has always maintained a strong of culture of sharing good teaching practices, both internally and at the national level.
+
+![](/images/Our%20People/Departments/English/EL%20Prog%209.png)
+
+![](/images/Our%20People/Departments/English/EL%20Prog%2010.png)
+
+![](/images/Our%20People/Departments/English/EL%20Prog%2011.png)
+
+![](/images/Our%20People/Departments/English/EL%20Prog%2012.png)
+
+**Devising Innovative Learner Strategies through Lesson Studies**<br>
+The department carries out lesson studies on selected classes annually. Lesson Studies provide opportunities for teachers to apply findings from education-related research in the classroom. It is an opportunity for teachers to explore more effective strategies in the classroom, and to inculcate a culture of learning amongst the department. The following are a brief synopsis of the strategies which have been rolled out to our students:
+
+**2016 - ‘See-Think-Connect’ - An Annotation Strategy for Readers** <br>
+‘See-Think-Connect’ is a learner strategy which can be applied on a variety of text types to help learners sustain engagement and deeper understanding. It makes the learners’ thinking visible through the use of annotations to encourage meaningful and deeper engagements with a text. It builds on the theoretical underpinnings of the widely adopted visible thinking routine “See-Think-Wonder” (Harvard, 2014), as well as Berthoff’s Dialectical Journal (1982).
+
+
+**2017 - Using "SPA" to generate depth in spoken interaction discussions** <br>
+SPA (Sieve, Predict and Associate) is a framework devised by the department that be used to enhance prediction skills and generate sufficient content for the GCE ‘O’ Level Oral Exam. Combining research data and students’ feedback, the department has come with 2 learner strategies, ‘Area of Expertise’ and ‘Schema Trigger’ to help GCE ‘O’ Level candidates fully maximise their 10 minutes of preparation time during the Oral Exam. It builds on the theoretical underpinnings of Jean Piaget’s Schema theory
+
