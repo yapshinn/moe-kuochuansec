@@ -12,7 +12,6 @@ third_nav_title: CCE
 The CCE Department focuses on the Character and Citizenship Education in Kuo Chuan Presbyterian Secondary School.&nbsp; Every KCPian will be developed to be Servant Leaders and Scholars through structured programmes and lessons guided by the KCPSS CCE Framework (revised in 2017).
 
 **CCE Framework**
-
 ![](/images/Our%20People/Departments/CCE/CCE%20Area%20of%20Focus%201.png)
 
 **GOALS of CCE**
