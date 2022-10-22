@@ -22,7 +22,7 @@ third_nav_title: Craft & Technology
     <td>chua_chee_yong@schools.gov.sg<br>png_siew_hoon@schools.gov.sg<br>tan_siaw_chong@schools.gov.sg<br>teo_han_yang_edwin@schools.gov.sg<br>doreen_tang_kah_yin@schools.gov.sg<br>james_lau_kam_fatt@schools.gov.sg<br>low_kar_yee_a@schools.gov.sg<br><br></td>
   </tr>
   <tr>
-    <td>Art</td>
+		<td><b>Art</b></td>
     <td></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ third_nav_title: Craft & Technology
     <td>quek_imm_ki@schools.gov.sg<br>lau_chee_keen_paul@schools.gov.sg<br>siti_nurhizah_mohamed_hassan@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td>Food and Consumer Education (FCE)</td>
+		<td><b>Food and Consumer Education (FCE)</b></td>
     <td> </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ third_nav_title: Craft & Technology
     <td> lee_hwee_ling_grace@schools.gov.sg<br>siti_shahirah_haider_bagesher@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td>Music</td>
+		<td><b>Music</b></td>
     <td> </td>
   </tr>
   <tr>
