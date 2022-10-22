@@ -27,17 +27,17 @@ Before students start recording, scaffolds are usually put in place to enable le
 
 **Sec 2 Film &amp; Broadcasting**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPuhELPMmx8YU51Po_EGuPWedHXKrk8OPwFlXFrQUPPdwLWSS1o89Ihzp4wSqUhFqdyYb5gI6vsIbY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 The Secondary 2EN cohort put their media literacy skills to the test in an innovative interdisciplinary project marrying expository writing for English and film literacy for Literature. Students are given the task of composing pictures using framing and mise-en-scene techniques learnt in their film theory module during their Literature lessons, to complement and showcase the argument of their expository paragraphs, in this level-wide ALP initiative.
 
 **Sec 3 Journalistic (Writing Espoir Newsletter)**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLvIh20PJs8Apf2ag5KhReoTdnFtapXodGdNjIxy1GeSZe2t0jM7QK7hnDy0aX3ekVfe6vM1ibCzDU/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 **Our Stretch Programme; The Spin Doctors**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNHpRz7pl3Yh9CznzaxOenKl-jgPmA7hZjel9FuJGDty_MTZ84hvL8-bb28I4ji2g_hvPILCC5gWcR/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 The Spin Doctors enrichment programme is part of the school’s distinctive Applied Learning Programme which focuses on equipping students to be more media literate leveraging on media literacy tools to hone their speaking and writing skills, in order to meet the demands of a changing landscape where 21st century skills prevail. The students are given platforms to hone and showcase their talents through advanced elective modules, enrichment workshops, speaking and writing competitions and hosting for school events. Some skills that students will develop throughout the programme are:
 
@@ -62,3 +62,20 @@ The English Language First is a support programme for selected Lower Secondary s
 
 
 **Applied Elective Module (AEM)**
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNQt6nNMQ0hVUTkvlquvm8A7ipzpF5yqVzUpXOk0R5uJi7Kj5oBHWy2e2d0VYQxI6Eku7QEeeKeAXs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+As part of the school’s ALP in Media Literacy, selected Sec 3 students will have the opportunity to participate in the highly-sought after Advanced Elective Modules (AEMs) at Ngee Ann Polytechnic as well as visits to radio stations for students to have a first-hand experience of understanding how information is gathered and presented.&nbsp;Every year since 2015,&nbsp; Sec 3 students will have a chance to be radio deejays during a 4 day AEM known as The Radio Experience where the module is taught by current Ngee Ann Polytechnic lecturers or current deejays/celebrities.
+
+Since 2015, different groups of students have had the opportunity to be part of an authentic learning experience in learning about the role that media plays in society. Our students even had a chance to hone their Speaking and Representing skills as a result.
+
+
+**Upper Sec Pure Literature Texts (wef 2020 onwards)**
+
+<br>
+
+<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg">
+
+**Set Text Prose**  
+
+Pure Literature students will study a prose text. It is a Dystopian novel which introduces a dystopic society where censorship and thought suppression is prevalent. Books, which are considered dangerous and evil, are banned. Individuality and thinking are viewed as threats to social stability and the population is controlled through its consumption of media, which serves as an endless stream of distractions to its passive and addicted audience. This novel raises questions about the influence of mass media and the dangers of being ignorant and illiterate.
