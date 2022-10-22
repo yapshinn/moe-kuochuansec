@@ -10,65 +10,57 @@ third_nav_title: English
 
 ![](/images/Our%20People/Departments/English/English%20Dept%20Teachers.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qmil{background-color:#FFF;color:#292929;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-qmil">Mdm. Elaine Samboo (HOD - English Department)</th>
-    <th class="tg-qmil">samboo_elaine_natalie@schools.gov.sg  <br></th>
+    <td>Mdm. Elaine Samboo (HOD - English Department)</td>
+    <td>samboo_elaine_natalie@schools.gov.sg  <br></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qmil">Mdm. Ravathi (Lead Teacher)</td>
-    <td class="tg-qmil">ravathi_velayuthan@schools.gov.sg</td>
+    <td>Mdm. Ravathi (Lead Teacher)</td>
+    <td>ravathi_velayuthan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil">Ms. Christopher Cassandra</td>
-    <td class="tg-qmil"> christopher_cassandra@schools.gov.sg  <br></td>
+    <td>Ms. Christopher Cassandra</td>
+    <td> christopher_cassandra@schools.gov.sg  <br></td>
   </tr>
   <tr>
-    <td class="tg-qmil">Mdm. Fazliana </td>
-    <td class="tg-qmil"> fazliana_pairin@schools.gov.sg</td>
+    <td>Mdm. Fazliana </td>
+    <td> fazliana_pairin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil">Mdm. Tan Peck San Linda</td>
-    <td class="tg-qmil"> tan_peck_san_linda@schools.gov.sg<br></td>
+    <td>Mdm. Tan Peck San Linda</td>
+    <td> tan_peck_san_linda@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-qmil">Ms. Chua Jazln<br></td>
-    <td class="tg-qmil">Jazlyn_Chua@schools.gov.sg</td>
+    <td>Ms. Chua Jazln<br></td>
+    <td>Jazlyn_Chua@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil">Mrs Sivasangkari Pravin</td>
-    <td class="tg-qmil">sivasankari_pravin@schools.gov.sg</td>
+    <td>Mrs Sivasangkari Pravin</td>
+    <td>sivasankari_pravin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil">Mdm.  Selena Wee</td>
-    <td class="tg-qmil"> selena_wee@schools.gov.sg</td>
+    <td>Mdm.  Selena Wee</td>
+    <td> selena_wee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil">Ms. Ho Shiao Hwee</td>
-    <td class="tg-qmil">  Ho_Shiao_Hwee@schools.gov.sg</td>
+    <td>Ms. Ho Shiao Hwee</td>
+    <td>  Ho_Shiao_Hwee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil"> Ms. Jia Yan  </td>
-    <td class="tg-qmil">ho_jia_yan@schools.gov.sg</td>
+    <td> Ms. Jia Yan  </td>
+    <td>ho_jia_yan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil"> Ms. Zaleha Yusof  <br></td>
-    <td class="tg-qmil"> zaleha_yusof@schools.gov.sg</td>
+    <td> Ms. Zaleha Yusof  <br></td>
+    <td> zaleha_yusof@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qmil"> Ms. Ang Siok Min, Mitchelle</td>
-    <td class="tg-qmil"> ang_siok_min_mitchelle@schools.gov.sg</td>
+    <td> Ms. Ang Siok Min, Mitchelle</td>
+    <td> ang_siok_min_mitchelle@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
