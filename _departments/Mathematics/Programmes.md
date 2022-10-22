@@ -33,4 +33,31 @@ In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.�
 **<u>Game-based Learning</u>**
 
 **UPLOAD VIDEO TO YOUTUBE/VIMEO TO INSERT INTO SITE**
+
 ![](/images/Our%20People/Departments/Math/Math%20Prog%207.png)
+
+
+**2\. Remediation Programmes**  
+
+*   Mathelist Programmes for Lower Secondary School
+
+     -       Increase students’ interest in Math<br>
+     -       Increase students’ confidence in Math
+
+*   Remedial Programmes for Sec 3 students
+*   Sec 4/5 Consultation
+
+    -       Topical revision in Semester 1<br>
+    -       Timed Practice and Math Consultations in Semester 2      
+
+**3\. Mathematics Competitions**   <br> 
+**<u>Objectives</u>**:  
+·        To excite and interest students in the learning of Mathematics  
+·        To provide opportunities for students to gauge themselves against the national/regional level  
+·        To expose our students to Mathematics related competitions and gain confidence in the learning of Mathematics  
+**<u>Competitions:</u>**    <br>
+·        Singapore Cube Competition  (Rubik’s Cube)  
+·        International Mathematical Modelling Challenge (IMMC)  
+·        Sudoku Competition  
+·        Singapore and Asian Schools Mathematics Olympiad (SASMO)  
+·        Problems in Real World Context Mathematics Competition
