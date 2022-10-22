@@ -157,3 +157,22 @@ The department carries out lesson studies on selected classes annually. Lesson S
 **2017 - Using "SPA" to generate depth in spoken interaction discussions** <br>
 SPA (Sieve, Predict and Associate) is a framework devised by the department that be used to enhance prediction skills and generate sufficient content for the GCE ‘O’ Level Oral Exam. Combining research data and students’ feedback, the department has come with 2 learner strategies, ‘Area of Expertise’ and ‘Schema Trigger’ to help GCE ‘O’ Level candidates fully maximise their 10 minutes of preparation time during the Oral Exam. It builds on the theoretical underpinnings of Jean Piaget’s Schema theory
 
+
+**2018: Refinement to Annotation Strategy See-Think-Connect 2016 Lesson Study**
+
+
+**2019: PLT Title: Exercising Critical Thinking and Metacognition in Reading Comprehension** <br>
+Targeted groups of Sec 3 students learnt how to apply critical reading and viewing by focusing on implied meaning and higher – order thinking, judgement and evaluation using Reciprocal Teaching. Students used the thinking routine – Think- Puzzle-Explore to clarify, predict, question and summarize ideas and points of discussion from the reading comprehension in conjunction with Reciprocal Teaching. The purpose of this study was to investigate the impacts of reciprocal teaching on critical thinking and how it translates to perspectives and meaning-making. Students are able to create a check-in system on their own to be certain of what they have read and how they comprehend and make connections of the new information with the old. 
+ 
+**2019: Deepening Reading and Understanding of Multimodal Texts** <br>
+Analysis of multimodal texts and deepening of students’ literacy skills to make meaning of the texts was explored as students are exposed to visual texts as part of their assessment of reading comprehension skills. Their responses reveal a lack of awareness of the interplay between different semiotic modes in a text. Hence, learners were guided to explore different perspectives, writer’s intent by analysing social-cultural contexts. The results of the study showed that students were able to annotate texts to pick out different cues, analyse patterns and make interpretations.  
+
+ **2019: Dissecting the Dialogic in Drama through Inductive Learning** <br>
+The lesson study involved a thorough study on facilitating a structured thinking process among students in literary analysis through the use of a learner strategy “Inductive Learning” via group discussions to encourage critical thinking skills and an inquiring mind. In addition, the study entailed the application of the learner strategy of “Dramatization” for pupils to have a deeper understanding of character motivation. 
+
+**2020: “It’s Lit” Literature Card Game**
+
+**Eliciting Literary Discourse and Active Learning Through Game-based Learning**
+
+
+The Literature team shared with fellow Literature educators at the Teacher-led workshop hosted by the Academy of Singapore Teachers in 2021 on the department’s first ever game-based learning strategies enacted in the English Literature classroom to elicit literary discourse and encourage active learning. An innovative approach to teaching literary discourse via an innovative card game was mooted by the Literature team which aims to encourage self-directed learning as well as cooperative learning. This enabled the team to explore the use of game-play to engage learners in an exploratory and collaborative study of poetry to enhance students’ engagement, appreciation and understanding in the Literature classroom. 
