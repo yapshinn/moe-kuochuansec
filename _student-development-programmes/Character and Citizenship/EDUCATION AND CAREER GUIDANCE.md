@@ -89,3 +89,36 @@ Students who would like to explore more about subject choices, inquire about pos
   </tr>
 </tbody>
 </table>
+
+
+### Resources
+
+**School Admission Exercise for Sec4E / 5NA**
+
+<table>
+<thead>
+  <tr>
+    <th>Admission Exercise</th>
+    <th>Direct School Admission to Junior Colleges<br>[DSA-JC]</th>
+    <th>ITE Early Admission Exercise<br>[ITE EAE]</th>
+    <th>Polytechnic Early Admission<br>[EAE]</th>
+    <th>Joint Admission Exercise [JAE] by JCs/MI, Polytechnics and ITE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td><b>Application Period</b></td>
+		<td>May to June</td>
+    <td>Late May</td>
+    <td>Late June</td>
+    <td>Upon release of O level results [Jan]</td>
+  </tr>
+  <tr>
+		<td><b>Information</b></td>
+    <td>Conditional admission to JCs based on talents &amp; achievements that may not be demonstrated at GCE O Level Exam.<br>Administered separately by each JC.</td>
+    <td>Conditional offer based on aptitude and interests prior to receiving GCE O level examination results.</td>
+    <td>Conditional offer based on aptitude and interests prior to receiving GCE O level examination results. Joint exercise by 5 Polytechnics..</td>
+    <td>Refer to MOE website for general information.<br>Refer to January 2018 Joint Admission Booklet for entry requirements, computation of aggregate etc.<br> </td>
+  </tr>
+</tbody>
+</table>
