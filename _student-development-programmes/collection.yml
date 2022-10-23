@@ -2,8 +2,8 @@ collections:
   student-development-programmes:
     output: true
     order:
-      - Character and Citizenship/Sexuality Education Programme.md
-      - Character and Citizenship/EDUCATION AND CAREER GUIDANCE.md
-      - Character and Citizenship/CYBER WELLNESS (CW).md
-      - Character and Citizenship/Character and Citizenship Programme.md
       - Character and Citizenship/.keep
+      - Character and Citizenship/Character and Citizenship Programme.md
+      - Character and Citizenship/CYBER WELLNESS (CW).md
+      - Character and Citizenship/EDUCATION AND CAREER GUIDANCE.md
+      - Character and Citizenship/Sexuality Education Programme.md
