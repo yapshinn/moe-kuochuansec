@@ -74,3 +74,83 @@ The CCE Day is aligned closely to the national movement, SkillsFuture, and the M
 The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.
 
 The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.
+
+![](/images/Our%20People/Departments/CCE/CCE%20Prog%203.png)
+
+
+**3. Food Entrepreneur Programme.**  
+
+The Food Entrepreneur Programme is an initiative to provide authentic learning experiences in developing leadership competencies and encouraging a spirit of entrepreneurship for students from the Secondary 3 Normal (Academic) stream. 
+
+  
+
+Students will vie for an opportunity to be mentored by established personalities from the Singapore F&B industry. It will leverage the experiences of these F&B personalities to inculcate values of dare, experimentation and resilience and impart relevant personal leadership skills to thrive in this industry. Students will also be challenged towards having a sense of purpose for career options they are passionate about, to dream big, to be willing to take risks in pursuing dreams and being willing to work hard. 
+
+  
+
+The programme will target students who have an interest to understand more about the F&B industry and be equipped with relevant experiences and skills to explore the various opportunities available in this area. The students will also be given platforms and opportunities to pay it forward to the community. The students will get to apply their learning to lead their classmates in setting up food stalls to raise funds and advocate for various social causes through the school Values In Action programme.
+
+
+![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
+
+
+### Teachers
+
+<table>
+<thead>
+  <tr>
+    <td>Mr. Pandiyan Govindaraju (HOD/ CCE)</td>
+    <td>pandiyan_govindaraju@schools.gov.sg</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm. Abby Choo Choy Joo (SH/ VIA)</td>
+    <td>choo_choy_joo@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+  <tr>
+    <th>CCE Coordinators</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr. Ng Chee Kian</td>
+    <td>ng_chee_kian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Mr. Lee Chong Min</td>
+    <td>lee_chong_min@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Lee Hwee Ling, Grace</td>
+    <td>lee_hwee_ling_grace@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Ng Yin yee</td>
+    <td>ng_yin_yee@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Nor'Aliah Abdul Samad</td>
+    <td>noraliah_abdul_samad@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Nur Diyanah Mohammad Suhaimi</td>
+    <td>nur_diyanah_mohammad_suhai@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Mr. Joey Hong (Counsellor)</td>
+    <td>joey_hong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Mr. Yew Yishen</td>
+    <td>yew_yishen@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
