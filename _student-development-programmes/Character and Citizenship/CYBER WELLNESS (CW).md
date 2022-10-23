@@ -25,3 +25,48 @@ The **Sense – Think – Act Process**
 2. **Think**: Analyse, evaluate and reflect on the online situation based on the three CW principles
 
 3. **Act**: Translate understanding into actions so as to be safe and have a positive presence online
+
+
+### Programmes
+
+
+**1. Assembly Talks in Cyberwellness**
+
+  
+
+Every year 2 talks are scheduled during assembly to focus on contemporary cyberwellness related issues.
+
+  
+
+**2. CyberWellness CCE Lessons**
+
+  
+
+In 2014, formal CW lessons were rolled out in schools to emphasise the explicit teaching of social and emotional competencies and values in the context of the cyber world. It is centred on the three foundational principles of the CW Framework and the three big ideas, Identity, Relationships and Choices of MOE’s Character and Citizenship Education (CCE).
+
+<table>
+<thead>
+  <tr>
+    <th>3 Big Ideas</th>
+    <th>4 Themes</th>
+    <th>8 Topics</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Identity</td>
+    <td>Cyber Identity : Healthy Self identity.<br> <br>Cyber Use : Balanced life and Balanced use</td>
+    <td>· Online identity and Expressions<br>·       Balanced use of ICT</td>
+  </tr>
+  <tr>
+    <td>Relationships</td>
+    <td>Cyber Relationships : Safe and meaningful.</td>
+    <td>·      Netiquette<br>·     Cyber Bullying<br>·     Online Relationships</td>
+  </tr>
+  <tr>
+    <td>Choices</td>
+    <td>Cyber Citizenship : Positive presence.</td>
+    <td>·     About the Cyber World<br>·    Handling online content and behaviour<br>·      Cyber contacts.</td>
+  </tr>
+</tbody>
+</table>
