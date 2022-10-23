@@ -45,3 +45,47 @@ The Applied Studies Experience” allows students to explore and pursue their in
 **4. Talks**
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%204.png)
+
+
+### Teachers
+
+Our ECG Counsellor is stationed at the school once a week to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
+
+  
+
+Students who would like to explore more about subject choices, inquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.
+
+
+<table>
+<thead>
+  <tr>
+    <th>Career Guidance Committee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr. Pandiyan - Pandiyan_Govindaraju@schools.gov.sg</td>
+  </tr>
+  <tr>
+		<td><b>Members</b></td>
+  </tr>
+  <tr>
+    <td>Mr. Lee Chong Min - lee_chong_min@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Sek Hwee Leng - Sek_HWEE_LENG@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Lee Hwee Ling, Grace - lee_hwee_ling_grace@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Ms. Noraliah Abdul Samad - noraliah_abdul_samad@schools.gov.sg</td>
+  </tr>
+  <tr>
+		<td><b>ECG Cousellor</b></td>
+  </tr>
+  <tr>
+    <td>Ms. Mildred Chan - Chan_WAN_YI_MILDRED@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
