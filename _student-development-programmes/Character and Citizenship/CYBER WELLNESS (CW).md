@@ -70,3 +70,12 @@ In 2014, formal CW lessons were rolled out in schools to emphasise the explicit 
   </tr>
 </tbody>
 </table>
+
+
+### Resources for Parents
+
+*   [**https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101**](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101) Useful information to provide an overview of the Cyber Wellness Curriculum and Cyber Issues for parents.
+
+  
+
+*   **[Setting Parental Controls Guide](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls)** \- A guide for parents to set up parental controls (e.g., set automatic filtering of undesirable sites and/or limit usage) on their children’s’ operating systems, internet browsers and devices.
