@@ -177,3 +177,23 @@ Students who would like to explore more about subject choices, inquire about pos
   </tr>
 </tbody>
 </table>
+
+
+<table>
+<thead>
+  <tr>
+    <th>ITE Early Admission Exercise [ITE-EAE]</th>
+    <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Direct Entry Scheme to Polytechnic Programme [DPP/JIE H]</th>
+    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a></td>
+  </tr>
+  <tr>
+    <th>Polytechnic Foundation Programme [PFP]</th>
+    <td><a href="pfp.polytechnic.edu.sg/PFP/index.html">pfp.polytechnic.edu.sg/PFP/index.html</td>
+  </tr>
+</tbody>
+</table>
