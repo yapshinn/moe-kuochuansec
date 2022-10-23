@@ -129,21 +129,21 @@ Students who would like to explore more about subject choices, inquire about pos
 <thead>
   <tr>
     <th>Direct School Admission –Junior College [DSA-JC]</th>
-    <td>www.moe.gov.sg/admissions/direct-admissions/dsa-jc</td>
+    <td><a href="www.moe.gov.sg/admissions/direct-admissions/dsa-jc">www.moe.gov.sg/admissions/direct-admissions/dsa-jc</td>
   </tr>
 </thead>
 <tbody>
   <tr>
 		<td><b>ITE Early Admission Exercise [ITE-EAE]</b></td>
-    <td>www.ite.edu.sg/wps/portal/eae</td>
+    <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</td>
   </tr>
   <tr>
 		<td><b>Polytechnic Early Admission Exercise [EAE]</b></td>
-    <td>eae.polytechnic.edu.sg</td>
+    <td><a href="eae.polytechnic.edu.sg">eae.polytechnic.edu.sg</td>
   </tr>
   <tr>
 		<td><b>Joint Admission Exercise [JAE]: General Information</b></td>
-    <td>www.moe.gov.sg/admissions/joint-admissions-exercise</td>
+    <td><a href="www.moe.gov.sg/admissions/joint-admissions-exercise">www.moe.gov.sg/admissions/joint-admissions-exercise</td>
   </tr>
 </tbody>
 </table>
