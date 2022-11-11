@@ -148,7 +148,11 @@ Students who would like to explore more about subject choices, inquire about pos
 </tbody>
 </table>
 
+<br>
+
 **School Admission Exercise for Sec4NA**
+
+<br>
 
 <table>
 <thead>
