@@ -2,6 +2,5 @@ collections:
   about-kcpss:
     output: true
     order:
-      - Our Crest & Motto.md
       - Principal's Message.md
       - Contact Us.md
