@@ -3,11 +3,12 @@ links:
   - title: About KCPSS
     collection: about-kcpss
   - title: Departments
-    url: /our-people/departments/
-    sublinks: []
+    collection: departments
   - title: The Kuo Chuan Experience
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Admission
     url: /permalink
     sublinks: []
