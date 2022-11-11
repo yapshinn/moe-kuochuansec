@@ -1,5 +1,24 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About KCPSS
+    url: /about-kcpss/our-history/
+    sublinks:
+      - title: Our History
+        url: /about-kcpss/our-history/
+      - title: Our Mission & Vision
+        url: /about-kcpss/our-mission-and-vision/
+      - title: Our Philosophy
+        url: /about-kcpss/our-philosophy/
+      - title: Our Values
+        url: /about-kcpss/our-values/
+      - title: Our Crest & Motto
+        url: /about-kcpss/our-crest-n-motto/
+      - title: Principal's Message
+        url: /about-kcpss/principals-message/
+      - title: Contact Us
+        url: /about-kcpss/contact-us/
+      - title: Our People
+        url: /our-people/school-management-committee/
   - title: Departments
     collection: departments
   - title: The Kuo Chuan Experience
