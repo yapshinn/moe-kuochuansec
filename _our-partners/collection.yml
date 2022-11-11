@@ -1,5 +1,4 @@
 collections:
   our-partners:
     output: true
-    order:
-      - Adam Road Presbyterian Church.md
+    order: []
