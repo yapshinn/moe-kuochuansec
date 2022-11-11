@@ -2,7 +2,6 @@ collections:
   about-kcpss:
     output: true
     order:
-      - Our Philosophy.md
       - Our Values.md
       - Our Crest & Motto.md
       - Principal's Message.md
