@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Partners/.keep
       - School Management Committee.md
       - Our Staff.md
       - TIE Schools.md
