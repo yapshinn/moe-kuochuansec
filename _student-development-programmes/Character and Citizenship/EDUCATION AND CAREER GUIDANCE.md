@@ -181,10 +181,11 @@ Students who would like to explore more about subject choices, inquire about pos
 
 <table>
 <thead>
-  <tr>
+<tr>
     <th>ITE Early Admission Exercise [ITE-EAE]</th>
-    <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</td>
-  </tr>
+<td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae
+</td>
+</tr>
 </thead>
 <tbody>
   <tr>
