@@ -23,7 +23,9 @@ The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Seco
     
 KCPSS is supported by an ECG Counselor . Regular ECG related clinics are conducted by the trained ECG counselor to meet the student’s needs.
 		
-![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%202.png)		
+<img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%202.png"  
+     style="width:75%">
+
 
 **2. Learning journey to Polytechnic Open House in January**
     
