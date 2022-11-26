@@ -2,6 +2,7 @@ collections:
   applied-learning-programme:
     output: true
     order:
+      - Secondary 2.md
       - Secondary 1.md
       - Spin Doctors Programme.md
       - Applied Learning Programme in Media Literacy.md
