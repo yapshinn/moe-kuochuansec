@@ -134,21 +134,21 @@ Students who would like to explore more about subject choices, inquire about pos
 <thead>
   <tr>
     <th>Direct School Admission –Junior College [DSA-JC]</th>
-    <td><a href="www.moe.gov.sg/admissions/direct-admissions/dsa-jc">www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a></td>
+    <td><a href="www.moe.gov.sg/admissions/direct-admissions/dsa-jc">www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a> <b>BROKEN LINK</b></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>ITE Early Admission Exercise [ITE-EAE]</th>
-		<td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a></td>
+		<td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a> <b>BROKEN LINK</b> </td>
   </tr>
   <tr>
     <th>Polytechnic Early Admission Exercise [EAE]</th>
-		<td><a href="eae.polytechnic.edu.sg">eae.polytechnic.edu.sg</a></td>
+		<td><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</a></td>
   </tr>
   <tr>
     <th>Joint Admission Exercise [JAE]: General Information</th>
-    <td><a href="www.moe.gov.sg/admissions/joint-admissions-exercise">www.moe.gov.sg/admissions/joint-admissions-exercise</a></td>
+    <td><a href="www.moe.gov.sg/admissions/joint-admissions-exercise">www.moe.gov.sg/admissions/joint-admissions-exercise</a> <b>BROKEN LINK</b></td>
   </tr>
 </tbody>
 </table>
@@ -191,13 +191,13 @@ Students who would like to explore more about subject choices, inquire about pos
 <thead>
   <tr>
     <td>ITE Early Admission Exercise [ITE-EAE]</td>
-    <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a> *BROKEN LINK* </td>
+    <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a> <b>BROKEN LINK</b> </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Direct Entry Scheme to Polytechnic Programme [DPP/JIE H]</td>
-    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a></td>
+    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a> <b>BROKEN LINK</b></td>
   </tr>
   <tr>
     <td>Polytechnic Foundation Programme [PFP]</td>
