@@ -2,5 +2,6 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - KCP CYL Framework.md
       - Why BASIC.md
       - Learning for Life Programme in Community Youth Leadership.md
