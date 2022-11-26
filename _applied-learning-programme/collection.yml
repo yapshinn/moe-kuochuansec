@@ -2,4 +2,5 @@ collections:
   applied-learning-programme:
     output: true
     order:
+      - Spin Doctors Programme.md
       - Applied Learning Programme in Media Literacy.md
