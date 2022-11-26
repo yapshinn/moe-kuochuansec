@@ -134,20 +134,20 @@ Students who would like to explore more about subject choices, inquire about pos
 <thead>
   <tr>
     <th>Direct School Admission –Junior College [DSA-JC]</th>
-    <th>www.moe.gov.sg/admissions/direct-admissions/dsa-jc</th>
+    <td>www.moe.gov.sg/admissions/direct-admissions/dsa-jc</td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>ITE Early Admission Exercise [ITE-EAE]</td>
+    <th>ITE Early Admission Exercise [ITE-EAE]</th>
     <td>www.ite.edu.sg/wps/portal/eae</td>
   </tr>
   <tr>
-    <td>Polytechnic Early Admission Exercise [EAE]</td>
+    <th>Polytechnic Early Admission Exercise [EAE]</th>
     <td>eae.polytechnic.edu.sg</td>
   </tr>
   <tr>
-    <td>Joint Admission Exercise [JAE]: General Information</td>
+    <th>Joint Admission Exercise [JAE]: General Information</th>
     <td>www.moe.gov.sg/admissions/joint-admissions-exercise</td>
   </tr>
 </tbody>
@@ -199,7 +199,7 @@ Students who would like to explore more about subject choices, inquire about pos
   </tr>
   <tr>
     <td>Polytechnic Foundation Programme [PFP]</td>
-		<td><a href="pfp.polytechnic.edu.sg/PFP/index.html">pfp.polytechnic.edu.sg/PFP/index.html</a></td>
+		<td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></td>
   </tr>
 </tbody>
 </table>
