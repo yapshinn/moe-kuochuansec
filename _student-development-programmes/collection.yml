@@ -2,6 +2,7 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - Event/Major Event.md
       - Event/Event.md
       - Event/.keep
       - Character and Citizenship/.keep
