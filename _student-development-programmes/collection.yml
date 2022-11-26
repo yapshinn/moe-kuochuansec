@@ -2,6 +2,7 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - Student Leadership Board.md
       - Character and Citizenship/.keep
       - Character and Citizenship/Character and Citizenship Programme.md
       - Character and Citizenship/CYBER WELLNESS (CW).md
