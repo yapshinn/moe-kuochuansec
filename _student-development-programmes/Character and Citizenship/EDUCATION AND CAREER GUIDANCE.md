@@ -10,7 +10,7 @@ The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Seco
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%201.png"  
-     style="width:65%">
+     style="width:55%">
 
 
 
