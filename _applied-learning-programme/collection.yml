@@ -1,4 +1,5 @@
 collections:
   applied-learning-programme:
     output: true
-    order: []
+    order:
+      - Applied Learning Programme in Media Literacy.md
