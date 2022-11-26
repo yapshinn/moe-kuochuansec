@@ -2,4 +2,5 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Why BASIC.md
       - Learning for Life Programme in Community Youth Leadership.md
