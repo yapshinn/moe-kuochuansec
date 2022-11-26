@@ -29,12 +29,12 @@ Attached is the slide shared during Secondary 1 Meet-the-Parents Session and Cam
 
 1. [Principal Sharing](/files/Kuo%20Chuan%20Experience%20Events/S1Parents_Principal_pptn_5_Jan%202018.pdf)<br>
 2. [Welcome Secondary 1 Parent (PSG)](/files/Kuo%20Chuan%20Experience%20Events/Welcome%20Sec%201%20Parent%20(PSG).pdf)<br>
-3. [Year Head and ICT](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/Year%20Head%20and%20ICT%20Talk%20Sec%201%20MTPS.pdf)   
-4. [CCA](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/CCA%20Talk%20Sec%201%20MTPS.pdf)   
-5. [English](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/1.%20English%20Talk%20Sec%201%20MTPS.pdf)  
-6. [Mathematics](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/2.%20Maths%20Talk%20Sec%201%20MTPS.pdf)  
-7. [Mother Tongue](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/3.%20MT%20Talk%20Sec%201%20MTPS.pdf)  
-8. [Humanities](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/4.%20Humanities%20Talk%20Sec%201%20MTPS.pdf)  
-9. [Science](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/5.%20Science%20Talk%20Sec%201%20MTPS.pdf)  
-10. [Craft and Technology](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/6.%20CnT%20Talk%20Sec%201%20MTPS.pdf)  
-11. [CCE](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/pictorial-events/images/pictorial_event/2018/Sec%201%20MTPS%202018/3.%20CCE%20Talk%20Sec%201%20MTPS.pdf)
+3. [Year Head and ICT](/files/Kuo%20Chuan%20Experience%20Events/Year%20Head%20and%20ICT%20Talk%20Sec%201%20MTPS.pdf)<br>
+4. [CCA](/files/Kuo%20Chuan%20Experience%20Events/CCA%20Talk%20Sec%201%20MTPS.pdf)<br>
+5. [English](/files/Kuo%20Chuan%20Experience%20Events/English%20Talk%20Sec%201%20MTPS.pdf) <br>
+6. [Mathematics](/files/Kuo%20Chuan%20Experience%20Events/Maths%20Talk%20Sec%201%20MTPS.pdf)<br>
+7. [Mother Tongue](/files/Kuo%20Chuan%20Experience%20Events/MT%20Talk%20Sec%201%20MTPS.pdf)<br>
+8. [Humanities](/files/Kuo%20Chuan%20Experience%20Events/Humanities%20Talk%20Sec%201%20MTPS.pdf) <br>
+9. [Science](/files/Kuo%20Chuan%20Experience%20Events/Science%20Talk%20Sec%201%20MTPS.pdf)<br>
+10. [Craft and Technology](/files/Kuo%20Chuan%20Experience%20Events/CnT%20Talk%20Sec%201%20MTPS.pdf)<br>
+11. [CCE](/files/Kuo%20Chuan%20Experience%20Events/CCE%20Talk%20Sec%201%20MTP.pdf)
