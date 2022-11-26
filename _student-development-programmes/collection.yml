@@ -2,6 +2,7 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - CCA Leader.md
       - Class Committee.md
       - Student Leadership Board.md
       - Character and Citizenship/.keep
