@@ -2,9 +2,6 @@ collections:
   student-development-programmes:
     output: true
     order:
-      - Event/Major Event.md
-      - Event/Event.md
-      - Event/.keep
       - Character and Citizenship/.keep
       - Character and Citizenship/Character and Citizenship Programme.md
       - Character and Citizenship/CYBER WELLNESS (CW).md
@@ -13,3 +10,6 @@ collections:
       - Student Leadership Board.md
       - Class Committee.md
       - CCA Leader.md
+      - Event/.keep
+      - Event/Major Event.md
+      - Event/Event.md
