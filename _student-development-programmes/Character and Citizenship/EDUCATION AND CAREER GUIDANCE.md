@@ -69,28 +69,28 @@ Students who would like to explore more about subject choices, inquire about pos
 </thead>
 <tbody>
   <tr>
-    <td>Mr. Pandiyan - Pandiyan_Govindaraju@schools.gov.sg</td>
+    <td>Mr. Pandiyan - <a href="mailto:Pandiyan_Govindaraju@schools.gov.sg">Pandiyan_Govindaraju@schools.gov.sg</a></td>
   </tr>
   <tr>
 		<td><b>Members</b></td>
   </tr>
   <tr>
-    <td>Mr. Lee Chong Min - lee_chong_min@schools.gov.sg</td>
+    <td>Mr. Lee Chong Min - <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Ms. Sek Hwee Leng - Sek_HWEE_LENG@schools.gov.sg</td>
+    <td>Ms. Sek Hwee Leng - <a href="mailto:Sek_HWEE_LENG@schools.gov.sg">Sek_HWEE_LENG@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Ms. Lee Hwee Ling, Grace - lee_hwee_ling_grace@schools.gov.sg</td>
+    <td>Ms. Lee Hwee Ling, Grace - <a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Ms. Noraliah Abdul Samad - noraliah_abdul_samad@schools.gov.sg</td>
+    <td>Ms. Noraliah Abdul Samad - <a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
   </tr>
   <tr>
 		<td><b>ECG Cousellor</b></td>
   </tr>
   <tr>
-    <td>Ms. Mildred Chan - Chan_WAN_YI_MILDRED@schools.gov.sg</td>
+    <td>Ms. Mildred Chan - <a href="mailto:Chan_WAN_YI_MILDRED@schools.gov.sg">Chan_WAN_YI_MILDRED@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
