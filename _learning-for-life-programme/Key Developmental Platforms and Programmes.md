@@ -15,7 +15,7 @@ description: ""
 <tbody>
   <tr>
     <td>It aims to develop empathy in the KCPSS servantleader through involvement and initiating changes in the community. We believe this learning experience can enhance student development as students grow to be socially responsible citizens through active ownership of their VIA projects. <br>Students discover through action and research what they care about and reflect on social issues and community concerns. Through time, it becomes a disposition for students to want to effect positive change in the community. Form teachers are key in facilitating discussions and drawing deep learning points. This is done through the approach of AAA – Awareness, Action and Advocacy. It starts with raising students’ awareness on specific social issues of concern in the community and actions that they can take. <br>The students are given the opportunity to be on site to have an hands-on experience to gain perspective on the needs of the community and to devise a plan to improve a situation that they care about and finally, they are given platforms to advocate the causes they want to champion through inspiring and influencing others to make a difference to issues of concern.</td>
-    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRG933Lp_jnal9oVIdnX8USE0UKg5mZ-DJVxweukAwUjXuJXonWuMVN32kdsk7FPnNIWbW-y7b79wAO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></td>
+    <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRG933Lp_jnal9oVIdnX8USE0UKg5mZ-DJVxweukAwUjXuJXonWuMVN32kdsk7FPnNIWbW-y7b79wAO/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
   </tr>
   <tr>
     <td colspan="2">B. Youth Day Celebrations (YDC)</td>
@@ -30,7 +30,7 @@ description: ""
   <tr>
     <td> The Orientation Week for Secondary Ones as well as Level Camps for Secondary Two and Three students aim to develop students in self and servant leadership, inculcate G.R.A.C.E values and emerging 21CC skills. The level camps incorporate the intentional design of activities to ensure engaging experiential based learning. There is also visibility of learning to ensure that facilitators are able to capture and make sense of defined behaviors and actions of students during the activities. Developmental feedback is given to students through affirmation or specific areas for improvement to enable deeper learning. The active facilitation and feedback cycle put in place during the level camps help students concretise their learning and understand how to apply the leadership theories they have learned to real-world situations.</td>
     <td> 
-		Fill slideshow in here
+		<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYsWkPy0KoG8VAKdp1mG2gXxCe_MIY5c_rRoUrI-XVVWAaI255reEYsUQflYLickQNM96AuflYWFRO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 		</td>
   </tr>
   <tr>
