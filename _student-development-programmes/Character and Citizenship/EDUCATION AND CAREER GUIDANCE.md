@@ -150,3 +150,33 @@ Students who would like to explore more about subject choices, inquire about pos
   </tr>
 </tbody>
 </table>
+
+**School Admission Exercise for Sec4NA**
+
+<table>
+<thead>
+  <tr>
+    <th>Admission Exercise</th>
+    <th>ITE Early Admission Exercise [ITE EAE]</th>
+    <th>Joint Intake Exercise<br>JIE ‘H’/DPP*</th>
+    <th>Joint Intake Exercise<br>JIE ‘N’</th>
+    <th>Poly Foundation Programme [PFP]</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Application Period</td>
+    <td>Late May</td>
+    <td>Upon release of N level results [Dec &amp; Jan]</td>
+    <td>Upon release of N level results [Dec]</td>
+    <td>Upon release of O level results [Jan]</td>
+  </tr>
+  <tr>
+    <td>Information</td>
+    <td>Conditional offer based on aptitude and interests prior to receiving GCE N level examination results.</td>
+    <td>Refer to DPP website for Eligibility, Courses, Application Process etc.</td>
+    <td>Refer to Joint Intake Exercise Booklet for details.<br> </td>
+    <td>Refer to website for Overview, Eligibility, Application Procedure, Courses, FAQs etc</td>
+  </tr>
+</tbody>
+</table>
