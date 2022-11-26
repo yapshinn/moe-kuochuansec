@@ -8,7 +8,10 @@ third_nav_title: Character and Citizenship
 
 The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Secondary School is guided by the ECG Developmental Model recommended by MOE.
 
-![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%201.png)
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%201.png"  
+     style="width:65%">
+
 
 
 **Objective :**   
