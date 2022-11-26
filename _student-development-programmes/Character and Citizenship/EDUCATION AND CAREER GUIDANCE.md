@@ -128,6 +128,8 @@ Students who would like to explore more about subject choices, inquire about pos
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -181,6 +183,7 @@ Students who would like to explore more about subject choices, inquire about pos
 </tbody>
 </table>
 
+<br>
 
 <table>
 <thead>
