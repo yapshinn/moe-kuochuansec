@@ -71,7 +71,7 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc4.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br><br><br><br><br><br><br><br><br><br>
 
