@@ -10,9 +10,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/Sec%201%20podcasting%20group%20discussion_.jpg" alt="Sec 1 podcasting group discussion_.jpg" width="307"><br></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/Sec%201%20Podcasting%20V1.jpeg" alt="Sec 1 Podcasting V1.jpeg" width="174" height="233"><br></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/Sec%201s%20recording%20their%20podcasts.jpeg" alt="Sec 1s recording their podcasts.jpeg" width="305"><br></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Secondary%201%20Podcasting%201.jpg" width="307"><br></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Secondary%201%20Podcasting%202.jpeg" width="174" height="233"><br></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Secondary%201%20Podcasting%203.jpeg" width="305"><br></th>
   </tr>
 </thead>
 <tbody>
@@ -28,7 +28,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><img src="https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/qql/slot/u177/Distinctive%20Programme/ALP/S1LJ.jpg" alt="S1LJ.jpg" width="450" height="252"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Secondary%201%20Learning%20Journey.jpg" width="450" height="252"></td>
     <td>Secondary 1 Geography students collaborating to produce videos for their Geographical Investigation (GI) Learning Journey at Ang Mo Kio-Bishan Park.<br></td>
   </tr>
 </thead>
