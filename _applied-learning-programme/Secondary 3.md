@@ -14,7 +14,7 @@ description: ""
 <thead>
   <tr>
     <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/s3espoir1.png" width="214" height="245"></th>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Sec%203%20Espoir%20interview%20with%20Mr%20Justin%20Tan%20our%20principal.jpeg" width="187" height="245"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Sec%203%20Espoir%20interview%20with%20Mr%20Justin%20Tan%20our%20principal.jpeg" width="50%"></th>
     <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/el1.png" width="216" height="242"></th>
   </tr>
 </thead>
