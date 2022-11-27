@@ -25,13 +25,11 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 ### Area of Focus
 
-<table>
-<thead>
-  <tr>
-    <td>The aim of the Boys' Brigade is the holistic development of Boys' covering the following aspects: Spiritual, Physical, Enrichment and Social. Over the years, there has been strong emphasis on outdoor adventure activities, leadership development, team building, and community involvement. Through our myriad of activities and training, we aim to mould our members to become useful adult citizens with sound moral character. The added dimension of spiritual and moral development has helped to instill in members a sense of discipline, citizenship and service to the community.</td>
-  </tr>
-</thead>
-</table>
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/boys_brigrade_area_of_focus.jpg" style="width:50%;margin-right:15px;" align = "left">
+
+The aim of the Boys' Brigade is the holistic development of Boys' covering the following aspects: Spiritual, Physical, Enrichment and Social. Over the years, there has been strong emphasis on outdoor adventure activities, leadership development, team building, and community involvement. Through our myriad of activities and training, we aim to mould our members to become useful adult citizens with sound moral character. The added dimension of spiritual and moral development has helped to instill in members a sense of discipline, citizenship and service to the community.
+
+
 
 
 ### Programmes
