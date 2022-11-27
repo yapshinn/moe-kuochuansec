@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:50%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **<u>Mission</u>**  
 The Mission of the Girls' Brigade is Every girl a leader, every officer a servant leader. The aim of the Girls' Brigade is to help girls in Kuo Chuan Presbyterian Secondary School develop into ladies who embrace our school values of G.R.A.C.E. Through self-control, reverence and a sense of responsibility, we endeavour the girls to find true enrichment in life. The 28th Coy aspires to lead each and every Brigadier to achieve her fullest potential, building them up in the 21st Century skills as active community contributors, fulfilling the Girls' Brigade mission of raising every girl to be a leader and every officer to be a servant leader.   
@@ -29,7 +29,7 @@ We have a team of dedicated officers, volunteers, WOs and JOs assisting the comp
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:50%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 The programmes in Girls’ Brigade are designed to cater towards the holistic development of the child.  
   
