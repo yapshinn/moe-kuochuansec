@@ -72,7 +72,7 @@ KCP 1st Coy is certainly a CCA like no other. We have a wide range of activitie
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 Tang Lai Chan<br>
 <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>
