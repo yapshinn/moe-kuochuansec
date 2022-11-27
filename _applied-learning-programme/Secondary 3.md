@@ -13,9 +13,9 @@ Secondary 3 – Photojournalism
 <table>
 <thead>
   <tr>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/s3espoir1.png" alt="s3espoir1.png" width="214" height="245"></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/Sec%203%20Espoir%20interview%20with%20Mr%20Justin%20Tan%20our%20principal.jpeg" alt="Sec 3 Espoir interview with Mr Justin Tan our principal.jpeg" width="187" height="248"></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/programmes/EL%20Prog/el1.png" alt="el1.png" width="216" height="242"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/s3espoir1.png" width="214" height="245"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Sec%203%20Espoir%20interview%20with%20Mr%20Justin%20Tan%20our%20principal.jpeg" width="187" height="248"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/el1.png" width="216" height="242"></th>
   </tr>
 </thead>
 <tbody>
