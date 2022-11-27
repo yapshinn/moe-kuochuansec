@@ -27,7 +27,7 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 <b>WE SERVE</b>	
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_serve.jpg"  
-     style="width:45%">
+     style="width:35%">
 		 
 </center>
 
