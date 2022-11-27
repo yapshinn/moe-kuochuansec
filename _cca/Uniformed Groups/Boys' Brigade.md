@@ -13,7 +13,7 @@ third_nav_title: Uniformed Groups
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 **Mission:** To nurture Youths, based on Christian values to lead and serve.  
   
@@ -25,7 +25,7 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boys_brigrade_area_of_focus.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boys_brigrade_area_of_focus.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 The aim of the Boys' Brigade is the holistic development of Boys' covering the following aspects: Spiritual, Physical, Enrichment and Social. Over the years, there has been strong emphasis on outdoor adventure activities, leadership development, team building, and community involvement. Through our myriad of activities and training, we aim to mould our members to become useful adult citizens with sound moral character. The added dimension of spiritual and moral development has helped to instill in members a sense of discipline, citizenship and service to the community.
 
@@ -36,7 +36,7 @@ The aim of the Boys' Brigade is the holistic development of Boys' covering the f
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/programmes.jpg"  
-     style="width:35%;margin-right:15px;" align = "left"> 
+     style="width:25%;margin-right:15px;" align = "left"> 
 
 
 
@@ -60,7 +60,7 @@ The aim of the Boys' Brigade is the holistic development of Boys' covering the f
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/teacher_in_charge.jpg"  
-     style="width:35%;margin-right:15px;" align = "left"> 
+     style="width:25%;margin-right:15px;" align = "left"> 
 
 <br><br><br><br><br><br>
 
