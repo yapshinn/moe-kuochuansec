@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Co Curricular Achievements/Clubs & Society.md
       - Co Curricular Achievements/Performing Arts.md
       - Co Curricular Achievements/Sports & Games.md
       - Co Curricular Achievements/Uniform Groups.md
