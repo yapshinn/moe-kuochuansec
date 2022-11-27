@@ -34,6 +34,12 @@ The aim of the Boys' Brigade is the holistic development of Boys' covering the f
 
 ### Programmes
 
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/programmes.jpg"  
+     style="width:35%;margin-right:15px;" align = "left"> 
+
+
+
 <table>
 <thead>
   <tr>
@@ -51,6 +57,12 @@ The aim of the Boys' Brigade is the holistic development of Boys' covering the f
 
 
 ### Teachers-in-Charge
+
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/teacher_in_charge.jpg"  
+     style="width:35%;margin-right:15px;" align = "left"> 
+
+<br><br><br><br><br>
 
 Ng Keng Yang<br>
 <a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a>
