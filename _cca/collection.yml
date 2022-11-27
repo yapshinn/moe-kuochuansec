@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
+      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
