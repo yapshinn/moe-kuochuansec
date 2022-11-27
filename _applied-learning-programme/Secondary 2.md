@@ -18,16 +18,16 @@ The 2 Express students created a video log of their book collection and the book
  <table>
 <thead>
   <tr>
-    <th><img height="156" width="295" alt="12074556_1041556045901006_273408466072644625_n.jpg" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/spin%20doctor/12074556_1041556045901006_273408466072644625_n.jpg"></th>
-    <th><img height="158" width="295" alt="12115506_1041556165900994_5765362900201701357_n.jpg" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/spin%20doctor/12115506_1041556165900994_5765362900201701357_n.jpg"></th>
-    <th><img height="160" width="293" alt="IMG-20161122-WA0016 (1).jpg" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/spin%20doctor/IMG-20161122-WA0016%20(1).jpg"></th>
+    <th><img height="156" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%201.jpg"></th>
+    <th><img height="158" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%202.jpg"></th>
+    <th><img height="160" width="293" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%203.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img alt="sd2.png" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/programmes/EL%20Prog/sd2.png"></td>
-    <td><img height="197" width="295" alt="sd3.png" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/programmes/EL%20Prog/sd3.png"></td>
-    <td><img height="197" width="292" alt="el1.png" src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Departments/English/programmes/EL%20Prog/el1.png"></td>
+    <td><img  src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%204.png"></td>
+    <td><img height="197" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%205.png"></td>
+    <td><img height="197" width="292" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%206.png"></td>
   </tr>
 </tbody>
 </table>
