@@ -64,18 +64,18 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 <tbody>
   <tr>
     <th>Secondary 1</th>
-    <th>The three badges that Secondary One Cadets will complete include Total Defence (Bronze) Badge, Foot Drill (Bronze) Badge and Fire Safety Proficiency Badge. Cadets are eligible for promotion to Lance Corporal upon completion of the three badge works.</th>
+    <td>The three badges that Secondary One Cadets will complete include Total Defence (Bronze) Badge, Foot Drill (Bronze) Badge and Fire Safety Proficiency Badge. Cadets are eligible for promotion to Lance Corporal upon completion of the three badge works.</td>
   </tr>
   <tr>
-    <td>Secondary 2</td>
+    <th>Secondary 2</th>
     <td>Secondary Two Cadets will complete six badges within the year. This includes Civil Defence Knowledge Badge, First Aid Proficiency Badge, SANA Badge, Foot Drill (Silver) Badge, CPR+AED Proficiency Badge and Rescue Proficiency Badge. Cadets are eligible for promotion to Sergeant upon completion of six badge works.</td>
   </tr>
   <tr>
-    <td>Secondary 3</td>
+    <th>Secondary 3</th>
     <td> Secondary Three Cadets are required to complete the HAZMAT Proficiency Badge and Homefront Security Badge. There will also be three Specialisation Courses offered, namely the Fire Safety, Medical Response and Urban Search and Rescue. Cadets are eligible for promotion to Staff Sergeant upon completion of the Specialisation Courses.</td>
   </tr>
   <tr>
-    <td>Secondary 4</td>
+    <th>Secondary 4</th>
     <td> The top tier of Cadet Leader will be chosen to become the Warrant Officer of the unit.</td>
   </tr>
 </tbody>
