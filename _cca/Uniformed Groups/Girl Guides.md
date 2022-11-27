@@ -38,6 +38,9 @@ A Guide is self-disciplined in what she thinks, says and does 2 Area
 
 Our motto, **"Be Prepared"** , shares the Founder's initials and is a practical reminder of the educational purposes of Girl Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training in character development, responsible citizenship and in service to the community. We adhere to our motto: **'Be Prepared' - 'Think it. Say it. Live it'**.
 
+<br><br><br><br><br><br><br>
+
+
 ### Programmes
 
 
@@ -77,4 +80,3 @@ Tan Wei Li Vanessa<br>
 
 Siti Shahirah<br>
 <a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg</a>
-
