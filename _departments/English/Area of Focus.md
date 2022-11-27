@@ -14,4 +14,5 @@ KCPSS English Department uses the MOE EL Syllabus 2020 as its main teaching and 
 
 **Key features of the EL Syllabus 2020** (insert taken from MOE English Syllabus document)
 
-![](/images/Our%20People/Departments/English/EL%20syllabus.jpg)
+<img src="/images/Our%20People/Departments/English/EL%20syllabus.jpg"  
+     style="width:75%">
