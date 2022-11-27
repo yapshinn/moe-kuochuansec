@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Uniformed Groups/NPCC.md
-      - Uniformed Groups/NCDCC.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Girls' Brigade.md
-      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
       - Sports & Games/Sports & Games.md
       - Sports & Games/.keep
       - Performing Arts/Performing Arts.md
