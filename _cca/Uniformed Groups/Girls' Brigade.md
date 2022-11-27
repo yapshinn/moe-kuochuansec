@@ -81,3 +81,43 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
   </tr>
 </tbody>
 </table>
+
+
+**<u>Special Programmes</u>**
+
+**Nationals Competition (March)**   
+We participate actively every year in the different types of competition held by HQ, ranging from outdoor cooking to drill competition to cheer leading.   
+
+*   2019 Low Guat Tin Challenge (LGT) (GOLD award, 2nd place)
+*   2018 National Drill Competition (SILVER award)
+*   2017 Low Guat Tin Challenge (LGT) (4 SILVER Awards )
+*   2016 Pioneer Category National Drill Competition GOLD Award 
+*   2015 Low Guat Tin Challenge (LGT) (4 GOLDs and 1 SILVER AWARD) 
+*   2014 National Drill Competition GOLD Award 
+
+**Annual Training Camp (June)** 
+
+*   Enrichment training camp during 1st week of June 
+
+**National Cadet Officer Training Camp (NCOTC) (June)**   
+
+*   Camp where girls from all GB companies come together to train and learn and be promoted to the next rank
+
+**GB Friendship Day (July)**   
+
+*   Outreach to the Lonely, Elderly, Needy and Special Needs (LENS) through a carnival and lunch at Nee Soon Central CC where our girls will perform and serve. 
+
+**GB Fortnight (July to August)**   
+
+*   Every year near the month of July to August, we have a GB collection drive that runs for a fortnight where girls will actively gather donations. These donations are used to sponsor GB related activities and benefit the girls throughout the year. 
+
+**Trips for International Experience (TIE) (Oct)**   
+
+*   Takeo, Phnom Penh, Cambodia (2018)
+*   Baan Nam Khem, Phuket, Thailand (2015, 2016) 
+*   Jakarta, Indonesia (2010 - 2011) 
+*   Batam, Indonesia (2012 - 2013) 
+
+**End of year Drill or Fun Camp (Nov)**   
+
+*   Intensive training camp to prepare school team for upcoming Zonals & Nationals or fun camp for time of bonding and winding down
