@@ -42,3 +42,30 @@ Besides the academic programmes, KCPians are also exposed to media through their
   </tr>
 </tbody>
 </table>
+
+**Photography Club**
+
+<table>
+<thead>
+  <tr>
+    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/photo1.jpg" alt="photo1.jpg" width="285" height="311"></th>
+    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/photo2.jpg" alt="photo2.jpg" width="284" height="312"></th>
+    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/photo3.jpg" alt="photo3.jpg" width="285" height="311"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Club members highlighting the programmes of the Photography Club during the CCA Orientation. <br></td>
+    <td colspan="2"><br>Club members attending a Photojournalism workshop</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/photo4.jpg" alt="photo4.jpg" width="466" height="331"></td>
+    <td>KCPians participating in the Singapore Student Photographers Conference as trainers.<br><br>Click <a href="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/SDMA%202016%20-%20Photo%20Essay%20Submission%20by%20KCPSS.pdf">HERE</a>  for KCPians' Photo Essay winning entry in the School Digital Media Award (SDMA) <br></td>
+  </tr>
+</thead>
+</table>
