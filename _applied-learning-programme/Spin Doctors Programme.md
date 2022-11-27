@@ -41,7 +41,7 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th>Creative Arts Programme:<br><br><br><img src="https://kuochuanpresbyteriansec.moe.edu.sg/pix/spacer.gif"></th>
+    <th>Creative Arts Programme:<br><br><br>UPLOAD YOUTUBE/VIMEO VIDEO HERE<img src="https://kuochuanpresbyteriansec.moe.edu.sg/pix/spacer.gif"></th>		
     <th><a href="https://go.gov.sg/johnpaulpaje">JOHN PAUL PAJE</a><br><br><a href="https://go.gov.sg/karynleepeien">KARYN LEE</a><br><br><a href="https://go.gov.sg/lucasching">LUCAS CHING</a><br><br><a href="https://go.gov.sg/shannontan">SHANNON TAN</a></th>
   </tr>
 </thead>
