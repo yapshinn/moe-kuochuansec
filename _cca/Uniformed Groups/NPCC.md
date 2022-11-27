@@ -66,3 +66,19 @@ These experiences will help to develop the leadership skills of our cadets and a
   </tr>
 </thead>
 </table>
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc4.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+<br><br><br><br><br><br>
+
+Teo Han Yang Edwin<br>
+<a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg</a>
+
+Ong Wee Xiang<br>
+<a href="mailto:ong_wee_xiang@schools.gov.sg">ong_wee_xiang@schools.gov.sg</a>
+
+Sim Shin Ying<br>
+<a href="mailto:sim_shin_ying@schools.gov.sg">sim_shin_ying@schools.gov.sg</a>
+
