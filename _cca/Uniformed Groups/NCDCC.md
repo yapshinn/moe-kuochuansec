@@ -17,11 +17,11 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 <center>
 <b>WE LEARN</b> 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_learn.jpg"  
-     style="width:35%">
+     style="width:35%"><br>
 
 <b>WE LEAD</b>
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/we_lead.jpg"  
-     style="width:45%">
+     style="width:45%"><br>
 
 
 <b>WE SERVE</b>	
@@ -34,7 +34,7 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 **NCDCC** focuses on
 
@@ -58,7 +58,7 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc3.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc3.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 <table>
 <tbody>
@@ -127,9 +127,9 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 ## Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc4.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 Kang Joo Geok Rebecca<br>
 <a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>
@@ -139,4 +139,3 @@ Lee Lip Chyun Vincent<br>
 
 Su Weizhi<br>
 <a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>
-
