@@ -42,16 +42,16 @@ description: ""
 <thead>
   <tr>
     <th>Secondary 1 CCA Selection Letter to Parent</th>
-    <th><a href="/files/Letter%20to%20Parents_Sec%201%20CCA%20Registration%20%20Selection%202022%20v2.pdf">Click Here</a></th>
+    <td><a href="/files/Letter%20to%20Parents_Sec%201%20CCA%20Registration%20%20Selection%202022%20v2.pdf">Click Here</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>CCA Talent ID Schedule</td>
+    <th>CCA Talent ID Schedule</th>
     <td><a href="/files/CCA%20Talent%20ID%20Trial%20Schedule%202022%20v2.pdf">Click Here</a></td>
   </tr>
   <tr>
-    <td>CCA Highlights</td>
+    <th>CCA Highlights</th>
 		<td><br><b>UPLOAD VIDEO TO YOUTUBE/VIMEO</b></td>
   </tr>
 </tbody>
