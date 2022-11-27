@@ -12,22 +12,22 @@ description: ""
   <tr>
     <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/">
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Uniformed%20Groups.jpg"  
-     style="width:100%">
+     style="width:120%">
 </a></p>
 </td>
     <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/">
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Sports%20&%20Games.jpg"  
-     style="width:100%">
+     style="width:120%">
 </a></p>
 </td>
     <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/">
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Performing%20Arts.jpg"  
-     style="width:100%">
+     style="width:120%">
 </a></p>
 </td>
     <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/">
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Clubs%20&%20Societies.jpg"  
-     style="width:100%">
+     style="width:120%">
 </a></p>
 </td>
   </tr>
