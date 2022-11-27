@@ -13,9 +13,9 @@ Besides the academic programmes, KCPians are also exposed to media through their
 <table>
 <thead>
   <tr>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/info1.jpg" alt="info1.jpg" width="312" height="279"></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/info2.jpg" alt="info2.jpg" width="312" height="277"></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/Distinctive%20Programme/ALP/info3.jpg" alt="info3.jpg" width="296" height="278"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Infocomm%201.jpg" width="312" height="279"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Infocomm%202.jpg" width="312" height="277"></th>
+    <th><img src="images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Infocomm%203.jpg"  width="296" height="278"></th>
   </tr>
 </thead>
 <tbody>
