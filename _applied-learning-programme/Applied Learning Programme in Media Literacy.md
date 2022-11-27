@@ -17,3 +17,10 @@ Through our programmes, our school’s aim is to develop skills for KCPians to b
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20in%20Media%20Literacy.jpg" style="width:50%;margin-right:15px;" align = "left">
+
+
+• Control the interpretation of what they see, hear or interact with.
+
+• Express views or communicate messages using a range of media forms.
+
+• Raise the right questions about what they watch, read, listen or contribute to.
