@@ -39,7 +39,7 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 **NCDCC** focuses on
 
 <table>
-<thead>
+<tbody>
   <tr>
     <th>We Learn</th>
     <td>Cadets learn Triangle Of Life skills, which include basic firefighting, first aid and CPR+AED. These are core skills in NCDCC, which enable cadets to help themselves and others in times of need. Equipping cadets with these skills will help to form their identity as NCDCC cadets, a community responder at heart.</td>
@@ -55,3 +55,28 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 </tbody>
 </table>
 
+
+### Programmes
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc3.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+<table>
+<tbody>
+  <tr>
+    <th>Secondary 1</th>
+    <th>The three badges that Secondary One Cadets will complete include Total Defence (Bronze) Badge, Foot Drill (Bronze) Badge and Fire Safety Proficiency Badge. Cadets are eligible for promotion to Lance Corporal upon completion of the three badge works.</th>
+  </tr>
+  <tr>
+    <td>Secondary 2</td>
+    <td>Secondary Two Cadets will complete six badges within the year. This includes Civil Defence Knowledge Badge, First Aid Proficiency Badge, SANA Badge, Foot Drill (Silver) Badge, CPR+AED Proficiency Badge and Rescue Proficiency Badge. Cadets are eligible for promotion to Sergeant upon completion of six badge works.</td>
+  </tr>
+  <tr>
+    <td>Secondary 3</td>
+    <td> Secondary Three Cadets are required to complete the HAZMAT Proficiency Badge and Homefront Security Badge. There will also be three Specialisation Courses offered, namely the Fire Safety, Medical Response and Urban Search and Rescue. Cadets are eligible for promotion to Staff Sergeant upon completion of the Specialisation Courses.</td>
+  </tr>
+  <tr>
+    <td>Secondary 4</td>
+    <td> The top tier of Cadet Leader will be chosen to become the Warrant Officer of the unit.</td>
+  </tr>
+</tbody>
+</table>
