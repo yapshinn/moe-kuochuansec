@@ -36,4 +36,21 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg" style="width:25%;margin-right:15px;" align = "left">
 
-**NCDCC** focus on
+**NCDCC** focuses on
+
+<table>
+<thead>
+  <tr>
+    <th>We Learn</th>
+    <td>Cadets learn Triangle Of Life skills, which include basic firefighting, first aid and CPR+AED. These are core skills in NCDCC, which enable cadets to help themselves and others in times of need. Equipping cadets with these skills will help to form their identity as NCDCC cadets, a community responder at heart.</td>
+  </tr>
+  <tr>
+    <th>We Lead</th>
+    <td>Cadets will be trained in soft skills such as leadership, communication (including methods of instruction), relationship management and social awareness to get them ready for their leadership phase. They will also further hone their civil defence skills by going through one of the three cadet specialist tracks and be given leadership opportunities to lead their peers.</td>
+  </tr>
+  <tr>
+    <th>We Serve</th>
+    <td>Cadets will be trained in soft skills such as leadership, communication (including methods of instruction), relationship management and social awareness to get them ready for their leadership phase. They will also further hone their civil defence skills by going through one of the three cadet specialist tracks and be given leadership opportunities to lead their peers.</td>
+  </tr>
+</tbody>
+</table>
