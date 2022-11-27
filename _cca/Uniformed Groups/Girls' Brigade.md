@@ -21,8 +21,9 @@ The 28th Girls' Brigade Singapore Company started in 1989 and has since been gro
   
 **<u>Partners</u>**  
 **Girls' Brigade Headquarters**<br>
-We are under the umbrella of The Girls' Brigade Singapore; [www.gb.org.sg](www.gb.org.sg)  
-  
+We are under the umbrella of The Girls' Brigade Singapore; 
+[https://www.gb.org.sg/](https://www.gb.org.sg/)  
+	
 **Officers, Volunteer Adult Leaders (VALs), Warrant Officers and Junior Officers**<br>
 We have a team of dedicated officers, volunteers, WOs and JOs assisting the company at each parade. We are very thankful for all of them and our 28th Company Alumni who played a huge part in guiding and leading the Brigadiers.
 
