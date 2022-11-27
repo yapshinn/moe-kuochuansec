@@ -80,3 +80,46 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
   </tr>
 </tbody>
 </table>
+
+**Training**
+
+<table>
+<tbody>
+  <tr>
+    <th>Traning Days</th>
+    <td>Every Friday</td>
+  </tr>
+  <tr>
+    <th>Training Timing</th>
+    <td>2.30 PM - 6.00 PM</td>
+  </tr>
+  <tr>
+    <th>Venue</th>
+    <td> Concourse / Parade Square / Classrooms</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Achievements:**
+
+<table>
+<tbody>
+  <tr>
+    <td>Unit Overall Proficiency Award</td>
+    <td>Gold (2016, 2017, 2018, 2019)</td>
+  </tr>
+  <tr>
+    <td>Precision Drill Challenge</td>
+    <td>Champion (2014, 2016, 2017, 2018)</td>
+  </tr>
+  <tr>
+    <td> UACDC</td>
+    <td> 1st Placing (2019)</td>
+  </tr>
+  <tr>
+    <td> NFEC-NCDCC Inter-Unit Quiz</td>
+    <td> Unit Quiz - 1st Placing (2017, 2019)</td>
+  </tr>
+</tbody>
+</table>
