@@ -10,6 +10,9 @@ third_nav_title: Uniformed Groups
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/boysbrigade.jpg)
 
 
+
+### Vision
+
 <table>
 <thead>
   <tr>
@@ -25,3 +28,43 @@ third_nav_title: Uniformed Groups
   </tr>
 </tbody>
 </table>
+
+### Area of Focus
+
+<table>
+<thead>
+  <tr>
+    <td>The aim of the Boys' Brigade is the holistic development of Boys' covering the following aspects: Spiritual, Physical, Enrichment and Social. Over the years, there has been strong emphasis on outdoor adventure activities, leadership development, team building, and community involvement. Through our myriad of activities and training, we aim to mould our members to become useful adult citizens with sound moral character. The added dimension of spiritual and moral development has helped to instill in members a sense of discipline, citizenship and service to the community.</td>
+  </tr>
+</thead>
+</table>
+
+
+### Programmes
+
+<table>
+<thead>
+  <tr>
+    <th>Training Days</th>
+    <th>Special Programs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Training Days: Every Saturday <br>Training Timing: 8.45 am - 12.30 PM <br>Venue : Various Venue (Hall/Concourse on Wet Weather) <br><br>Bag pipe and Band Training <br>Training Days : Every Tuesday (Sec 1 New Members) <br>Training Timing : 3 - 6 PM <br><br>Training Days : Every Friday (Sec 2 -3) <br>Training Timing : 2.30 - 4.30 PM <br>Venue : Various Venue</td>
+    <td>March Training Camp<br>Training camp during March holidays<br><br>June Adventure Camp<br>Enrichment training camp during June holidays<br><br>National Competitions<br>Adventure Quest<br>Character Quest<br>Bagpipes and Drums Learning Festival</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Teachers-in-Charge
+
+Ng Keng Yang<br>
+<a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a>
+
+Ng Chee Kian<br>
+<a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>
+
+Michelle Ang Siok Min<br>
+<a href="mailto:ang_siok_min_michelle@schools.gov.sg">ang_siok_min_michelle@schools.gov.sg</a>
