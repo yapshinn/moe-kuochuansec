@@ -122,3 +122,15 @@ We participate actively every year in the different types of competition held by
 **End of year Drill or Fun Camp (Nov)**   
 
 *   Intensive training camp to prepare school team for upcoming Zonals & Nationals or fun camp for time of bonding and winding down
+
+
+### Teachers-in-Charge
+
+Goh Xin Fang<br>
+<a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>
+
+Sarah Tan Hui En<br>
+<a href="mailto:tan_hui_en_sarah@schools.gov.sg">tan_hui_en_sarah@schools.gov.sg</a>
+
+Wang Ting<br>
+<a href="mailto:want_ting@schools.gov.sg">want_ting@schools.gov.sg</a>
