@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - Co Curricular Achievements/.keep
       - Academic Achievements.md
