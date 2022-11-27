@@ -9,10 +9,18 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Uniformed%20Groups.jpg"  
+     style="width:75%">
+</td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Sports%20&%20Games.jpg"  
+     style="width:75%">
+</td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Performing%20Arts.jpg"  
+     style="width:75%">
+</td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Clubs%20&%20Societies.jpg"  
+     style="width:75%">
+</td>
   </tr>
 </thead>
 </table>
