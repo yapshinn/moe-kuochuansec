@@ -73,7 +73,7 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc4.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 Teo Han Yang Edwin<br>
 <a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg</a>
