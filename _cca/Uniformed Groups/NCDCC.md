@@ -123,3 +123,20 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
   </tr>
 </tbody>
 </table>
+
+
+## Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc4.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+<br><br><br><br><br><br>
+
+Kang Joo Geok Rebecca<br>
+<a href="mailto:kang_joo_geok@schools.gov.sg">kang_joo_geok@schools.gov.sg</a>
+
+Lee Lip Chyun Vincent<br>
+<a href="mailto:lee_lip_chyun_vincent@schools.gov.sg">lee_lip_chyun_vincent@schools.gov.sg</a>
+
+Su Weizhi<br>
+<a href="mailto:su_weizhi@schools.gov.sg">su_weizhi@schools.gov.sg</a>
+
