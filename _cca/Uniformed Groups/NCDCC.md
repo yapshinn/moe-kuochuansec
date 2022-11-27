@@ -34,7 +34,7 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/ncdcc2.jpg" style="width:45%;margin-right:15px;" align = "left">
 
 **NCDCC** focuses on
 
@@ -54,3 +54,4 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
   </tr>
 </tbody>
 </table>
+
