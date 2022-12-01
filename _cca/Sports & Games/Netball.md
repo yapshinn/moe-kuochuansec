@@ -87,5 +87,5 @@ Playing against other schools to test the teams level of readiness for an actual
 Fazliana Bte Pairin
 <a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>
 
-Lee Rachel
+Lee Rachel<br>
 <a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>
