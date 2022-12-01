@@ -48,3 +48,16 @@ The shooting CCA aims to train students in either Air Pistol or Air Rifle discip
   </tr>
 </tbody>
 </table>
+
+**Special Programme**<br>
+Bonding sessions among the members of the Shooting Club.  
+
+  
+
+**Zonals/Nationals Competition**  <br>
+Main competition platforms (mid April)  
+
+  
+
+**Invitational Shoot**<br> 
+Competition organized by schools like NTU, NUS, Singapore Shooting Association for our shooters to compete with shooters of other schools and know their ability.
