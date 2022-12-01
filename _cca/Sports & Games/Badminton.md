@@ -79,6 +79,36 @@ The CCA also provides Leadership development where the players are given leaders
 </table>
 
 
+
+**<u>Special Programmes</u>**
+
+<table>
+<thead>
+  <tr>
+    <th>Holiday Trainings (March/June/Sep/Oct&amp;Nov)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>To enable the players to continue to keep in touch with the game and to prepare for South Zone NSG competitions for the ‘B’ and ‘C’ Division Teams.</td>
+  </tr>
+  <tr>
+    <th>Friendly Games</th>
+  </tr>
+  <tr>
+    <td>Playing against other schools to gauge players’ level of competency and build up readiness for the actual competition.</td>
+  </tr>
+  <tr>
+    <th>VIA (Values in Action)</th>
+  </tr>
+  <tr>
+    <td>Linesmen duties for South Zone Competitions and National School Games Finals.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 Danny Ng Geok Koon<br>
 <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>
 
