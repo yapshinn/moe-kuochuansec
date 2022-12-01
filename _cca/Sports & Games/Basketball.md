@@ -62,7 +62,7 @@ In leadership development, our basketball players are also given leadership oppo
 </tbody>
 </table>
 
-<b>UPLOAD VIDEO TO YOUTUBE OR VIMEO
+<b>UPLOAD VIDEO TO YOUTUBE OR VIMEO</b>
 
 
 **<u>Programmes</u>**
