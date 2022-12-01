@@ -6,7 +6,9 @@ third_nav_title: Sports & Games
 ---
 ## Football
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/soccer.jpg)
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/soccer.jpg"  
+     style="width:75%">
+
 
 ### Vision
 
