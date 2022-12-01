@@ -15,14 +15,10 @@ third_nav_title: Performing Arts
 
 **Music for Life; Music to Inspire!**
 
-<table>
-<thead>
-  <tr>
-    <td>Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its members' musical proficiency and to develop in them a life-long interest in music. In this spirit, the band has staged numerous school and public performances over the years and has actively participated in the Singapore Youth Festival.</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" style="width:100%"></td>
-  </tr>
-</thead>
-</table>
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" style="width:60%;margin-left:15px;" align = "right">
+
+Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its members' musical proficiency and to develop in them a life-long interest in music. In this spirit, the band has staged numerous school and public performances over the years and has actively participated in the Singapore Youth Festival.
+
 
 
 ### Area of Focus
