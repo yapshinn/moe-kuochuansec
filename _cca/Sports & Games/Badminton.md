@@ -102,6 +102,9 @@ The CCA also provides Leadership development where the players are given leaders
 
 ### Teachers-in-Charge
 
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton4.jpg" style="width:35%;margin-right:15px;" align = "left">
+
+
 Danny Ng Geok Koon<br>
 <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>
 
