@@ -85,9 +85,9 @@ In addition, our drama students are taken each year to watch a drama production 
 *   Aesthetics Night 2018 - ‘Light Every Dream’
 *   Performances for
 
-*   Secondary 1 CCA Orientation (Jan)
-*   Teachers' Day (Sept)
-*   KCPSS Learning Carnival (Oct)
+    *   Secondary 1 CCA Orientation (Jan)
+    *   Teachers' Day (Sept)
+    *   KCPSS Learning Carnival (Oct)
 
 *   Annual Secondary 4 Farewell for our graduating seniors (Nov)
 
