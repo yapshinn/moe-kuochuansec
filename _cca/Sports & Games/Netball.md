@@ -73,3 +73,14 @@ Full day netball carnivals to allow student athletes to play as much as possible
   
 **Friendly Games**  
 Playing against other schools to test the teams level of readiness for an actual competition
+
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball2.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+Fazliana Bte Pairin
+<a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>
+
+Lee Rachel
+<a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>
