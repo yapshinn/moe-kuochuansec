@@ -52,6 +52,8 @@ In addition, our drama students are taken each year to watch a drama production 
 </tbody>
 </table>
 
+<br><br>
+
 **<u>Special Programmes</u>**
 
 **Singapore Youth Festival Arts Presentation**  
@@ -88,6 +90,10 @@ In addition, our drama students are taken each year to watch a drama production 
 *   KCPSS Learning Carnival (Oct)
 
 *   Annual Secondary 4 Farewell for our graduating seniors (Nov)
+
+**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+
+<br><br>
 
 
 ### Teachers-in-Charge
