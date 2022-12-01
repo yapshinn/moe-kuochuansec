@@ -26,7 +26,7 @@ Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its me
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:30%">
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:30%;margin-left:15px;" align = "right">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:20%;margin-left:15px;" align = "right">
 
 The KCPSS Concert Band takes on a holistic approach in developing every band member's **character** and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. 
 
