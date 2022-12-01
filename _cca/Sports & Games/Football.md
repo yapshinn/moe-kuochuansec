@@ -4,3 +4,52 @@ permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games
 description: ""
 third_nav_title: Sports & Games
 ---
+## Football
+
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/soccer.jpg)
+
+### Vision
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football1.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+The vision for **KCPSS Football CCA** is to inculcate values such as teamwork, resilience as well as good sportsmanship in all our students. The teachers-in-charge, together with our coaches, aim to create a respectful, positive and healthy environment for our students to improve their individual technical skills and conditioning as well as their understanding and appreciation of team play.
+
+### Area of Focus
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football2.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+
+Every player, coach and teacher in KCPSS knows that Football is a highly physical game that requires great mental strength, strong physique and clever wits. Not only that, it requires a great amount of team work that only through **good relationships with team mates** will it be accomplished. 
+
+  
+
+Last but certainly not the least, Football requires **discipline in character** that makes him a Holistic player whom people hold with high regards. It is in these principles that the **KCPSS Football Team** is built on - every player to graduate from KCPSS with the knowledge of Football, the health and physique of a true athlete, relationships with team mates that lasts and character that brings every player through life.
+
+
+### Programmes
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football3.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+**<u>Training</u>**
+
+<table>
+<thead>
+  <tr>
+    <th>Training Days</th>
+    <td>Every Tuesday</td>
+    <td>Every Friday</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Training Timing</th>
+    <td>3.00PM - 6.00Pm</td>
+    <td>2.30PM - 5.30PM</td>
+  </tr>
+  <tr>
+    <th>Venue</th>
+    <td>School Field</td>
+    <td>School Field</td>
+  </tr>
+</tbody>
+</table>
