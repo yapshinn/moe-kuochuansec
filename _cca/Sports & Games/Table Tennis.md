@@ -50,6 +50,7 @@ The regular training and competitions will help students acquire Table Tennis kn
 </tbody>
 </table>
 
+<br><br><br>
 
 **<u>Special Programmes</u>**
 
@@ -75,4 +76,3 @@ Yu Xiaoqin<br>
 
 Ho Jia Yan<br>
 <a href="mailto:ho_jia_yan@schools.gov.sg">ho_jia_yan@schools.gov.sg</a>
-
