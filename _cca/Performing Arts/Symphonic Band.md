@@ -64,22 +64,11 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 
 
-**Singapore Youth Festival Arts Presentation - Concert Band**
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" style="width:60%;margin-left:15px;" align = "right">
-
-<li>2021 SYF Arts Presentation (Accomplishment)<br><li>2019 SYF Arts Presentation (Accomplishment)<br><li>2017 SYF Arts Presentation (Accomplishment)<br><li>2015 SYF Arts Presentation (Accomplishment)<br><li>2013 SYF Arts Presentation (Accomplishment)<br><li>2011 SYF Arts Presentation (Silver)<br>
-<li>2009 SYF Arts Presentation (Silver)<br></li>
 
 
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
 
-<br><br>
 
-### Teachers-in-Charge
-
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Cheong Hwee Leng<br>
 <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>
