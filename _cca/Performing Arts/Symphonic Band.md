@@ -37,7 +37,7 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 ### Programmes 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band3.jpg" style="width:30%">
 
 
 **<u>Training</u>**
@@ -54,14 +54,14 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 **<u>Special Programmes</u>**
 
-<table>
-<thead>
-  <tr>
-    <td> <li>Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br><li>School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br><li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:100%"></td>
-  </tr>
-</thead>
-</table>
+
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:30%;margin-left:15px;" align = "right">
+
+<li>Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br><li>School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br>
+
+<li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012
+
 
 **Singapore Youth Festival Arts Presentation - Concert Band**
 
