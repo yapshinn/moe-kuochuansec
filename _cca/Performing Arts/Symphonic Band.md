@@ -75,7 +75,7 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 **UPLOAD VIDEO TO YOUTUBE OR VIMEO**
 
-<BR><BR>
+<br><br>
 
 ### Teachers-in-Charge
 
