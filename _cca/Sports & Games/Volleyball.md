@@ -19,7 +19,7 @@ Our vision at KCPSS Volleyball is to develop student athletes who are both compe
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Area%20of%20Focus.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Area%20of%20Focus.jpeg" style="width:45%;margin-right:25px;" align = "left">
 
 Our players will:  
 
