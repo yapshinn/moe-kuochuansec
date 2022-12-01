@@ -89,3 +89,13 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
   </tr>
 </thead>
 </table>
+
+### Teachers-in-Charge
+
+<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng4.jpg">
+
+Lee Chong Min<br>
+<a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>
+
+Lim Zi Min<br>
+<a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>
