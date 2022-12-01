@@ -64,12 +64,12 @@ The CCA also provides Leadership development where the players are given leaders
     <th colspan="2"><br><br><br><b>UPLOAD VIDEO TO YOUTUBE OR VIMEO<br><br><br></th>
   </tr>
   <tr>
-    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Fitness.jpg" alt="Fitness.jpg"></td>
-    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Training.jpg" alt="Training.jpg"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/Fitness.jpg"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/Training.jpg"></td>
   </tr>
   <tr>
-    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training1.jpg" alt="training1.jpg" width="464" height="223"></td>
-    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training2.jpg" alt="training2.jpg" width="456" height="225"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training1.jpg" width="464" height="223"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training2.jpg" width="456" height="225"></td>
   </tr>
 </tbody>
 </table>
