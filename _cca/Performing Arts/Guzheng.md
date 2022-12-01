@@ -60,6 +60,8 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 </tbody>
 </table>
 
+<br>
+
 **<u>Achievements</u>**
 
 <table>
@@ -82,8 +84,8 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <table>
 <thead>
   <tr>
-    <td><li>School Performances<br><br><li>Chinese New Year<br><li>Founder's Day<br><li>Teacher's Day Aesthetics Showcase</td>
-    <td>Public Performances<br><br><li>2022 - Racial Harmony Day Performance @ Bishan CC<br><li>2014 - Singapore Conference Hall Ensemble Series<br><li>2010 - Kuo Chuan Biennial in Esplanate - Te Deum<br><li>2008 - SYF @ Vivo City</td>
+    <td><li>School Performances</li><li>Chinese New Year</li><li>Founder's Day</li><li>Teacher's Day Aesthetics Showcase</li></td>
+    <td>Public Performances<br><br><li>2022 - Racial Harmony Day Performance @ Bishan CC</li><li>2014 - Singapore Conference Hall Ensemble Series</li><li>2010 - Kuo Chuan Biennial in Esplanate - Te Deum</li><li>2008 - SYF @ Vivo City</li></td>
   </tr>
 </thead>
 </table>
