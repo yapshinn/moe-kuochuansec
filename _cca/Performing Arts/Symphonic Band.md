@@ -34,7 +34,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td>The KCPSS Concert Band takes on a holistic approach in developing every band member's character and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. <br><br>Through a tiered leadership structure, members are also given the opportunity to develop leadership skills<br><br>The KCPSS Concert Band also seeks to instill love and appreciation for music in its members. It is heartening to see the band recruits transform from novices with little or even no background in music, to skilled musicians who take pride in their performances.</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg" width="250" height="237"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:100%"></td>
   </tr>
 </thead>
 </table>
@@ -50,7 +50,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td>Training Days : Every Tuesday (3.30pm-6.00pm)<br>Training Days : Every Thursday (3.30pm-6.00pm)<br>Venue : Auditorium</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/practice_band.jpg" width="442" height="182"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/practice_band.jpg" style="width:100%"></td>
   </tr>
 </thead>
 </table>
@@ -62,7 +62,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td> <li>Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br><li>School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br><li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" width="196" height="234"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:100%"></td>
   </tr>
 </thead>
 </table>
@@ -73,7 +73,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td><li>2021 SYF Arts Presentation (Accomplishment)<br><li>2019 SYF Arts Presentation (Accomplishment)<br><li>2017 SYF Arts Presentation (Accomplishment)<br><li>2015 SYF Arts Presentation (Accomplishment)<br><li>2013 SYF Arts Presentation (Accomplishment)<br><li>2011 SYF Arts Presentation (Silver)<br><li>2009 SYF Arts Presentation (Silver)<br></td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" width="515" height="211"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" style="width:100%"></td>
   </tr>
 </thead>
 </table>
