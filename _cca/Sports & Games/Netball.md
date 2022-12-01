@@ -15,6 +15,8 @@ third_nav_title: Sports & Games
 
 Co-curricular activities takes on a holistic approach in developing every student's character and provide them with the relevant knowledge, skills and values that will help them face the challenges of the 21st century. We believe that through our rigorous netball training programme, students will be equipped to become resilient and disciplined sportswomen that able to exercise personal leadership in all areas of her life.
 
+<br>
+
 ### Area of Focus
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball2.jpg" style="width:45%;margin-right:15px;" align = "left">
@@ -47,6 +49,9 @@ The Netball CCA aims to help aspiring young student athletes, with or without pr
   </tr>
 </tbody>
 </table>
+
+
+<br><br><br><br><br>
 
 **<u>Special Programmes</u>**
 
