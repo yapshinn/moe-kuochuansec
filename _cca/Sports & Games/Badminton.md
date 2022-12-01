@@ -11,7 +11,7 @@ third_nav_title: Sports & Games
 ### Vision
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badmintion1.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton1.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
 KCPSS Badminton CCA aims to :  
@@ -29,3 +29,30 @@ KCPSS Badminton CCA believes in providing each player equal opportunity to learn
 Sportsmanship and character development are emphasised during the training sessions, inculcating positive attitude and self discipline in line with the Olympic values.  
   
 The CCA also provides Leadership development where the players are given leadership opportunities in taking up the various leadership roles, empowering our athletes to take ownership in leading and building a cohesive and responsible team.
+
+### Programmes
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton3.jpg" style="width:35%;margin-right:15px;" align = "left">
+
+
+**<u>Training</u>**
+
+<table>
+<tbody>
+  <tr>
+    <th>Training Day</th>
+    <td>Every Tuesday</td>
+    <td>Every Friday</td>
+  </tr>
+  <tr>
+    <th>Training Timing</th>
+    <td>3.00 PM - 6.00 PM</td>
+    <td>2.00 PM - 5.00 PM</td>
+  </tr>
+  <tr>
+    <th>Venue</th>
+    <td>ISH Level 2</td>
+    <td>ISH LEvel 2</td>
+  </tr>
+</tbody>
+</table>
