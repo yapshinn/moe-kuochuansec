@@ -79,3 +79,19 @@ third_nav_title: Performing Arts
 </table>
 
 
+**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+
+<BR><BR>
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+Cheong Hwee Leng<br>
+sek_hwee_leng@schools.gov.sg
+
+Chang Meng Hsia<br>
+chang_meng_hsia@schools.gov.sg
+
+Bryan Ho<br>
+ho_yew_kiat@schools.gov.sg
