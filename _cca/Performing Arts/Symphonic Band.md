@@ -84,7 +84,7 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg"  style="width:40%">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg"  style="width:30%">
 
 Cheong Hwee Leng<br>
 <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a><br>
