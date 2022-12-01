@@ -37,6 +37,46 @@ The CCA also provides Leadership development where the players are given leaders
 
 **<u>Training</u>**
 
+<table>
+<thead>
+  <tr>
+    <th>Training Day</th>
+    <td>Every Tuesday</td>
+    <td>Every Friday</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Training Timing</th>
+    <td>3.00 PM - 6.00 PM</td>
+    <td>2.00 PM - 5.00 PM</td>
+  </tr>
+  <tr>
+    <th>Venue</th>
+    <td>ISH Level 2</td>
+    <td>ISH LEvel 2</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2"><br><br><br>UPLOAD VIDEO TO YOUTUBE OR VIMEO<br><br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Fitness.jpg" alt="Fitness.jpg" width="464" height="226"></td>
+    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Training.jpg" alt="Training.jpg" width="464" height="226"></td>
+  </tr>
+  <tr>
+    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training1.jpg" alt="training1.jpg" width="464" height="223"></td>
+    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training2.jpg" alt="training2.jpg" width="456" height="225"></td>
+  </tr>
+</tbody>
+</table>
 
 
 Danny Ng Geok Koon<br>
