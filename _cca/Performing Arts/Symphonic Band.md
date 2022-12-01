@@ -68,14 +68,6 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" style="width:50%;margin-left:15px;" align = "right">
 
-*   Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.
-*   School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) 
-*   Public performances:
-
-*   National Day Performance at Bishan Community Club’s National Day Dinner 2022
-*   International Cultural Fiesta 2013 at The Lawn@ Marina Bay
-*   Tan Tock Seng Hospital 'Art of Healing' programme in 2012 & 2013 
-*   Showcase! Performing Arts Festival at Ngee Ann City 2010 & 2012
 
 
 
