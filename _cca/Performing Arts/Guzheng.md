@@ -71,8 +71,8 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 </thead>
 <tbody>
   <tr>
-    <td>2011 - Silver Award<br>2009 - Gold Award<br>2007 - Silver Award<br>2005 - Silver Award</td>
-    <td>2021 - Centificate of Distinction<br>2019 - Certificate of Accomplishment<br>2017 - Certificate of Accomplishment<br>2015 - Certificate of Accomplishment<br>2013 - Centificate of Distinction</td>
+    <td><li>2011 - Silver Award<br><li>2009 - Gold Award<br><li>2007 - Silver Award<br><li>2005 - Silver Award</td>
+    <td><li>2021 - Centificate of Distinction<br><li>2019 - Certificate of Accomplishment<br><li>2017 - Certificate of Accomplishment<br><li>2015 - Certificate of Accomplishment<br><li>2013 - Centificate of Distinction</td>
   </tr>
 </tbody>
 </table>
