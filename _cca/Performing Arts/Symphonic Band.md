@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band1.jpg" style="width:30%">
 
 **Music for Life; Music to Inspire!**
 
