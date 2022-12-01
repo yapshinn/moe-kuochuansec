@@ -61,3 +61,17 @@ Main competition platforms (mid April)
 
 **Invitational Shoot**<br> 
 Competition organized by schools like NTU, NUS, Singapore Shooting Association for our shooters to compete with shooters of other schools and know their ability.
+
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/shooting4.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+Teo Shu Yen<br>
+<a href="mailto:lim_shu_yen@schools.gov.sg">lim_shu_yen@schools.gov.sg</a>
+
+Cassandra Christopher<br>
+<a href="mailto:cassandra_christopher@schools.gov.sg">cassandra_christopher@schools.gov.sg</a>
+
+Loo Sze Yen<br>
+<a href="mailto:loo_sze_yen@schools.gov.sg">loo_sze_yen@schools.gov.sg</a>
