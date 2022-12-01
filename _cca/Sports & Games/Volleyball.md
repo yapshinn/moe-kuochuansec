@@ -59,18 +59,9 @@ Our players will:
 
 **Competition platforms:**
 
-<table>
-<tbody>
-  <tr>
-    <td>National School Games B division</td>
-  <tr>
-    <td>National School Games C division</td>
-  </tr>
-  <tr>
-    <td>Other external competitive events</td>
-  </tr>
-</tbody>
-</table>
+* National School Games B division  
+* National School Games C division  
+* Other external competitive events
 
 ### Teachers-in-Charge
 
