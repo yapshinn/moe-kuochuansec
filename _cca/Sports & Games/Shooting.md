@@ -49,6 +49,8 @@ The shooting CCA aims to train students in either Air Pistol or Air Rifle discip
 </tbody>
 </table>
 
+<br>
+
 **Special Programme**<br>
 Bonding sessions among the members of the Shooting Club.  
 
