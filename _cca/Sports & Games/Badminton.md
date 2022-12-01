@@ -73,3 +73,29 @@ The CCA also provides Leadership development where the players are given leaders
   </tr>
 </tbody>
 </table>
+
+**<u>Special Programmes</u>**
+
+<table>
+<tbody>
+  <tr>
+    <th>Holiday Trainings (March/June/Sep/Oct&amp;Nov)</th>
+  </tr>
+  <tr>
+    <td>To enable the players to continue to keep in touch with the game and to prepare for South Zone NSG competitions for the ‘B’ and ‘C’ Division Teams.</td>
+  </tr>
+  <tr>
+    <th><br>Friendly Games</th>
+  </tr>
+  <tr>
+    <td>Playing against other schools to gauge players’ level of competency and build up readiness for the actual competition.</td>
+  </tr>
+  <tr>
+    <th><br>VIA (Values in Action)</th>
+  </tr>
+  <tr>
+    <td>Linesmen duties for South Zone Competitions and National School Games Finals.</td>
+  </tr>
+</tbody>
+</table>
+
