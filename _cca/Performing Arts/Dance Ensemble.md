@@ -61,3 +61,34 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
   </tr>
 </tbody>
 </table>
+
+**<u>Special Programmes</u>**
+
+**June or End of Year Intensive Dance Training Camp**  
+
+*   Enrichment training camp during 1st week of June/ End of year Training Camp.
+*   Intensive training camp to prepare school team for upcoming SYF Celebrations (Biennial).
+*   School Based Performances.
+*   Minimum of 1 SYF competition and Presentation.
+
+**<u>Recent Achievements</u>**
+
+*   2019 SYF Contemporary (Accomplishment)
+*   2019 SYF Chinese (Accomplishment)
+*   2018 Combined Aesthetic Concert 
+*   2017 SYF Contemporary (Accomplishment)
+*   2017 SYF Chinese (Distinction)
+*   2017 Let's Carnival (Performance for her excellency President Mdm Halimah)
+*   2016 Bishan-Thomson Mid-Autumn Nights Festival Performance
+*   2015 SYF Contemporary (Accomplishment)
+*   2015 SYF Chinese (Distinction)
+*   2015 SG50 Lets Carnival (Performance for his Excellency President Tony Tan)
+*   2014- Okto Television Live Performance
+*   2013 SYF Contemporary (Accomplishment)
+*   2013 SYF Chinese Dance (Distinction)
+*   2013 Golf Tournament Fund-Raising (Performance for his Excellency - President Tony Tan)
+*   2011 SYF Contemporary (Silver)
+*   2011 SYF Chinese Dance (Silver)
+*   2010 'Te Deum' performance at University Cultural Centre Hall
+*   2009 SYF Contemporary (Dance Gold with Honours)
+*   2009 SYF Chinese Dance (Silver)
