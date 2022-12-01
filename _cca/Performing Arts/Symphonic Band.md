@@ -82,10 +82,10 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Cheong Hwee Leng<br>
-sek_hwee_leng@schools.gov.sg
+<a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a>
 
 Chang Meng Hsia<br>
-chang_meng_hsia@schools.gov.sg
+<a href="mailto:chang_meng_hsia@schools.gov.sg">chang_meng_hsia@schools.gov.sg</a>
 
 Bryan Ho<br>
-ho_yew_kiat@schools.gov.sg
+<a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a>
