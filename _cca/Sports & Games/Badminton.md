@@ -70,12 +70,12 @@ The CCA also provides Leadership development where the players are given leaders
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Fitness.jpg" alt="Fitness.jpg" width="464" height="226"></td>
-    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2021/Training.jpg" alt="Training.jpg" width="464" height="226"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/Fitness.jpg" width="464" height="226"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/Training.jpg" width="464" height="226"></td>
   </tr>
   <tr>
-    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training1.jpg" alt="training1.jpg" width="464" height="223"></td>
-    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/CCA/sports/badminton/2022/training2.jpg" alt="training2.jpg" width="456" height="225"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training1.jpg" width="464" height="223"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/training2.jpg" width="456" height="225"></td>
   </tr>
 </tbody>
 </table>
@@ -113,6 +113,7 @@ The CCA also provides Leadership development where the players are given leaders
 
 ### Teachers-in-Charge
 
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton4.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
 Danny Ng Geok Koon<br>
