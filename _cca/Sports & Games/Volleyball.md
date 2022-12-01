@@ -56,6 +56,7 @@ Our players will:
 </tbody>
 </table>
 
+<br>
 
 **Competition platforms:**
 
