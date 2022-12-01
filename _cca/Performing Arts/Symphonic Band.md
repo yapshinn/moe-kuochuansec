@@ -38,3 +38,31 @@ third_nav_title: Performing Arts
   </tr>
 </thead>
 </table>
+
+### Programmes 
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band3.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+**<u>Training</u>**
+
+<table>
+<thead>
+  <tr>
+    <td>Training Days : Every Tuesday (3.30pm-6.00pm)<br>Training Days : Every Thursday (3.30pm-6.00pm)<br>Venue : Auditorium</td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/practice_band.jpg" width="442" height="182"></td>
+  </tr>
+</thead>
+</table>
+
+
+**<u>Special Programmes</u>**
+
+<table>
+<thead>
+  <tr>
+    <td> <li>Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br><li>School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br><li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" width="196" height="234"></td>
+  </tr>
+</thead>
+</table>
