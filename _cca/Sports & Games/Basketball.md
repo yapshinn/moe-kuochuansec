@@ -80,4 +80,4 @@ Joseph Chung Wei Peng<br>
 <a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a>
 	
 Sitoh Wei Sheng Wilson<br>
-<a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a></b>
+<a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>
