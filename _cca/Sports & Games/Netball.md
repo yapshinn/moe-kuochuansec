@@ -47,3 +47,29 @@ The Netball CCA aims to help aspiring young student athletes, with or without pr
   </tr>
 </tbody>
 </table>
+
+**<u>Special Programmes</u>**
+
+**June Combined Sports Camp**  
+
+*   Enrichment training camp during 1st week of June 
+*   Stay in camp combined with rest of the Sports CCA
+
+  
+**End of year Training Camp**<br>
+Intensive training camp to prepare school team for upcoming Zonals & Nationals  
+  
+**End of year Sports Training Tour**  
+Overseas training tour to neighboring countries for higher sporting exposure and exchange of sporting cultures.  
+  
+**Various Netball Carnivals (usually weekends)**  
+Full day netball carnivals to allow student athletes to play as much as possible to gain match experience  
+  
+**Zonals/Nationals Competition**  
+
+*   South Zone B Division : Jan to April
+*   South Zone C Division : June to September
+
+  
+**Friendly Games**  
+Playing against other schools to test the teams level of readiness for an actual competition
