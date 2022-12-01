@@ -51,3 +51,52 @@ In addition, our drama students are taken each year to watch a drama production 
   </tr>
 </tbody>
 </table>
+
+**<u>Special Programmes</u>**
+
+**Singapore Youth Festival Arts Presentation**  
+
+*   Achieved a Certificate of Accomplishment in 2013, 2015 & 2019
+
+  
+**Annual Aesthetics Exposure**  
+
+
+*   A Singaporean in Paris by Sing'Theatre in 2022
+*   During HBL, Online performance by The Necessary Stage - ‘Those Who Can't, Teach’ (2020)
+*   Aladdin - The Musical at Marina Bay Sands in 2019
+*   Cake Theatre Production - Temple in 2018
+*   Shakespeare in the Park (Othello) - 2013
+*   Shakespeare in the Park (Twelfth Night) - 2012
+*   Model Citizens - A Drama in Education Program - 2012
+
+  
+
+**Community Involvement Program (CIP)**  
+
+*   Visit to Bishan Home to interact with and perform for the residents
+
+  
+
+**Annual School Programs**  
+
+*   Aesthetics Night 2018 - ‘Light Every Dream’
+*   Performances for
+
+*   Secondary 1 CCA Orientation (Jan)
+*   Teachers' Day (Sept)
+*   KCPSS Learning Carnival (Oct)
+
+*   Annual Secondary 4 Farewell for our graduating seniors (Nov)
+
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+Hafizah Jamel<br>
+<a href="mailto:hafizhah_jamel@schools.gov.sg">hafizhah_jamel@schools.gov.sg</a>
+
+Muhd Alif Zain<br>
+<a href="mailto:muhammad_alif_zaini@schools.gov.sg">muhammad_alif_zaini@schools.gov.sg</a>
