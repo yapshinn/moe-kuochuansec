@@ -60,16 +60,16 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 
 <li>Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br><li>School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br>
 
-<li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</i>
+<li>Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012</li>
 
-<br>
+
 
 **Singapore Youth Festival Arts Presentation - Concert Band**
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" style="width:60%;margin-left:15px;" align = "right">
 
 <li>2021 SYF Arts Presentation (Accomplishment)<br><li>2019 SYF Arts Presentation (Accomplishment)<br><li>2017 SYF Arts Presentation (Accomplishment)<br><li>2015 SYF Arts Presentation (Accomplishment)<br><li>2013 SYF Arts Presentation (Accomplishment)<br><li>2011 SYF Arts Presentation (Silver)<br>
-<li>2009 SYF Arts Presentation (Silver)<br>
+<li>2009 SYF Arts Presentation (Silver)<br></li>
 
 
 
