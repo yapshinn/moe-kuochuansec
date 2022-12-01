@@ -54,5 +54,31 @@ The choir training programme focuses on voice projection, breathing techniques, 
     <td> Choir Romm</td>
   </tr>
 </tbody>
-</table>	
-	
+</table>
+
+**Special Programmes**
+
+* Sec 1 orientation programme
+
+* Overseas competition e.g. Guangzhou International Open Competition 2012
+
+* Lunch Time Concert
+
+* SYF Arts Presentation
+
+* School Learning Festival and Open House
+
+* Performance "Art Of Healing" at Tan Tock Seng Hospital
+
+* Choir Exchange with other schools
+
+
+### Teachers-in-Charge
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir4.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+Lee Hwee Ling Grace<br>
+<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>
+
+Esther Yong Yin Yin <br>
+<a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>
