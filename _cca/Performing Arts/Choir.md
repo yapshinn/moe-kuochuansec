@@ -27,3 +27,32 @@ Music making through Singing is an Art. In choir, our values are: Aspire, Persev
 The choir training programme focuses on voice projection, breathing techniques, aural training, sight singing, music theory and simple choreography.
 
 <br><br><br><br><br>
+
+
+### Programmes
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+**<u>Training</u>**
+<table>
+<thead>
+  <tr>
+    <th>Training Days</th>
+    <td>Every Tuesday</td>
+    <td>Every Thursday</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Training Timing</th>
+    <td>3.00Pm - 6.00PM</td>
+    <td> 3.00PM - 6.00PM</td>
+  </tr>
+  <tr>
+    <th>Venue</th>
+    <td> Choir Room</td>
+    <td> Choir Romm</td>
+  </tr>
+</tbody>
+</table>	
+	
