@@ -78,6 +78,7 @@ The KCPSS Concert Band also seeks to instill **love and appreciation** for music
 *   2011 SYF Arts Presentation (Silver)
 *   2009 SYF Arts Presentation (Silver)
 
+**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
 
 Cheong Hwee Leng<br>
 <a href="mailto:sek_hwee_leng@schools.gov.sg">sek_hwee_leng@schools.gov.sg</a><br>
