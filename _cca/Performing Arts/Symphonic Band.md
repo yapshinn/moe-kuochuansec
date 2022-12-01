@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band1.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **Music for Life; Music to Inspire!**
 
@@ -19,7 +19,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td>Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its members' musical proficiency and to develop in them a life-long interest in music. In this spirit, the band has staged numerous school and public performances over the years and has actively participated in the Singapore Youth Festival.</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" width="450" height="150"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" style="width:100%"></td>
   </tr>
 </thead>
 </table>
@@ -28,7 +28,7 @@ third_nav_title: Performing Arts
 ### Area of Focus
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <table>
 <thead>
@@ -41,7 +41,7 @@ third_nav_title: Performing Arts
 
 ### Programmes 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band3.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 
 **<u>Training</u>**
@@ -85,7 +85,7 @@ third_nav_title: Performing Arts
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Cheong Hwee Leng<br>
 sek_hwee_leng@schools.gov.sg
