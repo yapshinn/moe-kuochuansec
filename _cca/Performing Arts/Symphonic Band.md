@@ -24,16 +24,16 @@ Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its me
 ### Area of Focus
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:30%">
 
-<table>
-<thead>
-  <tr>
-    <td>The KCPSS Concert Band takes on a holistic approach in developing every band member's character and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. <br><br>Through a tiered leadership structure, members are also given the opportunity to develop leadership skills<br><br>The KCPSS Concert Band also seeks to instill love and appreciation for music in its members. It is heartening to see the band recruits transform from novices with little or even no background in music, to skilled musicians who take pride in their performances.</td>
-    <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:100%"></td>
-  </tr>
-</thead>
-</table>
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:30%;margin-left:15px;" align = "right">
+
+The KCPSS Concert Band takes on a holistic approach in developing every band member's **character** and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. 
+
+Through a tiered leadership structure, members are also given the opportunity to develop **leadership** skills.
+
+The KCPSS Concert Band also seeks to instill **love and appreciation** for music in its members. It is heartening to see the band recruits transform from novices with little or even no background in music, to skilled musicians who take pride in their performances
+
 
 ### Programmes 
 
