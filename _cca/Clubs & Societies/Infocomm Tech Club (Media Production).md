@@ -59,3 +59,62 @@ Students will be able to:
   </tr>
 </tbody>
 </table>
+
+**<u>Software Skills</u>**
+
+*   Apple iMovie
+*   CapCut
+*   Python with Google Collaboratory IDE
+*   Pictoblox
+*   Swift Plagrounds
+
+**<u>Special Programmes</u>**
+
+*   National competitions on video makings
+*   Work on projects relevant to the software skills acquired. These include:
+
+    *   Animation and Design
+    *   Video Production and Editing
+    *   Montage Video Production.
+
+*   Audio and Visual Aid tasks (i.e. equipment operation skills) for daily morning assembly duties and school events
+
+**<u>Accomplishments</u>**
+
+* Top Ten Finalist in Copyright School Challenge 2022 Video Competition
+* Gold Award in SDMA 2016 (Videography Category)
+* Merit Award in SDMA 2016 (Animation Category)
+* Gold Award in SDMA 2015 (Animation Category)
+* Gold Award in SDMA 2013 (Animation Category)
+* Merit Award in SDMA 2010 (Animation Category)
+
+
+**SDMA 2016 Entry Video's**
+
+***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+
+
+**SDMA 2015 Entry Video's**
+
+
+***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+
+
+**SDMA 2013 Entry Video's**
+
+***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+
+
+### Teachers-in-Charge
+
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Infocomm%20Tech%20Club/info-club1.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+Yew Yishen Sam<br>
+<a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>
+
+Dr. Kavitha Ramachandran<br>
+<a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>
+
+Mdm Norhajjarrillah Bte Abdul Baki<br>
+<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>
