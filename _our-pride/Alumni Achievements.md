@@ -42,19 +42,19 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/achievements/Alumni/2022/TanSongYi.jpg" alt="TanSongYi.jpg"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanSongYi.jpg" alt="TanSongYi.jpg"></th>
     <td>Tan Song Yi<br>4 FAITH, Class of 2018</th>
     <td>Course : Diploma in Tourism &amp; Resort Management<br><br>Awards :<br><br>Diploma with Merit<br>The Lo&amp;Behold Group Silver Medal &amp; Prize<br>Genting Cruise Lines Prize<br>Diploma Plus: Certificate in Korean<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/achievements/Alumni/2022/TanHuiXuan.jpg" alt="TanHuiXuan.jpg"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanHuiXuan.jpg" alt="TanHuiXuan.jpg"></td>
     <td>Tan Hui Xuan, Emily<br>4 LOVE, Class of 2018</td>
     <td>Course: Diploma in Optometry<br><br>Awards:<br><br>Diploma with Merit<br>Johnson &amp; Johnson Vision Singapore Silver Medal &amp; Prize<br>Eagle Eye Centre Prize<br>Johnson &amp; Johnson Singapore Prize<br>OCUVIQ Prize</td>
   </tr>
   <tr>
-    <td> <img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/achievements/Alumni/2022/LowJiaAnn.png" alt="LowJiaAnn.png"></td>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/LowJiaAnn.png" alt="LowJiaAnn.png"></td>
     <td> Low Jia Xin, Jamie<br>4 FAITH, Class of 2018</td>
     <td>Course: Diploma in Banking &amp; Finance<br><br>Award: Diploma with Merit</td>
   </tr>
