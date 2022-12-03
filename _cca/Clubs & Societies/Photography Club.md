@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 ---
 ## Photography Club
 
-<img style="width:35%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
+<img style="width:30%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
 
 
 
@@ -75,10 +75,9 @@ Competitions the menbers will participate in include 'Our School, Our Story' , I
 
 ### Teachers-in-Charge
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography4.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography4.jpg">
 
-
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 Mdm Nor'aliah Binte Abdul<br>
 <a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
