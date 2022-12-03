@@ -10,3 +10,36 @@ _Espoir is a school publication that offers news of school events, innovative pr
 ### ESPOIR 2022 ISSUE 2
 
 ![](/images/Espoir/espoir2022Issue2.jpg)
+(Hyperlink image to pdf file - if the pdf can be input into Isomer)
+
+
+**Other Issues**
+
+Espoir 2022 Issue 1
+Espoir 2021 Issue 2
+Espoir 2021 Issue 1
+Espoir 2020 Issue 2
+Espoir 2020 Issue 1
+Espoir 2019 Issue 2
+Espoir 2019 Issue 1
+Espoir 2018 Issue 2
+Espoir 2018 Issue 1
+Espoir 2017 Issue 2
+Espoir 2017 Issue 1
+Espoir 2016 Issue 2
+Espoir 2016 Issue 1
+Espoir 2015 Issue 2
+Espoir 2015 Issue 1
+Espoir 2014 Issue 2
+Espoir 2014 Issue 1
+Espoir 2013 Issue 4
+Espoir 2013 Issue 3
+Espoir 2013 Issue 2
+Espoir 2013 Issue 1
+Espoir 2012 Issue 4
+Espoir 2012 Issue 3
+Espoir 2012 Issue 2
+Espoir 2012 Issue 1
+
+
+
