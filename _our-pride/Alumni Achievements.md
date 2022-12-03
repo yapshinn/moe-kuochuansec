@@ -60,3 +60,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+Contact Us at <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
+
+KCPSS is always happy to hear from our alumni. Let us know your news and updates and stay connected!
