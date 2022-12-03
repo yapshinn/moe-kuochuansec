@@ -60,6 +60,8 @@ Students will be able to:
 </tbody>
 </table>
 
+<br><br><br><br>
+
 **<u>Software Skills</u>**
 
 *   Apple iMovie
@@ -91,18 +93,18 @@ Students will be able to:
 
 **SDMA 2016 Entry Video's**
 
-***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
 
 
 **SDMA 2015 Entry Video's**
 
 
-***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
 
 
 **SDMA 2013 Entry Video's**
 
-***UPLOAD VIDEO TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
 
 
 ### Teachers-in-Charge
