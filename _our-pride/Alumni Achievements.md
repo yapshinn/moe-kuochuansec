@@ -43,20 +43,20 @@ description: ""
 <thead>
   <tr>
     <th><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanSongYi.jpg" alt="TanSongYi.jpg"></th>
-    <td>Tan Song Yi<br>4 FAITH, Class of 2018</th>
-    <td>Course : Diploma in Tourism &amp; Resort Management<br><br>Awards :<br><br>Diploma with Merit<br>The Lo&amp;Behold Group Silver Medal &amp; Prize<br>Genting Cruise Lines Prize<br>Diploma Plus: Certificate in Korean<br></th>
+    <td><b>Tan Song Yi</b><br>4 FAITH, Class of 2018</th>
+    <td><b>Course</b> : Diploma in Tourism &amp; Resort Management<br><br><b>Awards :</b><li>Diploma with Merit</li><li>The Lo&amp;Behold Group Silver Medal &amp; Prize</li><li>Genting Cruise Lines Prize</li><b>Diploma Plus: </b>Certificate in Korean<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanHuiXuan.jpg" alt="TanHuiXuan.jpg"></td>
-    <td>Tan Hui Xuan, Emily<br>4 LOVE, Class of 2018</td>
-    <td>Course: Diploma in Optometry<br><br>Awards:<br><br>Diploma with Merit<br>Johnson &amp; Johnson Vision Singapore Silver Medal &amp; Prize<br>Eagle Eye Centre Prize<br>Johnson &amp; Johnson Singapore Prize<br>OCUVIQ Prize</td>
+    <td><b>Tan Hui Xuan, Emily</b><br>4 LOVE, Class of 2018</td>
+    <td><b>Course: </b>Diploma in Optometry<br><br><b>Awards:</b><li>Diploma with Merit</li><li>Johnson &amp; Johnson Vision Singapore Silver Medal &amp; Prize</li><li>Eagle Eye Centre Prize</li><li>Johnson &amp; Johnson Singapore Prize</li><li>OCUVIQ Prize</li></td>
   </tr>
   <tr>
     <td> <img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/LowJiaAnn.png" alt="LowJiaAnn.png"></td>
-    <td> Low Jia Xin, Jamie<br>4 FAITH, Class of 2018</td>
-    <td>Course: Diploma in Banking &amp; Finance<br><br>Award: Diploma with Merit</td>
+    <td><b> Low Jia Xin, Jamie</b><br>4 FAITH, Class of 2018</td>
+    <td><b>Course: </b>Diploma in Banking &amp; Finance<br><br><b>Award: </b>Diploma with Merit</td>
   </tr>
 </tbody>
 </table>
