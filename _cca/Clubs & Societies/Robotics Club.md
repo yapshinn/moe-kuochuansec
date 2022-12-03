@@ -72,7 +72,7 @@ Every year, members from the club will take part in the following competitions a
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/robotics1.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/robotics1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Foo Seng Hong<br>
 <a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg</a>
