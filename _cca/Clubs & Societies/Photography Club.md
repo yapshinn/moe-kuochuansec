@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 ---
 ## Photography Club
 
-<img style="width:45%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
+<img style="width:35%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
 
 
 
@@ -29,6 +29,7 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
+<br><br>
 
 ### Area of Focus
 
@@ -62,6 +63,8 @@ The club aims to train all its members with basic photography skills which will 
 </tbody>
 </table>
 
+<br>
+
 **<u>Special Programmes</u>**
 
 School events the members will be rostered to cover school events such as Sec 1 orientation, CCA Open House, Founders’ Day, National Day, Thanksgiving Ceremony and many more on a regular basis to hone their skills. They can also expect to participate in cross-CCA group activities where they share their programmes and know-hows  
@@ -72,15 +75,13 @@ Competitions the menbers will participate in include 'Our School, Our Story' , I
 
 ### Teachers-in-Charge
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photo%202.jpg">
+<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography4.jpg">
 
-<img align="right" style="width:40%;margin-left:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photo%203.jpg">
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 Mdm Nor'aliah Binte Abdul<br>
 <a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
 
 Mdm. Norhajjarrillah Abdul Baki
 <a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>
-
