@@ -9,7 +9,10 @@ _Espoir is a school publication that offers news of school events, innovative pr
 
 ##### ESPOIR 2022 ISSUE 2
 
-![](/images/The%20Kuo%20Chuan%20Experience/Espoir/espoir2022Issue2.jpg)
+<p><a href="insert file link">
+<img src="/images/The%20Kuo%20Chuan%20Experience/Espoir/espoir2022Issue2.jpg" style="width:55%">
+</a></p>
+
 (Hyperlink image to pdf file - if the pdf can be input into Isomer)
 
 
