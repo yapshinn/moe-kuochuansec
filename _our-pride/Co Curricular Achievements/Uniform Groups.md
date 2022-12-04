@@ -39,15 +39,15 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2016</b><br>Boys' Brigade JM Fraser Award<br><br>Boys Brigade Blaze Team<br><br>13th BB Pipes and Drums Festival (Novice Events and Novice Overall)<br><br></td>
-    <td>Gold<br><br>2nd placing<br><br>Champion</td>
+    <td>Gold<br><br><br>2nd placing<br><br><br>Champion</td>
   </tr>
   <tr>
     <td><b>2015</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze <br><br></td>
-    <td>Gold<br> </td>
+    <td><br>Gold<br> </td>
   </tr>
   <tr>
     <td><b>2014</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze <br><br>Boys' Brigade Cluster Drill</td>
-    <td>Gold<br><br>Top 6 (National)<br><br>1st (Cluster) </td>
+    <td><br>Gold<br><br>Top 6 (National)<br><br>1st (Cluster) </td>
   </tr>
 </tbody>
 </table>
@@ -188,3 +188,4 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
