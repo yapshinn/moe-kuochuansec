@@ -41,18 +41,18 @@ links:
     sublinks:
       - title: Direct School Admission
         url: /admission/direct-school-admission/
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: Application Forms
+        url: /admission/application-forms/
+      - title: Financial Assistance Scheme
+        url: https://www.moe.gov.sg/financial-matters/financial-assistance
+      - title: Scholarships and Awards
+        url: /admission/scholarships-and-awards/
+      - title: School Rules and Regulations
+        url: /admission/school-rules-n-regulations/
+      - title: Our School Uniform
+        url: /admission/our-school-uniform/
+      - title: FAQ
+        url: /admission/faq/
   - title: Useful Links
     url: /permalink
     sublinks: []
