@@ -27,7 +27,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b> 2019</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br><br>Founder's Award</td>
-    <td> <br>Gold<br><br>3rd placing<br><br>- Zamine Ethan 4-JY<br>-Veerappan Harish - 4JY<br>-Acton Ang - 4JY<br>-Nithyanandhan - 4FH</td>
+    <td> <br>Gold<br><br>3rd placing<br><br>- Zamine Ethan 4-JY<br>- Veerappan Harish - 4JY<br>- Acton Ang - 4JY<br>- Nithyanandhan - 4FH</td>
   </tr>
   <tr>
     <td><b>2018</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br></td>
@@ -188,4 +188,3 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
-
