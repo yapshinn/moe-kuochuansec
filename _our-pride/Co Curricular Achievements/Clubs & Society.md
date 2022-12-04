@@ -30,15 +30,15 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2016</b><br><br>SDMA - Video Category</td>
-    <td><br>1st (Gold)<br><br><br></td>
+    <td><br><br>1st (Gold)<br><br><br></td>
   </tr>
   <tr>
     <td><b>2015</b><br><br>SDMA - Animation Category<br><br></td>
-    <td><br>1st (Gold)</td>
+    <td><br><br>1st (Gold)</td>
   </tr>
   <tr>
     <td> <b>2014</b><br><br>Canon Photo Contest <br>Student Category</td>
-    <td><br>1st (Individual)<br>Heng Ek Khun Spencer (1 LV)</td>
+    <td><br><br>1st (Individual)<br>Heng Ek Khun Spencer (1 LV)</td>
   </tr>
 </tbody>
 </table>
@@ -67,19 +67,19 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2018</b><br>in ITE College East Robotics Competition<br><br>Obstacle Avoidance Challenge<br>Creative Challenge</td>
-    <td> <br><br><br><br>4th Placing<br>4th Placing</td>
+    <td> <br><br><br>4th Placing<br>4th Placing</td>
   </tr>
   <tr>
-    <td><b>2017</b> <br><br>ITE College East Robotics Competition</td>
+    <td><b>2017</b> <br><br><br>ITE College East Robotics Competition</td>
     <td><br>4th placing</td>
   </tr>
   <tr>
     <td><b>2016</b><br><br>ITE College East Robotics Competition</td>
-    <td><br>4th placing</td>
+    <td><br><br>4th placing</td>
   </tr>
   <tr>
     <td><b>2015</b><br><br>Bull's Eye Robotic Challenge<br><br></td>
-    <td><br>3rd placing</td>
+    <td><br><br>3rd placing</td>
   </tr>
 </tbody>
 </table>
