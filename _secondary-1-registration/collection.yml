@@ -2,8 +2,8 @@ collections:
   secondary-1-registration:
     output: true
     order:
-      - FAQS.md
-      - Appeals for transfer into KCPSS.md
       - Sec One e Registration (2022)/.keep
       - Sec One e Registration (2022)/Secondary One e Registration (2022).md
       - Sec One e Registration (2022)/Programme eligibility and applications.md
+      - Appeals for transfer into KCPSS.md
+      - FAQS.md
