@@ -167,27 +167,27 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>M1 School Challenge League<br>B Division Girls<br><br>Punggol Secondary School Netball Carnival<br>C Division Girls<br><br></td>
+    <td> <b>2019</b><br><b>M1 School Challenge League</b><br>B Division Girls<br><br><b>Punggol Secondary School Netball Carnival</b><br>C Division Girls<br><br></td>
     <td> <br><br>2nd placing<br><br><br>3rd placing<br><br></td>
   </tr>
   <tr>
-    <td> <b>2018</b><br>South Zone Netball <br>B Division Girls <br><br></td>
+    <td> <b>2018</b><br><b>South Zone Netball</b> <br>B Division Girls <br><br></td>
     <td> <br><br>3rd position<br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br>South Zone Netball<br>B Division<br><br></td>
+    <td><b>2017</b><br><b>South Zone Netball</b><br>B Division<br><br></td>
     <td> <br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Netball<br>B Division<br><br></td>
+    <td><b>2016</b><br><b>South Zone Netball</b><br>B Division<br><br></td>
     <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br><br>Inter-School Netball<br>Championship - B girls<br><br></td>
+    <td><b>2015</b><br><br><b>Inter-School Netball<br>Championship</b> - B girls<br><br></td>
     <td><br><br><br>Top 8<br><br></td>
   </tr>
   <tr>
-    <td><b>2014</b><br><br> Inter-School Netball<br>Championship - B Girls</td>
+    <td><b>2014</b><br><br><b> Inter-School Netball<br>Championship</b> - B Girls</td>
     <td><br><br><br>Top 8 </td>
   </tr>
 </tbody>
