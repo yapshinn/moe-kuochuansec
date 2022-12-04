@@ -2,12 +2,12 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Chinese and Contemporary Dance.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Concert Band.md
       - Performing Arts/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese and Contemporary Dance.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guzheng Ensemble.md
       - Leadership/.keep
       - Leadership/Leadership.md
       - Leadership/Introduction & Background.md
