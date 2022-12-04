@@ -134,15 +134,15 @@ third_nav_title: Co Curricular Achievements
     <td> <br><br>Qualified for League 3<br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br>South Zone Football<br><br></td>
+    <td><b>2017</b><br><b>South Zone Football</b><br><br></td>
     <td><br>3rd placing <br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Football<br>B Division<br><br></td>
+    <td><b>2016</b><br><b>South Zone Football</b><br>B Division<br><br></td>
     <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br>South Zone Football<br>C Division</td>
+    <td><b>2015</b><br><b>South Zone Football</b><br>C Division</td>
     <td><br><br>Top 8</td>
   </tr>
 </tbody>
