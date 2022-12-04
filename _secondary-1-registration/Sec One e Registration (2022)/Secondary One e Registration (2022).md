@@ -88,7 +88,7 @@ For your convenience, we have collated all the essential matters that require yo
   <tr>
     <td>5</td>
     <td>Parents Support Group</td>
-    <td>Do consider joining our Parents Support Group. The PSG is an important part of the Kuo Chuan family and the school works closely with them to strengthen our programmes. As a parent, you can find out more about the school, and your participation will make a difference. Please find out more about them <a href="https://kuochuanpresbyteriansec.moe.edu.sg/our-people/our-partners/parent-support-group">here</a>, and you may express your interest in signing up using <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_azy3MtuQFM--cKCKsHRLp8w1YYq_YZyG1_7tWy9JBSiaWg/viewform?vc=0">this form</a>.</td>
+    <td>Do consider joining our Parents Support Group. The PSG is an important part of the Kuo Chuan family and the school works closely with them to strengthen our programmes. As a parent, you can find out more about the school, and your participation will make a difference. Please find out more about them <a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/our-partners/parent-support-group/">here</a>, and you may express your interest in signing up using <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_azy3MtuQFM--cKCKsHRLp8w1YYq_YZyG1_7tWy9JBSiaWg/viewform?vc=0">this form</a>.</td>
   </tr>
 </tbody>
 </table>
