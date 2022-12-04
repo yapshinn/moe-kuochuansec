@@ -2,6 +2,6 @@ collections:
   secondary-1-registration:
     output: true
     order:
-      - Sec One e Registration (2022)/Programme eligibility and applications.md
-      - Sec One e Registration (2022)/Secondary One e Registration (2022).md
       - Sec One e Registration (2022)/.keep
+      - Sec One e Registration (2022)/Secondary One e Registration (2022).md
+      - Sec One e Registration (2022)/Programme eligibility and applications.md
