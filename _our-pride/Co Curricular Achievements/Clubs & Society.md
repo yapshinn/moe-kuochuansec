@@ -70,8 +70,8 @@ third_nav_title: Co Curricular Achievements
     <td> <br><br><br>4th Placing<br>4th Placing</td>
   </tr>
   <tr>
-    <td><b>2017</b> <br><br><br>ITE College East Robotics Competition</td>
-    <td><br>4th placing</td>
+    <td><b>2017</b> <br><br>ITE College East Robotics Competition</td>
+    <td><br><br>4th placing</td>
   </tr>
   <tr>
     <td><b>2016</b><br><br>ITE College East Robotics Competition</td>
