@@ -102,7 +102,7 @@ For support related to counselling, you may contact our School Counsellor, Mr Jo
 
 **_14\. How can I apply for MOE Financial Assistance / School Based Financial Assistance?_**
 
-All students who qualify for financial assistance will need to reapply for 2021. Please do so at our General Office during office hours (Mon to Fri, 8am to 5pm). You can download the form **[here](https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/admission/financial-assistant-scheme)**.
+All students who qualify for financial assistance will need to reapply for 2021. Please do so at our General Office during office hours (Mon to Fri, 8am to 5pm). You can download the form **[here](https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/admission/financial-assistant-scheme)**. **<font size=5>LINK DOES NOT WORK</font>**
 
   
 
