@@ -6,24 +6,24 @@ description: ""
 ## SCHOOL RULES & REGULATIONS
 
 <center>Luke 2:52<br>
-And Jesus grew in wisdom and stature and in favour with God and men.
+	<i>And Jesus grew in wisdom and stature and in favour with God and men.</i>
 
 One of the deciding characteristics of an excellent and exciting school of choice is the self-discipline that the students exhibit. KCPians are values-driven and principle-centred, who readily maintain high standards in personal conduct, academic and CCA excellence. The rules and regulations are put in place to guide all KCPians towards these goals.</center>
 
 
-*   General Conduct
-    ---------------
+### General Conduct
+
     
-    _We respect and care for others in our school and in our community. We are proud of our school and we show it in our conduct._  
+_We respect and care for others in our school and in our community. We are proud of our school and we show it in our conduct._  
       
     
-    1.  Be polite and well behaved at all times. Greet teachers, friends and visitors to the school.
-    2.  Obey and respect those in authority (Principal, Vice Principals, teachers, non-teaching staff and student leaders).
-    3.  Be considerate to others.
-    4.  Uphold the good name of the school at all times by your speech, deeds, attitude and attire both in and out of school. As an ambassador of the school, be well-groomed and well-behaved at all times, in all places, as an individual or in a group.
-    5.  During daily devotion and weekly chapel sessions, non-believers are to show respect to the Christian faith.
+   1.  Be polite and well behaved at all times. Greet teachers, friends and visitors to the school.
+   2.  Obey and respect those in authority (Principal, Vice Principals, teachers, non-teaching staff and student leaders).
+   3.  Be considerate to others.
+   4.  Uphold the good name of the school at all times by your speech, deeds, attitude and attire both in and out of school. As an ambassador of the school, be well-groomed and well-behaved at all times, in all places, as an individual or in a group.
+   5.  During daily devotion and weekly chapel sessions, non-believers are to show respect to the Christian faith.
     
-*     
+ 
     
     ---
     
