@@ -2,10 +2,10 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - Leadership/What are we looking for?.md
-      - Leadership/Introduction & Background.md
-      - Leadership/Leadership.md
       - Leadership/.keep
+      - Leadership/Leadership.md
+      - Leadership/Introduction & Background.md
+      - Leadership/What are we looking for?.md
       - Language & Humanities/.keep
       - Language & Humanities/Language & Humanities.md
       - Language & Humanities/Introduction & Background.md
