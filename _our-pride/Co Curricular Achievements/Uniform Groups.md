@@ -188,3 +188,49 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/NCDCC.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b></td>
+    <td> Awaiting Assessment Results</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b></td>
+    <td> No Assessment</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br><br>Precision Drill Challenge <br><br>SCDF-NCDCC Pinnacle Badge Award</td>
+    <td> <br>Gold<br><br><br>2nd placing<br><br>Cheng Ka Wai (4FH)</td>
+  </tr>
+  <tr>
+    <td><b>2018</b><br>Unit Overall Proficiency Award <br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge<br><br></td>
+    <td> <br>Gold<br><br>Champion <br><br>Tan Wee Choon Waylen (4FH)</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>Unit Overall Proficiency Award <br><br>Inter-Unit Quiz 2017<br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge<br><br></td>
+    <td><br>Gold<br><br>Champion<br><br>Champion<br><br>Ting Shao Wei, Jayden (4FH)<br>Amelia Chia Qi Shan (4LV)<br><br></td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>Unit Overall Proficiency Award<br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge </td>
+    <td><br>Gold<br><br>Champion <br><br>Teh Yew Ming Darren (4 PC)</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>Unit Overall Proficiency Award <br><br></td>
+    <td><br>Silver</td>
+  </tr>
+  <tr>
+    <td><b>2014</b><br>Unit Overall Proficiency Award<br> <br>Precision Drill Competition <br><br>Urban Adventure Civil Defense <br>Defense Skills Competition </td>
+    <td><br>Gold<br><br>Champion<br><br>Silver</td>
+  </tr>
+</tbody>
+</table>
