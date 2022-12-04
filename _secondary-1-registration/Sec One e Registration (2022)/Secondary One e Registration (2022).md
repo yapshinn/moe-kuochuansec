@@ -24,7 +24,7 @@ We will be sending you a message via Parents Gateway/email tomorrow (Thursday, 2
 
   
 
-If you have not been posted to our school and would like to request for a school transfer, please complete [**this form**](https://form.gov.sg/61a97e2521cd94001459fcc7) to do so. Kindly remember to register with the school that your child/ward has been posted to.  
+If you have not been posted to our school and would like to request for a school transfer, please complete [**this form**](https://form.gov.sg/61a97e2521cd94001459fcc7)**<font size=5>(LINK DOES NOT WORK)</font>** to do so. Kindly remember to register with the school that your child/ward has been posted to.   
 
   
 
@@ -83,7 +83,7 @@ For your convenience, we have collated all the essential matters that require yo
   <tr>
     <td>4</td>
     <td>MOE Financial Assistance Scheme (FAS) / School-based Financial Assistance</td>
-    <td>If you wish to apply for financial assistance, please use <a href="https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/admission/financial-assistant-scheme">this form</a> to do so.<br>You are strongly advised to complete the form beforehand and submit all relevant supporting document to us in person at General Office.<br>Please do note that our school office hour is Monday to Friday, between 8am to 5pm.</td>
+    <td>If you wish to apply for financial assistance, please use <a href="https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/admission/financial-assistant-scheme">this form</a> to <b><font size=5>(LINK DOES NOT WORK)</font></b> do so.<br>You are strongly advised to complete the form beforehand and submit all relevant supporting document to us in person at General Office.<br>Please do note that our school office hour is Monday to Friday, between 8am to 5pm.</td>
   </tr>
   <tr>
     <td>5</td>
