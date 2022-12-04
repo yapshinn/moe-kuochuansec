@@ -96,3 +96,49 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/NPCC.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b></td>
+    <td> Awaiting Assessment Results</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b><br>Unit Overall Proficiency Award<br></td>
+    <td> Cancelled Due to Covid</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br></td>
+    <td> <br>Gold</td>
+  </tr>
+  <tr>
+    <td> <b>2018</b> <br> SPF-NPCC Award</td>
+    <td> <br>Sumitra R (4LV)<br><br></td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>Unit Overall Proficiency Award<br><br> SPF-NPCC Award</td>
+    <td> <br>Gold<br><br>Adisurya (4JY)<br>Truman (4JY)<br><br></td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>Unit Overall Proficiency Award<br><br>SPF-NPCC Award</td>
+    <td><br>Gold<br><br>Harold Lee Feng (4FH)<br><br></td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>Unit Overall Proficiency Award<br><br>SPF-NPCC Award<br><br>Annual PHS Air Rifle Competition </td>
+    <td><br>Silver<br><br>Ng Jin Fong<br><br>2nd (Silver)</td>
+  </tr>
+  <tr>
+    <td> <b>2014</b><br>Unit Overall Proficiency Award <br><br>Total Defence </td>
+    <td> <br>Silver<br><br>Silver Badge (17 recipients) </td>
+  </tr>
+</tbody>
+</table>
