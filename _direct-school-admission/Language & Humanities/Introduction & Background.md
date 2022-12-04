@@ -29,8 +29,8 @@ Apart from media literacy, shortlisted applicants will also get the opportunity 
 <table>
 <thead>
   <tr>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/student/DSA/2022/spin1.png" alt="spin1.png" width="336"></th>
-    <th><img src="https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/student/DSA/2022/spin2.png" alt="spin2.png" width="336" height="252"></th>
+    <th><img src="/images/Admissions/DSA/spin1.png" alt="spin1.png" width="336"></th>
+    <th><img src="/images/Admissions/DSA/spin2.png" alt="spin2.png" width="336" height="252"></th>
   </tr>
 </thead>
 <tbody>
