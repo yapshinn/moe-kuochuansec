@@ -2,23 +2,23 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - DSA Briefing Materials.md
-      - Visual Arts, Design & Media/.keep
-      - Visual Arts, Design & Media/Visual Arts, Design & Media.md
-      - Visual Arts, Design & Media/Introduction & Background.md
-      - Visual Arts, Design & Media/What are we looking for?.md
+      - Direct School Admission.md
+      - Language & Humanities/.keep
+      - Language & Humanities/Language & Humanities.md
+      - Language & Humanities/Introduction & Background.md
+      - Language & Humanities/What are we looking for?.md
+      - Leadership/.keep
+      - Leadership/Leadership.md
+      - Leadership/Introduction & Background.md
+      - Leadership/What are we looking for?.md
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
       - Performing Arts/Chinese and Contemporary Dance.md
       - Performing Arts/English Drama.md
       - Performing Arts/Guzheng Ensemble.md
-      - Leadership/.keep
-      - Leadership/Leadership.md
-      - Leadership/Introduction & Background.md
-      - Leadership/What are we looking for?.md
-      - Language & Humanities/.keep
-      - Language & Humanities/Language & Humanities.md
-      - Language & Humanities/Introduction & Background.md
-      - Language & Humanities/What are we looking for?.md
-      - Direct School Admission.md
+      - Visual Arts, Design & Media/.keep
+      - Visual Arts, Design & Media/Visual Arts, Design & Media.md
+      - Visual Arts, Design & Media/Introduction & Background.md
+      - Visual Arts, Design & Media/What are we looking for?.md
+      - DSA Briefing Materials.md
