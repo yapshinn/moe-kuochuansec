@@ -225,3 +225,36 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/table%20tennis.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b>br>B Division Boys<br>B Division Girls<br></td>
+    <td> <br>1st Round<br>1st Round</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b><br></td>
+    <td> Competition Suspended<br></td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team<br></td>
+    <td> <br><br>4th placing<br>4th placing</td>
+  </tr>
+  <tr>
+    <td><b>2018</b><br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team</td>
+    <td><br><br>4th Placing<br>4th Placing </td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>South Zone Table Tennis<br>B Division Girls' Team</td>
+    <td><br>4th Placing</td>
+  </tr>
+</tbody>
+</table>
