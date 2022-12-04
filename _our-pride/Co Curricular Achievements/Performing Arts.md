@@ -193,3 +193,32 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/drama.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2019</b><br>SYF Central Judging <br>Drama<br></td>
+    <td> Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>SYF Central Judging<br>Drama</td>
+    <td>Commendation<br>Bronze</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>SYF Central Judging <br>Drama</td>
+    <td> <br>Accomplishment<br>Silver</td>
+  </tr>
+  <tr>
+    <td><b>2013</b><br>SYF Central Judging <br>Drama</td>
+    <td>Accomplishment<br>Silver</td>
+  </tr>
+</tbody>
+</table>
