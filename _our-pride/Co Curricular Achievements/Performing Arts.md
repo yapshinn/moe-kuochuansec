@@ -156,3 +156,40 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/DanceEnsemble.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b><br>Chinese Dance<br>Modern Dance</td>
+    <td> Certificate of Distinction<br>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>SYF Central Judging Chinese Dance</td>
+    <td> <br>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>SYF Central Judging Chinese Dance </td>
+    <td>Distinction<br>Gold </td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>SYF Central Judging Chinese Dance</td>
+    <td>Distinction<br>Gold</td>
+  </tr>
+  <tr>
+    <td><b>2013</b><br>SYF Central Judging Chinese Dance</td>
+    <td>Distinction<br>Gold</td>
+  </tr>
+</tbody>
+</table>
