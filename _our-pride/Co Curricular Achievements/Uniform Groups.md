@@ -30,16 +30,16 @@ third_nav_title: Co Curricular Achievements
     <td> <br>Gold<br><br>3rd placing<br><br>- Zamine Ethan 4-JY<br>- Veerappan Harish - 4JY<br>- Acton Ang - 4JY<br>- Nithyanandhan - 4FH</td>
   </tr>
   <tr>
-    <td><b>2018</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br></td>
-    <td> <br>Gold<br><br><br></td>
+    <td><b>2018</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br><br></td>
+    <td> <br>Gold<br><br><br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br><br>14th BB Pipes and Drums Festival (Junior Events and Junior Overall)<br></td>
-    <td> <br>Gold<br><br>3rd &amp; 6th placing<br><br>Champion</td>
+    <td><b>2017</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze Team<br><br>14th BB Pipes and Drums Festival (Junior Events and Junior Overall)<br><br></td>
+    <td> <br>Gold<br><br>3rd &amp; 6th placing<br><br>Champion<br></td>
   </tr>
   <tr>
     <td><b>2016</b><br>Boys' Brigade JM Fraser Award<br><br>Boys Brigade Blaze Team<br><br>13th BB Pipes and Drums Festival (Novice Events and Novice Overall)<br><br></td>
-    <td><br>Gold<br><br>2nd placing<br>Champion</td>
+    <td><br>Gold<br><br>2nd placing<br><br>Champion</td>
   </tr>
   <tr>
     <td><b>2015</b><br>Boys' Brigade JM Fraser Award<br><br>Boys' Brigade Blaze <br><br></td>
@@ -71,8 +71,8 @@ third_nav_title: Co Curricular Achievements
     <td> No Assessment</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>Girls' Brigade Company Award<br><br>Low Guat Tin Challenge<br><br>National Drill Competition<br></td>
-    <td> <br>Gold<br><br>Gold<br><br>Silver</td>
+    <td> <b>2019</b><br>Girls' Brigade Company Award<br><br>Low Guat Tin Challenge<br><br>National Drill Competition<br><br></td>
+    <td> <br>Gold<br><br>Gold<br><br>Silver<br></td>
   </tr>
   <tr>
     <td><b>2018</b><br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>National Drill Competition<br><br>Pioneer Brigadier Brooch Award<br><br></td>
@@ -117,8 +117,8 @@ third_nav_title: Co Curricular Achievements
     <td> Cancelled Due to Covid</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br></td>
-    <td> <br>Gold</td>
+    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br><br></td>
+    <td> <br>Gold<br></td>
   </tr>
   <tr>
     <td> <b>2018</b> <br> SPF-NPCC Award</td>
@@ -133,8 +133,8 @@ third_nav_title: Co Curricular Achievements
     <td><br>Gold<br><br>Harold Lee Feng (4FH)<br><br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br>Unit Overall Proficiency Award<br><br>SPF-NPCC Award<br><br>Annual PHS Air Rifle Competition </td>
-    <td><br>Silver<br><br>Ng Jin Fong<br><br>2nd (Silver)</td>
+    <td><b>2015</b><br>Unit Overall Proficiency Award<br><br>SPF-NPCC Award<br><br>Annual PHS Air Rifle Competition <br><br></td>
+    <td><br>Silver<br><br>Ng Jin Fong<br><br>2nd (Silver)<br><br></td>
   </tr>
   <tr>
     <td> <b>2014</b><br>Unit Overall Proficiency Award <br><br>Total Defence </td>
@@ -163,24 +163,24 @@ third_nav_title: Co Curricular Achievements
     <td> No Assessment</td>
   </tr>
   <tr>
-    <td><b>2019</b><br>Puan Noor Aisha Award<br><br>First Aid &amp; SG Secure (South Division)<br><br>Baden Powell Award<br></td>
-    <td> <br>Gold<br><br>2nd Placing<br><br>Anna Elisabeth (4GR)</td>
+    <td><b>2019</b><br>Puan Noor Aisha Award<br><br>First Aid &amp; SG Secure (South Division)<br><br>Baden Powell Award<br><br></td>
+    <td> <br>Gold<br><br>2nd Placing<br><br>Anna Elisabeth (4GR)<br></td>
   </tr>
   <tr>
     <td><b>2018</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award <br><br><br><br>Wee Kim Wee Challenge<br>(South Division)<br><br></td>
     <td> <br>1st (Gold) <br><br>Teo Lay Sim (4FH)<br>Wang Fang Ting (4LV)<br>Goh Yean Yee Tasha (4GR)<br><br>1st (Gold)</td>
   </tr>
   <tr>
-    <td><b>2017</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award</td>
-    <td><br>1st (Gold) <br><br>Pow Jia Yun (4TH) </td>
+    <td><b>2017</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award<br><br></td>
+    <td><br>1st (Gold) <br><br>Pow Jia Yun (4TH) <br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>Puan Noor Aisha Award</td>
-    <td><br>1st (Gold)</td>
+    <td><b>2016</b><br>Puan Noor Aisha Award<br><br></td>
+    <td><br>1st (Gold)<br><br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br>Puan Noor Aisha Award</td>
-    <td><br>1st (Gold) </td>
+    <td><b>2015</b><br>Puan Noor Aisha Award<br><br></td>
+    <td><br>1st (Gold)<br><br> </td>
   </tr>
   <tr>
     <td><b>2014</b><br>Wee Kim Wee Challenge Shield (Culinary Skills)</td>
@@ -209,8 +209,8 @@ third_nav_title: Co Curricular Achievements
     <td> No Assessment</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br><br>Precision Drill Challenge <br><br>SCDF-NCDCC Pinnacle Badge Award</td>
-    <td> <br>Gold<br><br>2nd placing<br><br>Cheng Ka Wai (4FH)</td>
+    <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br><br>Precision Drill Challenge <br><br>SCDF-NCDCC Pinnacle Badge Award<br><br></td>
+    <td> <br>Gold<br><br>2nd placing<br><br>Cheng Ka Wai (4FH)<br><br></td>
   </tr>
   <tr>
     <td><b>2018</b><br>Unit Overall Proficiency Award <br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge<br><br></td>
@@ -221,8 +221,8 @@ third_nav_title: Co Curricular Achievements
     <td><br>Gold<br><br>Champion<br><br>Champion<br><br>Ting Shao Wei, Jayden (4FH)<br>Amelia Chia Qi Shan (4LV)<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>Unit Overall Proficiency Award<br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge </td>
-    <td><br>Gold<br><br>Champion <br><br>Teh Yew Ming Darren (4 PC)</td>
+    <td><b>2016</b><br>Unit Overall Proficiency Award<br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge <br><br></td>
+    <td><br>Gold<br><br>Champion <br><br>Teh Yew Ming Darren (4 PC)<br><br></td>
   </tr>
   <tr>
     <td><b>2015</b><br>Unit Overall Proficiency Award <br><br></td>
