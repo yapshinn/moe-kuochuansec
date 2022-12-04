@@ -19,7 +19,7 @@ third_nav_title: Co Curricular Achievements
 <tbody>
   <tr>
     <td> <b>2021</b><br><b>Air Rifle (Team)</b><br>B Division Boys<br>B Division Girls<br><br><b>Air Pistol (Team)</b><br>B Division Boys<br>B Division Girls</td>
-    <td> <br><br>16th placing<br>14th placing<br><br><br>14th placing<br>15th placing</td>
+    <td> <br><br>16th placing<br>14th placing<br><br><br>14th placing<br>15th placing<br><br></td>
   </tr>
   <tr>
     <td> <b>2020</b></td>
