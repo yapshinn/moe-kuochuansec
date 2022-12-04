@@ -26,20 +26,20 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>NSG Shooting Championship<br><br><b>Air Rifle (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br><b>Air Pistol (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br></td>
+    <td> <b>2019</b><br><b>NSG Shooting Championship</b><br><br><b>Air Rifle (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br><b>Air Pistol (Team)</b><br>B Division Boys<br>B Division Girls<br>C Division Boys<br>C Division Girls<br><br></td>
     <td> <br><br><br><br>12th placing<br>15th placing<br>12th placing<br>12th placing<br><br><br>11th placing<br>13th placing<br>11th placing<br>7th placing</td>
   </tr>
   <tr>
     <td> <b>2018</b><br><br>NTU Invitational Shoot 2018<br><br>C Division Girls – Team competition<br><br><br>National School Games, Shooting National Championship <br><br>B Division Boys, Air Rifle<br> <br>B Division Girls, Air Pistol </td>
-    <td> <br><br><br><br>2nd position<br><br><br><br><br><br>3rd Ethan Ding (3JY)<br><br>3rd Boo Yi Ting (3FH)</td>
+    <td> <br><br><br><br>2nd position<br><br><br><br><br>3rd Ethan Ding (3JY)<br><br>3rd Boo Yi Ting (3FH)</td>
   </tr>
   <tr>
-    <td><b>2017</b><br>NTU Invitational Shoot<br>B and C Division Boys<br><br><br><br><br><br>National School Games Shooting Championship</td>
-    <td><br>2nd - Joel Wang 4JY<br>3rd - Chloe Chan 2LV<br>2nd - Darius John 2 PC<br><br>9th - Brandon Lim 4JY<br>9th - Natania Lee 3LV<br>11th - Joel Wang 4JY<br>12th - Jomel Cheng 4PC<br>19th - Gabriel Chen 4JY</td>
+    <td><b>2017</b><br>NTU Invitational Shoot<br>B and C Division Boys<br><br><br>National School Games Shooting Championship<br><br></td>
+    <td><br>2nd - Joel Wang 4JY<br>3rd - Chloe Chan 2LV<br>2nd - Darius John 2 PC<br><br>9th - Brandon Lim 4JY<br>9th - Natania Lee 3LV<br>11th - Joel Wang 4JY<br>12th - Jomel Cheng 4PC<br>19th - Gabriel Chen 4JY<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>National Shooting Air Pistol <br>B Division Boys</td>
-    <td><br>2nd position<br>(Individual )</td>
+    <td><b>2016</b><br>National Shooting Air Pistol <br>B Division Boys<br><br></td>
+    <td><br>2nd position<br>(Individual )<br><br></td>
   </tr>
   <tr>
     <td><b>2015</b><br>Inter-School Shooting <br>Championships<br><br>C Division - Boys (Individual)</td>
@@ -59,20 +59,20 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
   <tr>
-    <td> <b>2019</b><br><b>National Inter-School Swimming Championship</b><br><br>C Division Boys<br>(100m Butterfly) - Joshua Lim Shao Wei - 2LV<br>(200m Butterfly) - Joshua Lim Shao Wei - 2LV<br><br>(100m Butterfly) - Kobe Castor Ramirez - 1FH</td>
-    <td> <br><br><br><br><br>2nd placing<br><br>8th placing<br><br><br>8th placing</td>
+    <td> <b>2019</b><br><b>National Inter-School Swimming Championship</b><br><br>C Division Boys<br>(100m Butterfly) - Joshua Lim Shao Wei - 2LV<br>(200m Butterfly) - Joshua Lim Shao Wei - 2LV<br><br>(100m Butterfly) - Kobe Castor Ramirez - 1FH<br><br></td>
+    <td> <br><br><br><br>2nd placing<br>8th placing<br><br>8th placing<br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br><b>National Inter-School Swimming Championship</b><br>(50m Butterfly)<br> </td>
-    <td><br>8th<br>Shawn Khoo Chen Jun 4LV </td>
+    <td><b>2017</b><br><b>National Inter-School Swimming Championship</b><br>(50m Butterfly)<br> <br></td>
+    <td><br>8th<br>Shawn Khoo Chen Jun 4LV <br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br><b>National Inter-School Swimming Championship</b><br><br>4 Individual<br>5 Team </td>
-    <td><br><br><br><br>Top 8 Events<br>Top 8 Events</td>
+    <td><b>2016</b><br><b>National Inter-School Swimming Championship</b><br><br>4 Individual<br>5 Team <br><br></td>
+    <td><br><br><br>Top 8 Events<br>Top 8 Events</td>
   </tr>
   <tr>
     <td><b>2015</b><br><b>National Inter-School Swimming Championship</b><br><br>(50m Backstroke B Division Girls - Individual)<br> (100m Backstroke B Division Girls - Individual)<br> (200m Individual Medley B Division Girls - Individual)<br> (50m Butterfly B Division Boys - Individual)<br> (100m Butterfly B Division Boys - Individual)</td>
-    <td><br><br><br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events</td>
+    <td><br><br><br>Top 8 Events<br>Top 8 Events<br>Top 8 Events<br>Top 8 Events<br>Top 8 Events</td>
   </tr>
 </tbody>
 </table>
