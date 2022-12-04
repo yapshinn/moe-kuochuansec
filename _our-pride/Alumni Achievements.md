@@ -39,6 +39,29 @@ description: ""
 
 **Ngee Ann Poly's 2022 Graduating Class Award Winners**
 
+<table>
+<thead>
+  <tr>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanSongYi.jpg" alt="TanSongYi.jpg"></th>
+		<td><b>Tan Song Yi</b><br>4 FAITH, Class of 2018</td>
+		<td><b>Course :</b> Diploma in Tourism &amp; Resort Management<br><br><b>Awards :</b><br>Diploma with Merit<br>The Lo&amp;Behold Group Silver Medal &amp; Prize<br>Genting Cruise Lines Prize<br><br><b>Diploma Plus:</b> Certificate in Korean<br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanHuiXuan.jpg" alt="TanHuiXuan.jpg"></td>
+    <td>Tan Hui Xuan, Emily<br>4 LOVE, Class of 2018</td>
+    <td>Course: Diploma in Optometry<br><br>Awards:<br><br>Diploma with Merit<br>Johnson &amp; Johnson Vision Singapore Silver Medal &amp; Prize<br>Eagle Eye Centre Prize<br>Johnson &amp; Johnson Singapore Prize<br>OCUVIQ Prize</td>
+  </tr>
+  <tr>
+    <td> <img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/LowJiaAnn.png" alt="LowJiaAnn.png"></td>
+    <td> Low Jia Xin, Jamie<br>4 FAITH, Class of 2018</td>
+    <td>Course: Diploma in Banking &amp; Finance<br><br>Award: Diploma with Merit</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 
 Contact Us at <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
