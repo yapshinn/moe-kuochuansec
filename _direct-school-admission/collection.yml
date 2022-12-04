@@ -2,4 +2,5 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Language & Humanities/.keep
       - Direct School Admission.md
