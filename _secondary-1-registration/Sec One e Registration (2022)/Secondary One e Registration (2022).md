@@ -47,7 +47,7 @@ We cordially invite you for the **In Conversation: Supporting Your Child in Sec
 
   
 
-Please register at **[this link](https://form.gov.sg/61a97fe2fb55fa0012deebd8)** if you are available to join us. **(LINK DOES NOT WORK)**
+Please register at **[this link](https://form.gov.sg/61a97fe2fb55fa0012deebd8)** if you are available to join us. **<font size=5>(LINK DOES NOT WORK)</font>**
 
   
 
