@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Language & Humanities/What are we looking for?.md
       - Language & Humanities/Introduction & Background.md
       - Language & Humanities/Language & Humanities.md
       - Language & Humanities/.keep
