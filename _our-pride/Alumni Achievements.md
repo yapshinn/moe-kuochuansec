@@ -42,7 +42,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanSongYi.jpg" style="width:75%" alt="TanSongYi.jpg"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Alumni%20Achievements/TanSongYi.jpg" style="width:60%" alt="TanSongYi.jpg"></th>
 		<td><b>Tan Song Yi</b><br>4 FAITH, Class of 2018</td>
 		<td><b>Course :</b> Diploma in Tourism &amp; Resort Management<br><br><b>Awards :</b><br>- Diploma with Merit<br>- The Lo&amp;Behold Group Silver Medal &amp; Prize<br>- Genting Cruise Lines Prize<br><br><b>Diploma Plus:</b> Certificate in Korean<br></td>
   </tr>
