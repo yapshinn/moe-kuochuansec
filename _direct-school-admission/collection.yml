@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - DSA Briefing Materials.md
       - Visual Arts, Design & Media/.keep
       - Visual Arts, Design & Media/Visual Arts, Design & Media.md
       - Visual Arts, Design & Media/Introduction & Background.md
