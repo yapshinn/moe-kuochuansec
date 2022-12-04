@@ -76,3 +76,37 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/basketball.jpg)
+
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 2021<br>NSG South-Zone Basketball Competition <br></td>
+    <td> <br>Cancelled due to COVID-19</td>
+  </tr>
+  <tr>
+    <td> 2020<br>NSG South-Zone Basketball Competition <br></td>
+    <td><br> Cancelled due to COVID-19</td>
+  </tr>
+  <tr>
+    <td> 2019<br>South Zone Inter-school Basketball <br>C Division<br>B Division</td>
+    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br></td>
+  </tr>
+  <tr>
+    <td>2016<br>South Zone Basketball <br>B &amp; C Division</td>
+    <td><br><br>Quarter Finalist</td>
+  </tr>
+  <tr>
+    <td>2014<br>Inter-schools Basketball Championship<br>C Division<br>B Division</td>
+    <td><br><br><br>Top 8<br>Top 8</td>
+  </tr>
+</tbody>
+</table>
