@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Visual Arts, Design & Media/What are we looking for?.md
       - Visual Arts, Design & Media/Introduction & Background.md
       - Visual Arts, Design & Media/Visual Arts, Design & Media.md
       - Visual Arts, Design & Media/.keep
