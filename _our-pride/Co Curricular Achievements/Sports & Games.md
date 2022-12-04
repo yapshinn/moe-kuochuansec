@@ -47,3 +47,32 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/swimming.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2019</b><br><b>National Inter-School Swimming Championship</b><br><br>C Division Boys<br>(100m Butterfly) - Joshua Lim Shao Wei - 2LV<br>(200m Butterfly) - Joshua Lim Shao Wei - 2LV<br><br>(100m Butterfly) - Kobe Castor Ramirez - 1FH</td>
+    <td> <br><br><br><br><br>2nd placing<br><br>8th placing<br><br><br>8th placing</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br><b>National Inter-School Swimming Championship</b><br>(50m Butterfly)<br> </td>
+    <td><br>8th<br>Shawn Khoo Chen Jun 4LV </td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br><b>National Inter-School Swimming Championship</b><br><br>4 Individual<br>5 Team </td>
+    <td><br><br><br><br>Top 8 Events<br>Top 8 Events</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br><b>National Inter-School Swimming Championship</b><br><br>(50m Backstroke B Division Girls - Individual)<br> (100m Backstroke B Division Girls - Individual)<br> (200m Individual Medley B Division Girls - Individual)<br> (50m Butterfly B Division Boys - Individual)<br> (100m Butterfly B Division Boys - Individual)</td>
+    <td><br><br><br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events<br><br>Top 8 Events</td>
+  </tr>
+</tbody>
+</table>
