@@ -169,7 +169,7 @@ third_nav_title: Co Curricular Achievements
 <tbody>
   <tr>
     <td> <b>2021</b><br>Chinese Dance<br>Modern Dance</td>
-    <td> Certificate of Distinction<br>Certificate of Accomplishment</td>
+    <td><br> Certificate of Distinction<br>Certificate of Accomplishment</td>
   </tr>
   <tr>
     <td> <b>2020</b></td>
@@ -181,11 +181,11 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2017</b><br>SYF Central Judging Chinese Dance </td>
-    <td>Distinction<br>Gold </td>
+    <td><br>Distinction<br>Gold </td>
   </tr>
   <tr>
     <td><b>2015</b><br>SYF Central Judging Chinese Dance</td>
-    <td>Distinction<br>Gold</td>
+    <td><br>Distinction<br>Gold</td>
   </tr>
   <tr>
     <td><b>2013</b><br>SYF Central Judging Chinese Dance</td>
@@ -206,11 +206,11 @@ third_nav_title: Co Curricular Achievements
 <tbody>
   <tr>
     <td> <b>2019</b><br>SYF Central Judging <br>Drama<br></td>
-    <td> Certificate of Accomplishment</td>
+    <td> <br>Certificate of Accomplishment</td>
   </tr>
   <tr>
     <td><b>2017</b><br>SYF Central Judging<br>Drama</td>
-    <td>Commendation<br>Bronze</td>
+    <td><br>Commendation<br>Bronze</td>
   </tr>
   <tr>
     <td><b>2015</b><br>SYF Central Judging <br>Drama</td>
@@ -218,7 +218,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2013</b><br>SYF Central Judging <br>Drama</td>
-    <td>Accomplishment<br>Silver</td>
+    <td><br>Accomplishment<br>Silver</td>
   </tr>
 </tbody>
 </table>
