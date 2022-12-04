@@ -41,3 +41,6 @@ third_nav_title: Leadership
   </tr>
 </tbody>
 </table>
+
+
+Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.
