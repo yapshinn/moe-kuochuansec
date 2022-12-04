@@ -4,7 +4,6 @@ permalink: /secondary-1-registration/secondary-one-e-registration-2022/
 description: ""
 third_nav_title: Sec One e Registration (2022)
 ---
-
 ## Secondary One e-Registration (2022)
 
 
@@ -54,4 +53,4 @@ Please register at **[this link](https://form.gov.sg/61a97fe2fb55fa0012deebd8)*
 
 **_Other matters for your attention_**
 
-For your convenience, we have collated all the essential matters that require your attention into the table below. You may also have a look at the [**FAQ**](https://kuochuanpresbyteriansec.moe.edu.sg/secondary-1-registration/faqs) Section for some frequently asked questions.
+For your convenience, we have collated all the essential matters that require your attention into the table below. You may also have a look at the [**FAQ**](https://staging.d38b8pvh8spt44.amplifyapp.com/admission/secondary-1-registration/faqs) Section for some frequently asked questions.
