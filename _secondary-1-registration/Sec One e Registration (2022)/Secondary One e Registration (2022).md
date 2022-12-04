@@ -4,8 +4,6 @@ permalink: /secondary-1-registration/secondary-one-e-registration-2022/
 description: ""
 third_nav_title: Sec One e Registration (2022)
 ---
-
-
 ## Secondary One e-Registration (2022)
 
 
@@ -36,7 +34,7 @@ As a start to your child/ward’s journey as a KCPian, they will be going throug
 
 **UPLOAD VIDEO TO YOUTUBE**
 
-To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation T-shirt for their Juniors. You may refer to the sizing guide found in **[this attachment](https://kuochuanpresbyteriansec.moe.edu.sg/qql/slot/u177/VirtualOpenHouse/S1Registration22/S1PLetter.pdf)** to place an order for your child/ward while you are completing the registration form. There are also some other details involving the Orientation programme e.g. dismissal time, things to bring, attire and payment instructions for T-shirts. Please note that the price of the T-Shirt is $7.
+To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation T-shirt for their Juniors. You may refer to the sizing guide found in **[this attachment](/files/Admissions/S1PLetter.pdf)** to place an order for your child/ward while you are completing the registration form. There are also some other details involving the Orientation programme e.g. dismissal time, things to bring, attire and payment instructions for T-shirts. Please note that the price of the T-Shirt is $7.
 
   
 
@@ -55,4 +53,4 @@ Please register at **[this link](https://form.gov.sg/61a97fe2fb55fa0012deebd8)*
 
 **_Other matters for your attention_**
 
-For your convenience, we have collated all the essential matters that require your attention into the table below. You may also have a look at the [**FAQ**](https://staging.d38b8pvh8spt44.amplifyapp.com/admission/secondary-1-registration/faqs) Section for some frequently asked questions.
+For your convenience, we have collated all the essential matters that require your attention into the table below. You may also have a look at the [**FAQ**](https://staging.d38b8pvh8spt44.amplifyapp.com/secondary-1-registration/faqs) Section for some frequently asked questions.
