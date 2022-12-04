@@ -89,23 +89,23 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
   <tr>
-    <td> <b>2021</b><br>NSG South-Zone Basketball Competition <br></td>
+    <td> <b>2021</b><br><b>NSG South-Zone Basketball Competition </b><br></td>
     <td> <br>Cancelled due to COVID-19</td>
   </tr>
   <tr>
-    <td> <b>2020</b><br>NSG South-Zone Basketball Competition <br></td>
+    <td> <b>2020</b><br><b><b>NSG South-Zone Basketball Competition </b><br></td>
     <td><br> Cancelled due to COVID-19</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>South Zone Inter-school Basketball <br>C Division<br>B Division<br><br></td>
+    <td> <b>2019</b><br><b>South Zone Inter-school Basketball </b><br>C Division<br>B Division<br><br></td>
     <td> <br><br>Quarter Finalist<br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Basketball <br>B &amp; C Division<br><br></td>
+    <td><b>2016</b><br><b>South Zone Basketball </b><br>B &amp; C Division<br><br></td>
     <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2014</b><br>Inter-schools Basketball Championship<br>C Division<br>B Division</td>
+    <td><b>2014</b><br><b>Inter-schools Basketball Championship</b><br>C Division<br>B Division</td>
     <td><br><br>Top 8<br>Top 8</td>
   </tr>
 </tbody>
