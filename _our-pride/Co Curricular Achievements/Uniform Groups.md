@@ -142,3 +142,49 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/girl%20guide.jpg)
+
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>2021</b></td>
+    <td> Awaiting Assessment Results</td>
+  </tr>
+  <tr>
+    <td><b>2020</b></td>
+    <td> No Assessment</td>
+  </tr>
+  <tr>
+    <td><b>2019</b><br>Puan Noor Aisha Award<br><br>First Aid &amp; SG Secure (South Division)<br><br>Baden Powell Award<br></td>
+    <td> <br>Gold<br><br>2nd Placing<br><br>Anna Elisabeth (4GR)</td>
+  </tr>
+  <tr>
+    <td><b>2018</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award <br><br><br><br><br><br>Wee Kim Wee Challenge<br>(South Division)<br><br></td>
+    <td> <br>1st (Gold) <br><br>Teo Lay Sim (4FH)<br>Wang Fang Ting (4LV)<br>Goh Yean Yee Tasha (4GR)<br><br><br><br>1st (Gold)</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award</td>
+    <td><br>1st (Gold) <br><br>Pow Jia Yun (4TH) </td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>Puan Noor Aisha Award</td>
+    <td><br>1st (Gold)</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>Puan Noor Aisha Award</td>
+    <td><br>1st (Gold) </td>
+  </tr>
+  <tr>
+    <td><b>2014</b><br>Wee Kim Wee Challenge Shield (Culinary Skills)</td>
+    <td><br>1st (Gold)</td>
+  </tr>
+</tbody>
+</table>
