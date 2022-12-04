@@ -97,16 +97,16 @@ third_nav_title: Co Curricular Achievements
     <td><br> Cancelled due to COVID-19</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>South Zone Inter-school Basketball <br>C Division<br>B Division</td>
-    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br></td>
+    <td> <b>2019</b><br>South Zone Inter-school Basketball <br>C Division<br>B Division<br><br></td>
+    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Basketball <br>B &amp; C Division</td>
-    <td><br><br>Quarter Finalist</td>
+    <td><b>2016</b><br>South Zone Basketball <br>B &amp; C Division<br><br></td>
+    <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
     <td><b>2014</b><br>Inter-schools Basketball Championship<br>C Division<br>B Division</td>
-    <td><br><br><br>Top 8<br>Top 8</td>
+    <td><br><br>Top 8<br>Top 8</td>
   </tr>
 </tbody>
 </table>
@@ -130,20 +130,20 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>National School Games<br>B Division Boys</td>
-    <td> <br><br>Qualified for League 3</td>
+    <td> <b>2019</b><br>National School Games<br>B Division Boys<br><br></td>
+    <td> <br><br>Qualified for League 3<br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br>South Zone Football</td>
-    <td><br>3rd placing </td>
+    <td><b>2017</b><br>South Zone Football<br><br></td>
+    <td><br>3rd placing <br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Football<br>B Division</td>
-    <td><br><br>Quarter Finalist</td>
+    <td><b>2016</b><br>South Zone Football<br>B Division<br><br></td>
+    <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
     <td><b>2015</b><br>South Zone Football<br>C Division</td>
-    <td><br>Top 8</td>
+    <td><br><br>Top 8</td>
   </tr>
 </tbody>
 </table>
@@ -167,24 +167,24 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>M1 School Challenge League<br>B Division Girls<br><br>Punggol Secondary School Netball Carnival<br>C Division Girls</td>
-    <td> <br><br>2nd placing<br><br><br><br>3rd placing</td>
+    <td> <b>2019</b><br>M1 School Challenge League<br>B Division Girls<br><br>Punggol Secondary School Netball Carnival<br>C Division Girls<br><br></td>
+    <td> <br><br>2nd placing<br><br><br>3rd placing<br><br></td>
   </tr>
   <tr>
-    <td> <b>2018</b><br>South Zone Netball <br>B Division Girls </td>
-    <td> <br><br>3rd position</td>
+    <td> <b>2018</b><br>South Zone Netball <br>B Division Girls <br><br></td>
+    <td> <br><br>3rd position<br><br></td>
   </tr>
   <tr>
-    <td><b>2017</b><br>South Zone Netball<br>B Division</td>
-    <td> <br><br>Quarter Finalist</td>
+    <td><b>2017</b><br>South Zone Netball<br>B Division<br><br></td>
+    <td> <br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2016</b><br>South Zone Netball<br>B Division</td>
-    <td><br><br>Quarter Finalist</td>
+    <td><b>2016</b><br>South Zone Netball<br>B Division<br><br></td>
+    <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br><br>Inter-School Netball<br>Championship - B girls</td>
-    <td><br><br><br>Top 8</td>
+    <td><b>2015</b><br><br>Inter-School Netball<br>Championship - B girls<br><br></td>
+    <td><br><br><br>Top 8<br><br></td>
   </tr>
   <tr>
     <td><b>2014</b><br><br> Inter-School Netball<br>Championship - B Girls</td>
@@ -217,11 +217,11 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2016</b><br>Annual Badminton South Zone Competitions<br><br> Wee Kim Wee Cup 2016</td>
-    <td><br>Represent School<br><br><br>Represent School</td>
+    <td><br>Represent School<br><br>Represent School</td>
   </tr>
   <tr>
     <td><b>2014</b><br>South Zone Badminton Championship<br><br>B Boys<br>C Boys</td>
-    <td>South Zone Sportsmanship<br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
+    <td>South Zone Sportsmanship<br><br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
   </tr>
 </tbody>
 </table>
@@ -245,16 +245,16 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended<br></td>
   </tr>
   <tr>
-    <td> <b>2019</b><br><b>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team<br></td>
-    <td> <br><br>4th placing<br>4th placing</td>
+    <td> <b>2019</b><br><b>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team<br><br></td>
+    <td> <br><br>4th placing<br>4th placing<br></td>
   </tr>
   <tr>
-    <td><b>2018</b><br><b>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team</td>
-    <td><br><br>4th Placing<br>4th Placing </td>
+    <td><b>2018</b><br><b>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team<br><br></td>
+    <td><br><br>4th Placing<br>4th Placing <br><br></td>
   </tr>
   <tr>
 		<td><b>2017</b><br><b>South Zone Table Tennis</b><br>B Division Girls' Team</td>
-    <td><br>4th Placing</td>
+    <td><br><br>4th Placing</td>
   </tr>
 </tbody>
 </table>
@@ -279,8 +279,8 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td><b>2019</b><br> <b>Singapore (VAS)  National Championship</b><br>Under-14 Boys <br><br><b>South Zone Inter-school Championship</b><br><br>C Division Boys<br><br><b>Chung Cheng High (Yishun) - Invitation Volleyball Championship</b><br><br>Under-14 Boys<br></td>
-    <td><br><br>4th Placing<br>  <br><br><br>2nd placing<br><br><br><br><br>2nd placing</td>
+    <td><b>2019</b><br> <b>Singapore (VAS)  National Championship</b><br>Under-14 Boys <br><br><b>South Zone Inter-school Championship</b><br><br>C Division Boys<br><br><b>Chung Cheng High (Yishun) - Invitation Volleyball Championship</b><br><br>Under-14 Boys<br><br><br></td>
+    <td><br><br>4th Placing<br>  <br><br><br>2nd placing<br><br><br><br><br>2nd placing<br><br></td>
   </tr>
   <tr>
     <td>2018<br><b>Singapore (VAS)  National Championship</b><br>Under-13 Boys <br></td>
