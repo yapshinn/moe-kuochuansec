@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Leadership/.keep
       - Language & Humanities/.keep
       - Language & Humanities/Language & Humanities.md
       - Language & Humanities/Introduction & Background.md
