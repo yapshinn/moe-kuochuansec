@@ -50,7 +50,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td>National Inter-School Wushu Championship<br>(Individual - C Boys)<br><br><br></td>
-    <td>1. Ryan Chua Kee - 2 LV<br><br>i. 5-Duan Nanquan - 4th<br>ii.Nan Dao (1st International) - 5th<br>iii.5-Duan Cudgel - 5th<br><br>2. Ang Wei Xuan, Justine - 1FH<br>i. 5-Duan Cudgel - 6th<br>ii. 5-Duan Broadsward - 6th</td>
+    <td>1. Ryan Chua Kee - 2 LV<br>i. 5-Duan Nanquan - 4th<br>ii.Nan Dao (1st International) - 5th<br>iii.5-Duan Cudgel - 5th<br><br>2. Ang Wei Xuan, Justine - 1FH<br>i. 5-Duan Cudgel - 6th<br>ii. 5-Duan Broadsward - 6th</td>
   </tr>
   <tr>
     <td>National Inter-School Golf Championship<br>(Individual - C Division)</td>
