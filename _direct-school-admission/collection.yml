@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Visual Arts, Design & Media/Visual Arts, Design & Media.md
       - Visual Arts, Design & Media/.keep
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
