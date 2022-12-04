@@ -167,8 +167,8 @@ third_nav_title: Co Curricular Achievements
     <td> <br>Gold<br><br>2nd Placing<br><br>Anna Elisabeth (4GR)</td>
   </tr>
   <tr>
-    <td><b>2018</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award <br><br><br><br><br><br>Wee Kim Wee Challenge<br>(South Division)<br><br></td>
-    <td> <br>1st (Gold) <br><br>Teo Lay Sim (4FH)<br>Wang Fang Ting (4LV)<br>Goh Yean Yee Tasha (4GR)<br><br><br><br>1st (Gold)</td>
+    <td><b>2018</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award <br><br><br><br>Wee Kim Wee Challenge<br>(South Division)<br><br></td>
+    <td> <br>1st (Gold) <br><br>Teo Lay Sim (4FH)<br>Wang Fang Ting (4LV)<br>Goh Yean Yee Tasha (4GR)<br><br>1st (Gold)</td>
   </tr>
   <tr>
     <td><b>2017</b><br>Puan Noor Aisha Award<br><br>Baden Powell Award</td>
@@ -210,7 +210,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2019</b><br>Unit Overall Proficiency Award (2018)<br><br>Precision Drill Challenge <br><br>SCDF-NCDCC Pinnacle Badge Award</td>
-    <td> <br>Gold<br><br><br>2nd placing<br><br>Cheng Ka Wai (4FH)</td>
+    <td> <br>Gold<br><br>2nd placing<br><br>Cheng Ka Wai (4FH)</td>
   </tr>
   <tr>
     <td><b>2018</b><br>Unit Overall Proficiency Award <br><br>Precision Drill Challenge <br><br>SCDF – NCDCC Badge<br><br></td>
