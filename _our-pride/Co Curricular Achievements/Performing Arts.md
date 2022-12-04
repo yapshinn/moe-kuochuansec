@@ -144,11 +144,11 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2017</b><br>SYF Central Judging<br>Choir</td>
-    <td>Distinction <br>Gold</td>
+    <td><br>Distinction <br>Gold</td>
   </tr>
   <tr>
     <td><b>2015</b><br>SYF Central Judging<br>Choir</td>
-    <td>Accomplishment <br>Silver</td>
+    <td><br>Accomplishment <br>Silver</td>
   </tr>
   <tr>
     <td><b>2013</b><br>SYF Central Judging<br>Choir</td>
