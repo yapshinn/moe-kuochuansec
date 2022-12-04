@@ -147,3 +147,48 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/Netball.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>M1 School Challenge League<br>B Division Girls<br><br>Punggol Secondary School Netball Carnival<br>C Division Girls</td>
+    <td> <br><br>2nd placing<br><br><br><br>3rd placing</td>
+  </tr>
+  <tr>
+    <td> <b>2018</b><br>South Zone Netball <br>B Division Girls </td>
+    <td> <br><br>3rd position</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>South Zone Netball<br>B Division</td>
+    <td> <br><br>Quarter Finalist</td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>South Zone Netball<br>B Division</td>
+    <td><br><br>Quarter Finalist</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br><br>Inter-School Netball<br>Championship - B girls</td>
+    <td><br><br><br>Top 8</td>
+  </tr>
+  <tr>
+    <td><b>2014</b><br><br> Inter-School Netball<br>Championship - B Girls</td>
+    <td><br><br><br>Top 8 </td>
+  </tr>
+</tbody>
+</table>
