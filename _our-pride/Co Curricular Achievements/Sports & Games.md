@@ -89,24 +89,61 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
   <tr>
-    <td> 2021<br>NSG South-Zone Basketball Competition <br></td>
+    <td> <b>2021</b><br>NSG South-Zone Basketball Competition <br></td>
     <td> <br>Cancelled due to COVID-19</td>
   </tr>
   <tr>
-    <td> 2020<br>NSG South-Zone Basketball Competition <br></td>
+    <td> <b>2020</b><br>NSG South-Zone Basketball Competition <br></td>
     <td><br> Cancelled due to COVID-19</td>
   </tr>
   <tr>
-    <td> 2019<br>South Zone Inter-school Basketball <br>C Division<br>B Division</td>
+    <td> <b>2019</b><br>South Zone Inter-school Basketball <br>C Division<br>B Division</td>
     <td> <br><br>Quarter Finalist<br>Quarter Finalist<br></td>
   </tr>
   <tr>
-    <td>2016<br>South Zone Basketball <br>B &amp; C Division</td>
+    <td><b>2016</b><br>South Zone Basketball <br>B &amp; C Division</td>
     <td><br><br>Quarter Finalist</td>
   </tr>
   <tr>
-    <td>2014<br>Inter-schools Basketball Championship<br>C Division<br>B Division</td>
+    <td><b>2014</b><br>Inter-schools Basketball Championship<br>C Division<br>B Division</td>
     <td><br><br><br>Top 8<br>Top 8</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/soccer.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td><b> 2020</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>National School Games<br>B Division Boys</td>
+    <td> <br><br>Qualified for League 3</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>South Zone Football</td>
+    <td><br>3rd placing </td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>South Zone Football<br>B Division</td>
+    <td><br><br>Quarter Finalist</td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>South Zone Football<br>C Division</td>
+    <td><br>Top 8</td>
   </tr>
 </tbody>
 </table>
