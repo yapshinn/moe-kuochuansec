@@ -220,7 +220,7 @@ third_nav_title: Co Curricular Achievements
     <td><br>Represent School<br><br>Represent School</td>
   </tr>
   <tr>
-    <td><b>2014</b><br>South Zone Badminton Championship<br><br>B Boys<br>C Boys</td>
+    <td><b>2014</b><br><b>South Zone Badminton Championship</b><br><br>B Boys<br>C Boys</td>
     <td>South Zone Sportsmanship<br><br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
   </tr>
 </tbody>
