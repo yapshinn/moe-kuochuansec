@@ -51,3 +51,48 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/girls%20brigade.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 2021</td>
+    <td> Awaiting Assessment Results</td>
+  </tr>
+  <tr>
+    <td> 2020</td>
+    <td> No Assessment</td>
+  </tr>
+  <tr>
+    <td> 2019<br>Girls' Brigade Company Award<br><br>Low Guat Tin Challenge<br><br>National Drill Competition<br></td>
+    <td> <br>Gold<br><br>Gold<br><br>Silver</td>
+  </tr>
+  <tr>
+    <td>2018<br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>National Drill Competition<br><br>Pioneer Brigadier Brooch Award<br><br></td>
+    <td> <br><br><br><br>Gold<br><br>Silver<br><br>Ong Wei Ning Renee (4FH)</td>
+  </tr>
+  <tr>
+    <td>2017<br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>Low Guat Tin Competition<br><br></td>
+    <td><br><br><br><br>Gold<br><br>Silver</td>
+  </tr>
+  <tr>
+    <td>2016<br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>National Drill Competition<br><br></td>
+    <td><br><br><br><br>Gold<br><br>Gold</td>
+  </tr>
+  <tr>
+    <td>2015<br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>Low Guat Tin Challenge<br><br></td>
+    <td><br><br><br><br>1st (Gold)<br><br>4 Gold 1 Silver</td>
+  </tr>
+  <tr>
+    <td>2014<br>Sustained 10 Year Gold Achievement Award<br><br>Girls' Brigade Company Award<br><br>National Drill Competition</td>
+    <td> <br><br><br><br>Gold<br><br>Champion- Gold</td>
+  </tr>
+</tbody>
+</table>
