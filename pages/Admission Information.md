@@ -47,12 +47,12 @@ Eligibility for Higher Mother Tongue Language (HMTL) in Sec School
 <table>
 <thead>
   <tr>
-    <td>Students are eligible to take up HMTL from S1 onwards if they have:<br><br>  - PSLE Score of 8 or better; OR<br> -  PSLE Score of 9 to 14 inclusive; and attain AL1/AL2 in MTL or Distinction/Merit in HMTL<br></td>
+    <td>Students are eligible to take up HMTL from S1 onwards if they have:<br><br>  - PSLE Score of 8 or better; OR<br> -  PSLE Score of 9 to 14 inclusive; and attain AL1/AL2 in MTL or Distinction/Merit in HMTL<br><br></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Kuo Chuan Presbyterian Secondary School offers HCL and HTL, while HML is offered at designated centres.</td>
+    <td>Kuo Chuan Presbyterian Secondary School offers HCL and HTL, while HML is offered at designated centres.<br><br></td>
   </tr>
   <tr>
 		<td><i><u>Additional Information:</u></i> If your child obtains a grade of A1 to C6 for both English and HMTL at GCE ‘O’ Level Examination and qualifies for admission to a Junior College (JC/Millennia Institute (MI), they will be given a concession of two points in their application to the JC/MI of their choice through the Joint Admissions Exercise (JAE).</td>
