@@ -10,7 +10,7 @@ description: ""
 <thead>
   <tr>
     <td>Ask N Learn</td>
-    <td><a href="https://lms.asknlearn.com/KCPSS/login.aspx">https://lms.asknlearn.com/KCPSS/login.aspx</a></td>
+    <td><a href="https://lms.asknlearn.com/KCPSS/login.aspx">https://lms.asknlearn.com/KCPSS/login.aspx</a><br><b><font size=4>LINK IS BROKEN</font></b></td>
     <td>(login info will be given to students)</td>
   </tr>
 </thead>
