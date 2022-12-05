@@ -18,8 +18,7 @@ We hope that you will find this resource helpful to you.
 
   
 
-With regards
-
+With regards<br>
 Imm Ki and Abby Choo
 
   
