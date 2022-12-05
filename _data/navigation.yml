@@ -54,8 +54,28 @@ links:
       - title: FAQ
         url: /admission/faq/
   - title: Useful Links
-    url: /permalink
-    sublinks: []
+    url: http://www.moe.gov.sg/
+    sublinks:
+      - title: MOE Weblink
+        url: http://www.moe.gov.sg/
+      - title: SG Schools Sports Councils
+        url: http://sssc.schoolsports.sg/
+      - title: SEAB
+        url: http://www.seab.gov.sg/
+      - title: Pacific Bookstores
+        url: http://www.pacificbookstores.com/
+      - title: Contact Us
+        url: /about-kcpss/contact-us/
+      - title: For Teachers
+        url: /useful-links/for-teachers/
+      - title: OPAC
+        url: https://schoolibrary.moe.edu.sg/kuochuanpresbyteriansec
+      - title: School eResource Repository
+        url: https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: Parents
+        url: /parents/
+      - title: Others (Not yet done)
+        url: /permalink
   - title: Virtual Open House
     url: /permalink
     sublinks: []
