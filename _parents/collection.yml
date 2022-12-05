@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - PDLP.md
-      - Parents in Education (PiE).md
-      - Weblinks.md
-      - Cyberwellness.md
-      - Parent Support Group.md
       - Parents.md
+      - Parent Support Group.md
+      - Cyberwellness.md
+      - Weblinks.md
+      - Parents in Education (PiE).md
+      - PDLP.md
