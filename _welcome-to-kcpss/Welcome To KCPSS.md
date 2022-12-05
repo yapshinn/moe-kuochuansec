@@ -25,7 +25,6 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 </tbody>
 </table>
 
-<br><br>
 
 <table>
 <thead>
