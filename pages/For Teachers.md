@@ -22,7 +22,7 @@ description: ""
     <td>RBS <a href="https://rbs.avero-tech.com/login.html">(for Facility Booking)</a></td>
   </tr>
   <tr>
-    <td><a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a></td>
+    <td><a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a><br><b><font size=4>LINK DOES NOT WORK</font></b></td>
     <td><a href="https://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a></td>
     <td><a href="https://ssoe2.moe.edu.sg/">SSOE 2 Service Portal</a></td>
     <td><a href="https://kcpss.adminbreeze.com/">Admin Breeze</a></td>
