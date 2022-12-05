@@ -1,4 +1,5 @@
 collections:
   welcome-to-kcpss:
     output: true
-    order: []
+    order:
+      - Welcome To KCPSS.md
