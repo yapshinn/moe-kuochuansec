@@ -35,8 +35,8 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://kuochuanpresbyteriansec.moe.edu.sg/our-people/our-staff/departments/mathematics">Mathematics</a><br><img src="https://kuochuanpresbyteriansec.moe.edu.sg/pix/spacer.gif" height="45"></td>
-    <td><a href="https://kuochuanpresbyteriansec.moe.edu.sg/our-people/our-staff/departments/humanities">Humanities</a><br><img src="https://kuochuanpresbyteriansec.moe.edu.sg/pix/spacer.gif" height="35"></td>
+    <td><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/mathematics/area-of-focus/">Mathematics</a><br></td>
+    <td><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/humanities/area-of-focus/">Humanities</a><br></td>
   </tr>
 </tbody>
 </table>
