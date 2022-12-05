@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents in Education (PiE).md
       - Weblinks.md
       - Cyberwellness.md
       - Parent Support Group.md
