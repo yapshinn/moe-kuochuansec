@@ -2,8 +2,8 @@ collections:
   welcome-to-kcpss:
     output: true
     order:
-      - Voices of KCPians.md
-      - Webinar Registration.md
-      - Virtual School Tour.md
-      - Overview of School.md
       - Welcome To KCPSS.md
+      - Overview of School.md
+      - Virtual School Tour.md
+      - Webinar Registration.md
+      - Voices of KCPians.md
