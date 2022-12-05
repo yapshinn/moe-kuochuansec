@@ -2,5 +2,6 @@ collections:
   welcome-to-kcpss:
     output: true
     order:
+      - Virtual School Tour.md
       - Overview of School.md
       - Welcome To KCPSS.md
