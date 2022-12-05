@@ -8,6 +8,8 @@ description: ""
 
 Students in KCPSS are equipped with individual learning devices. The students each have an iPad and the teachers leverage on technology to engage students and enrich their learning. Students are also exposed to a wide variety of experiences in schools through enrichments, CCAs, inter-class and school wide activities.
 
+[<center>Our Academic Programme</center>](https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/)
+
 <table>
 <thead>
   <tr>
