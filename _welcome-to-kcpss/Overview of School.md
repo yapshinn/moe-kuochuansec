@@ -13,8 +13,8 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 <table>
 <thead>
   <tr>
-    <th> <iframe allowfullscreen="true" height="299" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2FYZXvzE8tqQB-Fe-ZQYpnSl4tdj-2-AU43QFMbZhP4iqUAkFDpdinZkAfH_z_SzD38AMJS6kH7dx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
-		<th> <iframe allowfullscreen="true" height="299" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAqVLqombhc3Ldes10DnudnYnFdyE11im3JiqKr6TcOsfNIBs39djSUbItZf6OeR1EN3qr_UfUwqoy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
+    <th> <iframe allowfullscreen="true" height="299" width="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2FYZXvzE8tqQB-Fe-ZQYpnSl4tdj-2-AU43QFMbZhP4iqUAkFDpdinZkAfH_z_SzD38AMJS6kH7dx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
+		<th> <iframe allowfullscreen="true" height="299" width="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAqVLqombhc3Ldes10DnudnYnFdyE11im3JiqKr6TcOsfNIBs39djSUbItZf6OeR1EN3qr_UfUwqoy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
   </tr>
 </thead>
 <tbody>
@@ -29,8 +29,8 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 <table>
 <thead>
   <tr>
-    <th><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4nuKq8dcu59FWyndD-g0UINtNdzfsCz8nPXQSD4f7OLLKybOnBB3Q-JpF1HD73gcctJaLycjF5UoM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="250" height="299" allowfullscreen="true"></iframe></th>
-    <th><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSF75GjZftdIV8B8cmNrd7d0ZYZrFhxpQt_dRvjeJAW-tJDJSJHlw6Md3Y02Wv_lAwLRORF4PyKGq1Y/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="250" height="299" allowfullscreen="true"></iframe></th>
+    <th><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4nuKq8dcu59FWyndD-g0UINtNdzfsCz8nPXQSD4f7OLLKybOnBB3Q-JpF1HD73gcctJaLycjF5UoM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="300" height="299" allowfullscreen="true"></iframe></th>
+    <th><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSF75GjZftdIV8B8cmNrd7d0ZYZrFhxpQt_dRvjeJAW-tJDJSJHlw6Md3Y02Wv_lAwLRORF4PyKGq1Y/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="300" height="299" allowfullscreen="true"></iframe></th>
   </tr>
 </thead>
 <tbody>
@@ -44,8 +44,8 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 <table>
 <thead>
   <tr>
-    <th><iframe allowfullscreen="true" height="299" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSKJdYExKNHIdA_Saxr3U2--iINwhV7lQ8VXybnytCPU9A4E9h1pZo-LDzbYU46YbsM4nKMOdNA5Dl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
-    <th><iframe allowfullscreen="true" height="299" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGNw69094zrHuTRCZPHZ8T14Av-A_glVydWT6KzA2aDTXxshM7BTy8UoG0L22JbthlYRUGH20ysaHH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
+    <th><iframe allowfullscreen="true" height="299" width="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSKJdYExKNHIdA_Saxr3U2--iINwhV7lQ8VXybnytCPU9A4E9h1pZo-LDzbYU46YbsM4nKMOdNA5Dl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
+    <th><iframe allowfullscreen="true" height="299" width="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGNw69094zrHuTRCZPHZ8T14Av-A_glVydWT6KzA2aDTXxshM7BTy8UoG0L22JbthlYRUGH20ysaHH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
   </tr>
 </thead>
 <tbody>
