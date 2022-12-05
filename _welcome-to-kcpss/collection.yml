@@ -2,4 +2,5 @@ collections:
   welcome-to-kcpss:
     output: true
     order:
+      - Overview of School.md
       - Welcome To KCPSS.md
