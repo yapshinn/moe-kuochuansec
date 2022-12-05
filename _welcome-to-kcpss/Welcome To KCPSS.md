@@ -40,3 +40,18 @@ Students in KCPSS are equipped with individual learning devices. The students ea
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/c-n-t/area-of-focus/">Craft &amp; Technology</a><br></td>
+    <td><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/mother-tongue/area-of-focus/">Mother Tongue</a><br></td>
+  </tr>
+</tbody>
+</table>
