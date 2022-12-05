@@ -13,8 +13,8 @@ Students in KCPSS are equipped with individual learning devices. The students ea
 <table>
 <thead>
   <tr>
-    <th> </th>
-		<th> </th>
+    <th> <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2FYZXvzE8tqQB-Fe-ZQYpnSl4tdj-2-AU43QFMbZhP4iqUAkFDpdinZkAfH_z_SzD38AMJS6kH7dx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
+		<th> <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAqVLqombhc3Ldes10DnudnYnFdyE11im3JiqKr6TcOsfNIBs39djSUbItZf6OeR1EN3qr_UfUwqoy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></th>
   </tr>
 </thead>
 <tbody>
