@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - School Location.md
       - Contact Information.md
       - Frequently Asked Questions.md
       - Resources.md
