@@ -5,7 +5,7 @@ description: ""
 ---
 ## Virtual Open House
 
-<p><a href="link">
+<p><a href="/virtual-open-house/welcome-to-kcpss/">
 <img src="/images/Virtual%20Open%20House/welcomev2.png">
 </a></p>
 
