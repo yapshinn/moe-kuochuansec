@@ -94,4 +94,4 @@ For your convenience, we have collated all the essential matters that require yo
 </table>
 
 
-Should you need any further clarifications, please feel free to contact the school at kcpss@moe.edu.sg or 62593811. Thank you.
+Should you need any further clarifications, please feel free to contact the school at <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a> or 62593811. Thank you.
