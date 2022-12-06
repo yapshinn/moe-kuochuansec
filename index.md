@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Homepage GIF.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: ""
         - title: Happenings
           description: ""
           url: ""
