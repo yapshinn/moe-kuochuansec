@@ -237,24 +237,24 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
   <tr>
-    <td> 2021<br>B Division Boys<br>B Division Girls<br></td>
+    <td> <b>2021</b><br>B Division Boys<br>B Division Girls<br></td>
     <td> <br>1st Round<br>1st Round</td>
   </tr>
   <tr>
-    <td> 2020<br></td>
+    <td><b> 2020</b><br></td>
     <td> Competition Suspended<br></td>
   </tr>
   <tr>
-    <td> 2019<br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team<br></td>
+    <td> <b>2019<br>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team<br></td>
     <td> <br><br>4th placing<br>4th placing</td>
   </tr>
   <tr>
-    <td>2018<br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team</td>
+    <td><b>2018<br>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team</td>
     <td><br>4th Placing<br>4th Placing </td>
   </tr>
   <tr>
-    <td>2017<br>South Zone Table Tennis<br>B Division Girls' Team</td>
-    <td>4th Placing</td>
+    <td><b>2017<br>South Zone Table Tennis</b><br>B Division Girls' Team</td>
+    <td><br>4th Placing</td>
   </tr>
 </tbody>
 </table>
