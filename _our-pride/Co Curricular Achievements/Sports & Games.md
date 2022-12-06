@@ -167,23 +167,23 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2019</b><br><b>M1 School Challenge League</b><br>B Division Girls<br><br><b>Punggol Secondary School Netball Carnival</b><br>C Division Girls</td>
-    <td> <br><br>2nd placing<br><br><br><br>3rd placing</td>
+    <td> <br><br>2nd placing<br><br><br><br>3rd placing<br><br></td>
   </tr>
   <tr>
     <td> <b>2018<br>South Zone Netball </b><br>B Division Girls </td>
-    <td> <br><br>3rd position</td>
+    <td> <br><br>3rd position<br><br></td>
   </tr>
   <tr>
     <td><b>2017<br>South Zone Netball</b><br>B Division</td>
-    <td> <br>Quarter Finalist</td>
+    <td> <br>Quarter Finalist<br><br><br></td>
   </tr>
   <tr>
     <td><b>2016<br>South Zone Netball</b><br>B Division</td>
-    <td><br>Quarter Finalist</td>
+    <td><br>Quarter Finalist<br><br><br></td>
   </tr>
   <tr>
     <td><b>2015<br><br>Inter-School Netball<br>Championship</b> - B girls</td>
-    <td><br><br>Top 8</td>
+    <td><br><br>Top 8<br><br><br></td>
   </tr>
   <tr>
     <td><b>2014<br><br> Inter-School Netball<br>Championship </b>- B Girls</td>
