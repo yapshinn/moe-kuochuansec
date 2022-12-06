@@ -191,3 +191,37 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/badminton.jpg)
+
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b><br>B Division</td>
+    <td> <br>1st Round</td>
+  </tr>
+  <tr>
+    <td><b>2020</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>B Division<br>C Division<br><br></td>
+    <td> <br>Zonal Group<br>Zonal Group</td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>Annual Badminton South Zone Competitions<br><br> Wee Kim Wee Cup 2016</td>
+    <td><br>Represent School<br><br><br>Represent School</td>
+  </tr>
+  <tr>
+    <td><b>2014<br>South Zone Badminton Championship</b><br><br>B Boys<br>C Boys</td>
+    <td><br>South Zone Sportsmanship<br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
+  </tr>
+</tbody>
+</table>
