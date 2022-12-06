@@ -52,7 +52,7 @@ _We respect and care for others in our school and in our community. We are proud
    3.  Be punctual for all school activities, e.g. flag-raising ceremonies, lessons, pastoral care period, CCA meetings and practices, and all other school organized events and activities.
    4.  Late-comers must report to the General Office. Failure to do so is considered a offence.
    5.  In the event of sudden illness while in school, seek permission from the school authority (Principal, Vice Principal, and HODs) to leave school early or to rest in the school's sick bay.
-    6.  Do not leave the school premises during school hours unless permission is granted by the school authority. Parents will be notified once permission is granted.
+   6.  Do not leave the school premises during school hours unless permission is granted by the school authority. Parents will be notified once permission is granted.
     
 
     
