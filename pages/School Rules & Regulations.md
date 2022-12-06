@@ -67,9 +67,9 @@ _We respect and care for others in our school and in our community. We are proud
    3.  Hand in quality work and assignment and do your corrections promptly.
    4.  Keep the classroom clean at all times. Consumption of food and drinks (except plain water) is not allowed in the classroom.
    5.  Remain in your classroom throughout the lesson. Obtain a permission pass from the teacher and display it prominently before leaving the classroom.
-    6.  Switch off the lights and fans when the classroom is not in use.
-    7.  Move quietly and orderly from one classroom to another during the change of periods.
-    8.  Be responsible for your possessions in school. Refrain from bringing excessive cash or expensive items. The school will not be responsible for the loss of any personal items.
+   6.  Switch off the lights and fans when the classroom is not in use.
+   7.  Move quietly and orderly from one classroom to another during the change of periods.
+   8.  Be responsible for your possessions in school. Refrain from bringing excessive cash or expensive items. The school will not be responsible for the loss of any personal items.
     
 
     
