@@ -41,7 +41,7 @@ _We respect and care for others in our school and in our community. We are proud
     
 
     
- ### Attendance
+### Attendance
 
     
   _We are conscientious and value our time in school._  
