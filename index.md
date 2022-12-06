@@ -21,5 +21,7 @@ sections:
       url: https://www.facebook.com/KCPSShomepage
       image: /images/Open House.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      button: Click Here
 ---
-
