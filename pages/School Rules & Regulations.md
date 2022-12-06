@@ -6,7 +6,7 @@ description: ""
 ## SCHOOL RULES & REGULATIONS
 
 <center>Luke 2:52<br>
-	<i>And Jesus grew in wisdom and stature and in favour with God and men.</i>
+	<i>And Jesus grew in wisdom and stature and in favour with God and men.</i> <br>
 
 One of the deciding characteristics of an excellent and exciting school of choice is the self-discipline that the students exhibit. KCPians are values-driven and principle-centred, who readily maintain high standards in personal conduct, academic and CCA excellence. The rules and regulations are put in place to guide all KCPians towards these goals.</center>
 
