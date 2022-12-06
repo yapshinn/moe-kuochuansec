@@ -31,7 +31,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2018</b><br><br>NTU Invitational Shoot 2018<br><br>C Division Girls – Team competition<br><br><br>National School Games, Shooting National Championship <br><br>B Division Boys, Air Rifle<br> <br>B Division Girls, Air Pistol </td>
-    <td> <br><br><br><br>2nd position<br><br><br><br><br>3rd Ethan Ding (3JY)<br><br>3rd Boo Yi Ting (3FH)</td>
+    <td> <br><br><br><br>2nd position<br><br><br><br><br>3rd Ethan Ding (3JY)<br><br>3rd Boo Yi Ting (3FH)<br><br></td>
   </tr>
   <tr>
     <td><b>2017</b><br>NTU Invitational Shoot<br>B and C Division Boys<br><br><br>National School Games Shooting Championship<br><br></td>
