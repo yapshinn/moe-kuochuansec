@@ -68,17 +68,17 @@ For your convenience, we have collated all the essential matters that require yo
   <tr>
     <td>1</td>
     <td>Purchase of books and uniform</td>
-    <td>The purchase of books and school uniform is through Pacific Bookstores. Please visit them at <a href="https://www.pacificbookstores.com/">this website</a>.<br> <br>We recommended purchasing the following quantities:<br>1.     School white shirt – 1 piece<br>2.     Blue T-shirt – 2 to 3 pieces<br>3.     School shorts / skirts – 2 to 3 pieces<br>4.     Physical Education shorts – 1 to 2 pieces<br> <br>There will be no walk-in purchases at our school bookshop because Safe Management Measures. Our school’s priority is the safety of our students and parents, hence online purchase has been arranged to minimize the risk of infection among students and parents.<br> <br>For your purchases, you can either reserve a date via the portal for collection at our school bookshop or opt for home delivery with a fee. For self-collection option at our school, there are limited collection slots from Monday, 27 December 2021 to Friday, 31 December 2021. As such, you will need to make your online purchase and reservation for collection early.<br> <br>In order to adhere to the Safe Management Measures, the school allows up to a maximum to two persons to enter the school for each collection appointment.<br> <br>For any queries, please contact Pacific Bookstores<br>Email: <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>Contact hotline: 65592269<br> <br>Please note: if you would like to do self-collection, you need to place your order by Friday, 24 December 2021.</td>
+    <td>The purchase of books and school uniform is through Pacific Bookstores. Please visit them at <a href="https://www.pacificbookstores.com/">this website</a>.<br> <br>We recommended purchasing the following quantities:<br>1.     School white shirt – 1 piece<br>2.     Blue T-shirt – 2 to 3 pieces<br>3.     School shorts / skirts – 2 to 3 pieces<br>4.     Physical Education shorts – 1 to 2 pieces<br> <br>There will be <b>no walk-in purchases</b> at our school bookshop because Safe Management Measures. Our school’s priority is the safety of our students and parents, hence online purchase has been arranged to minimize the risk of infection among students and parents.<br> <br>For your purchases, you can either reserve a date via the portal for collection at our school bookshop or opt for home delivery with a fee. For self-collection option at our school, there are limited collection slots from Monday, 27 December 2021 to Friday, 31 December 2021. As such, you will need to make your online purchase and reservation for collection early.<br> <br>In order to adhere to the Safe Management Measures, the school allows up to a <b>maximum to two persons</b> to enter the school for each collection appointment.<br> <br>For any queries, please contact Pacific Bookstores<br>Email: <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>Contact hotline: 65592269<br> <br>Please note: if you would like to do self-collection, you need to place your order by Friday, 24 December 2021.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Dental services for ALL students<br> <br>HPV Vaccination for Female Students</td>
+		<td>Dental services for <b>ALL</b> students<br> <br>HPV Vaccination for <b>Female</b> Students</td>
     <td>To continue with school dental checks...<br><br>...or/and to allow your daughter for HPV vaccination, consent can be done via <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal">this form</a>.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>School Locker Service</td>
-    <td>You can apply for a locker for your child on a first come first served basis.<br>Please read the terms and conditions found in the <a href="https://qrco.de/bcSv9G">link</a> before applying.<br> <br></td>
+    <td>You can apply for a locker for your child on a first come first served basis.<br>Please <b>read</b> the terms and conditions found in the <a href="https://qrco.de/bcSv9G">link</a> before applying.<br> <br></td>
   </tr>
   <tr>
     <td>4</td>
