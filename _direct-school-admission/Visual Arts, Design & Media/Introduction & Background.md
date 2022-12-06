@@ -26,7 +26,7 @@ At the end of the 4-5 years in our M.E.D.I.A Programme, your students will be ab
 
 In addition, students will be able to pick up other soft skills such as teamwork and time management, and be given platforms like major school events and school social media to showcase their work.
 
-**Photography (Under Photography CCA)**
+**<u>Photography (Under Photography CCA)</u>**
 
 Under professional guidance, students in our programme will be able to develop themselves in a variety of photography styles ranging from event to abstract photography. Students will also develop and understand their own creative process and potential as well as a keen eye for visual hierarchy. Through building their own personal portfolio, students will also understand how to create focus and emphasis through storytelling and expression.
 
