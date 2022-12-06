@@ -250,7 +250,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2018<br>South Zone Table Tennis</b><br>C Division Boys Team<br>B Division Girls' Team</td>
-    <td><br>4th Placing<br>4th Placing </td>
+    <td><br><br>4th Placing<br>4th Placing </td>
   </tr>
   <tr>
     <td><b>2017<br>South Zone Table Tennis</b><br>B Division Girls' Team</td>
