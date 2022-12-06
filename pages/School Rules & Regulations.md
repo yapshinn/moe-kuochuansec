@@ -145,8 +145,7 @@ _We respect and care for others in our school and in our community. We are proud
    5.  Keep the canteen clean. Dispose used cans, bottles, plastic bags and other litter into the rubbish bins.
     
 
-    
-   ###  Use of mobile phones / electronic devices
+###  Use of mobile phones / electronic devices
 
     
    _We are focused on our studies and desire to be free from distractions from learning. We are also responsible users of mobile phones and electronic devices._  
