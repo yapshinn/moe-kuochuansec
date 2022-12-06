@@ -217,11 +217,44 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2016</b><br>Annual Badminton South Zone Competitions<br><br> Wee Kim Wee Cup 2016</td>
-    <td><br>Represent School<br><br><br>Represent School</td>
+    <td><br>Represent School<br><br><br>Represent School<br><br></td>
   </tr>
   <tr>
     <td><b>2014<br>South Zone Badminton Championship</b><br><br>B Boys<br>C Boys</td>
     <td><br>South Zone Sportsmanship<br><br>Terry Tan (4TH)<br>Lo Zi Jian (1PC)</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/table%20tennis.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 2021<br>B Division Boys<br>B Division Girls<br></td>
+    <td> <br>1st Round<br>1st Round</td>
+  </tr>
+  <tr>
+    <td> 2020<br></td>
+    <td> Competition Suspended<br></td>
+  </tr>
+  <tr>
+    <td> 2019<br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team<br></td>
+    <td> <br><br>4th placing<br>4th placing</td>
+  </tr>
+  <tr>
+    <td>2018<br>South Zone Table Tennis<br>C Division Boys Team<br>B Division Girls' Team</td>
+    <td><br>4th Placing<br>4th Placing </td>
+  </tr>
+  <tr>
+    <td>2017<br>South Zone Table Tennis<br>B Division Girls' Team</td>
+    <td>4th Placing</td>
   </tr>
 </tbody>
 </table>
