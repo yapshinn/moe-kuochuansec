@@ -97,15 +97,15 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2019<br>South Zone Inter-school Basketball </b><br>C Division<br>B Division</td>
-    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br></td>
+    <td> <br><br>Quarter Finalist<br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
     <td><b>2016<br>South Zone Basketball </b><br>B &amp; C Division</td>
-    <td><br><br>Quarter Finalist</td>
+    <td><br><br>Quarter Finalist<br><br></td>
   </tr>
   <tr>
     <td><b>2014<br>Inter-schools Basketball Championship</b><br>C Division<br>B Division</td>
-    <td><br><br><br>Top 8<br>Top 8<br></td>
+    <td><br><br>Top 8<br>Top 8<br><br></td>
   </tr>
 </tbody>
 </table>
