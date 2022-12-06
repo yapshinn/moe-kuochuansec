@@ -74,8 +74,8 @@ links:
         url: https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       - title: Parents
         url: /parents/
-      - title: Others (Not yet done)
-        url: /permalink
+      - title: For KCPians
+        url: /useful-links/for-kcpians/
   - title: Virtual Open House
     url: /virtual-open-house
     sublinks:
