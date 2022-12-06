@@ -109,3 +109,41 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/The%20Kuo%20Chuan%20Experience/Our%20Pride/Co%20Curricular%20achievements/soccer.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>Competition Name &amp; Year</th>
+    <th>Award Received</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <b>2021</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2020</b></td>
+    <td> Competition Suspended</td>
+  </tr>
+  <tr>
+    <td> <b>2019</b><br>National School Games<br>B Division Boys</td>
+    <td> <br><br>Qualified for League 3</td>
+  </tr>
+  <tr>
+    <td><b>2017</b><br>South Zone Football</td>
+    <td><br>3rd placing <br><br></td>
+  </tr>
+  <tr>
+    <td><b>2016</b><br>South Zone Football<br>B Division</td>
+    <td><br>Quarter Finalist<br><br><br></td>
+  </tr>
+  <tr>
+    <td><b>2015</b><br>South Zone Football<br>C Division</td>
+    <td><br>Top 8<br><br></td>
+  </tr>
+</tbody>
+</table>
+
