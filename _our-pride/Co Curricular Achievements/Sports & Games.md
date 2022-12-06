@@ -167,7 +167,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2019</b><br><b>M1 School Challenge League</b><br>B Division Girls<br><br><b>Punggol Secondary School Netball Carnival</b><br>C Division Girls</td>
-    <td> <br>2nd placing<br><br><br><br>3rd placing<br><br></td>
+    <td> <br><br>2nd placing<br><br><br><br>3rd placing<br><br></td>
   </tr>
   <tr>
     <td> <b>2018<br>South Zone Netball </b><br>B Division Girls </td>
