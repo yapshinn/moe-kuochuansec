@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Kuo Chuan Presbyterian Secondary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -22,3 +22,4 @@ sections:
       image: /images/Open House.jpg
       alt: Image alt text
 ---
+
