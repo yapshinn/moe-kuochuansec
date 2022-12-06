@@ -167,7 +167,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td> <b>2019</b><br><b>M1 School Challenge League</b><br>B Division Girls<br><br><b>Punggol Secondary School Netball Carnival</b><br>C Division Girls</td>
-    <td> <br><br>2nd placing<br><br><br><br>3rd placing<br><br></td>
+    <td> <br>2nd placing<br><br><br><br>3rd placing<br><br></td>
   </tr>
   <tr>
     <td> <b>2018<br>South Zone Netball </b><br>B Division Girls </td>
@@ -217,7 +217,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2016</b><br>Annual Badminton South Zone Competitions<br><br> Wee Kim Wee Cup 2016</td>
-    <td><br>Represent School<br><br><br>Represent School<br><br></td>
+    <td><br>Represent School<br><br>Represent School<br><br></td>
   </tr>
   <tr>
     <td><b>2014<br>South Zone Badminton Championship</b><br><br>B Boys<br>C Boys</td>
@@ -280,7 +280,7 @@ third_nav_title: Co Curricular Achievements
   </tr>
   <tr>
     <td><b>2019<br> Singapore (VAS)  National Championship</b><br>Under-14 Boys <br><br><b>South Zone Inter-school Championship</b><br><br>C Division Boys<br><br><b>Chung Cheng High (Yishun) - Invitation Volleyball Championship</b><br><br>Under-14 Boys<br></td>
-    <td><br><br>4th Placing<br>  <br><br><br>2nd placing<br><br><br><br><br>2nd placing<br><br></td>
+    <td><br><br>4th Placing<br>  <br><br><br>2nd placing<br><br><br><br>2nd placing<br><br></td>
   </tr>
   <tr>
     <td><b>2018<br>Singapore (VAS)  National Championship</b><br>Under-13 Boys <br></td>
