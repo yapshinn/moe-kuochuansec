@@ -3,7 +3,6 @@ title: TIE Schools
 permalink: /our-people/tie-schools/
 description: ""
 ---
-
 ## TIE Schools
 
 ### The Kuo Chuan Trips for International Experience
@@ -32,13 +31,13 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 **Trips for International Experience**
 
 **Korea** <br>
-Upload video to Youtube/Vimeo
+Upload video to Youtube
 
 **China** <br>
-Upload video to Youtube/Vimeo
+Upload video to Youtube
 
 **Cambodia** <br>
-Upload video to Youtube/Vimeo
+Upload video to Youtube
 
 **Vietnam**<br>
-Upload video to Youtube/Vimeo
+Upload video to Youtube
