@@ -178,6 +178,6 @@ The lesson study involved a thorough study on facilitating a structured thinking
 The Literature team shared with fellow Literature educators at the Teacher-led workshop hosted by the Academy of Singapore Teachers in 2021 on the department’s first ever game-based learning strategies enacted in the English Literature classroom to elicit literary discourse and encourage active learning. An innovative approach to teaching literary discourse via an innovative card game was mooted by the Literature team which aims to encourage self-directed learning as well as cooperative learning. This enabled the team to explore the use of game-play to engage learners in an exploratory and collaborative study of poetry to enhance students’ engagement, appreciation and understanding in the Literature classroom.
 
 
-**INSERT VIDEO HERE** <br>
+**UPLOAD VIDEO TO YOUTUBE** <br>
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
