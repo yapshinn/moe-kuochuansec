@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - 2019 May Event and Activities.md
       - 2019 July & August Event and Activities.md
       - 2019 Sept & Oct Event and Activities.md
       - 2019 School Open House.md
