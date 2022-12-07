@@ -6,6 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 ## NCDCC
 
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/NCDCC/NCDCC.jpg)
+
 ### Vision
 
 
