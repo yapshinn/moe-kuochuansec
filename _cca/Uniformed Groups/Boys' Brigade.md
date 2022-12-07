@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ## Boys' Brigade
 
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/boysbrigade.jpg)
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/boysbrigade.jpg)
 
 
 
