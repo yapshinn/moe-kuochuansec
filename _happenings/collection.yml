@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - S2 News Broadcasting.md
       - CCE Day.md
       - Sec 3 Elective Module.md
       - Awards Day.md
