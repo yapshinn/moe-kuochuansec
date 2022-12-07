@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Total Defense Day.md
       - Chinese New Year Celebration.md
       - X Country.md
       - 94th Founders' Day.md
