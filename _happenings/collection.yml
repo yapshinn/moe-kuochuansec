@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - "'O' Level Result Release 2018.md"
       - Sports Commissioning Day.md
       - Total Defense Day.md
       - Chinese New Year Celebration.md
