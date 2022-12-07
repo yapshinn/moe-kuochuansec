@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - 2019 School Open House.md
       - 2020 Jan & Feb Event and Activities.md
       - 2020 August Event and Activities.md
       - 2021 Jan to March Event and Activities.md
