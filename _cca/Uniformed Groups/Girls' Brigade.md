@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ## Girls' Brigade
 
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/girls%20brigade.jpg)
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/girls%20brigade.jpg)
 
 
 ### Vision
@@ -41,6 +41,7 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 
 ### Programmes
 
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **<u>Training</u>**
 
@@ -124,7 +125,11 @@ We participate actively every year in the different types of competition held by
 *   Intensive training camp to prepare school team for upcoming Zonals & Nationals or fun camp for time of bonding and winding down
 
 
+
 ### Teachers-in-Charge
+
+
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Goh Xin Fang<br>
 <a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>
