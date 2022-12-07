@@ -7,9 +7,9 @@ description: ""
 
 These are the DSA talent areas that the school is offering for 2022 admissions. All talent areas are open to both male and female applicants.
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+**UPLOAD VIDEO TO YOUTUBE**
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+**UPLOAD VIDEO TO YOUTUBE**
 
 
 <table>
