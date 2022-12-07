@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Teachers Learning Journey.md
       - 2018 Youth Day Carnival.md
       - 2018 Racial Harmony Day.md
       - 53 National Day Celebration.md
