@@ -93,18 +93,18 @@ Students will be able to:
 
 **SDMA 2016 Entry Video's**
 
-***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE***
 
 
 **SDMA 2015 Entry Video's**
 
 
-***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE***
 
 
 **SDMA 2013 Entry Video's**
 
-***UPLOAD VIDEOS TO YOUTUBE OR VIMEO***
+***UPLOAD VIDEOS TO YOUTUBE***
 
 
 ### Teachers-in-Charge
