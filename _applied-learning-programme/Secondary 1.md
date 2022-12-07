@@ -37,4 +37,6 @@ description: ""
 
 **Geographical Investigation Video**
 
-UPLOAD YOUTUBE/VIMEO VIDEOS HERE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFJFU8pjq3U" title="1  1E Group F   Li Ting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WiyNWuuVPio" title="1  1N Group G   Geographers   Sophia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
