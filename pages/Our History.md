@@ -3,7 +3,6 @@ title: Our History
 permalink: /about-kcpss/our-history/
 description: ""
 ---
-
 ## HISTORY
 
 
@@ -36,4 +35,4 @@ Today the school stands witness to the spirit of our pioneers who, at that time,
 
 **KCPSS Corporate Video**
 
-Upload video to Youtube/Vimeo
+Upload video to Youtube
