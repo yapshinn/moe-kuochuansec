@@ -32,7 +32,7 @@ In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.Â
 
 **<u>Game-based Learning</u>**
 
-**UPLOAD VIDEO TO YOUTUBE/VIMEO TO INSERT INTO SITE**
+**UPLOAD VIDEO TO YOUTUBE TO INSERT INTO SITE**
 
 ![](/images/Our%20People/Departments/Math/Math%20Prog%207.png)
 
