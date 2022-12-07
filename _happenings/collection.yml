@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - CCE Day.md
       - Sec 3 Elective Module.md
       - Awards Day.md
       - Teachers Learning Journey.md
