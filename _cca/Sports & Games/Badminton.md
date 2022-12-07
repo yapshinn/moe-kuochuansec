@@ -65,7 +65,7 @@ The CCA also provides Leadership development where the players are given leaders
 <table>
 <thead>
   <tr>
-    <th colspan="2"><br><br><br>UPLOAD VIDEO TO YOUTUBE OR VIMEO<br><br><br></th>
+    <th colspan="2"><br><br><br>UPLOAD VIDEO TO YOUTUBE <br><br><br></th>
   </tr>
 </thead>
 <tbody>
