@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - 2019 Secondary 1 Orientation Week.md
       - 2019 CNY Celebration.md
       - 2019 March Event and Activities.md
       - 2019 April Event and Activities.md
