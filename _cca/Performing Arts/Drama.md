@@ -91,7 +91,7 @@ In addition, our drama students are taken each year to watch a drama production 
 
 *   Annual Secondary 4 Farewell for our graduating seniors (Nov)
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+**UPLOAD VIDEO TO YOUTUBE**
 
 <br><br>
 
