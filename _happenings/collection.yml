@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Welcome Back to School 2018.md
       - SMMS Visit 2018.md
       - Secondary 1 Orientation.md
       - "'O' Level Result Release 2018.md"
