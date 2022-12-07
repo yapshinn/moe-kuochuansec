@@ -64,7 +64,7 @@ Last but certainly not the least, Football requires **discipline in character**
 * 3-Way Competition  
 * Friendly Games
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+**UPLOAD VIDEO TO YOUTUBE**
 
 ### Teachers-in-Charge
 
