@@ -58,7 +58,7 @@ Robotics  Club is actively inculcating aspiring students who aspire to be futur
 
 **<u>Special Events / Competitions</u>**
 
-**UPLOAD VIDEO TO YOUTUBE OR VIMEO**
+**UPLOAD VIDEO TO YOUTUBE**
 
 <br><br>
 
