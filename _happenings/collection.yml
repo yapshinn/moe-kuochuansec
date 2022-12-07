@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - 2018 Racial Harmony Day.md
       - 53 National Day Celebration.md
       - Teachers' Day Celebration.md
       - Thanksgiving Ceremony.md
