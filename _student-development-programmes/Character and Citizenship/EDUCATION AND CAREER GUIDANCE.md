@@ -169,14 +169,14 @@ Students who would like to explore more about subject choices, inquire about pos
 </thead>
 <tbody>
   <tr>
-    <td>Application Period</td>
+    <th>Application Period</th>
     <td>Late May</td>
     <td>Upon release of N level results [Dec &amp; Jan]</td>
     <td>Upon release of N level results [Dec]</td>
     <td>Upon release of O level results [Jan]</td>
   </tr>
   <tr>
-    <td>Information</td>
+    <th>Information</th>
     <td>Conditional offer based on aptitude and interests prior to receiving GCE N level examination results.</td>
     <td>Refer to DPP website for Eligibility, Courses, Application Process etc.</td>
     <td>Refer to Joint Intake Exercise Booklet for details.<br> </td>
@@ -190,17 +190,17 @@ Students who would like to explore more about subject choices, inquire about pos
 <table>
 <thead>
   <tr>
-    <td>ITE Early Admission Exercise [ITE-EAE]</td>
+    <th>ITE Early Admission Exercise [ITE-EAE]</th>
     <td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a> <b>BROKEN LINK</b> </td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Direct Entry Scheme to Polytechnic Programme [DPP/JIE H]</td>
+    <th>Direct Entry Scheme to Polytechnic Programme [DPP/JIE H]</th>
     <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a> <b>BROKEN LINK</b></td>
   </tr>
   <tr>
-    <td>Polytechnic Foundation Programme [PFP]</td>
+    <th>Polytechnic Foundation Programme [PFP]</th>
 		<td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></td>
   </tr>
 </tbody>
