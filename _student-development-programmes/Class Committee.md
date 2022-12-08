@@ -42,5 +42,5 @@ In an academic year, the Class Peer Leaders attend various Training and Equippin
 
 Class leaders are exposed to&nbsp;various opportunities and experiences. For example, they spearhead the Class Bee-Longing Project to build class spirit and peer support within class.&nbsp;They also work closely with the class in key signature programmes like the school’s annual Youth Day Celebrations.
 
-
+**Class Leadership Activities**
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFS-Rkyh-qo13fiwgtRW0zusBSRYOfw8-iqvLdn0lA5Knf1QCw_iDWthQRcecjOVS5QG7HWU3mdYT_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
