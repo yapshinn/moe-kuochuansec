@@ -7,7 +7,7 @@ third_nav_title: Humanities
 **<center>HUMANITIES DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/Humanities%20Dept%20Teachers.jpg)
+![](/images/Our%20People/Departments/humans.jpg)
 
 
 <table>
