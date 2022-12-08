@@ -16,8 +16,10 @@ Nineteen days after the end of the Japanese Occupation, on 24th September 1945, 
   
 Meanwhile, the boys' school was making rapid progress and in 1949 the first group of students sat for the Cambridge School Cambridge Certificate Examination. The next year, the school was renamed Presbyterian Boys' School. In 1951, Mr. B F Atherton arrived to take over as Principal and when he left in 1958, Mr. Gay Wan Guay succeeded him.
 
+<img src="/images/About%20KCPSS/Our%20History%201.gif"  
+     style="width:55%">
 
-![](/images/About%20KCPSS/Our%20History%201.gif)
+
 
 Progress was also being made in the girls' school. It became a full government-aided school in 1951 and two years later, the first group of students sat for the Cambridge Examination .In line with government policy, Dryburgh English School was merged with Presbyterian Boys' School under Mr Sia Kah Hui who served as principal from 1961 to 1963. Succeeding principals were Mr Wee Choon Siang. Mr Poon Meng Seng, Mr Tan Choong Yan and two Acting Principals.  
   
@@ -25,7 +27,8 @@ In 1970, the schools' sense of identity was given a boost with the adoption of a
   
 In 1972, Miss Sirkett retired after twenty-five years of tireless, fruitful and dedicated service. Succeeding Principals were Mrs Lee Choon Neo from 1972 to 1977, Mrs Mabel Lew from 1978 to 1983 and Madam Kang Swee Chin from 1984 to 1990.
 
-![](/images/About%20KCPSS/Our%20History%202.gif)
+<img src="/images/About%20KCPSS/Our%20History%202.gif"  
+     style="width:55%">
 
 
 The two schools reached another important milestone when in 1985 they were amalgamated into one co-educational full school called Kuo Chuan Presbyterian Secondary School. As the school buildings and facilities had become increasingly inadequate, the next year, the Ministry of Education allocated a new site at Bishan Street 13 to the school. In 1987, the full school developed into two schools, named Kuo Chuan Presbyterian Primary School, headed by Mrs Goh Soo Sim, and Kuo Chuan Presbyterian Secondary School, which continued to be headed by Madam Kang. The Primary School moved to its present site in November 1987 while the secondary school was relocated in June the next year. In January 1991, Mr Low Eng Kee succeeded Madam Kang as principal.  
