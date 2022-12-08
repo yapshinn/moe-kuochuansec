@@ -6,7 +6,7 @@ third_nav_title: PE
 ---
 **<center>PE DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/PE/Physical%20Education%20Department_Fun.jpg)
+![](/images/Our%20People/Departments/pe.jpg)
 
 <table>
 <thead>
