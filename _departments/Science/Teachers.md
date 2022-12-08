@@ -7,7 +7,7 @@ third_nav_title: Science
 **<center>SCIENCE DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/Science/Science%20Dept%20Teachers.jpg)
+![](/images/Our%20People/Departments/sci.jpg)
 
 <table>
 <thead>
