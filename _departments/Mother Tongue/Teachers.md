@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 **<center>MOTHER TONGUE DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/MT/MT%20Teachers.jpg)
+![](/images/Our%20People/Departments/mt.jpg)
 
 <table>
 <thead>
