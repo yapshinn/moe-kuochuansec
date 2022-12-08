@@ -8,7 +8,7 @@ third_nav_title: English
 **<center>A creative and critical thinker, who is a voice for change</center>**
 
 
-![](/images/Our%20People/Departments/English/English%20Dept%20Teachers.jpg)
+![](/images/Our%20People/Departments/el.jpg)
 
 <table>
 <thead>
