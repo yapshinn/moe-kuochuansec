@@ -4,7 +4,6 @@ permalink: /the-kuo-chuan-experience/sd-progs/character-and-citizenship-programm
 description: ""
 third_nav_title: Character and Citizenship
 ---
-
 ## Character and Citizenship Programme
 
 ### Area of Focus
@@ -101,13 +100,13 @@ The programme will target students who have an interest to understand more about
 <thead>
   <tr>
     <td>Mr. Pandiyan Govindaraju (HOD/ CCE)</td>
-    <td>pandiyan_govindaraju@schools.gov.sg</td>
+    <td><a href="mailto:pandiyan_govindaraju@schools.gov.sg">pandiyan_govindaraju@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Mdm. Abby Choo Choy Joo (SH/ VIA)</td>
-    <td>choo_choy_joo@schools.gov.sg</td>
+    <td><a href="mailto:choo_choy_joo@schools.gov.sg">choo_choy_joo@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -123,35 +122,35 @@ The programme will target students who have an interest to understand more about
 <tbody>
   <tr>
     <td>Mr. Ng Chee Kian</td>
-    <td>ng_chee_kian@schools.gov.sg</td>
+    <td><a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Lee Chong Min</td>
-    <td>lee_chong_min@schools.gov.sg</td>
+    <td><a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Lee Hwee Ling, Grace</td>
-    <td>lee_hwee_ling_grace@schools.gov.sg</td>
+    <td><a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Ng Yin yee</td>
-    <td>ng_yin_yee@schools.gov.sg</td>
+    <td><a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Nor'Aliah Abdul Samad</td>
-    <td>noraliah_abdul_samad@schools.gov.sg</td>
+    <td><a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Nur Diyanah Mohammad Suhaimi</td>
-    <td>nur_diyanah_mohammad_suhai@schools.gov.sg</td>
+    <td><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Joey Hong (Counsellor)</td>
-    <td>joey_hong@schools.gov.sg</td>
+    <td><a href="mailto:joey_hong@schools.gov.sg">joey_hong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Yew Yishen</td>
-    <td>yew_yishen@schools.gov.sg</td>
+    <td><a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
