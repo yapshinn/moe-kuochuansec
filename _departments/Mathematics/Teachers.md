@@ -6,7 +6,7 @@ third_nav_title: Mathematics
 ---
 **<center>MATHEMATICS DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/Math/Mathematics%20Department_Fun.jpg)
+![](/images/Our%20People/Departments/math.jpg)
 
 <table>
 <thead>
