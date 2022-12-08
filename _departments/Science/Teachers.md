@@ -53,10 +53,7 @@ third_nav_title: Science
     <td>Ms. Lim Zi Min</td>
     <td><a href="mailto:Lim_Zi_min@schools.gov.sg">Lim_Zi_min@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>Mrs. Sarah Lim</td>
-    <td><a href="mailto:tan_hui_en_sarah@schools.gov.sg">tan_hui_en_sarah@schools.gov.sg</a></td>
-  </tr>
+  
   <tr>
     <td>Ms. Tan Hui Si</td>
     <td><a href="mailto:Tan_Hui_Si@schools.gov.sg">Tan_Hui_Si@schools.gov.sg</a></td>
