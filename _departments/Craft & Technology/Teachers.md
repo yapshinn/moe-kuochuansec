@@ -7,7 +7,7 @@ third_nav_title: Craft & Technology
 **<center>CRAFT & TECHNOLOGY DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/Craft%20&%20Technology/Craft%20&%20Technology%20Department_Fun.jpg)
+![](/images/Our%20People/Departments/cnt.jpg)
 
 <table>
 <thead>
