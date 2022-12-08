@@ -3,10 +3,11 @@ title: Our Values
 permalink: /about-kcpss/our-values/
 description: ""
 ---
-
 ## OUR VALUES
 
-![](/images/About%20KCPSS/Values.png)
+<img src="/images/About%20KCPSS/Values.png"  
+     style="width:75%">
+
 
 **God-fearing**  
 We believe in the Creator God who watches over us and guides our every action, thought and speech - integrity, humility, love and respect for others - through a reverential relationship with God.  
