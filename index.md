@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Happenings
           description: ""
-          url: ""
+          url: /others/happenings
   - infopic:
       title: Open House
       button: Click Here For FacebooK
