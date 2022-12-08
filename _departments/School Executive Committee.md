@@ -10,17 +10,17 @@ description: ""
 **School Leaders**
 
 <p><a href="mailto:Justin_TAN@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
 </a></p>
 
 
 <p><a href="mailto:Lee_Chui_Eng@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%202.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%202.png">
 </a></p>
 
 
 <p><a href="mailto:Edmund_TIN@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
 </a></p>
 
 <br><br><br><br><br>
@@ -28,57 +28,57 @@ description: ""
 **Head of Department**
 
 <p><a href="mailto:yeo_li_li_clara@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%204.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%204.png">
 </a></p>
 
 <p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%205.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%205.png">
 </a></p>
 
 <p><a href="mailto:chua_chee_yong@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%206.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%206.png">
 </a></p>
 
 <br><br><br><br><br>
 
 <p><a href="mailto:genevieve_tan_hui_hong@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%207.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%207.png">
 </a></p>
 
 <p><a href="mailto:samboo_elaine_natalie@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%208.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%208.png">
 </a></p>
 
 
 <p><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%209.png">
 </a></p>
 
 <br><br><br><br><br>
 
 <p><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2010.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2010.png">
 </a></p>
 
 
 <p><a href="mailto:tan_lay_hiok@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2011.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2011.png">
 </a></p>
 
 
 <p><a href="mailto:dorothy_tay_wyn_hui@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2012.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2012.png">
 </a></p>
 
 <br><br><br><br><br>
 
 <p><a href="mailto:goh_boon_loon@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2013.png">
 </a></p>
 
 
 <p><a href="mailto:pandiyan_govindaraju@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2014.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2014.png">
 </a></p>
 
 <br><br><br><br><br>
@@ -87,26 +87,26 @@ description: ""
 
 
 <p><a href="">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2015.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2015.png">
 </a></p>
 
 <p><a href="mailto:ng_soon_chye@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2016.png">
 </a></p>
 
 
 <p><a href="mailto:yap_shinn@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2017.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2017.png">
 </a></p>
 
 <br><br><br><br><br>
 
 <p><a href="mailto:png_siew_hoon@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2018.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2018.png">
 </a></p>
 
 <p><a href="mailto:Jazlyn_Chua@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2019.png">
 </a></p>
 
 
@@ -115,14 +115,14 @@ description: ""
 **Admin & Operation**
 
 <p><a href="mailto:OH_Poh_Lay@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2020.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2020.png">
 </a></p>
 
 <p><a href="mailto:maram_subramaniam@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2021.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2021.png">
 </a></p>
 
 
 <p><a href="mailto:Mahendran_Paramasivam_alex@schools.gov.sg">
-<img style="width:25%;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2022.png">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2022.png">
 </a></p>
