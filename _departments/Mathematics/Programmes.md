@@ -17,6 +17,8 @@ In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.Â
 ![](/images/Our%20People/Departments/Math/Math%20Prog%201.png)
 
 **<u>Activity-based Learning</u>**
+
+![](/images/Our%20People/Departments/Math/Math%20Prog%202%20(1).jpg)
 ![](/images/Our%20People/Departments/Math/Math%20Prog%202.jpg)
 ![](/images/Our%20People/Departments/Math/Math%20Prog%203.png)
 
