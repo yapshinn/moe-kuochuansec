@@ -11,21 +11,21 @@ third_nav_title: IT
 <thead>
   <tr>
     <td>Ms Tan Lay Hiok, Faye (Head of Department/ICT)</td>
-    <td>tan_lay_hiok@schools.gov.sg</td>
+    <td><a href="mailto:tan_lay_hiok@schools.gov.sg">tan_lay_hiok@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Mr Gunasegaran Kuppusamy (ICT Associates)</td>
-    <td>gunasegaran_al_kuppusamy@schools.gov.sg</td>
+    <td><a href="mailto:gunasegaran_al_kuppusamy@schools.gov.sg">gunasegaran_al_kuppusamy@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr Lok Shui Onn (AV Media Support officer)</td>
-    <td>lok_shui_onn@schools.gov.sg</td>
+    <td><a href="mailto:lok_shui_onn@schools.gov.sg">lok_shui_onn@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr Mohd. Hafiz (Desktop Engineer)</td>
-    <td>g-ncs7028sde@ncs.com.sg</td>
+    <td><a href="mailto:g-ncs7028sde@ncs.com.sg">g-ncs7028sde@ncs.com.sg</a></td>
   </tr>
 </tbody>
 </table>
