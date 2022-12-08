@@ -3,6 +3,10 @@ title: Student Leadership Board
 permalink: /the-kuo-chuan-experience/student-development-programmes/student-leadership-board/
 description: ""
 ---
+<iframe width="853" height="480" src="https://www.youtube.com/embed/3jr2L2po1xI" title="The Student Leaders Investiture and Dedication (SLID) Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ### Mission
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/Student%20Leadership%20Board%20Mission.jpg)
