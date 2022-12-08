@@ -13,61 +13,61 @@ third_nav_title: Science
 <thead>
   <tr>
     <td>Mr. Rene Yeo (HOD/ Science)</td>
-    <td>yeo_chong_keat_rene@schools.gov.sg</td>
+    <td><a href="mailto:yeo_chong_keat_rene@schools.gov.sg">yeo_chong_keat_rene@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Mrs. Dorothy Goh (Year Head / Lower Sec)</td>
-    <td>dorothy_tay_wyn_hui@schools.gov.sg</td>
+    <td><a href="mailto:dorothy_tay_wyn_hui@schools.gov.sg">dorothy_tay_wyn_hui@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Su Weizhi</td>
-    <td>Su_weizhi@schools.gov.sg</td>
+    <td><a href="mailto:Su_weizhi@schools.gov.sg">Su_weizhi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Foo Seng Hong</td>
-    <td>foo_seng_hong@schools.gov.sg</td>
+    <td><a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Ng Keng Yang</td>
-    <td>ng_keng_yang@schools.gov.sg</td>
+    <td><a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Sam Yew Yishen</td>
-    <td>yew_yishen@schools.gov.sg</td>
+    <td><a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Nor Aliah Bte Abdul Samad</td>
-    <td>noraliah_abdul_samad@schools.gov.sg</td>
+    <td><a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr. Yap Shinn (Subject Head/Student Leadership)</td>
-    <td>yap_shinn@schools.gov.sg</td>
+    <td><a href="mailto:yap_shinn@schools.gov.sg">yap_shinn@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mrs. Cheong Hwee Leng</td>
-    <td>Sek_HWEE_LENG@schools.gov.sg</td>
+    <td><a href="mailto:Sek_HWEE_LENG@schools.gov.sg">Sek_HWEE_LENG@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Lim Zi Min</td>
-    <td>Lim_Zi_min@schools.gov.sg</td>
+    <td><a href="mailto:Lim_Zi_min@schools.gov.sg">Lim_Zi_min@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mrs. Sarah Lim</td>
-    <td>tan_hui_en_sarah@schools.gov.sg</td>
+    <td><a href="mailto:tan_hui_en_sarah@schools.gov.sg">tan_hui_en_sarah@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Tan Hui Si</td>
-    <td>Tan_Hui_Si@schools.gov.sg</td>
+    <td><a href="mailto:Tan_Hui_Si@schools.gov.sg">Tan_Hui_Si@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mdm. Siti Hazura Efendi (Laboratory Assistant)</td>
-    <td>siti_hazura_efendi@schools.gov.sg</td>
+    <td><a href="mailto:siti_hazura_efendi@schools.gov.sg">siti_hazura_efendi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms. Syawqina Adlin (Laboratory Assistant)</td>
-    <td>Syawqina_adlin_Ahmad@schools.gov.sg</td>
+    <td><a href="mailto:Syawqina_adlin_Ahmad@schools.gov.sg">Syawqina_adlin_Ahmad@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
