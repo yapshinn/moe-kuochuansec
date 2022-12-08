@@ -6,6 +6,8 @@ third_nav_title: CCE
 ---
 **<center>CHARACTER &amp; CITIZENSHIP EDUCATION DEPARTMENT</center>**
 
+![](/images/Our%20People/Departments/cce.jpg)
+
 <table>
 <thead>
   <tr>
