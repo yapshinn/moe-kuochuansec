@@ -18,7 +18,7 @@ third_nav_title: PE
 <tbody>
   <tr>
     <td>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)<br>Mr Chung Wei Peng Joseph<br>Mr Danny Ng <br>Eunice Yeo</td>
-    <td>khoo_kian_seong_kenneth@schools.gov.sg<br>chung_wei_peng_joseph@schools.gov.sg <br>ng_geok_koon_danny@schools.gov.sg<br>yeo_xiao_si_eunice@schools.gov.sg</td>
+    <td><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">khoo_kian_seong_kenneth@schools.gov.sg</a><br><a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a> <br><a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a><br><a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
