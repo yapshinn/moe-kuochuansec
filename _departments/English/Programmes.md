@@ -93,6 +93,7 @@ Off Centre, is a play written by Haresh Sharma and directed by Alvin Tan. Off Ce
 
 The plot follows the unlikely friendship between Saloma and Vinod, and traces their journeys as they deal with their personal conflicts as well as social prejudices against mental health conditions.
 
+<br>
 
 <img src="/images/Our%20People/Departments/English/EL%20Prog%205.jpg" style="width:35%;margin-right:15px;" align="left">
 
@@ -110,7 +111,7 @@ All Pure Literature students must purchase the Unseen text as a reference guide 
 The Glass Menagerie is a memory play by Tennessee Williams that premiered in 1944 and catapulted Williams from obscurity to fame. The play has strong autobiographical elements, featuring characters based on its author, his histrionic mother, and his mentally fragile sister Laura. (Source from Wikipedia).
 
 
-<br>
+<br><br>
 
 **Sec 2EN Literature**&nbsp;**(wef 2020 onwards)**
 
