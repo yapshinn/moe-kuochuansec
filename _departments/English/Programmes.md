@@ -77,13 +77,13 @@ Since 2015, different groups of students have had the opportunity to be part of 
 **Upper Sec Pure Literature Texts (wef 2020 onwards)**
 
 
-<img src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg" style="width:55%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%203.jpg" style="width:35%;margin-right:15px;" align="left">
 
 **Set Text Prose**  
 
 Pure Literature students will study a prose text. It is a Dystopian novel which introduces a dystopic society where censorship and thought suppression is prevalent. Books, which are considered dangerous and evil, are banned. Individuality and thinking are viewed as threats to social stability and the population is controlled through its consumption of media, which serves as an endless stream of distractions to its passive and addicted audience. This novel raises questions about the influence of mass media and the dangers of being ignorant and illiterate.
 
-<img src="/images/Our%20People/Departments/English/El%20Prog%204.jpg" style="width:55%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/English/El%20Prog%204.jpg" style="width:35%;margin-right:15px;" align="left">
 
 **Sec 4E Pure Literature&nbsp; Set Drama Texts (wef 2020 - 2021)**
 
@@ -94,7 +94,7 @@ Off Centre, is a play written by Haresh Sharma and directed by Alvin Tan. Off Ce
 The plot follows the unlikely friendship between Saloma and Vinod, and traces their journeys as they deal with their personal conflicts as well as social prejudices against mental health conditions.
 
 
-<img src="/images/Our%20People/Departments/English/EL%20Prog%205.jpg" style="width:55%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%205.jpg" style="width:35%;margin-right:15px;" align="left">
 
 **Unseen Poetry Textbook**  
   
@@ -103,7 +103,7 @@ All Pure Literature students must purchase the Unseen text as a reference guide 
 
 <br><br>
 
-<img src="/images/Our%20People/Departments/English/EL%20Prog%206.png" style="width:55%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/English/EL%20Prog%206.png" style="width:35%;margin-right:15px;" align="left">
 
 **Sec 3E Pure Literature Set Drama Text (wef from 2021-2022 onwards)**
 
