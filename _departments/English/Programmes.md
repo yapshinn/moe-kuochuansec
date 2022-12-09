@@ -85,6 +85,8 @@ Pure Literature students will study a prose text. It is a Dystopian novel which 
 
 <img src="/images/Our%20People/Departments/English/El%20Prog%204.jpg" style="width:35%;margin-right:15px;" align="left">
 
+
+
 **Sec 4E Pure Literature&nbsp; Set Drama Texts (wef 2020 - 2021)**
 
 Off Centre, is a play written by Haresh Sharma and directed by Alvin Tan. Off Centre is a landmark play in the history of Singapore theatre, best remembered for presenting an honest and unflinching look at mental illness and the stigma surrounding it.
@@ -102,7 +104,7 @@ The plot follows the unlikely friendship between Saloma and Vinod, and traces th
 
 All Pure Literature students must purchase the Unseen text as a reference guide in developing the skills and techniques in exploring the unseen poetry section of the examination.
 
-<br><br>
+<br><br><br><br><br>
 
 <img src="/images/Our%20People/Departments/English/EL%20Prog%206.png" style="width:35%;margin-right:15px;" align="left">
 
