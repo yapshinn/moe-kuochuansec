@@ -125,7 +125,6 @@ _Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel K
 
 The study of the text challenges Secondary Two students to question societal discrimination and treatment of people with differing intelligence quotients. They also engage with the discourse about the ethics of experimentation.
 
-<br>
 
 **Sec 1EN Literature (wef 2020 onwards)**
 
