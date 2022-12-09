@@ -10,7 +10,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/uniformed-groups/">
+    <td><p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/boys-brigade">
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Uniformed%20Groups.jpg"  
      style="width:120%">
 </a></p>
