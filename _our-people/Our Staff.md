@@ -3,8 +3,7 @@ title: Our Staff
 permalink: /our-people/our-staff/
 description: ""
 ---
-
-<table border="0" cellpadding="0" cellspacing="0" width="792" style="width: 962px; height: 3488px;" class="iveo_table ives_tab_simple2">
+ <table border="0" cellpadding="0" cellspacing="0" width="792" style="width: 846px; height: 4513px;" class="iveo_table ives_tab_simple2">
  <colgroup><col width="286" style="mso-width-source:userset;mso-width-alt:9745;width:214pt">
  <col width="211" style="mso-width-source:userset;mso-width-alt:7202;width:158pt">
  <col width="295" style="mso-width-source:userset;mso-width-alt:10069;width:221pt">
@@ -12,7 +11,7 @@ description: ""
 <tbody>
 <tr height="19" style="height:14.25pt">
   
-<td colspan="3" height="19" class="xl71" width="792" style="text-align: center; height: 14.25pt; width: 962px;"><b>School Management</b>
+<td colspan="3" height="19" class="xl71" width="792" style="text-align: center; height: 14.25pt; width: 845px;"><b>School Management</b>
 </td>
  
 </tr>
@@ -1825,7 +1824,3 @@ description: ""
 <div class="">
 </div>
 </div>
-
-
-
-
