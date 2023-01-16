@@ -12,12 +12,6 @@ sections:
         - title: Happenings
           description: ""
           url: /others/happenings
-  - infopic:
-      title: Open House
-      button: Click Here For FacebooK
-      url: https://www.facebook.com/KCPSShomepage
-      image: /images/Open House.jpg
-      alt: Image alt text
   - resources:
       title: Announcements
       button: Click Here
