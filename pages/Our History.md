@@ -37,6 +37,6 @@ Today the school stands witness to the spirit of our pioneers who, at that time,
 
 
 **KCPSS Corporate Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gLeZWJ9y9Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Upload video to Youtube
 	</p>
