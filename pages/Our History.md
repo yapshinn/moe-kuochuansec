@@ -5,7 +5,7 @@ description: ""
 ---
 ## HISTORY
 
-<p align="justofy">
+<p align="justify">
 In 1924, two Christian Ministers, the Reverend Tay Sek Tin and the Reverend Tan Leng Tian, who saw the need to provide a school which would also serve as an evangelistic centre, founded Katong Girls' School at 1 Joo Chiat Terrace. It had a modest enrolment of 11 pupils, both boys and girls. English and Chinese classes were conducted.  
   
 By 1925, the school moved to new premises at Koon Seng Road and was named Choon Guan School. In 1934, Miss Margaret Dryburgh was appointed Principal. Educational standards were raised and in 1936 the English section became a separate school called Choon Guan English School. In 1938, it became a 'grant-in-aid' for boys and Mr J R Richardson became the principal.  
