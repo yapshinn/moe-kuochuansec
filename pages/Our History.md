@@ -35,8 +35,7 @@ The two schools reached another important milestone when in 1985 they were amalg
   
 Today the school stands witness to the spirit of our pioneers who, at that time, saw education as a mission field. We give thanks to the Lord for His undying faithfulness and provision throughout the years and for this we give the Glory to God.
 
-
-**KCPSS Corporate Video**
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLeZWJ9y9Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-	</p>
+	
