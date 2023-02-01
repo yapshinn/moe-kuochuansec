@@ -3,11 +3,11 @@ title: Our Philosophy
 permalink: /about-kcpss/our-philosophy/
 description: ""
 ---
-
 ## OUR PHILOSOPHY
 
 <img src="/images/About%20KCPSS/philosophy.jpg" style="width:55%;margin-right:15px;" align = "left">
-
+<p align="justify">
+	
 We believe that;
 
 Every KCPSS student (KCPian) is uniquely endowed and is capable of learning and growth.
@@ -24,8 +24,4 @@ Rigour and Relevance of curriculum is integral to engagement in learning. We wil
 
 Reflection and consolidation of learning enhances understanding and knowledge creation. As such, effective assessment modes will be employed to provide KCPians with meaningful feedback that encourages reflection and promotes self-directed learning. 
 
-Partnerships with parents and stakeholders provide the wealth of the community in nurturing the child and will be sought actively to enrich the school experience for every KCPian.
-
-
-
-
+Partnerships with parents and stakeholders provide the wealth of the community in nurturing the child and will be sought actively to enrich the school experience for every KCPian.</p>
