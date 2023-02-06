@@ -31,7 +31,6 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 **Trips for International Experience**
 
 **Korea** <br>
-Upload video to Youtube
 
 **China** <br>
 Upload video to Youtube
