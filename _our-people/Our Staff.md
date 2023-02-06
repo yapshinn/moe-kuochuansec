@@ -3,7 +3,7 @@ title: Our Staff
 permalink: /our-people/our-staff/
 description: ""
 ---
- <table border="0" cellpadding="0" cellspacing="0" width="792" style="width: 846px; height: 4513px;" class="iveo_table ives_tab_simple2">
+<table border="0" cellpadding="0" cellspacing="0" width="792" style="width: 846px; height: 4513px;" class="iveo_table ives_tab_simple2">
  <colgroup><col width="286" style="mso-width-source:userset;mso-width-alt:9745;width:214pt">
  <col width="211" style="mso-width-source:userset;mso-width-alt:7202;width:158pt">
  <col width="295" style="mso-width-source:userset;mso-width-alt:10069;width:221pt">
@@ -1504,11 +1504,11 @@ description: ""
  
 </tr>
 <tr>
-<td>&nbsp;Mdm. Arunajeet Kaur
+<td>Mdm. Arunajeet Kaur
 </td>
 <td>&nbsp;Humanities
 </td>
-<td>&nbsp;arunajeet_kaur@moe.edu.sg
+<td>arunajeet_kaur@moe.edu.sg
 </td>
 </tr>
  
