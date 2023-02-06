@@ -4,12 +4,9 @@ permalink: /our-people/our-partners/parent-support-group/
 description: ""
 third_nav_title: Our Partners
 ---
-
 ## Parent Support Group
 
-### Parent Support Group Message&nbsp;&nbsp; &nbsp;
 
-![](/images/Our%20People/PSG%201.png)
 
 ### About Us
 
