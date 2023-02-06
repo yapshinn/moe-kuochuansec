@@ -19,15 +19,15 @@ Matthew 5:14-16</p>
 <p align="justify">
 	We do this with a focus on quality programmes and relationships, which imbue our school with a positive and uplifting culture. Our stakeholders and staff serve with faith and commitment, providing students with a wide range of experiences that develop in them their passions and purpose in life. This in turn gives them the confidence and resilience to overcome challenges, and to seize opportunities that come their way.</p>
 
-7 “But blessed is the one who trusts in the Lord,
-    whose confidence is in him.
-8 They will be like a tree planted by the water
-    that sends out its roots by the stream.
-It does not fear when heat comes;
-    its leaves are always green.
-It has no worries in a year of drought
-    and never fails to bear fruit.”
-Jeremiah 17:7-8
+<p class="MsoNormal" style="text-align: justify; margin-left: 0.5in;"><sup>7</sup> “But blessed is the one who trusts in the Lord,<br>&nbsp;&nbsp;&nbsp;
+    whose confidence is in him.<br>
+	<sup>8</sup> They will be like a tree planted by the water<br>&nbsp;&nbsp;&nbsp;
+    that sends out its roots by the stream.<br>
+It does not fear when heat comes;<br>&nbsp;&nbsp;&nbsp;
+    its leaves are always green.<br>
+It has no worries in a year of drought<br>&nbsp;&nbsp;&nbsp;
+    and never fails to bear fruit.”<br>
+Jeremiah 17:7-8</p>
 
 <p align="justify">In 2024, we look forward to our Centennial. God's faithfulness has seen us through decades of growth and impact, and has also allowed us to emerge stronger from COVID. If you are looking for a vibrant school that will be a life-long community, providing comprehensive and quality education, while embracing our GRACE values (God-Fearing, Resilience, Agape, Conscientiousness and Empathy), look no further. Join us, and be aflame for truth!</p>
 
