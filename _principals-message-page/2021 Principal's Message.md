@@ -3,8 +3,7 @@ title: 2021 Principal's Message
 permalink: /others/principals-message-page/2021-principals-message/
 description: ""
 ---
-
-## 2021 Principal's Message
+## 2023 Principal's Message
 
 
 Dear all,
