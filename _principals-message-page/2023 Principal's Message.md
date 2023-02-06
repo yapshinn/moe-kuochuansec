@@ -29,7 +29,7 @@ It has no worries in a year of drought
     and never fails to bear fruit.”
 Jeremiah 17:7-8
 
-In 2024, we look forward to our Centennial. God's faithfulness has seen us through decades of growth and impact, and has also allowed us to emerge stronger from COVID. If you are looking for a vibrant school that will be a life-long community, providing comprehensive and quality education, while embracing our GRACE values (God-Fearing, Resilience, Agape, Conscientiousness and Empathy), look no further. Join us, and be aflame for truth!
+<p align="justify">In 2024, we look forward to our Centennial. God's faithfulness has seen us through decades of growth and impact, and has also allowed us to emerge stronger from COVID. If you are looking for a vibrant school that will be a life-long community, providing comprehensive and quality education, while embracing our GRACE values (God-Fearing, Resilience, Agape, Conscientiousness and Empathy), look no further. Join us, and be aflame for truth!</p>
 
 Mr Justin Tan
 Principal
