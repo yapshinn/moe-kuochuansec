@@ -19,6 +19,8 @@ third_nav_title: Our Partners
 
 Please register at&nbsp;**[HERE](https://go.gov.sg/kcpss-psgmember-registration-form)**&nbsp;.
 
+### Photo Collage of 2022
+![](/images%2FOur%20People/psgpg2.png)
 
 ### Gallery
 
