@@ -19,8 +19,8 @@ description: ""
 </a></p>
 
 
-<p><a href="mailto:Edmund_TIN@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%203.png">
+<p><a href="mailto:Jamie_Amanda_YEE@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/VPAJaime.jpg">
 </a></p>
 
 <br><br><br><br><br>
