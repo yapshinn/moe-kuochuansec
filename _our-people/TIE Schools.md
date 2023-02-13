@@ -30,7 +30,19 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 
 **Trips for International Experience**
 
-**Korea** <br>
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     |
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     |	
+
+	<br>
+	
+	**Korea** 
+	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X8wtthwwdf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 	
 **China** <br>
