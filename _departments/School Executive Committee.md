@@ -124,14 +124,14 @@ description: ""
 
 **Admin & Operation**
 
-<p><a href="mailto:OH_Poh_Lay@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2020.png">
-</a></p>
+<p><a href="mailto:OH_Poh_Lay@schools.gov.sg"><img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2020.png"></a></p>
+
+<p><a href="mailto:koh_ai_mui@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OMrebecca.jpg"></a></p>
 
 <p><a href="mailto:koh_ai_mui@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/OMrebecca.jpg">
 </a></p>
-
 
 <p><a href="mailto:Mahendran_Paramasivam_alex@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2022.png">
