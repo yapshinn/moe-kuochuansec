@@ -35,18 +35,15 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 | -------- | -------- | 
 | <iframe width="352" height="240" src="https://www.youtube.com/embed/X8wtthwwdf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    |<iframe width="352" height="240" src="https://www.youtube.com/embed/ido5MBD8tPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
 
-| Column 1 | Column 2 |
+| Cambodia | Vietnam |
 | -------- | -------- | 
 | Text     | Text     |	
 
 	<br>
 	
-	**Korea** 
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X8wtthwwdf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 	
-**China** <br>
-Upload video to Youtube
+
 
 **Cambodia** <br>
 Upload video to Youtube
