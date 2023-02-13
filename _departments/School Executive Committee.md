@@ -99,7 +99,7 @@ description: ""
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2017.png">
 </a></p>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p><a href="mailto:png_siew_hoon@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2018.png">
