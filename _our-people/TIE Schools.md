@@ -37,7 +37,7 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 
 | Cambodia | Vietnam |
 | -------- | -------- | 
-| Text     | Text     |	
+| <iframe width="352" height="240" src="https://www.youtube.com/embed/kKxv-tQf7cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | Text     |	
 
 	<br>
 	
@@ -45,8 +45,3 @@ Through TIE, we hope to further develop our KCPians as future-ready Servant Lead
 	
 
 
-**Cambodia** <br>
-Upload video to Youtube
-
-**Vietnam**<br>
-Upload video to Youtube
