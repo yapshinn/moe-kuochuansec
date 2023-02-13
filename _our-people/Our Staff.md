@@ -3,1817 +3,1839 @@ title: Our Staff
 permalink: /our-people/our-staff/
 description: ""
 ---
-<table border="0" cellpadding="0" cellspacing="0" width="792" style="width: 846px; height: 4513px;" class="iveo_table ives_tab_simple2">
- <colgroup><col width="286" style="mso-width-source:userset;mso-width-alt:9745;width:214pt">
- <col width="211" style="mso-width-source:userset;mso-width-alt:7202;width:158pt">
- <col width="295" style="mso-width-source:userset;mso-width-alt:10069;width:221pt">
+<table width="811" class="iveo_table ives_tab_simple2 ive_eobj_left" style="width: 944px;">
+ <colgroup class=""><col width="286" class="">
+ <col width="195" class="">
+ <col width="330" class="">
  </colgroup>
-<tbody>
-<tr height="19" style="height:14.25pt">
+<tbody class="">
+<tr height="19" class="">
   
-<td colspan="3" height="19" class="xl71" width="792" style="text-align: center; height: 14.25pt; width: 845px;"><b>School Management</b>
+<td colspan="3" height="19" class="" width="811" style="text-align: center; width: 944px;"><b>School Management</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl66" style="height:14.25pt;border-top:none"><b>Name</b>
+<td height="19" class=""><b>Name</b>
 </td>
   
-<td class="xl66" style="border-top:none;border-left:none"><b>Designation</b>
+<td class=""><b>Designation</b>
 </td>
   
-<td class="xl66" style="border-top:none;border-left:none"><b>Email</b>
+<td class=""><b>Email</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Justin
+<td height="19" class="">Mr. Justin
   TAN
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Principal
+<td class="">Principal
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">justin_tan@moe.edu.sg
+<td class="">Justin_TAN@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Lee Chui
+<td height="19" class="">Ms. Lee Chui
   Eng (Mrs.Chee)
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Vice - Principal
+<td class="">Vice - Principal
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lee_chui_eng@moe.edu.sg
+<td class="">Lee_Chui_Eng@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Jamie
-  Amanda Yee
+<td height="19" class="">Ms. Jamie
+  Amanda YEE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Vice - Principal
+<td class="">Vice - Principal
   (Admin)
 </td>
   
-<td>jamie_amanda_yee@moe.edu.sg
+<td class="">Jamie_Amanda_YEE@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td colspan="3" height="19" class="xl71" style="text-align: center; height: 14.25pt;"><b>Head of
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Head of
   Department&nbsp;</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl67" style="height:14.25pt;border-top:none"><b>Name</b>
+<td height="19" class=""><b>Name</b>
 </td>
   
-<td class="xl67" style="border-top:none;border-left:none"><b>Designation</b>
+<td class=""><b>Designation</b>
 </td>
   
-<td class="xl67" style="border-top:none;border-left:none"><b>Email</b>
+<td class=""><b>Email</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chelliah
+<td height="19" class="">Mr. Chelliah
   Trevor Devendran&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Humanities
+<td class="">HOD - Humanities
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">chelliah_trevor_devendran@moe.edu.sg
+<td class="">chelliah_trevor_devendran@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chong
+<td height="19" class="">Mr. Chong
   Keat Rene Yeo&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Science
+<td class="">HOD - Science
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yeo_chong_keat_rene@moe.edu.sg
+<td class="">yeo_chong_keat_rene@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chua Chee
+<td height="19" class="">Mr. Chua Chee
   Yong&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - SSD
+<td class="">HOD - SSD
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">chua_chee_yong@moe.edu.sg
+<td class="">chua_chee_yong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mrs. Dorothy
+<td height="19" class="">Mrs. Dorothy
   Goh
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Yr Hd Lower Sec
+<td class="">HOD - Yr Hd Lower Sec
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">dorothy_tay_wyn_hui@moe.edu.sg
+<td class="">dorothy_tay_wyn_hui@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm.
+<td height="19" class="">Mdm.
   Genevieve Tan Hui Hong&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - MT
+<td class="">HOD - MT
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">genevieve_tan_hui_hong@moe.edu.sg
+<td class="">genevieve_tan_hui_hong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Goh Boon
+<td height="19" class="">Mr. Goh Boon
   Loon Patrick
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Yr Hd Upp Sec
+<td class="">HOD - Yr Hd Upp Sec
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">goh_boon_loon@moe.edu.sg
+<td class="">goh_boon_loon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Khoo Kian
+<td height="19" class="">Mr. Khoo Kian
   Seong Kenneth&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - PE &amp; CCA
+<td class="">HOD - PE &amp; CCA
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">khoo_kian_seong_kenneth@moe.edu.sg
+<td class="">khoo_kian_seong_kenneth@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Tan Say
+<td height="19" class="">Mr. Tan Say
   Pin
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - CCE
+<td class="">HOD - CCE
 </td>
   
-<td>tan_say_pin@moe.edu.sg
+<td class="">tan_say_pin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Samboo
+<td height="19" class="">Mdm. Samboo
   Elaine Natalie&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - EL
+<td class="">HOD - EL
 </td>
   
-<td class="xl65" style="border-left:none">samboo_elaine_natalie@moe.edu.sg
+<td class="">samboo_elaine_natalie@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Cheung Ho
+<td height="19" class="">Mr. Cheung Ho
   Wai
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Student Mgt
+<td class="">HOD - Student Mgt
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">cheung_ho_wai@moe.edu.sg
+<td class="">cheung_ho_wai@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Yeo Li li
+<td height="19" class="">Ms. Yeo Li li
   Clara
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">HOD - Maths
+<td class="">HOD - Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yeo_li_li_clara@moe.edu.sg
+<td class="">yeo_li_li_clara@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td colspan="3" height="19" class="xl71" style="text-align: center; height: 14.25pt;"><b>Subject Head /
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Subject Head /
   Senior Teacher / Lead Teacher</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl67" style="height:14.25pt;border-top:none"><b>Name</b>
+<td height="19" class=""><b>Name</b>
 </td>
   
-<td class="xl67" style="border-top:none;border-left:none"><b>Designation</b>
+<td class=""><b>Designation</b>
 </td>
   
-<td class="xl67" style="border-top:none;border-left:none"><b>Email</b>
+<td class=""><b>Email</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Ravathi
+<td height="19" class="">Mdm. Ravathi
   Velayuthan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Lead Teacher - EL / 3
+<td class="">Lead Teacher - EL / 3
   LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ravathi_velayuthan@moe.edu.sg
+<td class="">ravathi_velayuthan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Yu
+<td height="19" class="">Mdm. Yu
   Xiaoqin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Senior Teacher - CL /
+<td class="">Senior Teacher - CL /
   4 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yu_xiaoqin@moe.edu.sg
+<td class="">yu_xiaoqin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Lim Shu
+<td height="19" class="">Mdm. Lim Shu
   Yen&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Senior Teacher - Math
+<td class="">Senior Teacher - Math
   / 4 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lim_shu_yen@moe.edu.sg
+<td class="">lim_shu_yen@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mrs. Tang Lai
+<td height="19" class="">Mrs. Tang Lai
   Chan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Senior Teacher - Math
+<td class="">Senior Teacher - Math
   / 2 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">tham_lai_chan@moe.edu.sg
+<td class="">tham_lai_chan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Png Siew
+<td height="19" class="">Mdm. Png Siew
   Hoon&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">SH - Design &amp;
+<td class="">SH - Design &amp;
   Technology / 5 RE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">png_siew_hoon@moe.edu.sg
+<td class="">png_siew_hoon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Yap
+<td height="19" class="">Mr. Yap
   Shinn&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">SH -&nbsp; Ed Tech / 3 PRASIE
+<td class="">SH -&nbsp; Ed Tech / 3 PRASIE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yap_shinn@moe.edu.sg
+<td class="">yap_shinn@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Abby
+<td height="19" class="">Mdm. Abby
   Choo Choy Joo&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">SH - VIA / 3 HOPE
+<td class="">SH - VIA / 3 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">choo_choy_joo@moe.edu.sg
+<td class="">choo_choy_joo@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ho
+<td height="19" class="">Miss. Ho
   Shiao Hwee
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">SH SW / 2 PRAISE
+<td class="">SH SW / 2 PRAISE
 </td>
   
-<td>Ho_Shiao_Hwee@moe.edu.sg
+<td class="">Ho_Shiao_Hwee@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ng Soon
+<td height="19" class="">Mr. Ng Soon
   Chye&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">SH - Student Mgt&nbsp;
+<td class="">SH - Student Mgt&nbsp;
 </td>
   
-<td class="xl65" style="border-left:none">ng_soon_chye@moe.edu.sg
+<td class="">ng_soon_chye@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Koh Li
+<td height="19" class="">Miss. Koh Li
   Eng
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">LH - Science / 1 JOY
+<td class="">LH - Science / 1 JOY
 </td>
   
-<td>koh_li_eng@moe.edu.sg
+<td class="">koh_li_eng@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Chua
+<td height="19" class="">Miss. Chua
   Jazlyn
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Asst YH Lower Sec
+<td class="">Asst YH Lower Sec
 </td>
   
-<td class="xl65" style="border-left:none">Jazlyn_Chua@moe.edu.sg
-</td>
- 
-</tr>
- 
-<tr height="19" style="height:14.25pt">
-  
-<td height="19" class="xl70" style="height:14.25pt">Miss. Lim Wenting Janell
-</td>
-  
-<td class="xl69">Asst YH Upp Sec
-</td>
-  
-<td>janell_lim@moe.edu.sg
+<td class="">Jazlyn_Chua@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td colspan="3" height="19" class="xl71" style="text-align: center; height: 14.25pt;"><b>Teaching Staff</b>
+<td height="19" class="">Miss. Lim
+  Wenting Janell
+</td>
+  
+<td class="">Asst YH Upp Sec
+</td>
+  
+<td class="">janell_lim@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl66" style="height:14.25pt;border-top:none"><b>Name</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Designation</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Email</b>
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Teaching Staff</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Amelia
+<td height="19" class=""><b>Name</b>
+</td>
+  
+<td class=""><b>Designation</b>
+</td>
+  
+<td class=""><b>Email</b>
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Miss. Amelia
   Yeo Jiaxin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 FAITH
+<td class="">Teacher - 1 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">amelia_yeo_jiaxin@moe.edu.sg
+<td class="">amelia_yeo_jiaxin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Foo Seng
+<td height="19" class="">Mr. Foo Seng
   Hong&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 FAITH
+<td class="">Teacher - 1 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">foo_seng_hong@moe.edu.sg
+<td class="">foo_seng_hong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chung Wei
+<td height="19" class="">Mr. Chung Wei
   Peng Joseph&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 GRACE
+<td class="">Teacher - 1 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">chung_wei_peng_joseph@moe.edu.sg
+<td class="">chung_wei_peng_joseph@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Tan Hui
+<td height="19" class="">Ms. Tan Hui
   Si
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 GRACE
+<td class="">Teacher - 1 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">tan_hui_si@moe.edu.sg
+<td class="">tan_hui_si@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Lee Lip
+<td height="19" class="">Mr. Lee Lip
   Chyun Vincent&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 HOPE
+<td class="">Teacher - 1 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lee_lip_chyun_vincent@moe.edu.sg
+<td class="">lee_lip_chyun_vincent@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Doreen
+<td height="19" class="">Mdm. Doreen
   Tang Kah Yin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 HOPE
+<td class="">Teacher - 1 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Doreen_Tang_Kah_Yin@moe.edu.sg
+<td class="">Doreen_Tang_Kah_Yin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Koh Li
+<td height="19" class="">Miss. Koh Li
   Eng
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 JOY
+<td class="">Teacher - 1 JOY
 </td>
   
-<td>koh_li_eng@moe.edu.sg
+<td class="">koh_li_eng@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Lee
+<td height="19" class="">Miss. Lee
   Rachel&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 JOY
+<td class="">Teacher - 1 JOY
 </td>
   
-<td class="xl65" style="border-left:none">Lee_RACHEL@moe.edu.sg
+<td class="">Lee_RACHEL@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Siti
+<td height="19" class="">Mdm. Siti
   Shahirah Haider Bagesher&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 LOVE
+<td class="">Teacher - 1 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">siti_shahirah_haider_bagesher@moe.edu.sg
+<td class="">siti_shahirah_haider_bagesher@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Kang
+<td height="19" class="">Miss. Kang
   Joo Geok&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 LOVE
+<td class="">Teacher - 1 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">kang_joo_geok@moe.edu.sg
+<td class="">kang_joo_geok@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Tan Siaw
+<td height="19" class="">Mr. Tan Siaw
   Chong&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 PEACE
+<td class="">Teacher - 1 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">tan_siaw_chong@moe.edu.sg
+<td class="">tan_siaw_chong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Goh Xin
+<td height="19" class="">Miss. Goh Xin
   Fang
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 PEACE
+<td class="">Teacher - 1 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Goh_Xin_fang@moe.edu.sg
+<td class="">Goh_Xin_fang@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mrs. Lee Hwee
+<td height="19" class="">Mrs. Lee Hwee
   Ling Grace&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 PRAISE
+<td class="">Teacher - 1 PRAISE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lee_hwee_ling_grace@moe.edu.sg
+<td class="">lee_hwee_ling_grace@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Samuel
+<td height="19" class="">Mr. Samuel
   Chan Yew Fai
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 1 PRAISE
+<td class="">Teacher - 1 PRAISE
 </td>
   
-<td>chan_yew_fai_samuel@moe.edu.sg
+<td class="">chan_yew_fai_samuel@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Kavitha
+<td height="19" class="">Mdm. Kavitha
   Ramachandran&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 FAITH
+<td class="">Teacher - 2 FAITH
 </td>
   
-<td class="xl65" style="border-left:none">kavitha_ramachandran@moe.edu.sg
+<td class="">kavitha_ramachandran@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mrs. Tang Lai
+<td height="19" class="">Mrs. Tang Lai
   Chan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 FAITH
+<td class="">Teacher - 2 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">tham_lai_chan@moe.edu.sg
+<td class="">tham_lai_chan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Nam Tin
+<td height="19" class="">Miss. Nam Tin
   Yuen&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 GRACE
+<td class="">Teacher - 2 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">nam_tin_yuen@moe.edu.sg
+<td class="">nam_tin_yuen@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Su
+<td height="19" class="">Mr. Su
   Weizhi&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 GRACE
+<td class="">Teacher - 2 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">su_weizhi@moe.edu.sg
+<td class="">su_weizhi@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Lee Chong
+<td height="19" class="">Mr. Lee Chong
   Min&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 HOPE
+<td class="">Teacher - 2 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lee_chong_min@moe.edu.sg
+<td class="">lee_chong_min@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Foo Ji
+<td height="19" class="">Miss. Foo Ji
   Ying, Eunice
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 HOPE
+<td class="">Teacher - 2 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">foo_ji_ying_eunice@moe.edu.sg
+<td class="">foo_ji_ying_eunice@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ang
+<td height="19" class="">Miss. Ang
   Siok Min Mitchelle&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 JOY
+<td class="">Teacher - 2 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ang_siok_min_mitchelle@moe.edu.sg
+<td class="">ang_siok_min_mitchelle@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Siti
+<td height="19" class="">Mdm. Siti
   Nurhizah Mohamed Hassan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 JOY
+<td class="">Teacher - 2 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">siti_nurhizah_mohamed_hassan@moe.edu.sg
+<td class="">siti_nurhizah_mohamed_hassan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ng Yin
+<td height="19" class="">Miss. Ng Yin
   Yee&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 LOVE
+<td class="">Teacher - 2 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_yin_yee@moe.edu.sg
+<td class="">ng_yin_yee@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Nur
+<td height="19" class="">Mdm. Nur
   Diyanah Mohammad Suhaini&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 LOVE
+<td class="">Teacher - 2 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">nur_diyanah_mohammad_suhai@moe.edu.sg
+<td class="">nur_diyanah_mohammad_suhai@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr.
+<td height="19" class="">Mr.
   Mathivanan Kadarkarai&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 PEACE
+<td class="">Teacher - 2 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">mathivanan_kadarkarai@moe.edu.sg
+<td class="">mathivanan_kadarkarai@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Teo Han
+<td height="19" class="">Mr. Teo Han
   Yang Edwin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 PEACE
+<td class="">Teacher - 2 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">teo_han_yang_edwin@moe.edu.sg
+<td class="">teo_han_yang_edwin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ho
+<td height="19" class="">Miss. Ho
   Shiao Hwee
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 PRAISE
+<td class="">Teacher - 2 PRAISE
 </td>
   
-<td>Ho_Shiao_Hwee@moe.edu.sg
+<td class="">Ho_Shiao_Hwee@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm.
+<td height="19" class="">Mdm.
   Norhajjarrillah Abdul Baki&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 2 PRAISE
+<td class="">Teacher - 2 PRAISE
 </td>
   
-<td class="xl65" style="border-left:none">norhajjarrillah_abdul_baki@moe.edu.sg
+<td class="">norhajjarrillah_abdul_baki@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Wang
+<td height="19" class="">Mdm. Wang
   Ting&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 FAITH
+<td class="">Teacher - 3 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">wang_ting@moe.edu.sg
+<td class="">wang_ting@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Fazliana
+<td height="19" class="">Mdm. Fazliana
   Pairin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 FAITH
+<td class="">Teacher - 3 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">fazliana_pairin@moe.edu.sg
+<td class="">fazliana_pairin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">.Mr. Ng Geok
+<td height="19" class="">.Mr. Ng Geok
   Koon Danny&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 GRACE
+<td class="">Teacher - 3 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_geok_koon_danny@moe.edu.sg
+<td class="">ng_geok_koon_danny@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Chang
+<td height="19" class="">Ms. Chang
   Meng Hsia&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 GRACE
+<td class="">Teacher - 3 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">chang_meng_hsia@moe.edu.sg
+<td class="">chang_meng_hsia@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Abby
+<td height="19" class="">Mdm. Abby
   Choo Choy Joo&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 HOPE
+<td class="">Teacher - 3 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">choo_choy_joo@moe.edu.sg
+<td class="">choo_choy_joo@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mrs.
+<td height="19" class="">Mrs.
   Sivasankari Pravin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 HOPE
+<td class="">Teacher - 3 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">sivasankari_pravin@moe.edu.sg
+<td class="">sivasankari_pravin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ong Wee
+<td height="19" class="">Mr. Ong Wee
   Xiang&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 JOY
+<td class="">Teacher - 3 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ong_wee_xiang@moe.edu.sg
+<td class="">ong_wee_xiang@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss.
+<td height="19" class="">Miss.
   Christopher Cassandra&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 JOY
+<td class="">Teacher - 3 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">cassandra_christopher@moe.edu.sg
+<td class="">cassandra_christopher@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Ravathi
+<td height="19" class="">Mdm. Ravathi
   Velayuthan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 LOVE
+<td class="">Teacher - 3 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ravathi_velayuthan@moe.edu.sg
+<td class="">ravathi_velayuthan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Lee Jian
+<td height="19" class="">Mr. Lee Jian
   Liang Joel&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 LOVE
+<td class="">Teacher - 3 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lee_jian_liang_joel@moe.edu.sg
+<td class="">lee_jian_liang_joel@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Sitoh Wei
+<td height="19" class="">Mr. Sitoh Wei
   Sheng Wilson&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 PEACE
+<td class="">Teacher - 3 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">sitoh_wei_sheng_wilson@moe.edu.sg
+<td class="">sitoh_wei_sheng_wilson@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Selena
+<td height="19" class="">Mdm. Selena
   Wee&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 PEACE
+<td class="">Teacher - 3 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Selena_WEE@moe.edu.sg
+<td class="">Selena_WEE@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Yap
+<td height="19" class="">Mr. Yap
   Shinn&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 PRASIE
+<td class="">Teacher - 3 PRASIE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yap_shinn@moe.edu.sg
+<td class="">yap_shinn@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Quek Imm
+<td height="19" class="">Ms. Quek Imm
   Ki&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 3 PRAISE
+<td class="">Teacher - 3 PRAISE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">quek_imm_ki@moe.edu.sg
+<td class="">quek_imm_ki@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Noraliah
+<td height="19" class="">Mdm. Noraliah
   Abdul Samad&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 FAITH
+<td class="">Teacher - 4 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">noraliah_abdul_samad@moe.edu.sg
+<td class="">noraliah_abdul_samad@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chee Kian
+<td height="19" class="">Mr. Chee Kian
   Ng&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 FAITH
+<td class="">Teacher - 4 FAITH
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_chee_kian@moe.edu.sg
+<td class="">ng_chee_kian@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Lim Shu
+<td height="19" class="">Mdm. Lim Shu
   Yen&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 GRACE
+<td class="">Teacher - 4 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lim_shu_yen@moe.edu.sg
+<td class="">lim_shu_yen@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Keng Yang
+<td height="19" class="">Mr. Keng Yang
   Ng&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 GRACE
+<td class="">Teacher - 4 GRACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_keng_yang@moe.edu.sg
+<td class="">ng_keng_yang@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Chua
+<td height="19" class="">Miss. Chua
   Suet Ting Joyce&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 HOPE
+<td class="">Teacher - 4 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">chua_suet_ting_joyce@moe.edu.sg
+<td class="">chua_suet_ting_joyce@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Lau Chee
+<td height="19" class="">Mr. Lau Chee
   Keen Paul&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 HOPE
+<td class="">Teacher - 4 HOPE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lau_chee_keen_paul@moe.edu.sg
+<td class="">lau_chee_keen_paul@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Yu
+<td height="19" class="">Mdm. Yu
   Xiaoqin&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 JOY
+<td class="">Teacher - 4 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yu_xiaoqin@moe.edu.sg
+<td class="">yu_xiaoqin@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Yeo Xiao
+<td height="19" class="">Ms. Yeo Xiao
   Si Eunice&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 JOY
+<td class="">Teacher - 4 JOY
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yeo_xiao_si_eunice@moe.edu.sg
+<td class="">yeo_xiao_si_eunice@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Loo Sze
+<td height="19" class="">Mr. Loo Sze
   Yen&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 LOVE
+<td class="">Teacher - 4 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">loo_sze_yen@moe.edu.sg
+<td class="">loo_sze_yen@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Lim Zi
+<td height="19" class="">Mr. Lim Zi
   Min&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 LOVE
+<td class="">Teacher - 4 LOVE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Lim_Zi_min@moe.edu.sg
+<td class="">Lim_Zi_min@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Yew
+<td height="19" class="">Mr. Yew
   Yishen&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 PEACE
+<td class="">Teacher - 4 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yew_yishen@moe.edu.sg
+<td class="">yew_yishen@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Zaleha
+<td height="19" class="">Mdm. Zaleha
   Yusof&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 PEACE
+<td class="">Teacher - 4 PEACE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">zaleha_yusof@moe.edu.sg
+<td class="">zaleha_yusof@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ho Yew
+<td height="19" class="">Mr. Ho Yew
   Kiat Brian&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 PRAISE
+<td class="">Teacher - 4 PRAISE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ho_yew_kiat@moe.edu.sg
+<td class="">ho_yew_kiat@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Sek Hwee
+<td height="19" class="">Ms. Sek Hwee
   Leng&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 4 PRAISE
+<td class="">Teacher - 4 PRAISE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Sek_HWEE_LENG@moe.edu.sg
+<td class="">Sek_HWEE_LENG@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Png Siew
+<td height="19" class="">Mdm. Png Siew
   Hoon&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher - 5 RE
+<td class="">Teacher - 5 RE
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">png_siew_hoon@moe.edu.sg
+<td class="">png_siew_hoon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Yin Yin
+<td height="19" class="">Ms. Yin Yin
   Esther Yong&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher&nbsp;
+<td class="">Teacher - NIL
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yong_yin_yin_esther@moe.edu.sg
+<td class="">yong_yin_yin_esther@schools.gov.sg
 </td>
  
 </tr>
  
- 
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ho Jia
+<td height="19" class="">Miss. Ho Jia
   Yan
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Teacher&nbsp;
+<td class="">Teacher - NIL
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ho_jia_yan@moe.edu.sg
+<td class="">ho_jia_yan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td colspan="3" height="19" class="xl71" style="text-align: center; height: 14.25pt;"><b>Flexi-Teachers /
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Flexi-Teachers /
   Relief Teachers</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl66" style="height:14.25pt;border-top:none"><b>Name</b>
+<td height="19" class=""><b>Name</b>
 </td>
   
-<td class="xl66" style="border-top:none;border-left:none"><b>Designation</b>
+<td class=""><b>Designation</b>
 </td>
   
-<td class="xl66" style="border-top:none;border-left:none"><b>Email</b>
+<td class=""><b>Email</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Tan Pei
+<td height="19" class="">Mdm. Tan Pei
   yin elaine
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Gear Up Programme
+<td class="">Gear Up Programme
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">tan_pei_yin_elaine@moe.edu.sg
+<td class="">tan_pei_yin_elaine@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Sunu
+<td height="19" class="">Mdm. Sunu
   Sivadasan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">English
+<td class="">English
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Sunu_Sivadasan@moe.edu.sg
+<td class="">Sunu_Sivadasan@schools.gov.sg
 </td>
  
 </tr>
  
- 
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Loh Tai
+<td height="19" class="">Mdm.
+  Arunajeet Kaur
+</td>
+  
+<td class="">Humanities
+</td>
+  
+<td class="">arunajeet_kaur@schools.gov.sg
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Ms. Loh Tai
   Lee
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">English
+<td class="">English
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">loh_tai_lee@moe.edu.sg
+<td class="">loh_tai_lee@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Juliana
+<td height="19" class="">Ms. Juliana
   Teo Kim Hoon
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">English
+<td class="">English
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">juliana_teo_li_koon@moe.edu.sg
+<td class="">juliana_teo_li_koon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr.
+<td height="19" class="">Mr.
   Namasivayam Pillai sellakrishnan
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Tamil Language
+<td class="">Tamil Language
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">n_sellakrishnan@moe.edu.sg
+<td class="">n_sellakrishnan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Tai Tze
+<td height="19" class="">Ms. Tai Tze
   Ghee&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Chinese Language
+<td class="">Chinese Language
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Tai_Tze_Ghee@moe.edu.sg
+<td class="">Tai_Tze_Ghee@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Teo Kian
+<td height="19" class="">Mr. Teo Kian
   Fong Kenneth
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Chinese Language
+<td class="">Chinese Language
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">teo_kian_fong_kenneth@moe.edu.sg
+<td class="">teo_kian_fong_kenneth@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Tan Siok
+<td height="19" class="">Mdm. Tan Siok
   Kuan Angeline&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Maths
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Tan_Siok_Kuan_Angeline@moe.edu.sg
+<td class="">Tan_Siok_Kuan_Angeline@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Haw Say
+<td height="19" class="">Mr. Haw Say
   Boon Clarence
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Maths
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Haw_Say_Boon@moe.edu.sg
+<td class="">Haw_Say_Boon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Ms. Loo Yen
+<td height="19" class="">Ms. Loo Yen
   Li
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Maths
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">loo_yen_li@moe.edu.sg
+<td class="">loo_yen_li@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ha Yeong
+<td height="19" class="">Mr. Ha Yeong
   Fook
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Maths
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ha_yeong_fook@moe.edu.sg
+<td class="">ha_yeong_fook@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ong Wee
+<td height="19" class="">Mr. Ong Wee
   Chong Daryl
 </td>
-<td class="xl65" style="border-top:none;border-left:none">Maths
+  
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ong_wee_chong_daryl@moe.edu.sg
+<td class="">ong_wee_chong_daryl@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Ny Yan
+<td height="19" class="">Mr. Ny Yan
   kong
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Maths
+<td class="">Maths
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_yan_kong@moe.edu.sg
+<td class="">ng_yan_kong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Koh Tong
+<td height="19" class="">Mr. Koh Tong
   Seah
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">D&amp;T
+<td class="">D&amp;T
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">koh_tong_seah@moe.edu.sg
-</td>
- 
-</tr>
-<tr>
-<td>Mdm. Arunajeet Kaur
-</td>
-<td>&nbsp;Humanities
-</td>
-<td>arunajeet_kaur@moe.edu.sg
-</td>
-</tr>
- 
-<tr height="19" style="height:14.25pt">
-  
-<td colspan="3" height="19" class="xl71" style="text-align: center; height: 14.25pt;"><b>Allied Educators</b>
+<td class="">koh_tong_seah@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl66" style="height:14.25pt;border-top:none"><b>Name</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Designation</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Email</b>
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Allied Educators</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss. Ng Sian
+<td height="19" class=""><b>Name</b>
+</td>
+  
+<td class=""><b>Designation</b>
+</td>
+  
+<td class=""><b>Email</b>
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Miss. Ng Sian
   erh angelia
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Learning &amp;
+<td class="">Learning &amp;
   Behavioural Support
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">ng_sian_erh_angelia@moe.edu.sg
+<td class="">ng_sian_erh_angelia@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Joey Hong
+<td height="19" class="">Mr. Joey Hong
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">School Counsellor
+<td class="">School Counsellor
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">joey_hong@moe.edu.sg
-</td>
- 
-</tr>
- 
-<tr height="19" style="height:14.25pt">
-  
-<td colspan="3" height="19" class="xl72" style="text-align: center; border-right: 0.5pt solid black; height: 14.25pt;"><b>Executive &amp; Admin Staff</b>
+<td class="">joey_hong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl66" style="height:14.25pt;border-top:none"><b>Name</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Designation</b>
-</td>
-  
-<td class="xl66" style="border-top:none;border-left:none"><b>Email</b>
+<td colspan="3" height="19" class="" style="text-align: center;"><b>Executive &amp;
+  Admin Staff</b>
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Oh Poh
+<td height="19" class=""><b>Name</b>
+</td>
+  
+<td class=""><b>Designation</b>
+</td>
+  
+<td class=""><b>Email</b>
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Mdm. Oh Poh
   Lay Jeslyn
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Admin Manager
+<td class="">Admin Manager
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OH_Poh_Lay@moe.edu.sg
-</td>
- 
-</tr>
- 
-<tr height="19" style="height:14.25pt">
-  
-<td height="19" class="xl69" style="height:14.25pt">Ms. Seah Bee Leng
-</td>
-  
-<td class="xl65" style="border-top:none;border-left:none">Admin Manager
-</td>
-  
-<td class="xl65" style="border-top:none;border-left:none">seah_bee_leng@moe.edu.sg
+<td class="">OH_Poh_Lay@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl68" style="height:14.25pt">Mdm. Koh Ai Mui,
-  Rebecca&nbsp;
+<td height="19" class="">Ms. Seah Bee
+  Leng
 </td>
   
-<td class="xl65" style="border-top:none">Operation Manager
+<td class="">Admin Manager
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">koh_ai_mui@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" style="height:14.25pt">
-  
-<td height="19" class="xl65" style="height:14.25pt">Mr. Gunasegaran Kuppusamy
-</td>
-  
-<td class="xl65" style="border-top:none;border-left:none">ICT Manager
-</td>
-  
-<td class="xl65" style="border-top:none;border-left:none">gunasegaran_al_kuppusamy@moe.edu.sg
+<td class="">seah_bee_leng@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Mahendran
+<td height="19" class="">Mdm. Koh Ai
+  Mui, Rebecca&nbsp;
+</td>
+  
+<td class="">Operation Manager
+</td>
+  
+<td class="">koh_ai_mui@schools.gov.sg
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Mr.
+  Gunasegaran Kuppusamy
+</td>
+  
+<td class="">ICT Manager
+</td>
+  
+<td class="">gunasegaran_al_kuppusamy@schools.gov.sg
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Mr. Mahendran
   Paramasivam Alex
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Adjunct Operation
+<td class="">Adjunct Operation
   Manager
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Mahendran_Paramasivam_alex@moe.edu.sg
+<td class="">Mahendran_Paramasivam_alex@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Lim Hui
+<td height="19" class="">Mdm. Lim Hui
   Kiang Madeline
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">CSO
+<td class="">CSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">lim_hui_kiang@moe.edu.sg
+<td class="">lim_hui_kiang@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Saadiah
+<td height="19" class="">Mdm. Saadiah
   Asdan&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">CSO
+<td class="">CSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">saadiah_asdan@moe.edu.sg
+<td class="">saadiah_asdan@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Luke Teo
+<td height="19" class="">Mr. Luke Teo
   Lead
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">CSO
+<td class="">CSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">luke_teo_lead@moe.edu.sg
+<td class="">luke_teo_lead@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. James Lau
+<td height="19" class="">Mr. James Lau
   Kam Fatt&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">TSO
+<td class="">TSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">james_lau_kam_fatt@moe.edu.sg
+<td class="">james_lau_kam_fatt@schools.gov.sg
 </td>
  
 </tr>
  
- 
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Low Kar
+<td height="19" class="">Mr. Lok Shui
+  Onn&nbsp;
+</td>
+  
+<td class="">TSO
+</td>
+  
+<td class="">lok_shui_onn@schools.gov.sg
+</td>
+ 
+</tr>
+ 
+<tr height="19" class="">
+  
+<td height="19" class="">Mdm. Low Kar
   Yee
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">TSO
+<td class="">TSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">low_kar_yee_a@moe.edu.sg
+<td class="">low_kar_yee_a@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm. Siti
+<td height="19" class="">Mdm. Siti
   Hazura Efendi&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">TSO
+<td class="">TSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">siti_hazura_efendi@moe.edu.sg
+<td class="">siti_hazura_efendi@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Miss.
+<td height="19" class="">Miss.
   Syawqina Adlin Ahmad&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">TSO
+<td class="">TSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Syawqina_adlin_Ahmad@moe.edu.sg
+<td class="">Syawqina_adlin_Ahmad@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mdm.
+<td height="19" class="">Mdm.
   Sarswathy Palanisamy&nbsp;
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OSO
+<td class="">OSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">sarswathy_palanisamy@moe.edu.sg
+<td class="">sarswathy_palanisamy@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Danker
+<td height="19" class="">Mr. Danker
   Derrick Aloysius
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OSO
+<td class="">OSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">danker_derrick_aloysius@moe.edu.sg
+<td class="">danker_derrick_aloysius@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Yusof Bin
+<td height="19" class="">Mr. Yusof Bin
   Masdar
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OSO
+<td class="">OSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">yusof_masdar@moe.edu.sg
+<td class="">yusof_masdar@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Chow Tin
+<td height="19" class="">Mr. Chow Tin
   Hoi
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OSO
+<td class="">OSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">Nil
+<td class="">Nil
 </td>
  
 </tr>
  
-<tr height="19" style="height:14.25pt">
+<tr height="19" class="">
   
-<td height="19" class="xl65" style="height:14.25pt;border-top:none">Mr. Leong
+<td height="19" class="">Mr. Leong
   Chee Kiong
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">OSO
+<td class="">OSO
 </td>
   
-<td class="xl65" style="border-top:none;border-left:none">leong_chee_kiong@moe.edu.sg
+<td class="">leong_chee_kiong@schools.gov.sg
 </td>
 </tr>
 </tbody>
