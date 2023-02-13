@@ -61,8 +61,8 @@ description: ""
 </a></p>
 
 
-<p><a href="mailto:tan_lay_hiok@schools.gov.sg">
-<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%2011.png">
+<p><a href="mailto:cheung_ho_wai@schools.gov.sg">
+<img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/DM_CheungHowai.jpg">
 </a></p>
 
 
