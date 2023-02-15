@@ -7,7 +7,7 @@ permalink: /
 notification: We aspire to be a School on a Hill
 sections:
   - hero:
-      background: /images/home_banner.gif
+      background: /images/bannerv2.gif
       key_highlights:
         - title: Happenings
           description: ""
