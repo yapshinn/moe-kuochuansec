@@ -3,9 +3,6 @@ title: School Executive Committee
 permalink: /our-people/departments/school-executive-committee/
 description: ""
 ---
-
-
-
 ## School Executive Committee
 
 **Click on the image for email!**
@@ -16,17 +13,17 @@ description: ""
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%201.png">
 </a></p>
 
-
 <p><a href="mailto:Lee_Chui_Eng@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/School%20Exec%202.png">
 </a></p>
-
-
 <p><a href="mailto:Jamie_Amanda_YEE@schools.gov.sg">
 <img style="width:125px;height:95px;margin-right:15px;" align = "left" src="/images/Our%20People/Departments/School%20Executive%20Committee/VPAJaime.jpg">
 </a></p>
 
-<br><br><br>
+
+
+
+<br><br><br><br>
 
 **Head of Department**
 
