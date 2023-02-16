@@ -18,8 +18,8 @@ The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Seco
 **Objective :**   
 
 <p align="justify">
- • Equipment students with necessary Knowledge, Skills and Values to make decisions at key education stages. 
-
+ • Equipment students with necessary Knowledge, Skills and Values to make decisions at key education stages. </p>
+<p align="justify">
 • Prepare students for a lifetime of careers instead of a career-for-life.</p>
 
 ### Programmes
