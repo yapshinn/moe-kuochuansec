@@ -145,7 +145,7 @@ Students who would like to explore more about subject choices, inquire about pos
 <tbody>
   <tr>
     <th>ITE Early Admission Exercise [ITE-EAE]</th>
-		<td><a href="www.ite.edu.sg/wps/portal/eae">www.ite.edu.sg/wps/portal/eae</a> <b>BROKEN LINK</b> </td>
+		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise"></a> <b></b> </td>
   </tr>
   <tr>
     <th>Polytechnic Early Admission Exercise [EAE]</th>
