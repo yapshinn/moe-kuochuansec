@@ -14,7 +14,7 @@ KCPSS have adopted MOE Cyberwellness framework to guide us in school wide CW Edu
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/Cyber%20Wellness%201.png" style="width:55%">
 
-<p align="justify">The three principles, **‘Respect for Self and Others’, ‘Safe and Responsible Use’** and **‘Positive Peer Influence’** when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions. </p>
+The three principles, **‘Respect for Self and Others’, ‘Safe and Responsible Use’** and **‘Positive Peer Influence’** when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
 
 <p align="justify">The framework also features a 3-step process to explore Cyber issues:   </p>
 
@@ -70,4 +70,3 @@ The **Sense – Think – Act Process**
   </tr>
 </tbody>
 </table>
-
