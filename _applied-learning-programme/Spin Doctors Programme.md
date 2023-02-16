@@ -6,7 +6,7 @@ description: ""
 ## Spin Doctors Programme
 
 
-The Spin Doctors programme focuses on equipping students to be more media literate by leveraging on media literacy tools to hone their speaking and writing skills.
+<p align="justify">The Spin Doctors programme focuses on equipping students to be more media literate by leveraging on media literacy tools to hone their speaking and writing skills.</p>
 
 <table>
 <thead>
@@ -17,7 +17,7 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">   Students are given platforms to hone and showcase their talents through enrichment workshops, speaking and writing competitions and hosting of school events.</td>
+    <td style="text-align: justify" colspan="2">   Students are given platforms to hone and showcase their talents through enrichment workshops, speaking and writing competitions and hosting of school events.</td>
   </tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">   Students learning to be newscasters for a day as well as acquiring videography skills in the media room. </td>
+    <td style="text-align: justify" colspan="2">   Students learning to be newscasters for a day as well as acquiring videography skills in the media room. </td>
   </tr>
 </tbody>
 </table>
@@ -47,7 +47,7 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">Kuo Chuan Presbyterian Secondary School is proud to have helped nurture budding, talented writers in our school through our Spin Doctors programme. Through attending our creative writing workshops, these writers have benefitted by learning how to write prolifically while forming their own creative writing portfolios.</td>
+    <td style="text-align: justify" colspan="2">Kuo Chuan Presbyterian Secondary School is proud to have helped nurture budding, talented writers in our school through our Spin Doctors programme. Through attending our creative writing workshops, these writers have benefitted by learning how to write prolifically while forming their own creative writing portfolios.</td>
   </tr>
 </tbody>
 </table>
