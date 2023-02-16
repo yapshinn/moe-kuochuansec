@@ -99,8 +99,10 @@ The programme will target students who have an interest to understand more about
 <table>
 <thead>
   <tr>
-    <td>Mr. Pandiyan Govindaraju (HOD/ CCE)</td>
-    <td><a href="mailto:pandiyan_govindaraju@schools.gov.sg">pandiyan_govindaraju@schools.gov.sg</a></td>
+    <td>Mr. Tan Say Pin (HOD/ CCE)</td>
+    <td><a href="mailto:tan_say_pin@schools.gov.sg
+">tan_say_pin@schools.gov.sg
+</a></td>
   </tr>
 </thead>
 <tbody>
