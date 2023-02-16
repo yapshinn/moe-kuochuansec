@@ -202,7 +202,7 @@ Students who would like to explore more about subject choices, inquire about pos
 <tbody>
   <tr>
     <th>Direct Entry Scheme to Polytechnic Programme [DPP/JIE H]</th>
-    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a> <b>BROKEN LINK</b></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary/admissions">https://www.moe.gov.sg/post-secondary/admissions</a> <b></b></td>
   </tr>
   <tr>
     <th>Polytechnic Foundation Programme [PFP]</th>
