@@ -21,6 +21,7 @@ The CYL programme at KCPSS is premised on the following key principles:
 **2.** **Every student can be a leader.** Since the disposition to serve is a deliberate and conscious choice and not a talent or gift bestowed from birth,   
 every KCPian can be a servant leader, if he or she chooses to be one. 
 
+  
 **3.** **Leadership is a journey of personal development.**   
 The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths, struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their journey beyond Kuo Chuan.
 </p>
