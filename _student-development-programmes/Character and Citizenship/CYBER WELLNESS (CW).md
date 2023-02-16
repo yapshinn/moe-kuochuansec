@@ -70,10 +70,11 @@ The **Sense – Think – Act Process**
   </tr>
 </tbody>
 </table>
-<p align="justify">
+
 
 ### Resources for Parents (Links are broken)
 
+<p align="justify">
 
 *   **[https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)** Useful information to provide an overview of the Cyber Wellness Curriculum and Cyber Issues for parents.
 
