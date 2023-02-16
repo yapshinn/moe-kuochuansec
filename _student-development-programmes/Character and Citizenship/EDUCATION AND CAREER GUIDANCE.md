@@ -153,7 +153,7 @@ Students who would like to explore more about subject choices, inquire about pos
   </tr>
   <tr>
     <th>Joint Admission Exercise [JAE]: General Information</th>
-    <td><a href="www.moe.gov.sg/admissions/joint-admissions-exercise">www.moe.gov.sg/admissions/joint-admissions-exercise</a> <b>BROKEN LINK</b></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary/admissions/jae">https://www.moe.gov.sg/post-secondary/admissions/jae</a> <b></b></td>
   </tr>
 </tbody>
 </table>
