@@ -24,11 +24,11 @@ The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Seco
 
 ### Programmes
 
-<p align="justify">
+
 
 **1. Aspiration Room @ Library**  
     
-KCPSS is supported by an ECG Counselor . Regular ECG related clinics are conducted by the trained ECG counselor to meet the student’s needs.
+<p align="justify">KCPSS is supported by an ECG Counselor . Regular ECG related clinics are conducted by the trained ECG counselor to meet the student’s needs.</p>
 		
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%202.png"  
      style="width:75%">
@@ -37,14 +37,14 @@ KCPSS is supported by an ECG Counselor . Regular ECG related clinics are conduct
 **2. Learning journey to Polytechnic Open House in January**
     
 
-Graduating students will have the opportunity to visit the polytechnics during the January open house to experience polytechnic life as well have an understanding of the various courses offered. Through this visit, it is hoped that students will be able to make informed decisions with regards to their post secondary education choices
+<p align="justify">Graduating students will have the opportunity to visit the polytechnics during the January open house to experience polytechnic life as well have an understanding of the various courses offered. Through this visit, it is hoped that students will be able to make informed decisions with regards to their post secondary education choices.</p>
 
    
 **3. Applied Studies Experience (ASE) @ Ngee Ann Polytechnic**
     
-As part of enhanced Education and Career Guidance (ECG) efforts to support students in making considered decisions about their education and career plans and take positive steps to embark on them, interested students will be given the opportunity to attend the ASE at Ngee Ann Polytechnic.
+<p align="justify">As part of enhanced Education and Career Guidance (ECG) efforts to support students in making considered decisions about their education and career plans and take positive steps to embark on them, interested students will be given the opportunity to attend the ASE at Ngee Ann Polytechnic.
     
-The Applied Studies Experience” allows students to explore and pursue their interests through engaging course activities and authentic hands-on experiences.
+The Applied Studies Experience” allows students to explore and pursue their interests through engaging course activities and authentic hands-on experiences.</p>
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%203.png)
 
