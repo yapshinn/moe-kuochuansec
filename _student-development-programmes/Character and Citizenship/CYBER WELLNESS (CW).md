@@ -6,25 +6,26 @@ third_nav_title: Character and Citizenship
 ---
 ## Area of Focus
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. 
+<p align="justify">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. 
 
-KCPSS have adopted MOE Cyberwellness framework to guide us in school wide CW Education.
+KCPSS have adopted MOE Cyberwellness framework to guide us in school wide CW Education.</p>
 
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/Cyber%20Wellness%201.png" style="width:55%">
 
-The three principles, **‘Respect for Self and Others’, ‘Safe and Responsible Use’** and **‘Positive Peer Influence’** when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions. 
+<p align="justify">The three principles, **‘Respect for Self and Others’, ‘Safe and Responsible Use’** and **‘Positive Peer Influence’** when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions. </p>
 
-The framework also features a 3-step process to explore Cyber issues:   
-
+<p align="justify">The framework also features a 3-step process to explore Cyber issues:   </p>
+<p align="justify">
+	
 The **Sense – Think – Act Process**
 
 1. **Sense**: Identify the possible risks of harmful behaviours online and learn how to protect oneself
 
 2. **Think**: Analyse, evaluate and reflect on the online situation based on the three CW principles
 
-3. **Act**: Translate understanding into actions so as to be safe and have a positive presence online
+3. **Act**: Translate understanding into actions so as to be safe and have a positive presence online</p>
 
 
 ### Programmes
@@ -34,7 +35,7 @@ The **Sense – Think – Act Process**
 
   
 
-Every year 2 talks are scheduled during assembly to focus on contemporary cyberwellness related issues.
+<p align="justify">Every year 2 talks are scheduled during assembly to focus on contemporary cyberwellness related issues.</p>
 
   
 
@@ -42,7 +43,7 @@ Every year 2 talks are scheduled during assembly to focus on contemporary cyberw
 
   
 
-In 2014, formal CW lessons were rolled out in schools to emphasise the explicit teaching of social and emotional competencies and values in the context of the cyber world. It is centred on the three foundational principles of the CW Framework and the three big ideas, Identity, Relationships and Choices of MOE’s Character and Citizenship Education (CCE).
+<p align="justify">In 2014, formal CW lessons were rolled out in schools to emphasise the explicit teaching of social and emotional competencies and values in the context of the cyber world. It is centred on the three foundational principles of the CW Framework and the three big ideas, Identity, Relationships and Choices of MOE’s Character and Citizenship Education (CCE).</p>
 
 <table>
 <thead>
@@ -70,12 +71,14 @@ In 2014, formal CW lessons were rolled out in schools to emphasise the explicit 
   </tr>
 </tbody>
 </table>
-
+<p align="justify">
 
 ### Resources for Parents (Links are broken)
+
 
 *   **[https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)** Useful information to provide an overview of the Cyber Wellness Curriculum and Cyber Issues for parents.
 
   
 
 *   **[Setting Parental Controls Guide](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls)** \- A guide for parents to set up parental controls (e.g., set automatic filtering of undesirable sites and/or limit usage) on their children’s’ operating systems, internet browsers and devices.
+	</p>
