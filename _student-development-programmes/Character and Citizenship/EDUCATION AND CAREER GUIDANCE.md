@@ -75,7 +75,9 @@ Students who would like to explore more about subject choices, inquire about pos
 </thead>
 <tbody>
   <tr>
-    <td>Mr. Pandiyan - <a href="mailto:Pandiyan_Govindaraju@schools.gov.sg">Pandiyan_Govindaraju@schools.gov.sg</a></td>
+    <td>Mr. Tan Say Pin <a href="mailto:tan_say_pin@schools.gov.sg
+">tan_say_pin@schools.gov.sg
+</a></td>
   </tr>
   <tr>
 		<td><b>Members</b></td>
