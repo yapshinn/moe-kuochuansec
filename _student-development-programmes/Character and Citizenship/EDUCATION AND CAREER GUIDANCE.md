@@ -5,22 +5,25 @@ description: ""
 third_nav_title: Character and Citizenship
 ---
 ### Area of Focus
-
-The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Secondary School is guided by the ECG Developmental Model recommended by MOE.
+<p align="justify">
+The Education and Career Guidance Committee (ECG) in Kuo Chuan Presbyterian Secondary School is guided by the ECG Developmental Model recommended by MOE.</p>
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%201.png"  
      style="width:55%">
 
 
-
+<p align="justify">
+	
 **Objective :**   
 
  • Equipment students with necessary Knowledge, Skills and Values to make decisions at key education stages. 
 
 • Prepare students for a lifetime of careers instead of a career-for-life.
-
+</P
 ### Programmes
+
+<p align="justify">
 
 **1. Aspiration Room @ Library**  
     
@@ -51,14 +54,16 @@ The Applied Studies Experience” allows students to explore and pursue their in
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%204.png)
 
+</p>
 
+	
 ### Teachers
 
-Our ECG Counsellor is stationed at the school once a week to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
+<p align="justify">Our ECG Counsellor is stationed at the school once a week to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
 
   
 
-Students who would like to explore more about subject choices, inquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.
+Students who would like to explore more about subject choices, inquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.</p>
 
 
 <table>
@@ -90,7 +95,7 @@ Students who would like to explore more about subject choices, inquire about pos
 		<td><b>ECG Cousellor</b></td>
   </tr>
   <tr>
-    <td>Ms. Mildred Chan - <a href="mailto:Chan_WAN_YI_MILDRED@schools.gov.sg">Chan_WAN_YI_MILDRED@schools.gov.sg</a></td>
+    <td>Ms. Lisa,Lim Yin Leng - <a href="mailto:Lim_Yin_Leng_Lisa@schools.gov.sg">Lim_Yin_Leng_Lisa@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
