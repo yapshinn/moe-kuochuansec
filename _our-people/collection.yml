@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Sample.md
       - School Management Committee.md
       - Our Staff/School Executive Committee.md
       - Our Staff/.keep
