@@ -139,7 +139,7 @@ Students who would like to explore more about subject choices, inquire about pos
 <thead>
   <tr>
     <th>Direct School Admission –Junior College [DSA-JC]</th>
-    <td><a href="www.moe.gov.sg/admissions/direct-admissions/dsa-jc">www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a> <b>BROKEN LINK</b></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/">https://www.moe.gov.sg/post-secondary/admissions/dsa/</a> <b></b></td>
   </tr>
 </thead>
 <tbody>
