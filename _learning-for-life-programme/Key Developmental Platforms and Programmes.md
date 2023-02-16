@@ -25,10 +25,10 @@ description: ""
     <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYsWkPy0KoG8VAKdp1mG2gXxCe_MIY5c_rRoUrI-XVVWAaI255reEYsUQflYLickQNM96AuflYWFRO/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
   </tr>
   <tr>
-    <th colspan="2"> C. KCPSS Orientation Week and Level Camps  </th>
+    <th colspan="1"> C. KCPSS Orientation Week and Level Camps  </th>
   </tr>
   <tr>
-    <td> The Orientation Week for Secondary Ones as well as Level Camps for Secondary Two and Three students aim to develop students in self and servant leadership, inculcate G.R.A.C.E values and emerging 21CC skills. The level camps incorporate the intentional design of activities to ensure engaging experiential based learning. There is also visibility of learning to ensure that facilitators are able to capture and make sense of defined behaviors and actions of students during the activities. Developmental feedback is given to students through affirmation or specific areas for improvement to enable deeper learning. The active facilitation and feedback cycle put in place during the level camps help students concretise their learning and understand how to apply the leadership theories they have learned to real-world situations.</td>
+    <td style="text-align: justify"> The Orientation Week for Secondary Ones as well as Level Camps for Secondary Two and Three students aim to develop students in self and servant leadership, inculcate G.R.A.C.E values and emerging 21CC skills. The level camps incorporate the intentional design of activities to ensure engaging experiential based learning. There is also visibility of learning to ensure that facilitators are able to capture and make sense of defined behaviors and actions of students during the activities. Developmental feedback is given to students through affirmation or specific areas for improvement to enable deeper learning. The active facilitation and feedback cycle put in place during the level camps help students concretise their learning and understand how to apply the leadership theories they have learned to real-world situations.</td>
     <td> 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCGaGzbQelLTeD7DhyA2UZkr11cQTpSB8exJRb5BZ6l-8oneSoRep4i8uwQD6HUsc4GJJlsHp9p0Zm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 		</td>
