@@ -54,9 +54,6 @@ The Applied Studies Experience” allows students to explore and pursue their in
 **4. Talks**
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/ECG%204.png)
-
-</p>
-
 	
 ### Teachers
 
