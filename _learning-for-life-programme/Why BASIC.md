@@ -27,8 +27,6 @@ every KCPian can be a servant leader, if he or she chooses to be one. 
 The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths,   
 struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their   
 journey beyond Kuo Chuan.
-
-
 </p>
 
-**File from Google Drive needs to be uploaded here**
+<iframe width="722" height="553" src="https://www.youtube.com/embed/kKxv-tQf7cQ" title="2017 Cambodia Combined UG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
