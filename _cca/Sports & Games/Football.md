@@ -25,7 +25,7 @@ third_nav_title: Sports & Games
 
   
 
-Last but certainly not the least, Football requires **discipline in character** that makes him a Holistic player whom people hold with high regards. It is in these principles that the **KCPSS Football Team** is built on - every player to graduate from KCPSS with the knowledge of Football, the health and physique of a true athlete, relationships with team mates that lasts and character that brings every player through life.
+<p style="text-align: justify;font-size:16px;">Last but certainly not the least, Football requires <b>discipline in character</b> that makes him a Holistic player whom people hold with high regards. It is in these principles that the <b>KCPSS Football Team</b> is built on - every player to graduate from KCPSS with the knowledge of Football, the health and physique of a true athlete, relationships with team mates that lasts and character that brings every player through life.</p>
 
 
 ### Programmes
