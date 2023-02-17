@@ -129,13 +129,8 @@ We participate actively every year in the different types of competition held by
 ### Teachers-in-Charge
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-Goh Xin Fang<br>
-<a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>
+| Goh Xin Fang | Tan Hui Si| Wang Ting |
+| -------- | -------- | -------- |
+|<a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>| <a href="mailto:tan_hui_si@schools.gov.sg">tan_hui_si@schools.gov.sg</a>     | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |
 
-Sarah Tan Hui En<br>
-<a href="mailto:tan_hui_en_sarah@schools.gov.sg">tan_hui_en_sarah@schools.gov.sg</a>
-
-Wang Ting<br>
-<a href="mailto:want_ting@schools.gov.sg">want_ting@schools.gov.sg</a>
