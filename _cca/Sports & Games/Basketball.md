@@ -62,7 +62,7 @@ In leadership development, our basketball players are also given leadership oppo
 </tbody>
 </table>
 
-<b><iframe width="352" height="240" src="https://www.youtube.com/embed/gA8GuXShnJE" title="Basketball Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b>
+<b><iframe width="737" height="553" src="https://www.youtube.com/embed/gA8GuXShnJE" title="Basketball Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b>
 
 
 **<u>Programmes</u>**
