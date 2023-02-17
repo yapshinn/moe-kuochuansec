@@ -72,6 +72,3 @@ Competition organized by schools like NTU, NUS, Singapore Shooting Association f
 | Teo Shu Yen | Cassandra Christopher | Loo Sze Yen |
 | -------- | -------- | -------- |
 | <a href="mailto:lim_shu_yen@schools.gov.sg">lim_shu_yen@schools.gov.sg</a>     | <a href="mailto:cassandra_christopher@schools.gov.sg">cassandra_christopher@schools.gov.sg</a>     | <a href="mailto:loo_sze_yen@schools.gov.sg">loo_sze_yen@schools.gov.sg</a>     |
-
-
-
