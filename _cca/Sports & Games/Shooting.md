@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/shooting1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-Co-curricular activities are a part of a student's life, be it primary, secondary or tertiary level. They are essential in completing a student's holistic education in school. The skills, knowledge and values that students take away with them from the training can be applicable in everyday life. The Shooting Club believes that our rigorous training programme will establish a good foundation of discipline and responsibility in every student, and hopes that every member will come out to be an all-rounded person in every aspect of life.
+<p style="text-align: justify;font-size:16px;">Co-curricular activities are a part of a student's life, be it primary, secondary or tertiary level. They are essential in completing a student's holistic education in school. The skills, knowledge and values that students take away with them from the training can be applicable in everyday life. The Shooting Club believes that our rigorous training programme will establish a good foundation of discipline and responsibility in every student, and hopes that every member will come out to be an all-rounded person in every aspect of life.</p>
 
 
 ### Area of Focus
@@ -20,7 +20,7 @@ Co-curricular activities are a part of a student's life, be it primary, secondar
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/shooting2.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 
-The shooting CCA aims to train students in either Air Pistol or Air Rifle discipline. Regardless of experience in the field of shooting, we train every member and bring out his or her fullest potential. Students will be introduced to the rules, reglation and latest shooting techniques and trained with the technical and mental skills for preparation for zonal or national competitions. We also focus on physical training to condition their fitness and health so that they can actively participate in the sport. Besides focusing in striving for success, we will not forget to ensure that every member portrays good sportsmanship, moral values and that they are able to cope with both their CCA and academic work.
+<p style="text-align: justify;font-size:16px;">The shooting CCA aims to train students in either Air Pistol or Air Rifle discipline. Regardless of experience in the field of shooting, we train every member and bring out his or her fullest potential. Students will be introduced to the rules, reglation and latest shooting techniques and trained with the technical and mental skills for preparation for zonal or national competitions. We also focus on physical training to condition their fitness and health so that they can actively participate in the sport. Besides focusing in striving for success, we will not forget to ensure that every member portrays good sportsmanship, moral values and that they are able to cope with both their CCA and academic work.</p>
 
 ### Programmes
 
@@ -49,7 +49,7 @@ The shooting CCA aims to train students in either Air Pistol or Air Rifle discip
 </tbody>
 </table>
 
-<br><br><br><br>
+<br>
 
 **Special Programme**<br>
 Bonding sessions among the members of the Shooting Club.  
