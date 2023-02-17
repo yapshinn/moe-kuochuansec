@@ -51,7 +51,7 @@ third_nav_title: Sports & Games
 </table>
 
 
-<br><br><br><br><br>
+<br>
 
 **<u>Special Programmes</u>**
 
@@ -86,10 +86,4 @@ Playing against other schools to test the teams level of readiness for an actual
 
 | Fazliana Bte Pairin |Lee Rachel | 
 | -------- | -------- | 
-| <a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>     | <a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>    | 
-
-
-
-
-
-
+| <a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>     | <a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>    |
