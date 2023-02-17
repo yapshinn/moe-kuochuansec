@@ -48,17 +48,17 @@ The club aims to train all its members with basic photography skills which will 
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Friday</td>
+    <td>Every Tuesday</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>2.30 PM - 5.30 PM</td>
+    <td>3.00 PM - 5.30 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
-    <td>Computer Lab 1 </td>
+    <td>Computer Lab 1 /Mustard Seed </td>
   </tr>
 </tbody>
 </table>
