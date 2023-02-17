@@ -56,10 +56,10 @@ third_nav_title: Sports & Games
 **<u>Special Programmes</u>**
 
 **June Combined Sports Camp**  
-<p style="text-align: justify;font-size:16px;">
+
 *   Enrichment training camp during 1st week of June 
 *   Stay in camp combined with rest of the Sports CCA
-</p>
+
   
 **End of year Training Camp**<br>
 Intensive training camp to prepare school team for upcoming Zonals & Nationals  
