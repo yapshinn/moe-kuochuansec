@@ -74,10 +74,8 @@ In leadership development, our basketball players are also given leadership oppo
 	
 ### Teachers-in-Charge
 
-<img align="left" style="width:45%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/Basketball%204.jpeg">
-	
-Joseph Chung Wei Peng<br>
-<a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a>
-	
-Sitoh Wei Sheng Wilson<br>
-<a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>
+
+
+| Joseph Chung Wei Peng | Sitoh Wei Sheng Wilson | 
+| -------- | -------- | 
+| <a href="mailto:chung_wei_peng_joseph@schools.gov.sg">chung_wei_peng_joseph@schools.gov.sg</a>    | <a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>     | 
