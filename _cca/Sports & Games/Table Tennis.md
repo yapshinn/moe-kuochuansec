@@ -62,11 +62,9 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 
 ### Teachers-in-Charge
 
-<img align="left" style="width:35%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis2.jpg">
 
 
-Yu Xiaoqin<br>
-<a href="mailto:yu_xiaoqin@schools.gov.sg">yu_xiaoqin@schools.gov.sg</a>
-
-Ho Jia Yan<br>
-<a href="mailto:ho_jia_yan@schools.gov.sg">ho_jia_yan@schools.gov.sg</a>
+| Yu Xiaoqin | Ho Jia Yan | Samuel Chan Yew Fai |
+| -------- | -------- | -------- |
+| <a href="mailto:yu_xiaoqin@schools.gov.sg">yu_xiaoqin@schools.gov.sg</a>     | <a href="mailto:ho_jia_yan@schools.gov.sg">ho_jia_yan@schools.gov.sg</a>     | <a href="mailto:chan_yew_fai_samuel@schools.gov.sg">chan_yew_fai_samuel@schools.gov.sg
+</a>     |
