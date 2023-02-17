@@ -97,11 +97,9 @@ Linesmen duties for South Zone Competitions and National School Games Finals.
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Badminton/badminton4.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
-Danny Ng Geok Koon<br>
-<a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>
+| Danny Ng Geok Koon | Mathivanan Kadarkarai |
+| -------- | -------- | 
+| <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     | 
 
-Mathivanan Kadarkarai<br>
-<a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>
