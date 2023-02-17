@@ -60,7 +60,7 @@ description: ""
 
   <tr>
     <th>CCA Highlights</th>
-		<td><br><b>UPLOAD VIDEO TO YOUTUBE/VIMEO</b></td>
+		<td><br><b><iframe width="352" height="240" src="https://www.youtube.com/embed/ulk6sb1K6_A" title="TEAMKCP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b></td>
   </tr>
 </tbody>
 </table>
