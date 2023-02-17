@@ -71,15 +71,10 @@ The National Police Cadet Corp trains its cadets to be strong both physically an
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br><br><br><br><br><br><br><br>
 
-Teo Han Yang Edwin<br>
-<a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg</a>
+| Ong Wee Xiang | Teo Han Yang Edwin | Nam Tin Yuen |
+| -------- | -------- | -------- |
+| <a href="mailto:ong_wee_xiang@schools.gov.sg">ong_wee_xiang@schools.gov.sg</a>     | <a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg</a> | <a href="mailto:nam_tin_yuen@schools.gov.sg">nam_tin_yuen@schools.gov.sg
+</a>|
 
-Ong Wee Xiang<br>
-<a href="mailto:ong_wee_xiang@schools.gov.sg">ong_wee_xiang@schools.gov.sg</a>
-
-Sim Shin Ying<br>
-<a href="mailto:sim_shin_ying@schools.gov.sg">sim_shin_ying@schools.gov.sg</a>
