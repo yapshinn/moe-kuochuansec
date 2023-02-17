@@ -15,9 +15,9 @@ third_nav_title: Uniformed Groups
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **<u>Mission</u>**  
-The Mission of the Girls' Brigade is Every girl a leader, every officer a servant leader. The aim of the Girls' Brigade is to help girls in Kuo Chuan Presbyterian Secondary School develop into ladies who embrace our school values of G.R.A.C.E. Through self-control, reverence and a sense of responsibility, we endeavour the girls to find true enrichment in life. The 28th Coy aspires to lead each and every Brigadier to achieve her fullest potential, building them up in the 21st Century skills as active community contributors, fulfilling the Girls' Brigade mission of raising every girl to be a leader and every officer to be a servant leader.   
+<p style="text-align: justify">The Mission of the Girls' Brigade is Every girl a leader, every officer a servant leader. The aim of the Girls' Brigade is to help girls in Kuo Chuan Presbyterian Secondary School develop into ladies who embrace our school values of G.R.A.C.E. Through self-control, reverence and a sense of responsibility, we endeavour the girls to find true enrichment in life. The 28th Coy aspires to lead each and every Brigadier to achieve her fullest potential, building them up in the 21st Century skills as active community contributors, fulfilling the Girls' Brigade mission of raising every girl to be a leader and every officer to be a servant leader.   
   
-The 28th Girls' Brigade Singapore Company started in 1989 and has since been growing steadily, gaining much recognition within the Girls' Brigade, Singapore.   
+The 28th Girls' Brigade Singapore Company started in 1989 and has since been growing steadily, gaining much recognition within the Girls' Brigade, Singapore.</p>   
   
 **<u>Partners</u>**  
 **Girls' Brigade Headquarters**<br>
@@ -25,19 +25,19 @@ We are under the umbrella of The Girls' Brigade Singapore;
 [https://www.gb.org.sg/](https://www.gb.org.sg/)  
 	
 **Officers, Volunteer Adult Leaders (VALs), Warrant Officers and Junior Officers**<br>
-We have a team of dedicated officers, volunteers, WOs and JOs assisting the company at each parade. We are very thankful for all of them and our 28th Company Alumni who played a huge part in guiding and leading the Brigadiers.
+<p style="text-align: justify">We have a team of dedicated officers, volunteers, WOs and JOs assisting the company at each parade. We are very thankful for all of them and our 28th Company Alumni who played a huge part in guiding and leading the Brigadiers.</p>
 
 ### Area of Focus
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girls%20Brigade/gb2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-The programmes in Girls’ Brigade are designed to cater towards the holistic development of the child.  
+<p style="text-align: justify">The programmes in Girls’ Brigade are designed to cater towards the holistic development of the child.  
   
 Through the engaging and interesting activities planned out for them, our girls discover their interests and talents. They also develop much values and competencies through these activities, which are needed in this rapidly changing society.   
   
 In their years with us, girls also find support through friends as they work together and grow as lifelong learners.   
   
-Some highlights of our activities include archery, indoor rock climbing, kayaking and dancing! These learning experiences serve as platforms for our girls to grow as servant leaders and scholars.
+Some highlights of our activities include archery, indoor rock climbing, kayaking and dancing! These learning experiences serve as platforms for our girls to grow as servant leaders and scholars.</p>
 
 ### Programmes
 
@@ -88,7 +88,7 @@ Some highlights of our activities include archery, indoor rock climbing, kayakin
 **<u>Special Programmes</u>**
 
 **Nationals Competition (March)**   
-We participate actively every year in the different types of competition held by HQ, ranging from outdoor cooking to drill competition to cheer leading.   
+<p style="text-align: justify">We participate actively every year in the different types of competition held by HQ, ranging from outdoor cooking to drill competition to cheer leading. </p>  
 
 *   2019 Low Guat Tin Challenge (LGT) (GOLD award, 2nd place)
 *   2018 National Drill Competition (SILVER award)
@@ -133,4 +133,3 @@ We participate actively every year in the different types of competition held by
 | Goh Xin Fang | Tan Hui Si| Wang Ting |
 | -------- | -------- | -------- |
 |<a href="mailto:goh_xin_fang@schools.gov.sg">goh_xin_fang@schools.gov.sg</a>| <a href="mailto:tan_hui_si@schools.gov.sg">tan_hui_si@schools.gov.sg</a>     | <a href="mailto:wang_ting@schools.gov.sg">wang_ting@schools.gov.sg</a> |
-
