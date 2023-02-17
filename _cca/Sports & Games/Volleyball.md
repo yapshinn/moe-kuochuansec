@@ -13,7 +13,7 @@ third_nav_title: Sports & Games
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Vision.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
 
-Our vision at KCPSS Volleyball is to develop student athletes who are both competent in volleyball skills and grounded in our school values G.R.A.C.E.
+<p style="text-align: justify;font-size:16px;">Our vision at KCPSS Volleyball is to develop student athletes who are both competent in volleyball skills and grounded in our school values G.R.A.C.E.</p>
 
 <br><br><br><br>
 
@@ -32,7 +32,7 @@ Our players will:
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Programme.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
-**Programmes Training Days:**
+**Training**
 
 <table>
 <thead>
