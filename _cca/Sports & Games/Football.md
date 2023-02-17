@@ -68,10 +68,10 @@ third_nav_title: Sports & Games
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football4.jpg" style="width:35%;margin-right:15px;" align = "left">
 
-Joel Lee Jian Liang <br>
-<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>
 
-Nor'Aliah Abdul Samad<br>
-<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
+| Joel Lee Jian Liang | Chua Suet Ting Joyce |
+| -------- | -------- |
+|<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>| 
+
+
