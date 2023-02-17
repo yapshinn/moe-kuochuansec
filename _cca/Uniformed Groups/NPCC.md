@@ -12,13 +12,13 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-Mission :To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.  
+<p style="text-align: justify;font-size:16px;">Mission :To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>  
   
-The Vision of the National Police Cadet Corps is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.  
+<p style="text-align: justify;font-size:16px;">The Vision of the National Police Cadet Corps is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>  
   
-The KCPNPCC unit was formed in 1984. During the four or five years that the cadets are in NPCC, they go through a rigorous training programme which covers a wide range of activities from campcraft and foot drill, to weaponry training and citizenship education.  
+<p style="text-align: justify;font-size:16px;">The KCPNPCC unit was formed in 1984. During the four or five years that the cadets are in NPCC, they go through a rigorous training programme which covers a wide range of activities from campcraft and foot drill, to weaponry training and citizenship education.</p>  
   
-The KCP Cadets will also get the opportunity to visit various police establishments such as the Criminal Investigation Department, K9 Dog Unit and the Traffic Police. Cadets are also sent for enrichment courses such as Kayaking, First Aid and Anti-Drug Abuse. During these visits and courses, the cadets not only acquire useful knowledge, they also develop a sense of responsibility towards the nation.
+<p style="text-align: justify;font-size:16px;">The KCP Cadets will also get the opportunity to visit various police establishments such as the Criminal Investigation Department, K9 Dog Unit and the Traffic Police. Cadets are also sent for enrichment courses such as Kayaking, First Aid and Anti-Drug Abuse. During these visits and courses, the cadets not only acquire useful knowledge, they also develop a sense of responsibility towards the nation.</p>
 
 ### Area of Focus
 
@@ -33,11 +33,11 @@ The National Police Cadet Corp trains its cadets to be strong both physically an
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc3.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 
-The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition.  
+<p style="text-align: justify;font-size:16px;">The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition. </p> 
   
-Cadets also get the opportunity to participate in various camps such as the annual Adventure Training Camp and Survival Training Camp at Pulau Ubin.  Selected cadets will also join cadets from other schools for Overseas Enrichment Visits to Hong Kong and Brunei.  
+<p style="text-align: justify;font-size:16px;">Cadets also get the opportunity to participate in various camps such as the annual Adventure Training Camp and Survival Training Camp at Pulau Ubin.  Selected cadets will also join cadets from other schools for Overseas Enrichment Visits to Hong Kong and Brunei.</p>  
   
-These experiences will help to develop the leadership skills of our cadets and also build resilience in them.
+<p style="text-align: justify;font-size:16px;">These experiences will help to develop the leadership skills of our cadets and also build resilience in them.</p>
 
 **<u>Training</u>**
 
