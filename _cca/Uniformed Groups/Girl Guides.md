@@ -15,9 +15,9 @@ third_nav_title: Uniformed Groups
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **Mission**:
-<p style="text-align: justify;font-size:14px;">The Girl Guides' mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. Popularly known as KCP 1st Coy, we work very closely with this mission. We organise many activities to maximise the potential of our girls, explore new possibilities, achieve personal goals while making friends and having fun.</p>  
+<p style="text-align: justify;font-size:16px;">The Girl Guides' mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. Popularly known as KCP 1st Coy, we work very closely with this mission. We organise many activities to maximise the potential of our girls, explore new possibilities, achieve personal goals while making friends and having fun.</p>  
   
-<p style="text-align: justify;font-size:14px;">The Guide Promise to us is very crucial and it is the pivot behind Girl Guiding: I promise to do my best, To do my duty to God, To serve my country and help other people, and to keep the Guide Law. </p> 
+<p style="text-align: justify;font-size:16px;">The Guide Promise to us is very crucial and it is the pivot behind Girl Guiding: I promise to do my best, To do my duty to God, To serve my country and help other people, and to keep the Guide Law. </p> 
  
 We also follow the 10 Guide Laws:   
 A Guide is loyal and can be trusted  
@@ -45,7 +45,7 @@ Our motto, **"Be Prepared"** , shares the Founder's initials and is a practica
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<p style="text-align: justify;font-size:14px;">KCP 1st Coy is certainly a CCA like no other. We have a wide range of activities, which allows our members to acquire new skills and be exposed to all kinds of situations. This includes outdoor cooking, foot drills, gadget-making, as well as earning proficiency badges and going for overseas trips and camps. Most of our training is based on the Five-Point programme , which covers personal and social development, housekeeping skills, camping skills, community involvement and knowledge on worldwide issues. One of the highlights is our <u>Annual camp and Sec 1 Orientation Campfire</u> where our guides portray their talents and skills. We also render numerous community services, which include raising funds for Thinking Day Pennies, walkathon, Yeoman Services and selling cookies for Girl Guides Singapore with a serving heart and mind From these activities and competitions, we build strong friendships, share our joy and sorrow, learn the meaning of teamwork and overcome problems as sister guides.</p>
+<p style="text-align: justify;font-size:16px;">KCP 1st Coy is certainly a CCA like no other. We have a wide range of activities, which allows our members to acquire new skills and be exposed to all kinds of situations. This includes outdoor cooking, foot drills, gadget-making, as well as earning proficiency badges and going for overseas trips and camps. Most of our training is based on the Five-Point programme , which covers personal and social development, housekeeping skills, camping skills, community involvement and knowledge on worldwide issues. One of the highlights is our <u>Annual camp and Sec 1 Orientation Campfire</u> where our guides portray their talents and skills. We also render numerous community services, which include raising funds for Thinking Day Pennies, walkathon, Yeoman Services and selling cookies for Girl Guides Singapore with a serving heart and mind From these activities and competitions, we build strong friendships, share our joy and sorrow, learn the meaning of teamwork and overcome problems as sister guides.</p>
 
 **<u>Training</u>**
 
