@@ -64,7 +64,7 @@ The National Police Cadet Corp trains its cadets to be strong both physically an
 <thead>
   <tr>
     <td colspan="5">- 1st Runner Up for 2nd Edition of Community Safety and Security Project (CSSP), <b>Title - Anti Scam Student Champions (ASSC)</b><br>- Unit Overall Proficiency Award – Gold (2016, 2017, 2018, 2019,2021)<br>- Singapore Police Force – NPCC Badge<br>- Police Youth Ambassador (PYA) Project – selected as the Most Impactful PYA Project for 2018</td>
-		<td><b>UPLOAD VIDEO TO YOUTUBE</b></td>
+		<td><b><iframe width="352" height="240" src="https://www.youtube.com/embed/AKtJXJ24rEc" title="Anti Scam Student Champions (ASSC 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b></td>
   </tr>
 </thead>
 </table>
