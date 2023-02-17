@@ -21,7 +21,7 @@ The vision for **KCPSS Football CCA** is to inculcate values such as teamwork,
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football2.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
-Every player, coach and teacher in KCPSS knows that Football is a highly physical game that requires great mental strength, strong physique and clever wits. Not only that, it requires a great amount of team work that only through **good relationships with team mates** will it be accomplished. 
+<p style="text-align: justify;font-size:16px;">Every player, coach and teacher in KCPSS knows that Football is a highly physical game that requires great mental strength, strong physique and clever wits. Not only that, it requires a great amount of team work that only through <b>good relationships with team mates</b> will it be accomplished. </p>
 
   
 
