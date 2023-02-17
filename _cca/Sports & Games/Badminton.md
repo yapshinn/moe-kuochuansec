@@ -101,5 +101,4 @@ Linesmen duties for South Zone Competitions and National School Games Finals.
 
 | Danny Ng Geok Koon | Mathivanan Kadarkarai |
 | -------- | -------- | 
-| <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     | 
-
+| <a href="mailto:ng_geok_koon_danny@schools.gov.sg">ng_geok_koon_danny@schools.gov.sg</a>     | <a href="mailto:mathivanan_kadarkara@schools.gov.sg">mathivanan_kadarkara@schools.gov.sg</a>     |
