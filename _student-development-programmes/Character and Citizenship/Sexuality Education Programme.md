@@ -9,4 +9,4 @@ third_nav_title: Character and Citizenship
 
 **At KUO CHUAN PRESBYTERIAN Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-Click [here](/files//SEd_2023.pdf) for file
+Click [here](/SED_2023_17Feb.pdf) for file
