@@ -15,10 +15,10 @@ third_nav_title: Uniformed Groups
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **Mission**:
-<p style="text-align: justify;font-size:14px;">The Girl Guides' mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. Popularly known as KCP 1st Coy, we work very closely with this mission. We organise many activities to maximise the potential of our girls, explore new possibilities, achieve personal goals while making friends and having fun.  
+<p style="text-align: justify;font-size:14px;">The Girl Guides' mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. Popularly known as KCP 1st Coy, we work very closely with this mission. We organise many activities to maximise the potential of our girls, explore new possibilities, achieve personal goals while making friends and having fun.</p>  
   
-The Guide Promise to us is very crucial and it is the pivot behind Girl Guiding: I promise to do my best, To do my duty to God, To serve my country and help other people, and to keep the Guide Law. </p> 
-  
+<p style="text-align: justify;font-size:14px;">The Guide Promise to us is very crucial and it is the pivot behind Girl Guiding: I promise to do my best, To do my duty to God, To serve my country and help other people, and to keep the Guide Law. </p> 
+ <p style="text-align: left;font-size:14px;"> 
 We also follow the 10 Guide Laws:   
 A Guide is loyal and can be trusted  
 A Guide is useful and helps others  
@@ -30,6 +30,7 @@ A Guide has courage and is cheerful in all difficulties
 A Guide takes care of her own possessions and those of other people  
 A Guide Is thrifty and diligent  
 A Guide is self-disciplined in what she thinks, says and does 2 Area
+	</p>
 
 ### Area of Focus
 
