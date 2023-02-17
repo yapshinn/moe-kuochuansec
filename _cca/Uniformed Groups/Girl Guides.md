@@ -36,7 +36,7 @@ A Guide is self-disciplined in what she thinks, says and does 2 Area
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-Our motto, **"Be Prepared"** , shares the Founder's initials and is a practical reminder of the educational purposes of Girl Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training in character development, responsible citizenship and in service to the community. We adhere to our motto: **'Be Prepared' - 'Think it. Say it. Live it'**.
+Our motto, **"Be Prepared"** , shares the Founder's initials and is a practical reminder of the educational purposes of Girl Guiding. KCP 1st Coy aims to provide girls with the opportunity for self-training in character development, responsible citizenship and in service to the community. We adhere to our motto: **'Be Prepared' - 'Think it. Say it. Live it'**. 
 
 <br><br>
 
@@ -46,7 +46,7 @@ Our motto, **"Be Prepared"** , shares the Founder's initials and is a practica
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-KCP 1st Coy is certainly a CCA like no other. We have a wide range of activities, which allows our members to acquire new skills and be exposed to all kinds of situations. This includes outdoor cooking, foot drills, gadget-making, as well as earning proficiency badges and going for overseas trips and camps. Most of our training is based on the Five-Point programme , which covers personal and social development, housekeeping skills, camping skills, community involvement and knowledge on worldwide issues. One of the highlights is our <u>Annual camp and Sec 1 Orientation Campfire</u> where our guides portray their talents and skills. We also render numerous community services, which include raising funds for Thinking Day Pennies, walkathon, Yeoman Services and selling cookies for Girl Guides Singapore with a serving heart and mind From these activities and competitions, we build strong friendships, share our joy and sorrow, learn the meaning of teamwork and overcome problems as sister guides.
+<p style="text-align: justify;font-size:14px;">KCP 1st Coy is certainly a CCA like no other. We have a wide range of activities, which allows our members to acquire new skills and be exposed to all kinds of situations. This includes outdoor cooking, foot drills, gadget-making, as well as earning proficiency badges and going for overseas trips and camps. Most of our training is based on the Five-Point programme , which covers personal and social development, housekeeping skills, camping skills, community involvement and knowledge on worldwide issues. One of the highlights is our <u>Annual camp and Sec 1 Orientation Campfire</u> where our guides portray their talents and skills. We also render numerous community services, which include raising funds for Thinking Day Pennies, walkathon, Yeoman Services and selling cookies for Girl Guides Singapore with a serving heart and mind From these activities and competitions, we build strong friendships, share our joy and sorrow, learn the meaning of teamwork and overcome problems as sister guides.</p>
 
 **<u>Training</u>**
 
@@ -70,18 +70,8 @@ KCP 1st Coy is certainly a CCA like no other. We have a wide range of activitie
 ### Teachers-in-Charge
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Girl%20Guides/gg4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br><br><br><br><br><br><br>
+| Siti Nurhizah | Tang Lai Chan | Siti Shahirah |
+| -------- | -------- | -------- |
+| <a href="mailto:siti_nurhizah_mohamed_hassan@schools.gov.sg">siti_nurhizah_mohamed_hassan@schools.gov.sg</a>     | <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>     | <a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg</a>     |
 
-Tang Lai Chan<br>
-<a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>
-
-Siti Nurhizah<br>
-<a href="mailto:siti_nurhizah_mohamed_hassan@schools.gov.sg">siti_nurhizah_mohamed_hassan@schools.gov.sg</a>
-
-Tan Wei Li Vanessa<br>
-<a href="mailto:tan_wei_li_vanessa@schools.gov.sg">tan_wei_li_vanessa@schools.gov.sg</a>
-
-Siti Shahirah<br>
-<a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg</a>
