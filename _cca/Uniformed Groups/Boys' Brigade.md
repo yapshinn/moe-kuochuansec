@@ -62,20 +62,5 @@ In the 1990s when Kuo Chuan Presbyterian Schools were built in Bishan St. 13, 5t
 
 | Ng Keng Yang | Michelle Ang Siok Min | Ng Chee Kian |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| <a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a>     | <a href="mailto:ang_siok_min_michelle@schools.gov.sg">ang_siok_min_michelle@schools.gov.sg</a>    | <a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>     |
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/teacher_in_charge.jpg"  
-     style="width:25%;margin-right:15px;" align = "left"> 
-
-<br><br><br><br><br><br>
-
-Ng Keng Yang<br>
-<a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a>
-
-Ng Chee Kian<br>
-<a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a>
-
-Michelle Ang Siok Min<br>
-<a href="mailto:ang_siok_min_michelle@schools.gov.sg">ang_siok_min_michelle@schools.gov.sg</a>
