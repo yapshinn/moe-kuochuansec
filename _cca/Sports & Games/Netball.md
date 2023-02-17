@@ -82,10 +82,14 @@ Playing against other schools to test the teams level of readiness for an actual
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Netball/netball2.jpg" style="width:45%;margin-right:15px;" align = "left">
 
-Fazliana Bte Pairin
-<a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>
 
-Lee Rachel<br>
-<a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>
+| Fazliana Bte Pairin |Lee Rachel | 
+| -------- | -------- | 
+| <a href="mailto:fazliana_bte_pairin@schools.gov.sg">fazliana_bte_pairin@schools.gov.sg</a>     | <a href="mailto:lee_rachel@schools.gov.sg">lee_rachel@schools.gov.sg</a>    | 
+
+
+
+
+
+
