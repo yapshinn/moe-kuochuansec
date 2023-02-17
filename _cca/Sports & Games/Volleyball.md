@@ -71,5 +71,4 @@ Our players will:
 | Yeo Xiao Si Eunice | Tan Siaw Chong | 
 | -------- | -------- | 
 <a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">tan_siaw_chong@schools.gov.sg
-</a> | 
-
+</a> |
