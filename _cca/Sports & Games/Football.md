@@ -14,7 +14,7 @@ third_nav_title: Sports & Games
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football1.jpg" style="width:35%;margin-right:15px;" align = "left">
 
-The vision for **KCPSS Football CCA** is to inculcate values such as teamwork, resilience as well as good sportsmanship in all our students. The teachers-in-charge, together with our coaches, aim to create a respectful, positive and healthy environment for our students to improve their individual technical skills and conditioning as well as their understanding and appreciation of team play.
+<p style="text-align: justify;font-size:16px;">The vision for <b>KCPSS Football CCA</b> is to inculcate values such as teamwork, resilience as well as good sportsmanship in all our students. The teachers-in-charge, together with our coaches, aim to create a respectful, positive and healthy environment for our students to improve their individual technical skills and conditioning as well as their understanding and appreciation of team play.</p>
 
 ### Area of Focus
 
