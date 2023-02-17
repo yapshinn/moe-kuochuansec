@@ -13,7 +13,7 @@ third_nav_title: Uniformed Groups
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Boys%20Brigade/content_boys_brigade.jpg" style="width:25%;margin-right:12px;" align = "left">
 
 **Mission:** To nurture Youths, based on Christian values to lead and serve.  
   
