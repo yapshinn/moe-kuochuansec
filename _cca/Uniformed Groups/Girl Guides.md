@@ -40,7 +40,6 @@ Our motto, **"Be Prepared"** , shares the Founder's initials and is a practica
 
 <br><br>
 
-
 ### Programmes
 
 
@@ -74,4 +73,3 @@ Our motto, **"Be Prepared"** , shares the Founder's initials and is a practica
 | Siti Nurhizah | Tang Lai Chan | Siti Shahirah |
 | -------- | -------- | -------- |
 | <a href="mailto:siti_nurhizah_mohamed_hassan@schools.gov.sg">siti_nurhizah_mohamed_hassan@schools.gov.sg</a>     | <a href="mailto:tham_lai_chan@schools.gov.sg">tham_lai_chan@schools.gov.sg</a>     | <a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg</a>     |
-
