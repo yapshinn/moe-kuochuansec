@@ -64,7 +64,7 @@ third_nav_title: Sports & Games
 * 3-Way Competition  
 * Friendly Games
 
-**UPLOAD VIDEO TO YOUTUBE**
+<iframe width="737" height="553" src="https://www.youtube.com/embed/f8WM-DxnsVw" title="KCP Football" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Teachers-in-Charge
 
@@ -72,6 +72,4 @@ third_nav_title: Sports & Games
 
 | Joel Lee Jian Liang | Chua Suet Ting Joyce |
 | -------- | -------- |
-|<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>| 
-
-
+|<a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a>|<a href="mailto:chua_suet_ting_joyce@schools.gov.sg">chua_suet_ting_joyce@schools.gov.sg </a>|
