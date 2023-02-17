@@ -67,11 +67,9 @@ Our players will:
 ### Teachers-in-Charge
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Volleyball/Volleyball%20-%20Teachers%20in%20charge.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
+| Yeo Xiao Si Eunice | Tan Siaw Chong | 
+| -------- | -------- | 
+<a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a>     | <a href="mailto:tan_siaw_chong@schools.gov.sg">tan_siaw_chong@schools.gov.sg
+</a> | 
 
-Yeo Xiao Si Eunice<br>
-<a href="mailto:yeo_xiao_si_eunice@schools.gov.sg">yeo_xiao_si_eunice@schools.gov.sg</a>
-
-Sitoh Wei Sheng Wilson<br>
-<a href="mailto:sitoh_wei_sheng_wilson@schools.gov.sg">sitoh_wei_sheng_wilson@schools.gov.sg</a>
