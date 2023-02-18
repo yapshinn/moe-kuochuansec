@@ -15,7 +15,7 @@ third_nav_title: Sports & Games
 
 <p style="text-align: justify;font-size:16px;">Our vision at KCPSS Volleyball is to develop student athletes who are both competent in volleyball skills and grounded in our school values G.R.A.C.E.</p>
 
-<br><br><br><br>
+<br>
 
 ### Area of Focus
 
