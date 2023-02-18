@@ -62,7 +62,7 @@ Students will be able to:
 </tbody>
 </table>
 
-<br><br><br><br>
+
 
 **<u>Software Skills</u>**
 
