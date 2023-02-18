@@ -81,7 +81,6 @@ third_nav_title: Performing Arts
 </p>
 <iframe width="843" height="496" src="https://www.youtube.com/embed/BM4ryE3upQc" title="Singapore Youth Festival 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br><br>
 
 ### Teachers-in-Charge
 
