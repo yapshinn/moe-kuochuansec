@@ -95,13 +95,10 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-Paul Lau Chee Keen<br>
-<a href="mailto:lau_chee_keen_paul@schools.gov.sg">lau_chee_keen_paul@schools.gov.sg</a>
 
-Ng Yin Yee<br>
-<a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a>
+| Paul Lau Chee Keen| Ng Yin Yee | Selena Wee|
+| -------- | -------- | -------- |
+| <a href="mailto:lau_chee_keen_paul@schools.gov.sg">lau_chee_keen_paul@schools.gov.sg</a>     | <a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a>     | <a href="mailto:selena_wee@schools.gov.sg">selena_wee@schools.gov.sg</a>    |
 
-Selena Wee<br>
-<a href="mailto:selena_wee@schools.gov.sg">selena_wee@schools.gov.sg</a>
+
