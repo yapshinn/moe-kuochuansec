@@ -97,7 +97,9 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 *   2010 'Te Deum' performance at University Cultural Centre Hall
 *   2009 SYF Contemporary (Dance Gold with Honours)
 *   2009 SYF Chinese Dance (Silver)
+
 </p>
+
 ### Teachers-in-Charge
 
 
