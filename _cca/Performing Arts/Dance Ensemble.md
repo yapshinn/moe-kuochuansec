@@ -18,22 +18,24 @@ third_nav_title: Performing Arts
 A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help them face the challenges of tomorrow.</p>
 
 <p style="text-align: justify;font-size:16px;">
-
 We believe that through our original compositions and creative works, students will be inspired to be appreciative of the beauty of dance while maintaining a healthy and rigorous program for them to discover and develop the innate talent of all dancers within.</p>
 
 ### Area of Focus
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-The Dance CCA aims to help aspiring young student dancers, with or without prior dance experience. The end result is that all students develop the confidence and critical awareness to appreciate dance and have a foundational basis to pursue it beyond their secondary school experience.
+<p style="text-align: justify;font-size:16px;">
+The Dance CCA aims to help aspiring young student dancers, with or without prior dance experience. The end result is that all students develop the confidence and critical awareness to appreciate dance and have a foundational basis to pursue it beyond their secondary school experience.</p>
 
   
 
-We also aim to develop their fitness, flexibility and technical dance strengths with an intense and systematic program meant to develop and push their capabilities as they progress through the ranks.
+<p style="text-align: justify;font-size:16px;">
+We also aim to develop their fitness, flexibility and technical dance strengths with an intense and systematic program meant to develop and push their capabilities as they progress through the ranks.</p>
 
   
 
-Dance Training is split between Technique Studies class, Choreographic class, Performance and Showcase opportunities, Theoretical and Practical Workshops as well as Theatre Exposure.
+<p style="text-align: justify;font-size:16px;">
+Dance Training is split between Technique Studies class, Choreographic class, Performance and Showcase opportunities, Theoretical and Practical Workshops as well as Theatre Exposure.</p>
 
 ### Programmes
 
