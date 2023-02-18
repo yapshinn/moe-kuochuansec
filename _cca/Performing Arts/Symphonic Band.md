@@ -57,13 +57,14 @@ third_nav_title: Performing Arts
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:20%;margin-left:15px;" align = "right">
+<p style="text-align: justify;font-size:16px;">
 
 * Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br>
 
 * School performances (Chinese New Year, Founder’s Day, National Day, Teacher’s Day) <br>
 
 * Public performances:<br> - National Day Performance at Bishan Community Club’s National Day Dinner 2022<br> - International Cultural Fiesta 2013 at The Lawn@ Marina Bay<br> - Tan Tock Seng Hospital 'Art of Healing' programme in 2012 &amp; 2013 <br> - Showcase! Performing Arts Festival at Ngee Ann City 2010 &amp; 2012
-
+</p>
 
 **Singapore Youth Festival Arts Presentation - Concert Band**
 
