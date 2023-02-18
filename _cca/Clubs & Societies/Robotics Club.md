@@ -12,22 +12,27 @@ third_nav_title: Clubs & Societies
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/CCA%201.jpeg" style="width:40%;margin-right:15px;" align = "left">
 
-The Robotics Club aims to engage the members through a fun-filled learning experience in robot designing, building and programming using the Spike Prime and EV3 Mindstorm LEGO robotics kits . It also aims to create awareness among the members the use of robots as tools to improve the quality of our life. The Club provides a platform for students who have the passion for robot building and programming to develop their potential and to exhibit their talents by participating in national level competitions. During the regular training sessions and competitions, the members are constantly challenged to be innovative and inquisitive thinkers in problem solving through strategy building, teamwork and creativity. Therefore, not only would they learn about the technological skills, the members would also acquire life skills through working with others as responsible and effective team players.
+<p style="text-align: justify;font-size:16px;">
+The Robotics Club aims to engage the members through a fun-filled learning experience in robot designing, building and programming using the Spike Prime and EV3 Mindstorm LEGO robotics kits . It also aims to create awareness among the members the use of robots as tools to improve the quality of our life. The Club provides a platform for students who have the passion for robot building and programming to develop their potential and to exhibit their talents by participating in national level competitions. During the regular training sessions and competitions, the members are constantly challenged to be innovative and inquisitive thinkers in problem solving through strategy building, teamwork and creativity. Therefore, not only would they learn about the technological skills, the members would also acquire life skills through working with others as responsible and effective team players.</p>
 
 ### Area of Focus
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg" style="width:40%;margin-right:15px;" align = "left">
 
-Members to acquire the necessary software programming skills and robot design and building using Spike Prime and EV3 MindStorm LEGO sets to accomplish missions.  
+<p style="text-align: justify;font-size:16px;">
+Members to acquire the necessary software programming skills and robot design and building using Spike Prime and EV3 MindStorm LEGO sets to accomplish missions.  </p>
   
-Provide opportunities for members to exhibit their leadership skills through organizing club events.  
-  
-
-Learn to be a responsible and effective team player by working in teams to participate in the various selected competitions.
-
+<p style="text-align: justify;font-size:16px;">
+Provide opportunities for members to exhibit their leadership skills through organizing club events. </p> 
   
 
-Develop our members into an inquisitive and resilient person by providing opportunities to self-explore in daily CCA tasks.
+<p style="text-align: justify;font-size:16px;">
+Learn to be a responsible and effective team player by working in teams to participate in the various selected competitions.</p>
+
+  
+
+<p style="text-align: justify;font-size:16px;">
+Develop our members into an inquisitive and resilient person by providing opportunities to self-explore in daily CCA tasks.</p>
 
 ### Programmes
 
@@ -74,5 +79,4 @@ Every year, members from the club will take part in the following competitions a
 
 | Foo Seng Hong | Nur Diyanah Bte Muhammad Suhaini | 
 | -------- | -------- | 
-| <a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg</a>    | <a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a>     | 
-
+| <a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg</a>    | <a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a>     |
