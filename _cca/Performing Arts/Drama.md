@@ -91,7 +91,7 @@ In addition, our drama students are taken each year to watch a drama production 
 
 *   Annual Secondary 4 Farewell for our graduating seniors (Nov)
 
-**UPLOAD VIDEO TO YOUTUBE**
+<iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br>
 
@@ -102,6 +102,4 @@ In addition, our drama students are taken each year to watch a drama production 
 
 | Sivasankari Pravin | Amelia Yeo Jiaxin |
 | -------- | -------- | 
-|<a href="mailto:sivasankari_pravin@schools.gov.sg">sivasankari_pravin@schools.gov.sg</a>| <a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg</a>| 
-
-
+|<a href="mailto:sivasankari_pravin@schools.gov.sg">sivasankari_pravin@schools.gov.sg</a>| <a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg</a>|
