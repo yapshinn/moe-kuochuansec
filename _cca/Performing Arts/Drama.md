@@ -98,11 +98,10 @@ In addition, our drama students are taken each year to watch a drama production 
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 
-Hafizah Jamel<br>
-<a href="mailto:hafizhah_jamel@schools.gov.sg">hafizhah_jamel@schools.gov.sg</a>
+| Sivasankari Pravin | Amelia Yeo Jiaxin |
+| -------- | -------- | 
+|<a href="mailto:sivasankari_pravin@schools.gov.sg">sivasankari_pravin@schools.gov.sg</a>| <a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg</a>| 
 
-Muhd Alif Zain<br>
-<a href="mailto:muhammad_alif_zaini@schools.gov.sg">muhammad_alif_zaini@schools.gov.sg</a>
+
