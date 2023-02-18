@@ -68,13 +68,15 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 **<u>Special Programmes</u>**
 
 **June or End of Year Intensive Dance Training Camp**  
+<p style="text-align: justify;font-size:16px;">
 
 *   Enrichment training camp during 1st week of June/ End of year Training Camp.
 *   Intensive training camp to prepare school team for upcoming SYF Celebrations (Biennial).
 *   School Based Performances.
 *   Minimum of 1 SYF competition and Presentation.
-
+</p>
 **<u>Recent Achievements</u>**
+<p style="text-align: justify;font-size:16px;">
 
 *   2019 SYF Contemporary (Accomplishment)
 *   2019 SYF Chinese (Accomplishment)
@@ -95,7 +97,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 *   2010 'Te Deum' performance at University Cultural Centre Hall
 *   2009 SYF Contemporary (Dance Gold with Honours)
 *   2009 SYF Chinese Dance (Silver)
-
+</p>
 ### Teachers-in-Charge
 
 
