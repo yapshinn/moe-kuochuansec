@@ -55,7 +55,7 @@ The choir training programme focuses on voice projection, breathing techniques, 
 </tbody>
 </table>
 
-<br><br><br><br>
+<br>
 
 **Special Programmes**
 
@@ -81,9 +81,3 @@ The choir training programme focuses on voice projection, breathing techniques, 
 | Lee Hwee Ling Grace| Esther Yong Yin Yin |Foo Ji Ying, Eunice|
 | -------- | -------- | -------- |
 |<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>|
-
-
-
-
-
-
