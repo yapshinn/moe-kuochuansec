@@ -58,9 +58,9 @@ Robotics  Club is actively inculcating aspiring students who aspire to be futur
 
 **<u>Special Events / Competitions</u>**
 
-**UPLOAD VIDEO TO YOUTUBE**
+<iframe width="661" height="496" src="https://www.youtube.com/embed/RX6dfZLCiDk" title="Robotic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br><br>
+<br>
 
 Every year, members from the club will take part in the following competitions and events.  
   
