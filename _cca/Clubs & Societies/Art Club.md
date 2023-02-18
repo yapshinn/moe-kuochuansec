@@ -60,11 +60,9 @@ Art Club aims to nurture in every Art Clubber an informed awareness and apprecia
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Art%20Club/art2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+| Quek Imm Ki | Zaleha Binte Yusof | 
+| -------- | -------- | 
+| <a href="mailto:quek_imm_ki@schools.gov.sg">quek_imm_ki@schools.gov.sg</a>     | <a href="mailto:zaleha_yusof@schools.gov.sg">zaleha_yusof@schools.gov.sg</a>    | 
 
-Quek Imm Ki <br>
-<a href="mailto:quek_imm_ki@schools.gov.sg">quek_imm_ki@schools.gov.sg</a>
-
-Zaleha Binte Yusof<br>
-<a href="mailto:zaleha_yusof@schools.gov.sg">zaleha_yusof@schools.gov.sg</a>
+ 
