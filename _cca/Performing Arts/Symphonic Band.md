@@ -68,8 +68,9 @@ third_nav_title: Performing Arts
 **Singapore Youth Festival Arts Presentation - Concert Band**
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" style="width:50%;margin-left:15px;" align = "right">
-
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" >
+<p style="text-align: justify;font-size:16px;">
+	
 *   2021 SYF Arts Presentation (Accomplishment)
 *   2019 SYF Arts Presentation (Accomplishment)
 *   2017 SYF Arts Presentation (Accomplishment)
@@ -77,7 +78,7 @@ third_nav_title: Performing Arts
 *   2013 SYF Arts Presentation (Accomplishment)
 *   2011 SYF Arts Presentation (Silver)
 *   2009 SYF Arts Presentation (Silver)
-
+</p>
 **UPLOAD VIDEO TO YOUTUBE**
 
 <br><br>
