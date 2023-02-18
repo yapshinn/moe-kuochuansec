@@ -28,11 +28,11 @@ third_nav_title: Performing Arts
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:20%;margin-left:15px;" align = "right">
 
-<p style="text-align: justify;font-size:16px;">The KCPSS Concert Band takes on a holistic approach in developing every band member's <b>character</b> and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. 
+<p style="text-align: justify;font-size:16px;">The KCPSS Concert Band takes on a holistic approach in developing every band member's <b>character</b> and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. </p>
 
-Through a tiered leadership structure, members are also given the opportunity to develop <b>leadership</b> skills.
+<p style="text-align: justify;font-size:16px;">Through a tiered leadership structure, members are also given the opportunity to develop <b>leadership</b> skills.</p>
 
-	The KCPSS Concert Band also seeks to instill <b>love and appreciation</b> for music in its members. It is heartening to see the band recruits transform from novices with little or even no background in music, to skilled musicians who take pride in their performances</p>
+<p style="text-align: justify;font-size:16px;">The KCPSS Concert Band also seeks to instill <b>love and appreciation</b> for music in its members. It is heartening to see the band recruits transform from novices with little or even no background in music, to skilled musicians who take pride in their performances.</p>
 
 
 ### Programmes 
