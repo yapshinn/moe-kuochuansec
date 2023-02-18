@@ -13,13 +13,15 @@ third_nav_title: Clubs & Societies
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Infocomm%20Tech%20Club/info-club1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 
-Co-curricular activities takes on a holistic approach in developing every student's character and provide them with the relevant knowledge, skills and values that will help them face the challenges of the 21st century. We believe that through our detailed & relevant ICT training programmes, students will be equipped to become valued and experienced individuals who will be able to exercise personal leadership in all aspects of their life.
+<p style="text-align: justify;font-size:16px;">
+Co-curricular activities takes on a holistic approach in developing every student's character and provide them with the relevant knowledge, skills and values that will help them face the challenges of the 21st century. We believe that through our detailed & relevant ICT training programmes, students will be equipped to become valued and experienced individuals who will be able to exercise personal leadership in all aspects of their life.</p>
 
 ### Area of Focus
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Infocomm%20Tech%20Club/Area%20of%20Focus.png" style="width:30%;margin-right:15px;" align = "left">
 
-The Infocom CCA aims to help aspiring young students, with or without prior ICT related experience, to learn the various software skills and showcase their expertise in national competitions. We also aim to give students the platforms to taste success, facilitate learning of social skills outside of the classroom setup. Despite the focus in striving for success, we also put strong emphasis in ensuring that our students are equipped with 21st skills and be workplace ready.
+<p style="text-align: justify;font-size:16px;">
+The Infocom CCA aims to help aspiring young students, with or without prior ICT related experience, to learn the various software skills and showcase their expertise in national competitions. We also aim to give students the platforms to taste success, facilitate learning of social skills outside of the classroom setup. Despite the focus in striving for success, we also put strong emphasis in ensuring that our students are equipped with 21st skills and be workplace ready.</p>
 
 **<u>Programme Framework</u>**<br>
 Our core focus is in **M.E.D.I.A.**  
@@ -91,26 +93,10 @@ Students will be able to:
 * Merit Award in SDMA 2010 (Animation Category)
 
 
-**SDMA 2016 Entry Video's**
-
-***UPLOAD VIDEOS TO YOUTUBE***
-
-
-**SDMA 2015 Entry Video's**
-
-
-***UPLOAD VIDEOS TO YOUTUBE***
-
-
-**SDMA 2013 Entry Video's**
-
-***UPLOAD VIDEOS TO YOUTUBE***
-
-
 ### Teachers-in-Charge
 
 
 
 | Yew Yishen Sam| Dr. Kavitha Ramachandran | 
 | -------- | -------- | 
-| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>    | 
+| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>    |
