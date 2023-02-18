@@ -13,9 +13,11 @@ third_nav_title: Performing Arts
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-"Music expresses that which cannot be said and on which it is impossible to be silent." - Victor Hugo0  
+<p style="text-align: justify;font-size:16px;">
+"Music expresses that which cannot be said and on which it is impossible to be silent." - Victor Hugo0  </p>
   
-Music making through Singing is an Art. In choir, our values are: Aspire, Perseverance and Team Work.We aim to provide a holistic education in this Performing Art(s) CCA to develop music literacy, interest and skills in Singing as well to develop performance excellence, to build character, team spirit,leadership skills and confidence.
+<p style="text-align: justify;font-size:16px;">
+Music making through Singing is an Art. In choir, our values are: Aspire, Perseverance and Team Work.We aim to provide a holistic education in this Performing Art(s) CCA to develop music literacy, interest and skills in Singing as well to develop performance excellence, to build character, team spirit,leadership skills and confidence.</p>
 
 
 ### Area of Focus
@@ -23,9 +25,10 @@ Music making through Singing is an Art. In choir, our values are: Aspire, Persev
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 
-The choir training programme focuses on voice projection, breathing techniques, aural training, sight singing, music theory and simple choreography.
+<p style="text-align: justify;font-size:16px;">
+The choir training programme focuses on voice projection, breathing techniques, aural training, sight singing, music theory and simple choreography.</p>
 
-<br>
+
 
 
 ### Programmes
