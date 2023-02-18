@@ -93,8 +93,6 @@ In addition, our drama students are taken each year to watch a drama production 
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br><br>
-
 
 ### Teachers-in-Charge
 
