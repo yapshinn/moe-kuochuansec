@@ -70,6 +70,7 @@ third_nav_title: Performing Arts
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" >
+
 <p style="text-align: justify;font-size:16px;">
 	
 *   2021 SYF Arts Presentation (Accomplishment)
@@ -79,6 +80,7 @@ third_nav_title: Performing Arts
 *   2013 SYF Arts Presentation (Accomplishment)
 *   2011 SYF Arts Presentation (Silver)
 *   2009 SYF Arts Presentation (Silver)
+
 </p>
 <iframe width="843" height="496" src="https://www.youtube.com/embed/BM4ryE3upQc" title="Singapore Youth Festival 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
