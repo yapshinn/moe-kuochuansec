@@ -76,10 +76,14 @@ The choir training programme focuses on voice projection, breathing techniques, 
 
 ### Teachers-in-Charge
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir4.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-Lee Hwee Ling Grace<br>
-<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>
 
-Esther Yong Yin Yin <br>
-<a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>
+| Lee Hwee Ling Grace| Esther Yong Yin Yin |Foo Ji Ying, Eunice|
+| -------- | -------- | -------- |
+|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>|
+
+
+
+
+
+
