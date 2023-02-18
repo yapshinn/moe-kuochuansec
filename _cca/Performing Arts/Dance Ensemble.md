@@ -14,11 +14,12 @@ third_nav_title: Performing Arts
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 
-A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help them face the challenges of tomorrow.
+<p style="text-align: justify;font-size:16px;">
+A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help them face the challenges of tomorrow.</p>
 
-  
+<p style="text-align: justify;font-size:16px;">
 
-We believe that through our original compositions and creative works, students will be inspired to be appreciative of the beauty of dance while maintaining a healthy and rigorous program for them to discover and develop the innate talent of all dancers within.
+We believe that through our original compositions and creative works, students will be inspired to be appreciative of the beauty of dance while maintaining a healthy and rigorous program for them to discover and develop the innate talent of all dancers within.</p>
 
 ### Area of Focus
 
@@ -100,5 +101,3 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 | Paul Lau Chee Keen| Ng Yin Yee | Selena Wee|
 | -------- | -------- | -------- |
 | <a href="mailto:lau_chee_keen_paul@schools.gov.sg">lau_chee_keen_paul@schools.gov.sg</a>     | <a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a>     | <a href="mailto:selena_wee@schools.gov.sg">selena_wee@schools.gov.sg</a>    |
-
-
