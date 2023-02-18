@@ -110,13 +110,7 @@ Students will be able to:
 ### Teachers-in-Charge
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Infocomm%20Tech%20Club/info-club1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-Yew Yishen Sam<br>
-<a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>
-
-Dr. Kavitha Ramachandran<br>
-<a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>
-
-Mdm Norhajjarrillah Bte Abdul Baki<br>
-<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>
+| Yew Yishen Sam| Dr. Kavitha Ramachandran | 
+| -------- | -------- | 
+| <a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a>    | <a href="mailto:kavitha_ramachandran@schools.gov.sg">kavitha_ramachandran@schools.gov.sg</a>    | 
