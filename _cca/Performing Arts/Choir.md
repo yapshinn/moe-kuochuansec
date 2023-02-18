@@ -25,7 +25,7 @@ Music making through Singing is an Art. In choir, our values are: Aspire, Persev
 
 The choir training programme focuses on voice projection, breathing techniques, aural training, sight singing, music theory and simple choreography.
 
-<br><br><br><br><br>
+<br>
 
 
 ### Programmes
