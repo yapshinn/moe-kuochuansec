@@ -57,8 +57,9 @@ description: ""
 </table>
 
 <p style="text-align: justify;font-size:16px;">
-Shortlisted applicants may be asked to attend in-person auditions and interviews on the various talent areas to help us get to know you better.
+Shortlisted applicants may be asked to attend in-person auditions and interviews on the various talent areas to help us get to know you better.</p>
 
-Kindly send any inquiries concerning DSA to  <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
+<p style="text-align: justify;font-size:16px;">Kindly send any inquiries concerning DSA to  <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a></p>
 
-You may also visit MOE’s DSA portal for more information concerning DSA: [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+<p style="text-align: justify;font-size:16px;">You may also visit MOE’s DSA portal for more information concerning DSA:<a href="https://www.moe.gov.sg/secondary/dsa">https://www.moe.gov.sg/secondary/dsa</a>
+	</p>
