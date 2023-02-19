@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Staff.md
       - Our Staff/English Language.md
       - Our Staff/Our Staff.md
       - Our Staff/.keep
