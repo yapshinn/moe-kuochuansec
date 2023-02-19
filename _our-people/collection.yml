@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Department/English.md
       - Department/Departments.md
       - Department/.keep
       - School Management Committee.md
