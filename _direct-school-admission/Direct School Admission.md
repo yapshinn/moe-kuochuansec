@@ -9,7 +9,7 @@ description: ""
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-
+<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
 <thead>
