@@ -47,49 +47,49 @@ third_nav_title: Sec One e Registration (2023)
 <div>
 <div>
 <div align="center">
-<table style="border: none; width: 100%;" width="625" cellpadding="0" cellspacing="0" border="1" class="MsoTableLightGridAccent2">
+<table class="MsoTableLightGridAccent2" border="1" cellspacing="0" cellpadding="0" width="625" style="border: none; width: 100%;">
  
 <tbody>
 <tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
   height:13.55pt">
   
-<td style="width: 156px; border: 1pt solid windowtext; padding: 0in 5.4pt; height: 13.55pt;" valign="top" width="95">
-  <p style="margin:0in;mso-add-space:auto;
+<td width="95" valign="top" style="width: 156px; border: 1pt solid windowtext; padding: 0in 5.4pt; height: 13.55pt;">
+  <p class="MsoListParagraphCxSpFirst" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:5" class="MsoListParagraphCxSpFirst"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:5"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">Course</span></b></p>
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Course</span></b></p>
   
 </td>
   
-<td style="width: 242px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;" valign="top" width="156">
-  <p style="margin:0in;mso-add-space:auto;
+<td width="156" valign="top" style="width: 242px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:1" class="MsoListParagraphCxSpMiddle"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:1"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">PSLE Standard Grade</span></b></p>
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">PSLE Standard Grade</span></b></p>
   
 </td>
   
-<td style="width: 318px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;" valign="top" width="210">
-  <p style="margin:0in;mso-add-space:auto;
+<td width="210" valign="top" style="width: 318px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:1" class="MsoListParagraphCxSpMiddle"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:1"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">PSLE Foundation Grade</span></b></p>
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">PSLE Foundation Grade</span></b></p>
   
 </td>
   
-<td style="width: 252px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;" valign="top" width="163">
-  <p style="margin:0in;mso-add-space:auto;
+<td width="163" valign="top" style="width: 252px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 13.55pt;">
+  <p class="MsoListParagraphCxSpLast" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:1" class="MsoListParagraphCxSpLast"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:1"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">Option to offer subject
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Option to offer subject
   at</span></b></p>
   
 </td>
@@ -98,54 +98,54 @@ third_nav_title: Sec One e Registration (2023)
  
 <tr style="mso-yfti-irow:0;height:2.5pt">
   
-<td style="width:71.25pt;border:solid windowtext 1.0pt;border-top:
+<td width="95" style="width:71.25pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="95">
-  <p style="margin:0in;mso-add-space:auto;
+  padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpFirst" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:68" class="MsoListParagraphCxSpFirst"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:68"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">N(A)</span></b></p>
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">N(A)</span></b></p>
   
 </td>
   
-<td style="width:117.25pt;border-top:none;border-left:none;
+<td width="156" style="width:117.25pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="156">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">AL 5 or better</span></p>
+  EN-US;mso-bidi-language:AR-SA">AL 5 or better</span></p>
   
 </td>
   
-<td style="width:157.5pt;border-top:none;border-left:none;
+<td width="210" style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="210">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">-</span></p>
+  EN-US;mso-bidi-language:AR-SA">-</span></p>
   
 </td>
   
-<td style="width:122.5pt;border-top:none;border-left:none;
+<td width="163" style="width:122.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="163">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpLast" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">Express</span></p>
+  EN-US;mso-bidi-language:AR-SA">Express</span></p>
   
 </td>
  
@@ -153,53 +153,53 @@ third_nav_title: Sec One e Registration (2023)
  
 <tr style="mso-yfti-irow:1;height:2.5pt">
   
-<td style="width:71.25pt;border:solid windowtext 1.0pt;
+<td width="95" rowspan="2" style="width:71.25pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:2.5pt" rowspan="2" width="95">
-  <p style="margin:0in;mso-add-space:auto;
+  padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpFirst" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:132" class="MsoListParagraphCxSpFirst"><b><span style="font-size:12.0pt;font-family:
+  mso-yfti-cnfc:132"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:
   major-fareast;color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">N(T)</span></b></p>
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">N(T)</span></b></p>
   
 </td>
   
-<td style="width:117.25pt;border-top:none;border-left:none;
+<td width="156" style="width:117.25pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="156">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:128" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:128"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">AL 5 or better </span></p>
+  EN-US;mso-bidi-language:AR-SA">AL 5 or better </span></p>
   
 </td>
   
-<td style="width:157.5pt;border-top:none;border-left:none;
+<td width="210" style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="210">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoListParagraphCxSpLast" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:128" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:128"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">-</span></p>
+  EN-US;mso-bidi-language:AR-SA">-</span></p>
   
 </td>
   
-<td style="width:122.5pt;border-top:none;border-left:none;
+<td width="163" style="width:122.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt" width="163">
-  <p style="margin-bottom:0in;margin-top:0in;mso-margin-bottom-alt:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:2.5pt">
+  <p class="MsoNormal" style="margin-bottom:0in;margin-top:0in;mso-margin-bottom-alt:
   12.75pt;mso-margin-top-alt:0in;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;mso-line-height-alt:1.15pt;mso-yfti-cnfc:128" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  text-justify:inter-ideograph;mso-line-height-alt:1.15pt;mso-yfti-cnfc:128"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Calibri;mso-fareast-theme-font:minor-latin;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">Express
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Express
   / N(A)</span></p>
   
 </td>
@@ -208,42 +208,42 @@ third_nav_title: Sec One e Registration (2023)
  
 <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:7.65pt">
   
-<td style="width:117.25pt;border-top:none;border-left:none;
+<td width="156" style="width:117.25pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt" width="156">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt">
+  <p class="MsoListParagraphCxSpFirst" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">AL 6</span></p>
+  EN-US;mso-bidi-language:AR-SA">AL 6</span></p>
   
 </td>
   
-<td style="width:157.5pt;border-top:none;border-left:none;
+<td width="210" style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt" width="210">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt">
+  <p class="MsoListParagraphCxSpMiddle" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">AL A</span></p>
+  EN-US;mso-bidi-language:AR-SA">AL A</span></p>
   
 </td>
   
-<td style="width:122.5pt;border-top:none;border-left:none;
+<td width="163" style="width:122.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt" width="163">
-  <p style="margin:0in;mso-add-space:auto;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.65pt">
+  <p class="MsoListParagraphCxSpLast" style="margin:0in;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:1.15pt;
-  mso-yfti-cnfc:64" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-yfti-cnfc:64"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-SG">N(A)</span></p>
+  EN-US;mso-bidi-language:AR-SA">N(A)</span></p>
   
 </td>
  
@@ -273,3 +273,293 @@ third_nav_title: Sec One e Registration (2023)
 </div>
 
 ## B. Higher Mother Tongue / 3rd Language / Subject Based Banding (SBB) subjects
+
+<div>
+<div>
+<div class="msocomtxt" id="_com_1"><p class="MsoCommentText"></p>
+<!--[if !supportAnnotations]-->
+</div>
+<!--[endif]-->
+</div>
+</div>
+<table style="border: none; width: 927.734px;" width="624" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
+ 
+<tbody>
+<tr>
+  
+<td style="width: 39px; border: 1pt solid windowtext; padding: 0in 5.4pt;" width="42">
+  <p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA">S/N</span></b></p>
+  
+</td>
+  
+<td style="width: 176px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt;" width="109">
+  <p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA">Form</span></b></p>
+  
+</td>
+  
+<td style="width: 461px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt;" width="311">
+  <p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA">Details</span></b></p>
+  
+</td>
+  
+<td style="width: 251px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt;" width="162">
+  <p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA">Deadline(s)</span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr>
+  
+<td style="width:31.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="42">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">1</span></p>
+  
+</td>
+  
+<td style="width:81.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="109">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Eligibility for Higher Mother Tongue (HMT)</span></p>
+  
+</td>
+  
+<td style="width:233.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="311">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">School will send Form A to <b>students who
+  have been offered</b> to parents via PG/email.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Parents can accept the offer by giving consent
+  via PG or return a signed form via email.</span></p>
+  
+</td>
+  
+<td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"></p>
+<div>
+<div>
+<div class="msocomtxt" id="_com_1"><p class="MsoCommentText"><font face="arial, sans-serif"></font></p>
+<!--[if !supportAnnotations]-->
+</div>
+<!--[endif]-->
+</div>
+</div>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"></p><p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><font face="arial, sans-serif">By Tuesday, 27 Dec 2022</font></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr>
+  
+<td style="width:31.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="42">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">2</span></p>
+  
+</td>
+  
+<td style="width:81.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="109">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Application for 3<sup>rd</sup> Language</span></p>
+  
+</td>
+  
+<td style="width:233.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="311">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">School will send a notification to <b>students
+  who have been offered </b>to<b> </b>parents via PG/email.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Successful students for MOE Language Centre
+  (Bishan and Newton) will be required to confirm the acceptance of the offer
+  and complete the online registration at: </span><span lang="EN-SG"><a href="https://www.moelc.moe.edu.sg/"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">https://www.moelc.moe.edu.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Successful students for Malay Special
+  Programme (MSP) and Chinese Special Programme (CSP) Zonal Centres will be
+  required to refer to the respective school websites for the instructions on
+  registration.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  
+</td>
+  
+<td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162">
+  
+<div style="text-align: justify;"><p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><b><u>MOELC</u></b></p><p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><font face="arial, sans-serif">Thursday, 22 Dec 2022 to Thursday, 5 Jan 2023</font></p>
+<div>
+</div>
+</div>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><u><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA">MSP/CSP Zonal Centres</span></u></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Please refer to the respective school websites
+  for details.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr>
+  
+<td style="width:31.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="42">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-SG">3</span></p>
+  
+</td>
+  
+<td style="width:81.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="109">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Eligibility to take a subject at a higher level</span></p>
+  
+</td>
+  
+<td style="width:233.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="311">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">School will send the letter of offer to
+  parents via PG/email. </span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">Parents can accept the offer by giving consent
+  via PG or return a signed form via email.</span></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  
+</td>
+  
+<td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162">
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"></p><p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><font face="arial, sans-serif">By Wednesday, 28 Dec 2022</font></p>
+  <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA">&nbsp;</span></p>
+  
+</td>
+ 
+</tr>
+</tbody>
+</table>
+<div><!--[if !supportAnnotations]-->
+<hr width="33%" size="1" align="left" class="msocomoff">
+<!--[endif]-->
+<div><!--[if !supportAnnotations]-->
+<div class="msocomtxt" id="_com_1"><!--[endif]--><!--[if !supportAnnotations]--><a name="_msocom_1"></a><!--[endif]-->
+<p class="MsoCommentText"><span class="MsoCommentReference"><span style="font-size:
+8.0pt">&nbsp;</span></span></p>
+</div>
+</div>
+</div><br><br><br>
