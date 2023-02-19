@@ -75,10 +75,8 @@ Competitions the menbers will participate in include 'Our School, Our Story' , I
 
 ### Teachers-in-Charge
 
-<img align="left" style="width:30%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography4.jpg">
 
-Mdm Nor'aliah Binte Abdul<br>
-<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
 
-Mdm. Norhajjarrillah Abdul Baki<br>
-<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>
+| Norhajjarrillah Abdul Baki | Nor'aliah Binte Abdul | 
+| -------- | -------- | 
+|<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>|<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>   
