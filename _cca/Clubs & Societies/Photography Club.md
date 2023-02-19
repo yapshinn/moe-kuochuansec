@@ -35,7 +35,7 @@ third_nav_title: Clubs & Societies
 
 <img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area%20of%20Focus.jpg">
 
-The club aims to train all its members with basic photography skills which will enable them to cover school events and activities and participate in competitions. As they progress, they will be introduced to advanced skills on different genres of photography, specialised equipment and participate in workshops and seminars. Apart from photography skills, members will also be trained to lead small teams of photographers, conduct classes for fellow members and be student trainers during workshops.
+<p style="text-align: justify;font-size:16px;">The club aims to train all its members with basic photography skills which will enable them to cover school events and activities and participate in competitions. As they progress, they will be introduced to advanced skills on different genres of photography, specialised equipment and participate in workshops and seminars. Apart from photography skills, members will also be trained to lead small teams of photographers, conduct classes for fellow members and be student trainers during workshops.</p>
 
 ### Programmes
 
