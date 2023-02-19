@@ -96,8 +96,8 @@ Opportunities for authentic interaction among students, such as weekly form teac
 
 For students who did not meet the eligibility criteria for SBB at the start of Secondary One, they can still be considered for SBB if they do well in their learning in Secondary One. These students will join SBB at the end of Secondary One Term 2 or Secondary One Term 4 as the mid-year or end-year SBB inserts
 
-_**13. If my child/ward cannot cope, can he/she drop the SBB subject?**  
-_
+**_13._** **_If my child/ward cannot cope, can he/she drop the SBB subject?_**  
+
 
 Students (with their parents/guardians’ consent) can make the final decision to continue or drop any SBB subject(s). However, students are strongly encouraged to give themselves ample time to adjust to the demands of the higher-level subject(s) before making any decision to drop. Parents/guardian should speak to their child/ward’s Subject Teachers, Form Teacher, Year Head, and/or School Leaders to find out more about their child/ward’s academic progress and potential before allowing them to drop any SBB subject.  
 
