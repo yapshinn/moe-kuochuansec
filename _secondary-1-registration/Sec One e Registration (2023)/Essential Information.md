@@ -7,7 +7,7 @@ third_nav_title: Sec One e Registration (2023)
 <p style="text-align: justify;font-size:16px;">For your convenience, we have collated all the essential matters that require your attention. Do take a look at the FAQ Section for our responses to some frequently asked questions as well.</p>
 
 
-# A. Full Subject-Based Banding (Full SBB)
+## A. Full Subject-Based Banding (Full SBB)
 <div>Full SBB is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. KCPSS will provide a Full SBB curriculum structure with the Secondary 1 cohort from 2023 onwards.&nbsp;
 </div>
 <div><br>
