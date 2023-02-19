@@ -9,7 +9,7 @@ description: ""
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 <table>
 <thead>
@@ -62,5 +62,3 @@ Shortlisted applicants may be asked to attend in-person auditions and interviews
 Kindly send any inquiries concerning DSA to  <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
 
 You may also visit MOE’s DSA portal for more information concerning DSA: [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
-
-	
