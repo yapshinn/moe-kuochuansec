@@ -5,4 +5,4 @@ description: ""
 ---
 ## DSA Briefing Materials
 
-**UPLOAD VIDEO TO YOUTUBE**
+<iframe width="877" height="539" src="https://www.youtube.com/embed/dGzn3_9P8eI" title="DSA Briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
