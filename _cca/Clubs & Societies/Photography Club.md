@@ -63,8 +63,6 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<br>
-
 **<u>Special Programmes</u>**
 
 <p style="text-align: justify;font-size:16px;">School events the members will be rostered to cover school events such as Sec 1 orientation, CCA Open House, Founders’ Day, National Day, Thanksgiving Ceremony and many more on a regular basis to hone their skills. They can also expect to participate in cross-CCA group activities where they share their programmes and know-hows </p> 
