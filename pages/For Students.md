@@ -3,7 +3,6 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-
 ## For KCPians
 
 
@@ -13,3 +12,6 @@ description: ""
 [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
 [School Rules & Regulations](/admission/school-rules-n-regulations/)<br>
 [School Uniform](/admission/our-school-uniform/)
+
+
+#### Application Forms
