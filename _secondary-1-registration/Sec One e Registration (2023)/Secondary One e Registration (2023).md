@@ -7,9 +7,9 @@ third_nav_title: Sec One e Registration (2023)
 ## Secondary One e-Registration (2023)
 
 
-Dear parents/guardian,
+<p style="font-size:16px;">Dear parents/guardian,</p>
 
-Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season greetings to you!
+<p style="text-align: justify;font-size:16px;">Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season greetings to you!</p>
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/6TpnJ8mKP_I" title="Principal Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
