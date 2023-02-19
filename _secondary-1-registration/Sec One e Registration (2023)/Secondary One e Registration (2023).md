@@ -4,26 +4,21 @@ permalink: /secondary-1-registration/secondary-one-e-registration-2023/
 description: ""
 third_nav_title: Sec One e Registration (2023)
 ---
-
-
 ## Secondary One e-Registration (2023)
 
 
-Dear Parent/Guardian,
+Dear parents/guardian,
 
-  
+Welcome to Kuo Chuan Presbyterian Secondary School (KCPSS) and season greetings to you!
 
-Welcome to Kuo Chuan Presbyterian Secondary School and Season Greetings to you!
+<iframe width="877" height="493" src="https://www.youtube.com/embed/6TpnJ8mKP_I" title="Principal Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-**UPLOAD VIDEO TO YOUTUBE**
+We are excited to meet your child/ward on Tuesday, 3rd January 2023 and we would like to share with you some information on what is happening during the first week of school.
 
-We are excited to meet your child/ward on Tuesday 4th Jan and we would like to share with you some information on what is happening during the first week of school. 
-
-  
-
-We will be sending you a message via Parents Gateway/email tomorrow (Thursday, 23 Dec) morning for us to get to know you. Meanwhile, do feel free to visit The Kuo Chuan Experience (in the menu above) if you would like to find out more about our school programme.
-
+We will be sending you a message via Parents Gateway/email tomorrow (Thursday, 22 December, 8am) for us to get to know you. Meanwhile, do feel free to visit our school’s social media platforms (Instagram: @kuo_chuan_presbyterian_sec, Facebook: http://facebook.com/kcpsshomepage) or “The Kuo Chuan Experience” if you would like to find out more about our school programme.
+ 
+If you have not been posted to our school and would like to request for a school transfer, please click on this [link](https://form.gov.sg/63a178284c4d9500113fa9cb) to complete the form online. Kindly remember to register with the school that your child/ward has been posted to.
   
 
 If you have not been posted to our school and would like to request for a school transfer, please complete [**this form**](https://form.gov.sg/61a97e2521cd94001459fcc7)**<font size=5>(LINK DOES NOT WORK)</font>** to do so. Kindly remember to register with the school that your child/ward has been posted to.   
