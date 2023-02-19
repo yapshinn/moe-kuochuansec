@@ -556,7 +556,6 @@ third_nav_title: Sec One e Registration (2023)
 
 ## C. Admin Matters
 
-<br>
 <div>
 <table style="border: none; width: 100%;" width="618" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
  
