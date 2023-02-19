@@ -24,7 +24,7 @@ If you have not been posted to our school and would like to request for a school
 
 As a start to your child/ward’s journey as a KCPian, they will be going through the Orientation programme during the first week. For a prelude of the Orientation programme, you may want to watch this video.
 
-**UPLOAD VIDEO TO YOUTUBE**
+<iframe width="877" height="493" src="https://www.youtube.com/embed/JJIPIleghGI" title="Orientation programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation T-shirt for their Juniors. You may refer to the sizing guide found in **[this attachment](/files/Admissions/S1PLetter.pdf)** to place an order for your child/ward while you are completing the registration form. There are also some other details involving the Orientation programme e.g. dismissal time, things to bring, attire and payment instructions for T-shirts. Please note that the price of the T-Shirt is $7.
 
