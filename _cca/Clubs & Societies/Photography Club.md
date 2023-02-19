@@ -29,7 +29,7 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<br><br>
+
 
 ### Area of Focus
 
