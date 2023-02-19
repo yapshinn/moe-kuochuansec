@@ -6,5 +6,5 @@ description: ""
 ## For KCPians
 
 
-[Student Learning Space (SLS)](https://learning.moe.edu.sg/)
+[Student Learning Space (SLS)](https://learning.moe.edu.sg/)<br>
 [Pacific Bookstores](https://www.pacificbookstores.com/public/)
