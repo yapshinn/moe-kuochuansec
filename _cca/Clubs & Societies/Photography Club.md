@@ -67,9 +67,9 @@ The club aims to train all its members with basic photography skills which will 
 
 **<u>Special Programmes</u>**
 
-School events the members will be rostered to cover school events such as Sec 1 orientation, CCA Open House, Founders’ Day, National Day, Thanksgiving Ceremony and many more on a regular basis to hone their skills. They can also expect to participate in cross-CCA group activities where they share their programmes and know-hows  
+<p style="text-align: justify;font-size:16px;">School events the members will be rostered to cover school events such as Sec 1 orientation, CCA Open House, Founders’ Day, National Day, Thanksgiving Ceremony and many more on a regular basis to hone their skills. They can also expect to participate in cross-CCA group activities where they share their programmes and know-hows </p> 
   
-Competitions the menbers will participate in include 'Our School, Our Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.
+<p style="text-align: justify;font-size:16px;">Competitions the menbers will participate in include 'Our School, Our Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvY98ReZ0MxGVVLBjNFKcWaKQJfiVjk-qFLP0hHIE5u1_sGjJpU3mZ9d3yHouTeNDvU2sELi0HEY76/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -79,4 +79,4 @@ Competitions the menbers will participate in include 'Our School, Our Story' , I
 
 | Norhajjarrillah Abdul Baki | Nor'aliah Binte Abdul | 
 | -------- | -------- | 
-|<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>|<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>   
+|<a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg</a>|<a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a>
