@@ -10,7 +10,7 @@ description: ""
 **_1\. What is the assembly time and dismissal time for the Secondary 1 students?_** 
 
 *   For Tuesday 3 January, in order for safe management measures, the assembly time is at **7.30am** and the dismissal time is at **1.00 pm**.  Secondary 1 students are to report to the **school concourse** on the first day of school.
-*   For Wednesday 4January to Friday 6 January, please refer to the Orientation schedule in **[this link](https://kuochuanpresbyteriansec-moe-edu-sg-admin.cwp.sg/qql/slot/u177/VirtualOpenHouse/S1Registration22/S1Parent23.pdf) (to be updated)**.  
+*   For Wednesday 4January to Friday 6 January, please refer to the Orientation schedule in [link](/files/S1Parent23.pdf) .
 
   
 
