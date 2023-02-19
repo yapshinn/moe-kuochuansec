@@ -56,8 +56,11 @@ description: ""
 </tbody>
 </table>
 
+<p style="text-align: justify;font-size:16px;">
 Shortlisted applicants may be asked to attend in-person auditions and interviews on the various talent areas to help us get to know you better.
 
 Kindly send any inquiries concerning DSA to  <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
 
 You may also visit MOE’s DSA portal for more information concerning DSA: [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+
+	
