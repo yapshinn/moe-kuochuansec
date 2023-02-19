@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Our Staff.md
       - School Management Committee.md
       - School Executive Committee.md
+      - Our Staff.md
       - Our Partners/.keep
       - Our Partners/Parent Support Group.md
       - Our Partners/Alumni.md
