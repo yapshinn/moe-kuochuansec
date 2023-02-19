@@ -2,9 +2,9 @@ collections:
   secondary-1-registration:
     output: true
     order:
-      - Sec One e Registration (2023)/Essential Information.md
       - Sec One e Registration (2023)/.keep
       - Sec One e Registration (2023)/Secondary One e Registration (2023).md
+      - Sec One e Registration (2023)/Essential Information.md
       - Sec One e Registration (2023)/Programme eligibility and applications.md
       - Appeals for transfer into KCPSS.md
       - FAQS.md
