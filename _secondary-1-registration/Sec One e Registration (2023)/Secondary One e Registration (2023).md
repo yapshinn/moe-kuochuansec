@@ -26,7 +26,12 @@ As a start to your child/ward’s journey as a KCPian, they will be going throug
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/JJIPIleghGI" title="Orientation programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation T-shirt for their Juniors. You may refer to the sizing guide found in **[this attachment](/files/Admissions/S1PLetter.pdf)** to place an order for your child/ward while you are completing the registration form. There are also some other details involving the Orientation programme e.g. dismissal time, things to bring, attire and payment instructions for T-shirts. Please note that the price of the T-Shirt is $7.
+To forge a strong KCPian identity, the Orientation Student Leaders have specially designed an Orientation tee-shirt for their juniors. More information will be provided to you on the first week of school.
+
+Parent Engagement Session: Supporting Your Child in Secondary School (6th January 2023 (Friday))
+
+In KCPSS, we believe in the importance of journeying together with parents of KCPians over the next 4/5 years. As a start, our Principal, Mr. Justin Tan would like to connect with all of you through an in-person session. We cordially invite you for the Parent Engagement Session: Supporting Your Child in Secondary School that will be held on Friday, 6 January 2023, 7pm, in our school auditorium, where you will get to hear from our Principal. Please register with this [link](https://form.gov.sg/6399313d3edfe100123b8b53) if you are available to join us. 
+
 
   
 
