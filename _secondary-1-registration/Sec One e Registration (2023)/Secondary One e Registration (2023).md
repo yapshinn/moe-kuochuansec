@@ -20,7 +20,7 @@ We will be sending you a message via Parents Gateway/email tomorrow (Thursday, 2
  
 If you have not been posted to our school and would like to request for a school transfer, please click on this [link](https://form.gov.sg/63a178284c4d9500113fa9cb) to complete the form online. Kindly remember to register with the school that your child/ward has been posted to.
 
-**_Orientation Programme_**
+**Orientation Programme**
 
 As a start to your child/ward’s journey as a KCPian, they will be going through the Orientation programme during the first week. For a prelude of the Orientation programme, you may want to watch this video.
 
