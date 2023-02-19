@@ -7,4 +7,5 @@ description: ""
 
 
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)<br>
-[Pacific Bookstores](https://www.pacificbookstores.com/public/)
+[Pacific Bookstores](https://www.pacificbookstores.com/public/)<br>
+[Leave of Absent (LOA)](https://go.gov.sg/kcpss-loa-form)
