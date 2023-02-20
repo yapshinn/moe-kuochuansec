@@ -3,7 +3,6 @@ title: Trips for International Experience
 permalink: /the-kuo-chuan-experience/tie/
 description: ""
 ---
-
 ## TIE Schools
 
 ### The Kuo Chuan Trips for International Experience
