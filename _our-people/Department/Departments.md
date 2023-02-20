@@ -19,7 +19,7 @@ third_nav_title: Department
 
 <br><br><br><br><br><br><br>
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/c-n-t/area-of-focus/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments//Department/craft-technology/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/Craft%20&%20Tech.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
