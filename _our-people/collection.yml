@@ -2,6 +2,9 @@ collections:
   our-people:
     output: true
     order:
+      - School Management Committee.md
+      - School Executive Committee.md
+      - Our Staff.md
       - Department/.keep
       - Department/Departments.md
       - Department/English.md
@@ -11,9 +14,6 @@ collections:
       - Department/Craft & Technology.md
       - Department/Mother Tongue.md
       - Department/Physical Education.md
-      - School Management Committee.md
-      - School Executive Committee.md
-      - Our Staff.md
       - Our Partners/.keep
       - Our Partners/Parent Support Group.md
       - Our Partners/Alumni.md
