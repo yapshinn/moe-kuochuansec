@@ -13,13 +13,13 @@ third_nav_title: Department
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/School%20Exec%20Comm.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/our-people/Department/english/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/english/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/English.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
 <br><br><br><br><br><br><br>
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments//Department/craft-technology/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/craft-technology/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/Craft%20&%20Tech.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
