@@ -3,6 +3,8 @@ links:
   - title: About KCPSS
     url: /about-kcpss/our-history/
     sublinks:
+      - title: Principal's Message
+        url: /about-kcpss/principals-message/
       - title: Our History
         url: /about-kcpss/our-history/
       - title: Our Mission & Vision
@@ -15,12 +17,10 @@ links:
         url: /about-kcpss/our-crest-n-motto/
       - title: Our People
         url: /our-people/school-management-committee/
-      - title: Principal's Message
-        url: /about-kcpss/principals-message/
-      - title: Contact Us
-        url: /about-kcpss/contact-us/
       - title: Espoir
         url: /espoir
+      - title: Contact Us
+        url: /about-kcpss/contact-us/
   - title: The Kuo Chuan Experience
     collection: the-kuo-chuan-experience
   - title: Signature Programmes
