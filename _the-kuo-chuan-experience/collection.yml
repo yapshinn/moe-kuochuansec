@@ -1,5 +1,5 @@
 collections:
-  departments:
+  the-kuo-chuan-experience:
     output: true
     order:
       - Departments.md
