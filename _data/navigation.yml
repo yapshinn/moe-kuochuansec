@@ -36,6 +36,8 @@ links:
         url: /the-kuo-chuan-experience/espoir-school-newsletter
       - title: Our Pride
         url: /the-kuo-chuan-experience/our-pride/academic-achievements/
+  - title: Community
+    collection: community
   - title: Admission
     url: /admission/direct-school-admission/
     sublinks:
@@ -87,5 +89,3 @@ links:
         url: https://www.facebook.com/123304791632652/posts/872528163376974/
       - title: Resources
         url: /virtual-open-house/resources
-  - title: Community
-    collection: community
