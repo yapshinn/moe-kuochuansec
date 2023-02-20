@@ -2,7 +2,6 @@ collections:
   the-kuo-chuan-experience:
     output: true
     order:
-      - Trips for International Experience.md
       - Departments.md
       - School Executive Committee.md
       - English/.keep
@@ -41,3 +40,4 @@ collections:
       - Science/Area of Focus.md
       - Science/Programmes.md
       - Science/Teachers.md
+      - Trips for International Experience.md
