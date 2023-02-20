@@ -8,10 +8,6 @@ collections:
       - Craft & Technology/.keep
       - Craft & Technology/Area of Focus.md
       - Craft & Technology/Programmes.md
-      - CCE/.keep
-      - CCE/Area of Focus.md
-      - CCE/Programmes.md
-      - CCE/Teachers.md
       - Humanities/.keep
       - Humanities/Area of Focus.md
       - Humanities/Programmes.md
@@ -21,13 +17,17 @@ collections:
       - Mathematics/.keep
       - Mathematics/Area of Focus.md
       - Mathematics/Programmes.md
+      - Science/.keep
+      - Science/Area of Focus.md
+      - Science/Programmes.md
       - Mother Tongue/.keep
       - Mother Tongue/Area of Focus.md
       - Mother Tongue/Programmes.md
       - PE/.keep
       - PE/Area of Focus.md
       - PE/Programmes.md
-      - Science/.keep
-      - Science/Area of Focus.md
-      - Science/Programmes.md
+      - CCE/.keep
+      - CCE/Area of Focus.md
+      - CCE/Programmes.md
+      - CCE/Teachers.md
       - Trips for International Experience.md
