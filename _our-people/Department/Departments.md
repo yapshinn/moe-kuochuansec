@@ -9,7 +9,7 @@ third_nav_title: Department
 
 
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/school-executive-committee/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/school-executive-committee/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/School%20Exec%20Comm.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
