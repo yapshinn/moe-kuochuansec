@@ -2,6 +2,7 @@ collections:
   the-kuo-chuan-experience:
     output: true
     order:
+      - TIE.md
       - Departments.md
       - School Executive Committee.md
       - English/.keep
