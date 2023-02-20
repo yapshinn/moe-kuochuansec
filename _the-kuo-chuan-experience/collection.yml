@@ -2,7 +2,6 @@ collections:
   the-kuo-chuan-experience:
     output: true
     order:
-      - Departments.md
       - School Executive Committee.md
       - English/.keep
       - English/Area of Focus.md
