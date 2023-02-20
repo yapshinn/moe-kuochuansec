@@ -2,7 +2,7 @@ collections:
   the-kuo-chuan-experience:
     output: true
     order:
-      - TIE.md
+      - Trips for International Experience.md
       - Departments.md
       - School Executive Committee.md
       - English/.keep
