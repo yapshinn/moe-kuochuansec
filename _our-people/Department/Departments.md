@@ -35,7 +35,7 @@ third_nav_title: Department
 </a></p>
 
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/mathematics/area-of-focus/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/mathematics/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/Math.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
