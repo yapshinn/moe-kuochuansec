@@ -2,6 +2,7 @@ collections:
   academics:
     output: true
     order:
+      - Academics/Mother Tongue.md
       - Academics/Science.md
       - Academics/.keep
       - Academics/English.md
