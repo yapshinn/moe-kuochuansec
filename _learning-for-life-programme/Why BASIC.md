@@ -13,12 +13,17 @@ description: ""
   
 
 **Guiding Principles**
-<P  align="justify">
+<p style="text-align: justify;font-size:16px;">
 The CYL programme at KCPSS is premised on the following key principles:</p>  
   
-**1.** **The leader is seen as a servant first.** <P  align="justify">The leadership journey of a KCPian begins with an answer to the call to serve and the giving of oneself to make the world he or she lives in a better place for all. It is this conscious decision to serve that creates the aspiration to lead. </p> 
+**1.** **The leader is seen as a servant first.** 
+
+<p style="text-align: justify;font-size:16px;">
+Leadership journey of a KCPian begins with an answer to the call to serve and the giving of oneself to make the world he or she lives in a better place for all. It is this conscious decision to serve that creates the aspiration to lead. </p>
   
-**2.** **Every student can be a leader.** <P  align="justify">Since the disposition to serve is a deliberate and conscious choice and not a talent or gift bestowed from birth, every KCPian can be a servant leader, if he or she chooses to be one.</p> 
+**2.** **Every student can be a leader.** 
+<p style="text-align: justify;font-size:16px;">
+Since the disposition to serve is a deliberate and conscious choice and not a talent or gift bestowed from birth, every KCPian can be a servant leader, if he or she chooses to be one.</p>
 
   
 **3.** **Leadership is a journey of personal development.**   
