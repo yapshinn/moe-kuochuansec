@@ -4,8 +4,6 @@ permalink: /our-people/departments/c-n-t/
 description: ""
 third_nav_title: Academics
 ---
-
-
 **<center>CRAFT & TECHNOLOGY DEPARTMENT</center>**
 
 ## AREA OF FOCUS
@@ -53,8 +51,8 @@ third_nav_title: Academics
 
 ## Programme
 
-<div>
-	<br>
+
+	
 	
 ![](/images/Our%20People/Departments/Craft%20&%20Technology/C&T%201.png)
 
@@ -96,4 +94,3 @@ third_nav_title: Academics
 ![](/images/Our%20People/Departments/Craft%20&%20Technology/C&T%2015.png)
 
 ![](/images/Our%20People/Departments/Craft%20&%20Technology/C&T%2016.png)
-	</div>
