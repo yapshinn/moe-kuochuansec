@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English/.keep
-      - English/Programmes.md
       - Craft & Technology/.keep
       - Craft & Technology/Area of Focus.md
       - Craft & Technology/Programmes.md
