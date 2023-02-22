@@ -2,7 +2,7 @@ collections:
   academics:
     output: true
     order:
-      - Academics/Area of Focus.md
+      - Academics/Humanities.md
       - Academics/.keep
       - Academics/English.md
       - Academics/Craft & Technology.md
