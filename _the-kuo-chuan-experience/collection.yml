@@ -4,7 +4,6 @@ collections:
     order:
       - English/.keep
       - Craft & Technology/.keep
-      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Programmes.md
       - Humanities/.keep
       - Humanities/Area of Focus.md
