@@ -3,17 +3,13 @@ title: Academics
 permalink: /the-kuo-chuan-experience/academics/
 description: ""
 ---
-
-
-
-
 ## Departments
 
 
 
 
 
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/english/">
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/academics/academics/english">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/English.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
