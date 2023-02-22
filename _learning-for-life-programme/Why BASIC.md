@@ -8,7 +8,8 @@ description: ""
 
 **Why BASIC?**
 
-<p align="justify">The LLP-CYL programme is guided by the B.A.S.I.C (Being a Servant Leader in the Community) framework which serves a framing for what we do in student leadership development. Basically, the aim of the LLP is fundamental to the holistic education we provide in growing and developing community and youth leaders with a heart for service. It is also a reminder of our core belief and purpose in growing every KCPian to be a servant leader and scholar by passing on the legacy of our founding fathers to serve and lead.</p>
+<p style="text-align: justify;font-size:16px;">
+The LLP-CYL programme is guided by the B.A.S.I.C (Being a Servant Leader in the Community) framework which serves a framing for what we do in student leadership development. Basically, the aim of the LLP is fundamental to the holistic education we provide in growing and developing community and youth leaders with a heart for service. It is also a reminder of our core belief and purpose in growing every KCPian to be a servant leader and scholar by passing on the legacy of our founding fathers to serve and lead.</p>
 
   
 
