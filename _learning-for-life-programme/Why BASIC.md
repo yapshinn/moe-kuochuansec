@@ -28,7 +28,7 @@ Since the disposition to serve is a deliberate and conscious choice and not a ta
 
   
 **3.** **Leadership is a journey of personal development.**   
-<P  align="justify">The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths, struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their journey beyond Kuo Chuan.
+<p style="text-align: justify;font-size:16px;">The leadership journey of every KCPian will differ. Each KCPian will come to Kuo Chuan with unique strengths, struggles and social circumstances. Likewise, they will leave at varying phases of development to continue their journey beyond Kuo Chuan.
 </p>
 
 <iframe width="722" height="553" src="https://www.youtube.com/embed/kKxv-tQf7cQ" title="2017 Cambodia Combined UG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
