@@ -14,7 +14,7 @@ third_nav_title: Mathematics
 
 **1. Curriculum Lessons**
 
-In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.  As such, we design a variety of lessons to engage our students.  Following are some lessons which were carried out.  
+<p style="text-align: justify;font-size:16px;">In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.  As such, we design a variety of lessons to engage our students.  Following are some lessons which were carried out. </p> 
    
 **<u>Authentic Learning</u>**
 ![](/images/Our%20People/Departments/Math/Math%20Prog%201.png)
@@ -37,7 +37,7 @@ In Kuo Chuan Presbyterian Secondary, we aim to make our Math lessons enjoyable.�
 
 **<u>Game-based Learning</u>**
 
-**UPLOAD VIDEO TO YOUTUBE TO INSERT INTO SITE**
+<iframe width="830" height="467" src="https://www.youtube.com/embed/gA8fZlRmOTU" title="gamebaselearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](/images/Our%20People/Departments/Math/Math%20Prog%207.png)
 
