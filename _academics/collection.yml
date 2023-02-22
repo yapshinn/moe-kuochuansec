@@ -2,6 +2,7 @@ collections:
   academics:
     output: true
     order:
+      - English/Programmes.md
       - English/Area of Focus.md
       - English/.keep
       - Academics.md
