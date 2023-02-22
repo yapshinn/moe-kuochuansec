@@ -2,6 +2,6 @@ collections:
   academics:
     output: true
     order:
-      - Academics/Craft & Technology.md
-      - Academics/English.md
       - Academics/.keep
+      - Academics/English.md
+      - Academics/Craft & Technology.md
