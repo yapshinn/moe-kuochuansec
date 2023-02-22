@@ -17,7 +17,7 @@ third_nav_title: Academics
 <img src="/images/Our%20People/Departments/English/EL%20syllabus.jpg"  
      style="width:75%">
 		 
-<div>
+
 	
 
 
@@ -198,4 +198,3 @@ _Flowers for Algernon_&nbsp;is a science fiction short story written by Daniel K
 <iframe width="480" height="299" src="https://www.youtube.com/embed/rvH5SOl2oHs" title="It s Lit Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR4L2Q5UfguNzKqMPvxkqyt9ztw6JXTggrfkwELRMNu3tompkhQqGwNBSB50jpTr0CVhjP4geCcEI9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
