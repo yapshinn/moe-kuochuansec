@@ -22,7 +22,16 @@ links:
       - title: Contact Us
         url: /about-kcpss/contact-us/
   - title: The Kuo Chuan Experience
-    collection: academics
+    url: /Academics
+    sublinks:
+      - title: Academics
+        url: /academics
+      - title: Student Development Programmes
+        url: /student-development-programmes
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities
+      - title: Our Pride
+        url: /our-pride
   - title: Signature Programmes
     url: //the-kuo-chuan-experience/learning-for-life-programme/
     sublinks:
@@ -58,14 +67,3 @@ links:
         url: /parents/
       - title: For Students
         url: /useful-links/for-students/
-  - title: THE KUO CHUAN EXPERIENCE
-    url: /Academics
-    sublinks:
-      - title: Academics
-        url: /academics
-      - title: Student Development Programmes
-        url: /student-development-programmes
-      - title: Co-Curricular Activities
-        url: /co-curricular-activities
-      - title: Our Pride
-        url: /our-pride
