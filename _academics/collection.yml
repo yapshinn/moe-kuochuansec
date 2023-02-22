@@ -2,6 +2,7 @@ collections:
   academics:
     output: true
     order:
+      - Academics/Area of Focus.md
       - Academics/Character & Citizenzip Education.md
       - Academics/.keep
       - Academics/English.md
