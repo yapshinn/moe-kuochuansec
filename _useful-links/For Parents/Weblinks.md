@@ -31,7 +31,7 @@ third_nav_title: For Parents
 <thead>
   <tr>
     <td>MOE   </td>
-    <td><a href="(https://www.moe.gov.sg/">Ministry of Education (MOE)</a><br><b><font size=4>LINK DOES NOT WORK</font></b></td>
+    <td><a href="(https://www.moe.gov.sg/">Ministry of Education (MOE)</a><br><b><font size=4></font></b></td>
     <td></td>
   </tr>
 </thead>
