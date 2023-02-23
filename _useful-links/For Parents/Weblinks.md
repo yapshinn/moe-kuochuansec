@@ -66,7 +66,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td>Direct Entry Scheme to Polytechnic Programme<br><br></td>
-    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary/admissions">https://www.moe.gov.sg/post-secondary/admissions</a><br><b><font size="4"></font></b><br><br><br></td>
     <td><br></td>
   </tr>
   <tr>
