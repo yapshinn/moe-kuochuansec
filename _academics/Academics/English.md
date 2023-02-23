@@ -4,16 +4,13 @@ permalink: /the-kuo-chuan-experience/academics/academics/english/
 description: ""
 third_nav_title: Academics
 ---
-
-
-
 **<center>ENGLISH DEPARTMENT</center>**<br>
 **<center>A creative and critical thinker, who is a voice for change</center>**
 
 
 ### Area Of Focus
 
-<p style="text-align: justify;font-size:16px;">KCPSS English Department uses the MOE EL Syllabus 2020 as its main teaching and learning instruction. This is to align the teaching and learning of English Language to national objectives and desired outcomes for EL proficiency in Singapore.<p/>
+<p style="text-align: justify;font-size:16px;">KCPSS English Department uses the MOE EL Syllabus 2020 as its main teaching and learning instruction. This is to align the teaching and learning of English Language to national objectives and desired outcomes for EL proficiency in Singapore.</p>
 
 **Key features of the EL Syllabus 2020** (insert taken from MOE English Syllabus document)
 
