@@ -6,7 +6,8 @@ description: ""
 ## Beyond Academic Programme
 
 
-Besides the academic programmes, KCPians are also exposed to media through their participation in their CCAs.  
+<p style="text-align: justify;font-size:16px;">
+Besides the academic programmes, KCPians are also exposed to media through their participation in their CCAs. </p> 
 **Infocomm Club**
 
 
