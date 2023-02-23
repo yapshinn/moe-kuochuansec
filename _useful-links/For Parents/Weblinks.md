@@ -11,7 +11,7 @@ third_nav_title: For Parents
 <thead>
   <tr>
     <td>Student iCON</td>
-    <td><a href="https://workspace.google.com/dashboard/">https://workspace.google.com/dashboard/</a><br><b><font size=4></font></b></td>
+    <td><a href="https://workspace.google.com/dashboard/">https://workspace.google.com/dashboard/</a><br><b><font size="4"></font></b></td>
     <td>(login info will be given to students)</td>
   </tr>
 </thead>
@@ -31,7 +31,7 @@ third_nav_title: For Parents
 <thead>
   <tr>
     <td>MOE   </td>
-    <td><a href="(https://www.moe.gov.sg/">Ministry of Education (MOE)</a><br><b><font size=4></font></b></td>
+    <td><a href="(https://www.moe.gov.sg/">Ministry of Education (MOE)</a><br><b><font size="4"></font></b></td>
     <td></td>
   </tr>
 </thead>
@@ -43,7 +43,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td>Myskillfuture </td>
-    <td><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html">https://www.myskillsfuture.gov.sg/content/portal/en/index.html</a><br><b><font size=4></font></b></td>
+    <td><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html">https://www.myskillsfuture.gov.sg/content/portal/en/index.html</a><br><b><font size="4"></font></b></td>
     <td> </td>
   </tr>
 </tbody>
@@ -55,29 +55,29 @@ third_nav_title: For Parents
 <thead>
   <tr>
     <td>Skills Future   <br><br> </td>
-    <td><a href="https://www.myskillsfuture.sg/secondary">https://www.myskillsfuture.sg/secondary</a><br><b><font size=4>LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href="https://www.myskillsfuture.sg/secondary">https://www.myskillsfuture.sg/secondary</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
     <td>(login: NRIC      (All Caps), Password: Same password as used in Primary school)</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>ITE Early Admission Exercise <br>[ITE-EAE]  <br></td>
-    <td><a href="http://www.ite.edu.sg/wps/portal/eae%C2%A0">www.ite.edu.sg/wps/portal/eae</a><br><b><font size=4>LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise</a><br><b><font size=4></font></b><br><br><br></td>
     <td> </td>
   </tr>
   <tr>
     <td>Joint Intake Exercise Admission Booklet [2018]  <br><br></td>
-    <td><a href="https://tinyurl.com/JIE-N-2018%C2%A0%C2%A0">https://tinyurl.com/JIE-N-2018</a><br><b><font size=4>LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href=">https://tinyurl.com/JIE-N-2018</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
     <td> </td>
   </tr>
   <tr>
     <td>Direct Entry Scheme to Polytechnic Programme<br><br></td>
-    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a><br><b><font size=4>LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href="https://www.ite.edu.sg/wps/portal/definitely-des/">https://www.ite.edu.sg/wps/portal/definitely-des/</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
     <td><br></td>
   </tr>
   <tr>
     <td>Polytechnic Foundation Programme [PFP] </td>
-    <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html%C2%A0">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br><b><font size=4>LINK DOES NOT WORK</font></b></td>
+    <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html%C2%A0">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br><b><font size="4">LINK DOES NOT WORK</font></b></td>
     <td> </td>
   </tr>
 </tbody>
