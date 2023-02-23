@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents.md
       - Parent Support Group.md
       - Cyberwellness.md
       - Weblinks.md
