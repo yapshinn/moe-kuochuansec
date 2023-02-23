@@ -2,6 +2,7 @@ collections:
   academics:
     output: true
     order:
+      - Physical Education.md
       - Humanities.md
       - Craft & Technology.md
       - Mother Tongue.md
