@@ -6,7 +6,8 @@ description: ""
 ## Spin Doctors Programme
 
 
-<p align="justify">The Spin Doctors programme focuses on equipping students to be more media literate by leveraging on media literacy tools to hone their speaking and writing skills.</p>
+<p style="text-align: justify;font-size:16px;">
+The Spin Doctors programme focuses on equipping students to be more media literate by leveraging on media literacy tools to hone their speaking and writing skills.</p>
 
 <table>
 <thead>
