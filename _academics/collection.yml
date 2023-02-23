@@ -4,7 +4,6 @@ collections:
     order:
       - English.md
       - Academics/.keep
-      - Academics/Science.md
       - Academics/Mathematics.md
       - Academics/Mother Tongue.md
       - Academics/Craft & Technology.md
