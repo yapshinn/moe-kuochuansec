@@ -8,8 +8,8 @@ third_nav_title: Character and Citizenship
 
 ### Area of Focus
 
-<p align = "justify">
-The CCE Department focuses on the Character and Citizenship Education in Kuo Chuan Presbyterian Secondary School.  Every KCPian will be developed to be Servant Leaders and Scholars through structured programmes and lessons guided by the KCPSS CCE Framework (revised in 2017).</p>
+<p style="text-align: justify;font-size:16px;">
+The CCE Department focuses on the Character and Citizenship Education in Kuo Chuan Presbyterian Secondary School.&nbsp; Every KCPian will be developed to be Servant Leaders and Scholars through structured programmes and lessons guided by the KCPSS CCE Framework (revised in 2017).</p>
 
 **CCE Framework**
 
@@ -21,9 +21,9 @@ The CCE Department focuses on the Character and Citizenship Education in Kuo Chu
 Core Programmes  
 *   Daily Morning Messages  
     
-*   Weekly Character & Citizenship Lessons
+*   Weekly Character &amp; Citizenship Lessons
 *   Level Camp experiential learnings.
-*   Value-in-Action with the strategic approach of Awareness, Action & Advocacy
+*   Value-in-Action with the strategic approach of Awareness, Action &amp; Advocacy
 *   Enhance Modules (EM) for Secondary 3NA students
 *   National Youth Achievement Awards (NYAA)
 
@@ -33,7 +33,7 @@ Core Programmes
 **1. CCE Day**  
     
 
-The CCE Day is aligned closely to the national movement, SkillsFuture, and the MOE ECG Development Model. The aim of the CCE Day is to equip all students with the knowledge and skills in charting their post-secondary education and career path.
+<p style="text-align: justify;font-size:16px;">The CCE Day is aligned closely to the national movement, SkillsFuture, and the MOE ECG Development Model. The aim of the CCE Day is to equip all students with the knowledge and skills in charting their post-secondary education and career path.</p>
 
 <table>
 <thead>
@@ -47,22 +47,22 @@ The CCE Day is aligned closely to the national movement, SkillsFuture, and the M
   <tr>
     <td>Sec 1</td>
     <td>Career Awareness</td>
-    <td style="text-align:justify">●      Introduction of MySkillsFuture portal and it’s resource potential exploration<br>●      Raising awareness of strength related to career choice using Self Assessment tool in MySkillsFuture portal.<br>●      ECG Lessons to raising awareness of the relationship between personal strength, work values to preferred occupation.<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Celebration.</td>
+    <td style="text-align: justify;font-size:16px;>●      Introduction of MySkillsFuture portal and it’s resource potential exploration<br>●      Raising awareness of strength related to career choice using Self Assessment tool in MySkillsFuture portal.<br>●      ECG Lessons to raising awareness of the relationship between personal strength, work values to preferred occupation.<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Celebration.</td>
   </tr>
   <tr>
     <td>Sec 2</td>
     <td>Career Exploration</td>
-    <td style="text-align:justify">●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
+    <td style=">●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
   </tr>
   <tr>
     <td>Sec 3</td>
     <td>Career Exploration &amp; Planning</td>
-    <td style="text-align:justify">●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
+    <td style="text-align: justify;font-size:16px;>●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
   </tr>
   <tr>
     <td>Sec 4 / 5</td>
     <td>Career Planning</td>
-    <td style="text-align:justify">●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
+    <td style=">●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
   </tr>
 </tbody>
 </table>
@@ -71,24 +71,24 @@ The CCE Day is aligned closely to the national movement, SkillsFuture, and the M
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%202.png)
 
 **2. Elective Modules**<br>
-<p style="text-align:justify">The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.
+<p style="text-align: justify;font-size:16px;">The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.</p>
 
-The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
+<p style="text-align: justify;font-size:16px;">The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%203.png)
 
 
 **3. Food Entrepreneur Programme.**  
 
-The Food Entrepreneur Programme is an initiative to provide authentic learning experiences in developing leadership competencies and encouraging a spirit of entrepreneurship for students from the Secondary 3 Normal (Academic) stream. 
+<p style="text-align: justify;font-size:16px;">The Food Entrepreneur Programme is an initiative to provide authentic learning experiences in developing leadership competencies and encouraging a spirit of entrepreneurship for students from the Secondary 3 Normal (Academic) stream.<!--.p-->&nbsp;
 
   
 
-Students will vie for an opportunity to be mentored by established personalities from the Singapore F&B industry. It will leverage the experiences of these F&B personalities to inculcate values of dare, experimentation and resilience and impart relevant personal leadership skills to thrive in this industry. Students will also be challenged towards having a sense of purpose for career options they are passionate about, to dream big, to be willing to take risks in pursuing dreams and being willing to work hard. 
+</p><p style="text-align: justify;font-size:16px;">Students will vie for an opportunity to be mentored by established personalities from the Singapore F&amp;B industry. It will leverage the experiences of these F&amp;B personalities to inculcate values of dare, experimentation and resilience and impart relevant personal leadership skills to thrive in this industry. Students will also be challenged towards having a sense of purpose for career options they are passionate about, to dream big, to be willing to take risks in pursuing dreams and being willing to work hard.&nbsp;</p>
 
   
 
-The programme will target students who have an interest to understand more about the F&B industry and be equipped with relevant experiences and skills to explore the various opportunities available in this area. The students will also be given platforms and opportunities to pay it forward to the community. The students will get to apply their learning to lead their classmates in setting up food stalls to raise funds and advocate for various social causes through the school Values In Action programme.
+<p style="text-align: justify;font-size:16px;">The programme will target students who have an interest to understand more about the F&amp;B industry and be equipped with relevant experiences and skills to explore the various opportunities available in this area. The students will also be given platforms and opportunities to pay it forward to the community. The students will get to apply their learning to lead their classmates in setting up food stalls to raise funds and advocate for various social causes through the school Values In Action programme.</p>
 
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
@@ -100,8 +100,7 @@ The programme will target students who have an interest to understand more about
 <thead>
   <tr>
     <td>Mr. Tan Say Pin (HOD/ CCE)</td>
-    <td><a href="mailto:tan_say_pin@schools.gov.sg
-">tan_say_pin@schools.gov.sg
+    <td><a href="mailto:tan_say_pin@schools.gov.sg">tan_say_pin@schools.gov.sg
 </a></td>
   </tr>
 </thead>
