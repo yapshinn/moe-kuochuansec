@@ -2,12 +2,12 @@ collections:
   academics:
     output: true
     order:
-      - Character & Citizenzip Education.md
-      - Physical Education.md
-      - Humanities.md
-      - Craft & Technology.md
-      - Mother Tongue.md
-      - Mathematics.md
-      - Science.md
       - English.md
+      - Science.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Craft & Technology.md
+      - Humanities.md
+      - Physical Education.md
+      - Character & Citizenzip Education.md
       - Academics/.keep
