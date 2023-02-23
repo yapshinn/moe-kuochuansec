@@ -6,17 +6,17 @@ third_nav_title: Character and Citizenship
 ---
 ## Area of Focus
 
-<p align="justify">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. 
+<p style="text-align: justify;font-size:16px;">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. </p>
 
-KCPSS have adopted MOE Cyberwellness framework to guide us in school wide CW Education.</p>
+<p style="text-align: justify;font-size:16px;">KCPSS have adopted MOE Cyberwellness framework to guide us in school wide CW Education.</p>
 
 
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/Cyber%20Wellness%201.png" style="width:55%">
 
-The three principles, **‘Respect for Self and Others’, ‘Safe and Responsible Use’** and **‘Positive Peer Influence’** when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
+<p style="text-align: justify;font-size:16px;">The three principles, <b>‘Respect for Self and Others’, ‘Safe and Responsible Use’</b> and <b>‘Positive Peer Influence’</b> when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.</p>
 
-<p align="justify">The framework also features a 3-step process to explore Cyber issues:   </p>
+<p style="text-align: justify;font-size:16px;">The framework also features a 3-step process to explore Cyber issues:   </p>
 
 	
 The **Sense – Think – Act Process**
@@ -34,7 +34,7 @@ The **Sense – Think – Act Process**
 
   
 
-<p align="justify">Every year 2 talks are scheduled during assembly to focus on contemporary cyberwellness related issues.</p>
+<p style="text-align: justify;font-size:16px;">Every year 2 talks are scheduled during assembly to focus on contemporary cyberwellness related issues.</p>
 
   
 
@@ -42,7 +42,7 @@ The **Sense – Think – Act Process**
 
   
 
-<p align="justify">In 2014, formal CW lessons were rolled out in schools to emphasise the explicit teaching of social and emotional competencies and values in the context of the cyber world. It is centred on the three foundational principles of the CW Framework and the three big ideas, Identity, Relationships and Choices of MOE’s Character and Citizenship Education (CCE).</p>
+<p style="text-align: justify;font-size:16px;">In 2014, formal CW lessons were rolled out in schools to emphasise the explicit teaching of social and emotional competencies and values in the context of the cyber world. It is centred on the three foundational principles of the CW Framework and the three big ideas, Identity, Relationships and Choices of MOE’s Character and Citizenship Education (CCE).</p>
 
 <table>
 <thead>
