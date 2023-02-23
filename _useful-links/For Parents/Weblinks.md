@@ -71,7 +71,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td>Polytechnic Foundation Programme [PFP] </td>
-    <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html%C2%A0">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br><b><font size="4">LINK DOES NOT WORK</font></b></td>
+    <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br><b><font size="4"></font></b></td>
     <td> </td>
   </tr>
 </tbody>
