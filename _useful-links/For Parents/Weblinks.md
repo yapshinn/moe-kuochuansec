@@ -42,8 +42,8 @@ third_nav_title: For Parents
     <td></td>
   </tr>
   <tr>
-    <td>General Helplines </td>
-    <td><a href="https://www.egen.sg/resources">https://www.egen.sg/resources</a><br><b><font size=4>LINK DOES NOT WORK</font></b></td>
+    <td>Myskillfuture </td>
+    <td><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html">https://www.myskillsfuture.gov.sg/content/portal/en/index.html</a><br><b><font size=4></font></b></td>
     <td> </td>
   </tr>
 </tbody>
