@@ -9,7 +9,11 @@ third_nav_title: For Parents
 ### Portals
 <table>
 <thead>
- 
+  <tr>
+    <td>Student iCON</td>
+    <td><a href="https://workspace.google.com/dashboard/">https://workspace.google.com/dashboard/</a><br><b><font size=4></font></b></td>
+    <td>(login info will be given to students)</td>
+  </tr>
 </thead>
 <tbody>
   <tr>
