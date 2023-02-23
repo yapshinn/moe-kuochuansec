@@ -61,7 +61,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td>Joint Intake Exercise Admission Booklet [2018]  <br><br></td>
-    <td><a href=">https://tinyurl.com/JIE-N-2018</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
+    <td><a href=">https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise</a><br><b><font size="4"></font></b><br><br><br></td>
     <td> </td>
   </tr>
   <tr>
