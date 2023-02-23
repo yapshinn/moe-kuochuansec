@@ -52,13 +52,7 @@ third_nav_title: For Parents
 
 ### E-Career Guidance
 <table>
-<thead>
-  <tr>
-    <td>Skills Future   <br><br> </td>
-    <td><a href="https://www.myskillsfuture.sg/secondary">https://www.myskillsfuture.sg/secondary</a><br><b><font size="4">LINK DOES NOT WORK</font></b><br><br><br></td>
-    <td>(login: NRIC      (All Caps), Password: Same password as used in Primary school)</td>
-  </tr>
-</thead>
+
 <tbody>
   <tr>
     <td>ITE Early Admission Exercise <br>[ITE-EAE]  <br></td>
