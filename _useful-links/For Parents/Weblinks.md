@@ -4,17 +4,12 @@ permalink: /parents/weblinks/
 description: ""
 third_nav_title: For Parents
 ---
-
 ## Weblinks
 
 ### Portals
 <table>
 <thead>
-  <tr>
-    <td>Ask N Learn</td>
-    <td><a href="https://lms.asknlearn.com/KCPSS/login.aspx">https://lms.asknlearn.com/KCPSS/login.aspx</a><br><b><font size=4>LINK DOES NOT WORK</font></b></td>
-    <td>(login info will be given to students)</td>
-  </tr>
+ 
 </thead>
 <tbody>
   <tr>
