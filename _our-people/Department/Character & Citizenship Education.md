@@ -20,5 +20,19 @@ third_nav_title: Department
 
 | Vice-Chairman VIA|  |  
 | -------- | -------- | 
-|Mdm. Abby Choo Choy Joo (SH/VIA)|choo_choy_joo@schools.gov.sg|
+|Mdm  Abby Choo Choy Joo(SH/VIA)|choo_choy_joo@schools.gov.sg |
 
+| CCE Specialised Teachers |  |  
+| -------- | -------- | 
+| **Sec.1 Level Champion**| |
+|Mr. Ng Chee Kian|ng_chee_kian@schools.gov.sg |
+|Mr. Yew Yishen|yew_yishen@schools.gov.sg |
+|**Sec.2 Level Champion**| |
+|Ms. Ng Yin yee|ng_yin_yee@schools.gov.sg |
+|**Sec.3 Level Champion**| |
+|Ms. Nur Diyanah Mohammad Suhaimi|nur_diyanah_mohammad_suhai@schools.gov.sg |
+|**Sec.4/5 Level Champion**| |
+|Mrs Sek Hwee Leng|sek_hwee_leng@schools.gov.sg  |
+|**NE events IC**| |
+|Ms. Lee Rachel  |lee_rachel@schools.gov.sg |
+|Mr. Teo Han Yang Edwin|teo_han_yang_edwin@schools.gov.sg |
