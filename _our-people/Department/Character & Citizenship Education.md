@@ -9,7 +9,6 @@ third_nav_title: Department
 ![](/images/Our%20People/Departments/cce.jpg)
 
 
-
 | Chairman |  |  
 | -------- | -------- | 
 | Mr Tan Say Pin (HOD/ CCE)|tan_say_pin@schools.gov.sg | 
