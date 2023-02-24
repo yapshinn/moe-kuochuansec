@@ -17,6 +17,10 @@ third_nav_title: Department
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td>Ms Koh Li Eng (LH / Science)</td>
+    <td><a href="mailto:koh_li_eng@schools.gov.sg">koh_li_eng@schools.gov.sg</a></td>
+  </tr>
   <tr>
     <td>Mrs. Dorothy Goh (Year Head / Lower Sec)</td>
     <td><a href="mailto:dorothy_tay_wyn_hui@schools.gov.sg">dorothy_tay_wyn_hui@schools.gov.sg</a></td>
