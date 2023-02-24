@@ -50,7 +50,6 @@ third_nav_title: Department
 |**Photography**|
 |Norhajjarrillah Bte Abdul Baki|Norhajjarrillah_Bte_Abdul_Baki@schools.gov.sg
 |**Education and Career Guidance (ECG)  counsellor**
-|
 |Ms. Lim Yin Leng Lisa   |Lim_Yin_Leng_Lisa@schools.gov.sg|
 | **Full-Time School Counsellor** |
 |Mr. Joey Hong (Counsellor) |joey_hong@schools.gov.sg |
