@@ -45,4 +45,10 @@ third_nav_title: Department
 |Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
 |**Applied Learning Module (ApLM) coordinator**| |
 |Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
+|**Publicity**|
+|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
+|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
+|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
+|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
+|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
 |Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
