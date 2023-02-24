@@ -40,6 +40,9 @@ third_nav_title: Department
 |**VIA coordinator** |
 |Upper Sec: Mr. Ng Keng Yang|ng_keng_yang@schools.gov.sg |
 |Lower Sec: Ms. Tan Hui Si   |Tan_Hui_Si@schools.gov.sg |
-|**Food and Entreprenuer Programme**
+|**Food and Entreprenuer Programme**| |
 |Mr. Lee Chong Min |lee_chong_min@schools.gov.sg|
+|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
+|**Applied Learning Module (ApLM) coordinator**| |
+|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
 |Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
