@@ -37,6 +37,10 @@ third_nav_title: Department
     <td>Mr. Ng Keng Yang</td>
     <td><a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg</a></td>
   </tr>
+	 <tr>
+    <td>Ms. Foo Ji Ying Eunice</td>
+    <td><a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a></td>
+  </tr>
   <tr>
     <td>Mr. Sam Yew Yishen</td>
     <td><a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a></td>
