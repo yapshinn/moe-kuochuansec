@@ -3,7 +3,6 @@ title: For Teachers
 permalink: /useful-links/for-teachers/
 description: ""
 ---
-
 ## For Teachers
 
 <table>
@@ -35,7 +34,7 @@ description: ""
     <td><a href="https://pg.moe.edu.sg/">Parent Gateway</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DSMziDIwYBw4DzfgTl5snLZH9hUXubj9htxPk2zPLVc0PS%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DJPowcvYbbJp4vZTsabT7c98ch-4JqnLUjWr1Ddq9my4%26code_challenge_method%3DS256%26nonce%3DSMziDIwYBw4DzfgTl5snLZH9hUXubj9htxPk2zPLVc0PS">Opel 2.0</td>
     <td></td>
     <td> </td>
     <td> </td>
