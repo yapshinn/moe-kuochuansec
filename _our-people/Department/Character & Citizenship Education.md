@@ -36,3 +36,11 @@ third_nav_title: Department
 |**NE events IC**| |
 |Ms. Lee Rachel  |lee_rachel@schools.gov.sg |
 |Mr. Teo Han Yang Edwin|teo_han_yang_edwin@schools.gov.sg |
+|Ms. Amelia Yeo Jiaxin |amelia_yeo_jiaxin@schools.gov.sg |
+|Mr. Foo Seng Hong|foo_seng_hong@schools.gov.sg |
+|**VIA coordinator** |
+|Upper Sec: Mr. Ng Keng Yang|ng_keng_yang@schools.gov.sg |
+|Lower Sec: Ms. Tan Hui Si   |Tan_Hui_Si@schools.gov.sg |
+|**Food and Entreprenuer Programme**
+|Mr. Lee Chong Min |lee_chong_min@schools.gov.sg|
+|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
