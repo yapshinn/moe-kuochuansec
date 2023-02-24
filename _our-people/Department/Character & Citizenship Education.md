@@ -46,9 +46,11 @@ third_nav_title: Department
 |**Applied Learning Module (ApLM) coordinator**| |
 |Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
 |**Publicity**|
-|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
-|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
-|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
-|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
-|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
-|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
+|Siti Shahirah Bte Haider Bagesher|Siti_Shahirah_Bte_Haider_Bagesher@schools.gov.sg|
+|**Photography**|
+|Norhajjarrillah Bte Abdul Baki|Norhajjarrillah_Bte_Abdul_Baki@schools.gov.sg
+|**Education and Career Guidance (ECG)  counsellor**
+|
+|Ms. Lim Yin Leng Lisa   |Lim_Yin_Leng_Lisa@schools.gov.sg|
+| **Full-Time School Counsellor** |
+|Mr. Joey Hong (Counsellor) |joey_hong@schools.gov.sg |
