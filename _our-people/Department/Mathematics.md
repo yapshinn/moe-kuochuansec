@@ -21,16 +21,8 @@ third_nav_title: Department
     <td><a href="mailto:goh_boon_loon@schools.gov.sg">goh_boon_loon@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr. Pandiyan s/o Govindaraju (HOD CCE)</td>
-    <td><a href="mailto:pandiyan_govindaraju@schools.gov.sg">pandiyan_govindaraju@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr. Brian Ho (HOD/Student Management)</td>
-    <td><a href="mailto:ho_yew_kiat@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Ms. Faye Tan (HOD/ICT)</td>
-    <td><a href="mailto:tan_lay_hiok@schools.gov.sg">tan_lay_hiok@schools.gov.sg</a></td>
+    <td>Mr. Brian Ho Yew Kiat</td>
+    <td><a href="mailto:pandiyan_govindaraju@schools.gov.sg">ho_yew_kiat@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mrs. Teo Shu Yen (Senior Teacher/ Mathematics)</td>
@@ -55,6 +47,26 @@ third_nav_title: Department
   <tr>
     <td>Mr. Lee Chong Min</td>
     <td><a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Ms. Loo Yen Li</td>
+    <td><a href="mailto:loo_yen_li@schools.gov.sg">loo_yen_li@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Mdm. Tan Siok Kuan Angeline </td>
+    <td><a href="an_Siok_Kuan_Angeline@schools.gov.sg">Tan_Siok_Kuan_Angeline@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Mr. Haw Say Boon Clarence</td>
+    <td><a href="mailto:Haw_Say_Boon@schools.gov.sg">Haw_Say_Boon@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Mr. Ha Yeong Fook</td>
+    <td><a href="mailto:ha_yeong_fook@schools.gov.sg">ha_yeong_fook@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Mr. Ng Yan kong</td>
+    <td><a href="mailto:ng_yan_kong@schools.gov.sg">ng_yan_kong@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
