@@ -40,7 +40,7 @@ description: ""
     <td> </td>
   </tr>
   <tr>
-    <td></td>
+    <td><a href="https://scmobile.moe.edu.sg/">SC Mobile</td>
     <td> </td>
     <td> </td>
     <td> </td>
