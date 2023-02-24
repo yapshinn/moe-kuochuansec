@@ -16,7 +16,7 @@ third_nav_title: Department
 
 | Vice-Chairman NE |  |  |
 | -------- | -------- | -------- |
-|Mr Chelliah Trevor Devendran (HOD/Humanities)|     chelliah_trevor_devendran@schools.gov.sg |
+|Mr Chelliah Trevor Devendran (HOD/Humanities)|      chelliah_trevor_devendran@schools.gov.sg |
 
 | Vice-Chairman VIA|  |  |
 | -------- | -------- | -------- |
