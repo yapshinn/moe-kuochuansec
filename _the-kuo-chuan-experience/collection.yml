@@ -1,0 +1,23 @@
+collections:
+  the-kuo-chuan-experience:
+    output: true
+    order:
+      - English/.keep
+      - Craft & Technology/.keep
+      - Craft & Technology/Programmes.md
+      - Humanities/.keep
+      - Humanities/Programmes.md
+      - IT/.keep
+      - IT/Area of Focus.md
+      - IT/Programmes.md
+      - Mathematics/.keep
+      - Mathematics/Programmes.md
+      - Science/.keep
+      - Science/Programmes.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Programmes.md
+      - PE/.keep
+      - PE/Programmes.md
+      - CCE/.keep
+      - CCE/Programmes.md
+      - CCE/Teachers.md

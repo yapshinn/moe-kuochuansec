@@ -1,0 +1,5 @@
+collections:
+  principals-message-page:
+    output: true
+    order:
+      - 2023 Principal's Message.md

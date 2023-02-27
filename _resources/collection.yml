@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Resources.md
+      - Frequently Asked Questions.md
+      - Contact Information.md
+      - School Location.md

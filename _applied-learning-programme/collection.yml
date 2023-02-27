@@ -1,0 +1,10 @@
+collections:
+  applied-learning-programme:
+    output: true
+    order:
+      - Applied Learning Programme in Media Literacy.md
+      - Spin Doctors Programme.md
+      - Secondary 1.md
+      - Secondary 2.md
+      - Secondary 3.md
+      - Beyond Academic Programme.md

@@ -1,0 +1,5 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Trips for International Experience.md

@@ -1,0 +1,7 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Cyberwellness.md
+      - Parents in Education (PiE).md

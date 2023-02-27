@@ -1,0 +1,7 @@
+collections:
+  community:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Alumni.md
+      - Adam Road Presbyterian Church.md

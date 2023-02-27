@@ -1,0 +1,12 @@
+collections:
+  academics:
+    output: true
+    order:
+      - English.md
+      - Science.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Craft & Technology.md
+      - Humanities.md
+      - Physical Education.md
+      - Character & Citizenzip Education.md

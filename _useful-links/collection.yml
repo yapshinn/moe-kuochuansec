@@ -1,0 +1,10 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - For Teachers.md
+      - For Students.md
+      - For Parents/.keep
+      - For Parents/Parents.md
+      - For Parents/PDLP.md
+      - For Parents/Weblinks.md

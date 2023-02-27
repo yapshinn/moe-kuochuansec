@@ -1,15 +1,63 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school_logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About KCPSS
+    url: /about-kcpss/our-history/
+    sublinks:
+      - title: Principal's Message
+        url: /about-kcpss/principals-message/
+      - title: Our History
+        url: /about-kcpss/our-history/
+      - title: Our Mission & Vision
+        url: /about-kcpss/our-mission-and-vision/
+      - title: Our Philosophy
+        url: /about-kcpss/our-philosophy/
+      - title: Our Values
+        url: /about-kcpss/our-values/
+      - title: Our Crest & Motto
+        url: /about-kcpss/our-crest-n-motto/
+      - title: Our People
+        url: /our-people/school-management-committee/
+      - title: Contact Us
+        url: /about-kcpss/contact-us/
+  - title: The Kuo Chuan Experience
+    url: /the-kuo-chuan-experience/academics
+    sublinks:
+      - title: Academics
+        url: /the-kuo-chuan-experience/academics/English/
+      - title: Student Development Programmes
+        url: /the-kuo-chuan-experience/sd-progs/character-and-citizenship-programme/
+      - title: Co-Curricular Activities
+        url: /the-kuo-chuan-experience/co-curricular-activities-cca/
+      - title: Our Pride
+        url: /our-pride/co-curricular-achievements/uniform-groups/
+  - title: Signature Programmes
+    url: /the-kuo-chuan-experience/learning-for-life-programme/
+    sublinks:
+      - title: Learning for Life Programme
+        url: /the-kuo-chuan-experience/learning-for-life-programme/
+      - title: Applied Learning Programme
+        url: /the-kuo-chuan-experience/applied-learning-programme-in-media-literacy/
+      - title: TIE
+        url: /signature-programmes/tie
+  - title: Community
+    collection: community
+  - title: Admission
+    url: /admission/direct-school-admission/
+    sublinks:
+      - title: Direct School Admission
+        url: /admission/direct-school-admission/
+      - title: Secondary One Registration
+        url: /secondary-1-registration/secondary-one-e-registration-2023/
+      - title: Virtual Open House
+        url: /virtual-open-house
+      - title: FAQ
+        url: /admission/faq/
+  - title: Useful Links
+    url: /useful-links/for-teachers/
+    sublinks:
+      - title: For Teachers
+        url: /useful-links/for-teachers/
+      - title: For Parents
+        url: /parents/
+      - title: For Students
+        url: /useful-links/for-students/

@@ -1,0 +1,17 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Management Committee.md
+      - School Executive Committee.md
+      - Our Staff.md
+      - Department/.keep
+      - Department/Departments.md
+      - Department/English.md
+      - Department/Science.md
+      - Department/Mathematics.md
+      - Department/Humanities.md
+      - Department/Craft & Technology.md
+      - Department/Mother Tongue.md
+      - Department/Physical Education.md
+      - Department/Character & Citizenship Education.md
