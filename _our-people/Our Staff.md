@@ -349,7 +349,7 @@ description: ""
   Shinn&nbsp;
 </td>
   
-<td class="">SH -&nbsp; Ed Tech / 3 PRASIE
+<td class="">SH -&nbsp; Ed Tech / 3 PRAISE
 </td>
   
 <td class="">yap_shinn@schools.gov.sg
