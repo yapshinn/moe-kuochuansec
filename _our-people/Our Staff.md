@@ -1587,19 +1587,7 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mdm. Oh Poh
-  Lay Jeslyn
-</td>
-  
-<td class="">Admin Manager
-</td>
-  
-<td class="">OH_Poh_Lay@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
   
@@ -1714,19 +1702,7 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr. Lok Shui
-  Onn&nbsp;
-</td>
-  
-<td class="">TSO
-</td>
-  
-<td class="">lok_shui_onn@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
   
