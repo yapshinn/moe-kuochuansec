@@ -4,10 +4,10 @@ title: Kuo Chuan Presbyterian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: We aspire to be a School on a Hill
+notification: ""
 sections:
   - hero:
-      background: /images/bannerv2.gif
+      background: /images/Banner2023.gif
       key_highlights:
         - title: Happenings
           description: ""

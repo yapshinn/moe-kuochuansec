@@ -349,7 +349,7 @@ description: ""
   Shinn&nbsp;
 </td>
   
-<td class="">SH -&nbsp; Ed Tech / 3 PRASIE
+<td class="">SH -&nbsp; Ed Tech / 3 PRAISE
 </td>
   
 <td class="">yap_shinn@schools.gov.sg
@@ -1565,7 +1565,18 @@ description: ""
 </td>
  
 </tr>
+ <tr height="19" class="">
+  
+<td height="19" class="">Ms. Lim Yin Leng Lisa
+</td>
+  
+<td class="">School ECG Counsellor
+</td>
+  
+<td class="">lim_yin_leng_lisa@schools.gov.sg
+</td>
  
+</tr>
 <tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Executive &amp;
@@ -1587,19 +1598,7 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mdm. Oh Poh
-  Lay Jeslyn
-</td>
-  
-<td class="">Admin Manager
-</td>
-  
-<td class="">OH_Poh_Lay@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
   
@@ -1714,19 +1713,7 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr. Lok Shui
-  Onn&nbsp;
-</td>
-  
-<td class="">TSO
-</td>
-  
-<td class="">lok_shui_onn@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
   
