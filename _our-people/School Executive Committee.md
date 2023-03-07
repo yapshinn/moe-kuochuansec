@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Executive Committee
 
-**Click on the image for email!**
+
 
 **School Leaders**
 
