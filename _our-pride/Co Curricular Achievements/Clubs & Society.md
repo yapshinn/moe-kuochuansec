@@ -58,8 +58,8 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
 	 <tr>
-    <td> <b>2022</b><br> National Robotics Competition</td>
-    <td> <br>Best Content - Finalist<br>CoderZ Challenge - Participantion<br>Robot Run - Participation</td>
+    <td> <b>2022</b><br> National Robotics Competition<br>Best Content<br>CoderZ Challenge<br>Robot Run</td>
+    <td> <br><br>Finalist<br>Participantion<br>Participation</td>
   </tr>
   <tr>
     <td> <b>2021</b><br></td>
