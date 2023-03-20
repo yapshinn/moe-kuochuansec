@@ -66,8 +66,8 @@ third_nav_title: Co Curricular Achievements
     <td> Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br>ITE East Robotics Challenge<br>i) Creative Challenge<br><br>ii)Tracing Challenge<br><br><br><br>Asia Pacific Youth Robotic</td>
-    <td> <br>Merit Award ( Ethan 4GR)<br>Merit Award ( Elliot 4LV)<br>Merit Award ( Malcom 3PC)<br>Merit Award ( Aidan 2JY)<br>Runner Up (Ryan 4LV)<br>Runner Up (Gavin 4PC)<br>Runner Up (Aadithyan 2FH)<br>Runner Up (Syen 2JY)<br>Runner Up (Jenson&amp;Ebenezer 1LV)<br>4th Placing (Prajen&amp;Josh 1LV)<br></td>
+    <td> <b>2019</b><br>ITE East Robotics Challenge<br>i) Creative Challenge<br><br><br>ii)Tracing Challenge<br><br><br><br><br>iii)Asia Pacific Youth Robotic</td>
+    <td> <br>Merit Award ( Ethan 4GR)<br>Merit Award ( Elliot 4LV)<br>Merit Award ( Malcom 3PC)<br>Merit Award ( Aidan 2JY)<br>Runner Up (Ryan 4LV)<br>Runner Up (Gavin 4PC)<br>Runner Up (Aadithyan 2FH)<br>Runner Up (Syen 2JY)<br>Runner Up (Jenson&amp;Ebenezer 1LV)<br>3rd & 4th Placing (Prajen&amp;Josh 1LV)<br></td>
   </tr>
   <tr>
     <td> <b>2018</b><br>in ITE College East Robotics Competition<br><br>Obstacle Avoidance Challenge<br>Creative Challenge</td>
