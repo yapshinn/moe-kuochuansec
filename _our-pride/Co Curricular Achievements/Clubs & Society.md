@@ -25,20 +25,20 @@ third_nav_title: Co Curricular Achievements
     <td>Competition Suspended</td>
   </tr>
   <tr>
-    <td> <b>2019</b><br><br>CNB Anti Drug Video Competition</td>
-    <td> <br><br>participation</td>
+    <td> <b>2019</b><br>CNB Anti Drug Video Competition</td>
+    <td> <br>participation</td>
   </tr>
   <tr>
-    <td><b>2016</b><br><br>SDMA - Video Category</td>
-    <td><br><br>1st (Gold)<br><br><br></td>
+    <td><b>2016</b><br>SDMA - Video Category</td>
+    <td><br>1st (Gold)<br></td>
   </tr>
   <tr>
-    <td><b>2015</b><br><br>SDMA - Animation Category<br><br></td>
-    <td><br><br>1st (Gold)</td>
+    <td><b>2015</b><br>SDMA - Animation Category</td>
+    <td><br>1st (Gold)</td>
   </tr>
   <tr>
-    <td> <b>2014</b><br><br>Canon Photo Contest <br>Student Category</td>
-    <td><br><br>1st (Individual)<br>Heng Ek Khun Spencer (1 LV)</td>
+    <td> <b>2014</b><br>Canon Photo Contest <br>Student Category</td>
+    <td><br>1st (Individual)<br>Heng Ek Khun Spencer (1 LV)</td>
   </tr>
 </tbody>
 </table>
