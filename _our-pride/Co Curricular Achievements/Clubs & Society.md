@@ -16,6 +16,10 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td> <b>2022</b><br>Copyright School Challenge Video Competition</td>
+    <td> <br>Finalists</td>
+  </tr>
   <tr>
     <td> <b>2021</b><br>Lion's Home School vide Competition</td>
     <td> <br>Participation</td>
