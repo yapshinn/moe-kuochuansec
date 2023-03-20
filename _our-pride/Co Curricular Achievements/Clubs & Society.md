@@ -74,20 +74,20 @@ third_nav_title: Co Curricular Achievements
     <td> <br>Merit Award ( Ethan 4GR)<br>Merit Award ( Elliot 4LV)<br>Merit Award ( Malcom 3PC)<br>Merit Award ( Aidan 2JY)<br>Runner Up (Ryan 4LV)<br>Runner Up (Gavin 4PC)<br>Runner Up (Aadithyan 2FH)<br>Runner Up (Syen 2JY)<br>Runner Up (Jenson&amp;Ebenezer 1LV)<br>3rd & 4th Placing (Prajen&amp;Josh 1LV)<br></td>
   </tr>
   <tr>
-    <td> <b>2018</b><br>in ITE College East Robotics Competition<br><br>Obstacle Avoidance Challenge<br>Creative Challenge</td>
-    <td> <br><br><br>4th Placing<br>4th Placing</td>
+    <td> <b>2018</b><br>ITE College East Robotics Competition<br>Obstacle Avoidance Challenge<br>Creative Challenge</td>
+    <td> <br><br>4th Placing<br>4th Placing</td>
   </tr>
   <tr>
-    <td><b>2017</b> <br><br>ITE College East Robotics Competition</td>
-    <td><br><br>4th placing</td>
+    <td><b>2017</b> <br>ITE College East Robotics Competition</td>
+    <td><br>4th placing</td>
   </tr>
   <tr>
-    <td><b>2016</b><br><br>ITE College East Robotics Competition</td>
-    <td><br><br>4th placing</td>
+    <td><b>2016</b><br>ITE College East Robotics Competition</td>
+    <td><br>4th placing</td>
   </tr>
   <tr>
-    <td><b>2015</b><br><br>Bull's Eye Robotic Challenge<br><br></td>
-    <td><br><br>3rd placing</td>
+    <td><b>2015</b><br>Bull's Eye Robotic Challenge<br><br></td>
+    <td><br>3rd placing</td>
   </tr>
 </tbody>
 </table>
