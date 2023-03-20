@@ -57,6 +57,10 @@ third_nav_title: Co Curricular Achievements
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td> <b>2022</b><br> National Robotics Competition</td>
+    <td> <br>Best Content - Finalist<br>CoderZ Challenge - Participantion<br>Robot Run - Participation</td>
+  </tr>
   <tr>
     <td> <b>2021</b><br></td>
     <td> Competition Suspended</td>
