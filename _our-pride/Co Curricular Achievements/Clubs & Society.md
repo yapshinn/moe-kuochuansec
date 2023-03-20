@@ -58,7 +58,7 @@ third_nav_title: Co Curricular Achievements
 </thead>
 <tbody>
   <tr>
-    <td> <b>2021</b><br><br></td>
+    <td> <b>2021</b><br></td>
     <td> Competition Suspended</td>
   </tr>
   <tr>
