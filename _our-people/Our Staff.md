@@ -31,7 +31,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Justin
+<td height="19" class="">Mr Justin
   TAN
 </td>
   
@@ -45,7 +45,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Ms. Lee Chui
+<td height="19" class="">Ms Lee Chui
   Eng (Mrs.Chee)
 </td>
   
@@ -59,7 +59,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Ms. Jamie
+<td height="19" class="">Ms Jamie
   Amanda YEE
 </td>
   
@@ -95,7 +95,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Chelliah
+<td height="19" class="">Mr Chelliah
   Trevor Devendran&nbsp;
 </td>
   
@@ -109,7 +109,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Yeo
+<td height="19" class="">Mr Yeo
   Chong Keat, Rene
 </td>
   
@@ -123,7 +123,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Chua Chee
+<td height="19" class="">Mr Chua Chee
   Yong&nbsp;
 </td>
   
@@ -137,7 +137,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mrs. Dorothy
+<td height="19" class="">Mrs Dorothy
   Goh
 </td>
   
@@ -151,7 +151,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm.
+<td height="19" class="">Mdm
   Genevieve Tan Hui Hong&nbsp;
 </td>
   
@@ -165,7 +165,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Goh Boon
+<td height="19" class="">Mr Goh Boon
   Loon Patrick
 </td>
   
@@ -179,7 +179,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Khoo Kian
+<td height="19" class="">Mr Khoo Kian
   Seong Kenneth&nbsp;
 </td>
   
@@ -193,7 +193,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Tan Say
+<td height="19" class="">Mr Tan Say
   Pin
 </td>
   
@@ -207,7 +207,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Samboo
+<td height="19" class="">Mdm Samboo
   Elaine Natalie&nbsp;
 </td>
   
@@ -221,7 +221,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Cheung Ho
+<td height="19" class="">Mr Cheung Ho
   Wai
 </td>
   
@@ -235,7 +235,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Ms. Yeo Li li
+<td height="19" class="">Ms Yeo Li li
   Clara
 </td>
   
@@ -270,7 +270,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Ravathi
+<td height="19" class="">Mdm Ravathi
   Velayuthan&nbsp;
 </td>
   
@@ -285,7 +285,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Yu
+<td height="19" class="">Mdm Yu
   Xiaoqin&nbsp;
 </td>
   
@@ -300,7 +300,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Lim Shu
+<td height="19" class="">Mdm Lim Shu
   Yen&nbsp;
 </td>
   
@@ -315,7 +315,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mrs. Tang Lai
+<td height="19" class="">Mrs Tang Lai
   Chan&nbsp;
 </td>
   
@@ -330,7 +330,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Png Siew
+<td height="19" class="">Mdm Png Siew
   Hoon&nbsp;
 </td>
   
@@ -345,7 +345,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Yap
+<td height="19" class="">Mr Yap
   Shinn&nbsp;
 </td>
   
@@ -359,7 +359,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Abby
+<td height="19" class="">Mdm Abby
   Choo Choy Joo&nbsp;
 </td>
   
@@ -373,7 +373,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Ho
+<td height="19" class="">Miss Ho
   Shiao Hwee
 </td>
   
@@ -387,7 +387,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Ng Soon
+<td height="19" class="">Mr Ng Soon
   Chye&nbsp;
 </td>
   
@@ -401,7 +401,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Koh Li
+<td height="19" class="">Miss Koh Li
   Eng
 </td>
   
@@ -415,7 +415,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Chua
+<td height="19" class="">Miss Chua
   Jazlyn
 </td>
   
@@ -429,7 +429,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Lim
+<td height="19" class="">Miss Lim
   Wenting Janell
 </td>
   
@@ -463,7 +463,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Amelia
+<td height="19" class="">Miss Amelia
   Yeo Jiaxin&nbsp;
 </td>
   
@@ -477,7 +477,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Foo Seng
+<td height="19" class="">Mr Foo Seng
   Hong&nbsp;
 </td>
   
@@ -491,7 +491,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Chung Wei
+<td height="19" class="">Mr Chung Wei
   Peng Joseph&nbsp;
 </td>
   
@@ -505,7 +505,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Ms. Tan Hui
+<td height="19" class="">Ms Tan Hui
   Si
 </td>
   
@@ -519,21 +519,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Lee Lip
-  Chyun Vincent&nbsp;
-</td>
-  
-<td class="">Teacher - 1 HOPE
-</td>
-  
-<td class="">lee_lip_chyun_vincent@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-  
-<td height="19" class="">Mdm. Doreen
+<td height="19" class="">Mdm Doreen
   Tang Kah Yin&nbsp;
 </td>
   
@@ -547,7 +533,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Koh Li
+<td height="19" class="">Miss Koh Li
   Eng
 </td>
   
@@ -561,7 +547,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Lee
+<td height="19" class="">Miss Lee
   Rachel&nbsp;
 </td>
   
@@ -575,7 +561,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Siti
+<td height="19" class="">Mdm Siti
   Shahirah Haider Bagesher&nbsp;
 </td>
   
@@ -589,7 +575,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Kang
+<td height="19" class="">Miss Kang
   Joo Geok&nbsp;
 </td>
   
@@ -603,7 +589,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Tan Siaw
+<td height="19" class="">Mr Tan Siaw
   Chong&nbsp;
 </td>
   
@@ -617,7 +603,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Goh Xin
+<td height="19" class="">Miss Goh Xin
   Fang
 </td>
   
@@ -631,7 +617,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mrs. Lee Hwee
+<td height="19" class="">Mrs Lee Hwee
   Ling Grace&nbsp;
 </td>
   
@@ -645,7 +631,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Samuel
+<td height="19" class="">Mr Samuel
   Chan Yew Fai
 </td>
   
@@ -659,7 +645,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mdm. Kavitha
+<td height="19" class="">Mdm Kavitha
   Ramachandran&nbsp;
 </td>
   
@@ -673,7 +659,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mrs. Tang Lai
+<td height="19" class="">Mrs Tang Lai
   Chan&nbsp;
 </td>
   
@@ -687,7 +673,7 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Miss. Nam Tin
+<td height="19" class="">Miss Nam Tin
   Yuen&nbsp;
 </td>
   
