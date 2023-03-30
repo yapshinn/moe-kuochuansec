@@ -1321,7 +1321,19 @@ description: ""
 </td>
  
 </tr>
+ <tr height="19" class="">
+  
+<td height="19" class="">Mdm.
+  Arunajeet Kaur
+</td>
+  
+<td class="">Humanities
+</td>
+  
+<td class="">arunajeet_kaur@schools.gov.sg
+</td>
  
+</tr>
 <tr height="19" class="">
   
 <td height="19" class="">Mdm. Sunu
@@ -1332,20 +1344,6 @@ description: ""
 </td>
   
 <td class="">Sunu_Sivadasan@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-  
-<td height="19" class="">Mdm.
-  Arunajeet Kaur
-</td>
-  
-<td class="">Humanities
-</td>
-  
-<td class="">arunajeet_kaur@schools.gov.sg
 </td>
  
 </tr>
