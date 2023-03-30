@@ -99,4 +99,4 @@ description: ""
 <div id="cn11"><br>
 </div>  
 </div>
-![](/images/KCPS_SMC_2023.png)
+![](/images/KCPS_SMC_2023v2.png)
