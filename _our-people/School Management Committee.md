@@ -97,6 +97,6 @@ description: ""
         
 </div>
 <div id="cn11"><br>
+</div>  
 </div>
-    
-</div>
+![](/images/Open%20House.jpg)
