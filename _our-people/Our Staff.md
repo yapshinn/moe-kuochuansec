@@ -127,7 +127,7 @@ description: ""
   Yong&nbsp;
 </td>
   
-<td class="">HOD - SSD
+<td class="">School Staff Developer
 </td>
   
 <td class="">chua_chee_yong@schools.gov.sg
@@ -141,7 +141,7 @@ description: ""
   Goh
 </td>
   
-<td class="">HOD - Yr Hd Lower Sec
+<td class="">Year Head Lower Sec
 </td>
   
 <td class="">dorothy_tay_wyn_hui@schools.gov.sg
@@ -169,7 +169,7 @@ description: ""
   Loon Patrick
 </td>
   
-<td class="">HOD - Yr Hd Upp Sec
+<td class="">Year Head Upp Sec
 </td>
   
 <td class="">goh_boon_loon@schools.gov.sg
@@ -319,7 +319,7 @@ description: ""
   Chan&nbsp;
 </td>
   
-<td class="">Senior Teacher - Math
+<td class="">Senior Teacher - POA
   / 2 FAITH
 </td>
   
@@ -363,7 +363,7 @@ description: ""
   Choo Choy Joo&nbsp;
 </td>
   
-<td class="">SH - VIA / 3 HOPE
+<td class="">SH - CCE / 3 HOPE
 </td>
   
 <td class="">choo_choy_joo@schools.gov.sg
@@ -377,7 +377,7 @@ description: ""
   Shiao Hwee
 </td>
   
-<td class="">SH SW / 2 PRAISE
+<td class="">SH Std Well-Being / 2 PRAISE
 </td>
   
 <td class="">Ho_Shiao_Hwee@schools.gov.sg
