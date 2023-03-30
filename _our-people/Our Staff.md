@@ -109,8 +109,8 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr. Chong
-  Keat Rene Yeo&nbsp;
+<td height="19" class="">Mr. Yeo
+  Chong Keat, Rene
 </td>
   
 <td class="">HOD - Science
