@@ -377,7 +377,7 @@ description: ""
   Shiao Hwee
 </td>
   
-<td class="">SH Std Well-Being / 2 PRAISE
+<td class="">SH - Std Well-Being / 2 PRAISE
 </td>
   
 <td class="">Ho_Shiao_Hwee@schools.gov.sg
