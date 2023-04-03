@@ -225,7 +225,7 @@ description: ""
   Wai
 </td>
   
-<td class="">HOD - Student Mgt
+<td class="">HOD - Student Management
 </td>
   
 <td class="">cheung_ho_wai@schools.gov.sg
@@ -377,7 +377,7 @@ description: ""
   Shiao Hwee
 </td>
   
-<td class="">SH - Std Well-Being / 2 PRAISE
+<td class="">SH - Student Well-Being / 2 PRAISE
 </td>
   
 <td class="">Ho_Shiao_Hwee@schools.gov.sg
@@ -391,7 +391,7 @@ description: ""
   Chye&nbsp;
 </td>
   
-<td class="">SH - Student Mgt&nbsp;
+<td class="">SH - Student Management&nbsp;
 </td>
   
 <td class="">ng_soon_chye@schools.gov.sg
