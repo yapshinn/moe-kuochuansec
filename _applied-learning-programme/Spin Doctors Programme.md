@@ -12,8 +12,8 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%201.jpg" width="428" height="285"></th>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%202.jpg" width="431" height="286"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc1.jpg" width="428" height="285"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc2.jpg" width="431" height="285"></th>
   </tr>
 </thead>
 <tbody>
@@ -27,8 +27,8 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%203.jpg" width="119" height="288"></th>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%204.jpg" width="119" height="287"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc3.jpg" width="119" height="288"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc4.jpg" width="119" height="288"></th>
   </tr>
 </thead>
 <tbody>
