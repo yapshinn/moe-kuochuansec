@@ -42,7 +42,7 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th>Creative Arts Programme:<br><br><br><iframe width="352" height="240" src="https://www.youtube.com/embed/WCcREylS7-A" title="Spin Doctor - The Creative Art Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></th>		
+    <th>Creative Arts Programme:<br>Read our talented writers' creative tales!<br><br><iframe width="352" height="240" src="https://www.youtube.com/embed/WCcREylS7-A" title="Spin Doctor - The Creative Art Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></th>		
     <th><br><br><br><a href="https://go.gov.sg/johnpaulpaje">JOHN PAUL PAJE</a><br><br><a href="https://go.gov.sg/karynleepeien">KARYN LEE</a><br><br><a href="https://go.gov.sg/lucasching">LUCAS CHING</a><br><br><a href="https://go.gov.sg/shannontan">SHANNON TAN</a></th>
   </tr>
 </thead>
