@@ -12,8 +12,8 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%201.jpg" width="428" height="285"></th>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%202.jpg" width="431" height="286"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc1.jpg" width="428" height="285"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc2.jpg" width="431" height="285"></th>
   </tr>
 </thead>
 <tbody>
@@ -27,8 +27,8 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%203.jpg" width="119" height="288"></th>
-    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/Spin%20Doctors%20Prog%204.jpg" width="119" height="287"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc3.jpg" width="119" height="288"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/spindoc4.jpg" width="119" height="288"></th>
   </tr>
 </thead>
 <tbody>
@@ -42,8 +42,8 @@ The Spin Doctors programme focuses on equipping students to be more media litera
 <table>
 <thead>
   <tr>
-    <th>Creative Arts Programme:<br><br><br><iframe width="352" height="240" src="https://www.youtube.com/embed/WCcREylS7-A" title="Spin Doctor - The Creative Art Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><img src="https://kuochuanpresbyteriansec.moe.edu.sg/pix/spacer.gif"></th>		
-    <th><a href="https://go.gov.sg/johnpaulpaje">JOHN PAUL PAJE</a><br><br><a href="https://go.gov.sg/karynleepeien">KARYN LEE</a><br><br><a href="https://go.gov.sg/lucasching">LUCAS CHING</a><br><br><a href="https://go.gov.sg/shannontan">SHANNON TAN</a></th>
+    <th>Creative Arts Programme:<br>Read our talented writers' creative tales!<br><br><iframe width="352" height="240" src="https://www.youtube.com/embed/WCcREylS7-A" title="Spin Doctor - The Creative Art Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></th>		
+    <th><br><br><br><a href="https://go.gov.sg/johnpaulpaje">JOHN PAUL PAJE</a><br><br><a href="https://go.gov.sg/karynleepeien">KARYN LEE</a><br><br><a href="https://go.gov.sg/lucasching">LUCAS CHING</a><br><br><a href="https://go.gov.sg/shannontan">SHANNON TAN</a></th>
   </tr>
 </thead>
 <tbody>

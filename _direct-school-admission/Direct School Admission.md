@@ -5,11 +5,11 @@ description: ""
 ---
 ## Direct School Admission
 
-<p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for 2022 admissions. All talent areas are open to both male and female applicants.</p>
+<p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for admissions. All talent areas are open to both male and female applicants.</p>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 
 <table>
 <thead>
@@ -59,7 +59,7 @@ description: ""
 <p style="text-align: justify;font-size:16px;">
 Shortlisted applicants may be asked to attend in-person auditions and interviews on the various talent areas to help us get to know you better.</p>
 
-<p style="text-align: justify;font-size:16px;">Kindly send any inquiries concerning DSA to  <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a></p><br>
+<p style="text-align: justify;font-size:16px;">Kindly send any inquiries concerning DSA to &nbsp;<a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a></p><br>
 
 <p style="text-align: justify;font-size:16px;">You may also visit MOE’s DSA portal for more information concerning DSA:<a href="https://www.moe.gov.sg/secondary/dsa">https://www.moe.gov.sg/secondary/dsa</a>
 	</p>

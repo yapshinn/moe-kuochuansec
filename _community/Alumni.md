@@ -8,7 +8,7 @@ description: ""
 
 ### President's Message
 
-
+<div align="justify">
 <p style="text-align: justify;font-size:16px;">
 Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School were formed with a&nbsp;<b>Mission</b>&nbsp;to provide former students with opportunities to interact and network, and the schools with support to be&nbsp;<b>aflame for truth</b>&nbsp;in the education of their students. </p> 
   
@@ -19,7 +19,7 @@ Although newly organised as a primary and a secondary school, they were the succ
 Whereas the two sister schools founded by the Presbyterian mission were separated by sex, now they are separated according to the level - primary or secondary.</p>  
   
 <p style="text-align: justify;font-size:16px;">
-In the past there were the Presbyterian Old Boys' Association and the Kuo Chuan Old Girls' Association; the logical conclusion now was to have one Association catering to the old students of both schools.</p>
+In the past there were the Presbyterian Old Boys' Association and the Kuo Chuan Old Girls' Association; the logical conclusion now was to have one Association catering to the old students of both schools.</p></div>
 
 ### About Us
 

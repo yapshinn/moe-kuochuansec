@@ -3,23 +3,23 @@ title: Applied Learning Programme in Media Literacy
 permalink: /the-kuo-chuan-experience/applied-learning-programme-in-media-literacy/
 description: ""
 ---
-## Applied Learning Programme in Media Literacy
+## Applied Learning Programme&nbsp;in Media Literacy
 
 
 ### Media Literacy@KCPSS
 
 
 <p style="text-align: justify;font-size:16px;">
-Today’s students operate in a media-saturated environment. Time spent consuming media, is constantly on the rise. It is thus necessary that students are equipped with the critical thinking and analysis skills that they require to successfully analyse and understand different media messages and formats.</p>
+Today’s students operate in a media-saturated environment. Time spent consuming&nbsp;media,&nbsp;is constantly on the rise. It is thus necessary that students are equipped with the critical thinking and analysis skills that they require to successfully analyse and understand different media messages and formats.</p>
 
 <p style="text-align: justify;font-size:16px;">
-The media literacy programme at KCPSS is designed to develop in KCPians a nuanced thinking about media messages, as well as the messages creators and their goals and values. The programme aims to equip KCPians to be</p> **responsible consumers** and **producers** of media as well as **effective participants** in the **media world**.
+The media literacy programme at KCPSS is designed to develop in KCPians a nuanced thinking about media messages, as well as the messages creators and their goals and values. The programme aims to equip KCPians to be</p>&nbsp;<b>responsible consumers</b>&nbsp;and&nbsp;<b>producers</b>&nbsp;of media as well as&nbsp;<b>effective participants</b>&nbsp;in the&nbsp;<b>media world</b>.
 
 <p style="text-align: justify;font-size:16px;">
-Through our programmes, our school’s aim is to develop skills for KCPians to be competent, <b>critical and literate</b> in all media forms so that they are equipped to:</p>
+Through our programmes, our school’s aim is to develop skills for KCPians to be competent,&nbsp;<b>critical and literate</b>&nbsp;in all media forms so that they are equipped to:</p>
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20in%20Media%20Literacy.jpg" style="width:50%;margin-right:15px;" align = "left">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gG8ik1taOLA" height="315" width="560"></iframe>
 
 • Control the interpretation of what they see, hear or interact with.
 
