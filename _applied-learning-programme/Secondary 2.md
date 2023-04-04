@@ -21,16 +21,16 @@ The 2NA students were involved in producing broadcast videos based on the school
  <table>
 <thead>
   <tr>
-    <th><img height="156" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%201.jpg"></th>
-    <th><img height="158" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%202.jpg"></th>
-    <th><img height="160" width="293" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%203.jpg"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%201.jpg" width="295" height="156"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%202.jpg" width="295" height="158"></th>
+    <th><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%203.jpg" width="293" height="160"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img  src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%204.png"></td>
-    <td><img height="197" width="295" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%205.png"></td>
-    <td><img height="197" width="292" src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%206.png"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%204.png"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%205.png" width="295" height="197"></td>
+    <td><img src="/images/The%20Kuo%20Chuan%20Experience/ALP%20In%20Media%20Literacy/ALP%20Secondary%202%206.png" width="292" height="197"></td>
   </tr>
 </tbody>
 </table>
@@ -38,4 +38,7 @@ The 2NA students were involved in producing broadcast videos based on the school
 
 **Secondary 2 PEACE - Newsletter for Mental Wellness**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGx6KhSwzedw0A71xF93302QuZOkyGTSzJBQ7ZY5Byxs7rGWgxQbBoMXpC-L-bstnvbb-HDHV1fEP6/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGx6KhSwzedw0A71xF93302QuZOkyGTSzJBQ7ZY5Byxs7rGWgxQbBoMXpC-L-bstnvbb-HDHV1fEP6/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+**Secondary 2 GRACE &amp; JOY - Book of POETRY**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6rRfVXWD9i-LO6Jfx7SfIuI2jcl9wV6QSkUKLnRVnS9SsoxW-h6URvGRnFQjKxwk7iodau5Y2FXOd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="787" height="1143" allowfullscreen="true"></iframe>
