@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Sports/.keep
       - Direct School Admission.md
       - Language & Humanities/.keep
       - Language & Humanities/Language & Humanities.md
