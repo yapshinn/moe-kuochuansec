@@ -49,7 +49,7 @@ We are looking for applicants with:
   </tr>
   <tr>
     <td>Attainment</td>
-    <td>Records of certification in music. Applicants should preferably have one or more of the following:<br> <br>●       Prior SYF participation in Choir<br>●       Attained Music Theory of at least Grade 3</td>
+    <td>Applicants should preferably have:<br> <br>●       Experience in playing table tennis at School CCA level or externally<br>●      Record of competitions in the NSG or in Table Tennis clubs<br>●      Awards /Achievement (e.g. Eagles Awards, Sportsmanship Awards)</td>
   </tr>
   <tr>
     <td>Motivation and Interest</td>
