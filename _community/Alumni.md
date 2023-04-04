@@ -33,7 +33,7 @@ In the past there were the Presbyterian Old Boys' Association and the Kuo Chuan 
 
 ### Join Us
 **How to Join the KCPSA**
-<div align="justify">
+
 <p style="text-align: justify;font-size:16px;">If you are an old student of one of the Kuo Chuan Presbyterian Schools or its predecessor, you are most welcome to join the Kuo Chuan Presbyterian Schools Alumni.</p>
 
 Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZXA45-iiQl4sV08i8W2_NtzHOYr_AHNDsI5McXw/viewform)**&nbsp;for the membership application form. Close the window after submit the form to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com">kcpsalumni@gmail.com .</a>  
@@ -41,7 +41,6 @@ Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZX
 ### Calendar of Events
 
 
-<p style="text-align: justify;font-size:16px;">The KCPS Alumni organised the Alumni dinner after a break of 3 years.&nbsp; From the strong presence and support from the various cohorts, it is evident that everyone had a blast of a time!&nbsp; The dinner was held at the Rolands Restaurant on Friday, 18 November 2022. Here are some of the snippets of the event.</p></div>
+<p style="text-align: justify;font-size:16px;">The KCPS Alumni organised the Alumni dinner after a break of 3 years.&nbsp; From the strong presence and support from the various cohorts, it is evident that everyone had a blast of a time!&nbsp; The dinner was held at the Rolands Restaurant on Friday, 18 November 2022. Here are some of the snippets of the event.</p>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTejTVf97BKSA4hkBmxD2DOBuHuokOvVHWawjaLXmg5g9ZLyhB3IfUjgRCUfLuveKnXNdbAApVKd2KP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-	
