@@ -2,8 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - Sports/Table Tennis.md
-      - Sports/.keep
       - Direct School Admission.md
       - Language & Humanities/.keep
       - Language & Humanities/Language & Humanities.md
@@ -23,4 +21,6 @@ collections:
       - Visual Arts, Design & Media/Visual Arts, Design & Media.md
       - Visual Arts, Design & Media/Introduction & Background.md
       - Visual Arts, Design & Media/What are we looking for?.md
+      - Sports/.keep
+      - Sports/Table Tennis.md
       - DSA Briefing Materials.md
