@@ -19,20 +19,21 @@ The choir training programme focuses on voice projection, breathing techniques, 
 
 Join us now if you think you have what it takes to be part of a dynamic team!
 
-For more information on the programme, please visit&nbsp;[https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/](https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/)
+For more information on the programme, please visit&nbsp;
+[https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/choir/)
 
 ### What are we looking for?
 
 
 We are looking for applicants with:
 
-●       A strong interest in choral singing
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A strong interest in choral singing
 
-●       Ability to pitch
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to pitch
 
-●      Foundation in rudiments of Music Theory  
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foundation in rudiments of Music Theory&nbsp;&nbsp;
 
-●       Good sense of musical rhythm
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good sense of musical rhythm
 
 <table>
 <thead>
