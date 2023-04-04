@@ -11,6 +11,7 @@ third_nav_title: Sports
 ### Introduction &amp; Background
 
 <div align="justify">
+	
 As members of KCPSS Table Tennis CCA, aspiring students can look forward to a holistic training programme that not only hones their skills and techniques to be highly competent players of the sport, but also develops their leadership potential to be effective Servant Leaders who can inspire a common vision for their peers.
 
 With the strong support and care our CCA members receive from our nurturing teachers and coaches, they will emerge as disciplined and confident Table Tennis players. In addition to that, the leadership qualities they develop with us will serve them well beyond their secondary school years to become resilient individuals and supportive team players. Our training programme has also empowered our Table Tennis teams to achieve positive results at competitions.
@@ -25,13 +26,11 @@ For more information on the programme, please visit&nbsp;
 
 We are looking for applicants with:
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A strong interest in choral singing
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possess keen interest in Table Tennis  
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to pitch
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are competent in playing Table Tennis [Singles and/or Doubles].
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foundation in rudiments of Music Theory&nbsp;&nbsp;
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good sense of musical rhythm
 
 <table>
 <thead>
@@ -46,7 +45,7 @@ We are looking for applicants with:
   </tr>
   <tr>
     <td>Aptitude</td>
-    <td>Any portfolios or audio/video recordings to highlight aptitude in talent area<br> <br>For example:<br>●       Singing performances</td>
+    <td>Any achievement in talent area<br> <br>For example:<br>●       NSG Table Tennis Championships [Primary]<br>●       Table Tennis competitions [at national or international level]</td>
   </tr>
   <tr>
     <td>Attainment</td>
