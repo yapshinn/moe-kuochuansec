@@ -1,11 +1,11 @@
 ---
-title: Introduction & Background
+title: Introduction &amp; Background
 permalink: /admission/direct-school-admission/visual-arts-design-n-media/introduction-n-background/
 description: ""
-third_nav_title: Visual Arts, Design & Media
+third_nav_title: Visual Arts, Design &amp; Media
 ---
-## Introduction & Background
-
+## Introduction &amp; Background
+<div align="justify">
 The KCPSS Visual Art Programme is supported by the efforts of two of our exciting CCAs: Infocomm Technology and Photography.
 
 Choosing to pursue a DSA programme in Visual Art with us will give students access to professional trainers who will help them develop their skills in media and film production, as well as a wide array of photography areas.
@@ -14,15 +14,15 @@ Choosing to pursue a DSA programme in Visual Art with us will give students acce
 
 At the end of the 4-5 years in our M.E.D.I.A Programme, your students will be able to
 
-●       **M**aster core skills through an engaging and structured curriculum of media production
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M**aster core skills through an engaging and structured curriculum of media production
 
-●       **E**quip themselves with knowledge in the use of visual media so that they can creatively communicate ideas through film
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E**quip themselves with knowledge in the use of visual media so that they can creatively communicate ideas through film
 
-●       **D**evelop relevant story ideas that can serve a real-life purpose
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D**evelop relevant story ideas that can serve a real-life purpose
 
-●       **I**llustrate story ideas through storyboarding.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I**llustrate story ideas through storyboarding.
 
-●       **A**pply skills learnt to create media that support the school and the community
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A**pply skills learnt to create media that support the school and the community
 
 In addition, students will be able to pick up other soft skills such as teamwork and time management, and be given platforms like major school events and school social media to showcase their work.
 
@@ -36,6 +36,8 @@ Through this programme, students will be part of a vibrant CCA culture which pla
 
 Do apply now to develop your skills in Visual Art and be part of our exciting KCPSS experience!
 
-For more information on the programme, please visit [https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/](https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/)
+For more information on the programme, please visit&nbsp;
+[https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/]
 
-[https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/](https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/)
+[https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/)
+</div>
