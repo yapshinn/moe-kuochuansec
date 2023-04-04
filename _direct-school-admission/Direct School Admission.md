@@ -5,7 +5,7 @@ description: ""
 ---
 ## Direct School Admission
 
-<p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for 2023 admissions. All talent areas are open to both male and female applicants.</p>
+<p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for admissions. All talent areas are open to both male and female applicants.</p>
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 
