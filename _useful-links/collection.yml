@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Termly Updates/Reference materials.md
       - Termly Updates/Key timetables.md
       - Termly Updates/School Termly Letters.md
       - Termly Updates/.keep
