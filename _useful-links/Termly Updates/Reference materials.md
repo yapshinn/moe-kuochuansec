@@ -4,3 +4,4 @@ permalink: /useful-links/termly-updates/permalink/
 description: ""
 third_nav_title: Termly Updates
 ---
+[Student Handbook 2023](/files/Useful%20Links/Termly%20Updates/kcpss%20student%20handbook%202023%20(28%20mar).pdf)
