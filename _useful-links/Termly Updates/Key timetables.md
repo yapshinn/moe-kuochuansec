@@ -1,6 +1,6 @@
 ---
 title: Key timetables
-permalink: /useful-links/termly-updates/permalink/
+permalink: /useful-links/termly-updates/key-timetables/
 description: ""
 third_nav_title: Termly Updates
 ---

@@ -1,6 +1,6 @@
 ---
 title: Letter to Parent
-permalink: /useful-links/termly-updates/permalink/
+permalink: /useful-links/termly-updates/letter-to-parent/
 description: ""
 third_nav_title: Termly Updates
 ---

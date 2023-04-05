@@ -1,6 +1,6 @@
 ---
 title: Reference materials
-permalink: /useful-links/termly-updates/permalink/
+permalink: /useful-links/termly-updates/reference-materials/
 description: ""
 third_nav_title: Termly Updates
 ---
