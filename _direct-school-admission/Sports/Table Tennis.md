@@ -22,7 +22,7 @@ Students can expect a positive and encouraging learning environment, with plenty
 For more information on the programme, please visit&nbsp;
 [https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/)
 
-<div align="justify">
+
 ### What are we looking for?
 
 
@@ -61,4 +61,3 @@ We are looking for applicants with:
 </table>
 
 Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.
-	</div>
