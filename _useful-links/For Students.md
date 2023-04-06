@@ -11,6 +11,8 @@ description: ""
 [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
 [School Rules &amp; Regulations](/admission/school-rules-n-regulations/)<br>
 [School Uniform](/admission/our-school-uniform/)<br>
+
+### Reference 
 [Student Handbook](/files/kcpss%20student%20handbook%202023%20(28%20mar).pdf)
 
 #### Application Forms
