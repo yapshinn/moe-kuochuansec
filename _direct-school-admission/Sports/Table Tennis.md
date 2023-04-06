@@ -10,14 +10,14 @@ third_nav_title: Sports
 
 ### Introduction &amp; Background
 
-<div align="justify">
+
 	
 As members of KCPSS Table Tennis CCA, aspiring students can look forward to a holistic training programme that not only hones their skills and techniques to be highly competent players of the sport, but also develops their leadership potential to be effective Servant Leaders who can inspire a common vision for their peers.
 
 With the strong support and care our CCA members receive from our nurturing teachers and coaches, they will emerge as disciplined and confident Table Tennis players. In addition to that, the leadership qualities they develop with us will serve them well beyond their secondary school years to become resilient individuals and supportive team players. Our training programme has also empowered our Table Tennis teams to achieve positive results at competitions.
 
 Students can expect a positive and encouraging learning environment, with plenty of opportunities to spar with players of various competencies and expertise. They will also receive ample exposure to competitive experiences through friendly matches with other schools, on top of our annual NSG competitions. Students who are keen to pursue Table Tennis professionally will also be given further opportunities to develop their talent.   
-</div>
+
 
 For more information on the programme, please visit&nbsp;
 [https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/)
