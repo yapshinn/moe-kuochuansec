@@ -23,7 +23,7 @@ With regards<br>
 Imm Ki and Abby Choo
 </div>
 
-### Termly Letter
+### Termly Letters
 [Letter to Parent - Term 2](/files/Useful%20Links/Termly%20Updates/2023%20kcpss%20term%202%20letter.pdf)
 
-### Weighted Assessment Schedule
+### Weighted Assessment Schedules
