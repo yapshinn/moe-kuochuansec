@@ -6,8 +6,7 @@ third_nav_title: For Parents
 ---
 ### Parents
 
-<div align="justify">
-Dear Parents / Guardians,
+<div align="justify">Dear Parents / Guardians,<br>
 
 Our&nbsp;[Parenting Support Provider (PSP),&nbsp;TOUCH Community Services](/files/Useful%20Links/Parents/TOUCH%20Parenting%20Update%20(April%202020).pdf), has created a document comprising information and links to parenting and family related resources that may be helpful for our reading and reference especially for this Circuit Breaker period.
 
