@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - For Teachers.md
-      - For Students.md
       - For Parents/.keep
       - For Parents/Parents.md
       - For Parents/PDLP.md
       - For Parents/Weblinks.md
+      - For Students.md
       - Termly Updates/.keep
       - Termly Updates/Letter to Parent.md
       - Termly Updates/Key timetables.md
