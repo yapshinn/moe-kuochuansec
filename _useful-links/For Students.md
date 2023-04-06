@@ -15,3 +15,5 @@ description: ""
 
 #### Application Forms
 [Leave of Absent (LOA)](https://go.gov.sg/kcpss-loa-form)
+
+### Weighted Assessment Schedules
