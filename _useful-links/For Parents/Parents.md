@@ -25,4 +25,4 @@ Imm Ki and Abby Choo
 
 ### Termly Letter
 
-### Key Weighted Assessment Schedule
+### Weighted Assessment Schedule
