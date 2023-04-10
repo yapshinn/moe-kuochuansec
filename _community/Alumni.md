@@ -36,7 +36,7 @@ In the past there were the Presbyterian Old Boys' Association and the Kuo Chuan 
 
 <p style="text-align: justify;font-size:16px;">If you are an old student of one of the Kuo Chuan Presbyterian Schools or its predecessor, you are most welcome to join the Kuo Chuan Presbyterian Schools Alumni.</p>
 
-Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZXA45-iiQl4sV08i8W2_NtzHOYr_AHNDsI5McXw/viewform)**&nbsp;for the membership application form. Close the window after submit the form to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com">kcpsalumni@gmail.com .</a>  
+Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZXA45-iiQl4sV08i8W2_NtzHOYr_AHNDsI5McXw/viewform)**&nbsp;for the membership application form. Close the window after submit the form to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com">kcpsalumni@gmail.com .</a>
 
 ### Calendar of Events
 
