@@ -10,7 +10,7 @@ description: ""
 
 <div align="justify">
 <p style="text-align: justify;font-size:16px;">
-Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School were formed with a&nbsp;<b>Mission</b>&nbsp;to provide former students with opportunities to interact and network, and the schools with support to be&nbsp;<b>aflame for truth</b>&nbsp;in the education of their students. </p> 
+Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School were formed with a&nbsp;<b>Mission</b>&nbsp;to provide former students with opportunities to interact and network, and the schools with support to be&nbsp;<b>Aflame For Truth</b>&nbsp;in the education of their students. </p> 
   
 <p style="text-align: justify;font-size:16px;">
 Although newly organised as a primary and a secondary school, they were the successors to two much older schools - the Presbyterian Boys' School and the Kuo Chuan Girls's School. The Presbyterian Boys's School was in turn the successor to Dryburgh English School and Choon Guan English School.  </p>
