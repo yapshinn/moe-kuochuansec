@@ -6,7 +6,7 @@ third_nav_title: For Parents
 ---
 ### Parents
 **Digital Student Handbook**<br>
-<p align="justify">The Digital Student Handbook is a key reference for students as they navigate key aspects of our school curriculum, as well as learning routines and expectations. For parents, it is an important reference for guidelines and will help you better support your child. The latest copy of the Digital Student Handbook can always be accessed at https://go.gov.sg/kcpsssdh.
+<p align="justify">The Digital Student Handbook is a key reference for students as they navigate key aspects of our school curriculum, as well as learning routines and expectations. For parents, it is an important reference for guidelines and will help you better support your child. The latest copy of the Digital Student Handbook can always be accessed at [https://go.gov.sg/kcpsssdh](https://go.gov.sg/kcpsssdh)
 </p>
 
 [Parenting Support Provider (PSP), TOUCH Community Services](/files/Useful%20Links/Parents/TOUCH%20Parenting%20Update%20(April%202020).pdf)

@@ -41,4 +41,4 @@ The 2NA students were involved in producing broadcast videos based on the school
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGx6KhSwzedw0A71xF93302QuZOkyGTSzJBQ7ZY5Byxs7rGWgxQbBoMXpC-L-bstnvbb-HDHV1fEP6/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Secondary 2 GRACE &amp; JOY - Book of POETRY**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6rRfVXWD9i-LO6Jfx7SfIuI2jcl9wV6QSkUKLnRVnS9SsoxW-h6URvGRnFQjKxwk7iodau5Y2FXOd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="787" height="1143" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6rRfVXWD9i-LO6Jfx7SfIuI2jcl9wV6QSkUKLnRVnS9SsoxW-h6URvGRnFQjKxwk7iodau5Y2FXOd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="586" allowfullscreen="true"></iframe>

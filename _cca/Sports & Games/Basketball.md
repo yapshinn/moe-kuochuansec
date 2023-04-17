@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/basketball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 ## Basketball
 
@@ -62,7 +62,7 @@ In leadership development, our basketball players are also given leadership oppo
 </tbody>
 </table>
 
-<b><iframe width="737" height="553" src="https://www.youtube.com/embed/gA8GuXShnJE" title="Basketball Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b>
+<br><iframe width="737" height="553" src="https://www.youtube.com/embed/gA8GuXShnJE" title="Basketball Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 
 
 **<u>Programmes</u>**

@@ -10,7 +10,7 @@ description: ""
 
 <div align="justify">
 <p style="text-align: justify;font-size:16px;">
-Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School were formed with a&nbsp;<b>Mission</b>&nbsp;to provide former students with opportunities to interact and network, and the schools with support to be&nbsp;<b>aflame for truth</b>&nbsp;in the education of their students. </p> 
+Kuo Chuan Presbyterian Schools Alumni founded in 1992, after the Kuo Chuan Presbyterian Primary School and Kuo Chuan Presbyterian Secondary School were formed with a&nbsp;<b>Mission</b>&nbsp;to provide former students with opportunities to interact and network, and the schools with support to be&nbsp;<b>Aflame For Truth</b>&nbsp;in the education of their students. </p> 
   
 <p style="text-align: justify;font-size:16px;">
 Although newly organised as a primary and a secondary school, they were the successors to two much older schools - the Presbyterian Boys' School and the Kuo Chuan Girls's School. The Presbyterian Boys's School was in turn the successor to Dryburgh English School and Choon Guan English School.  </p>
@@ -36,7 +36,7 @@ In the past there were the Presbyterian Old Boys' Association and the Kuo Chuan 
 
 <p style="text-align: justify;font-size:16px;">If you are an old student of one of the Kuo Chuan Presbyterian Schools or its predecessor, you are most welcome to join the Kuo Chuan Presbyterian Schools Alumni.</p>
 
-Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZXA45-iiQl4sV08i8W2_NtzHOYr_AHNDsI5McXw/viewform)**&nbsp;for the membership application form. Close the window after submit the form to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com">kcpsalumni@gmail.com .</a>  
+Kindly&nbsp;**[click here](https://docs.google.com/forms/d/e/1FAIpQLSdcVESS0CuZXA45-iiQl4sV08i8W2_NtzHOYr_AHNDsI5McXw/viewform)**&nbsp;for the membership application form. Close the window after submit the form to return to this page.Any enquiry please email to <a href="mailto:kcpsalumni@gmail.com">kcpsalumni@gmail.com .</a>
 
 ### Calendar of Events
 
