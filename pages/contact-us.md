@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Kuo Chuan Presbyterian Secondary School
+agency_name: KCPSS
 locations:
   - address:
       - 10 Bishan St.13
