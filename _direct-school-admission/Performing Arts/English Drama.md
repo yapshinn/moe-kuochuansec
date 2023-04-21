@@ -39,7 +39,7 @@ We are looking for applicants who are:
 <tbody>
   <tr>
     <th>Selection Domain</th>
-    <th>Evidences and Records</th>
+    <th>Evidence and Records</th>
   </tr>
   <tr>
     <td>Aptitude</td>

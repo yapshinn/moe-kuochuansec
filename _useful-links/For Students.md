@@ -16,7 +16,7 @@ description: ""
 [Student Handbook](/files/kcpss%20student%20handbook%202023%20(28%20mar).pdf)
 
 #### Application Forms
-[Leave of Absent (LOA)](https://go.gov.sg/kcpss-loa-form)
+[Leave of Absent (LOA)](https://go.gov.sg/kcpssloa)
 
 ### Weighted Assessment Schedules
 [Secondary 1 - WA2](/files/Useful%20Links/Termly%20Updates/s1_wa2_2023_final.pdf)<br>

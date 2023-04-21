@@ -8,11 +8,11 @@ third_nav_title: Language & Humanities
 
 We are looking for applicants with:
 
-●       Fluency in written and spoken expression
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluency in written and spoken expression
 
-●       Passion about speaking and/or writing about any issues or concerns of the heart and globally.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion about speaking and/or writing about any issues or concerns of the heart and globally.
 
-●       Persuasive in communicating ideas through written or spoken modes
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persuasive in communicating ideas through written or spoken modes
 
 <table>
 <thead>
@@ -23,7 +23,7 @@ We are looking for applicants with:
 <tbody>
   <tr>
     <th>Selection Domain</th>
-    <th>Evidences and Records</th>
+    <th>Evidence and Records</th>
   </tr>
   <tr>
     <td>Aptitude</td>
