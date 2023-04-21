@@ -42,7 +42,7 @@ We are looking for applicants with:
   </tr>
   <tr>
     <td><b>Selection Domain</b></td>
-    <td><b>Evidences and Records</b></td>
+    <td><b>Evidence and Records</b></td>
   </tr>
   <tr>
     <td>Aptitude</td>
