@@ -2,7 +2,7 @@
 title: What are we looking for?
 permalink: /admission/direct-school-admission/visual-arts-design-n-media/what-are-we-looking-for/
 description: ""
-third_nav_title: Visual Arts, Design &amp; Media
+third_nav_title: Visual Arts, Design & Media
 ---
 ## What are we looking for?
 We are looking for applicants with:
@@ -23,7 +23,7 @@ We are looking for applicants with:
   </tr>
   <tr>
     <td><b>Selection Domain</b></td>
-    <td><b>Evidences and Records</b></td>
+    <td><b>Evidence and Records</b></td>
   </tr>
   <tr>
     <td>Aptitude</td>
