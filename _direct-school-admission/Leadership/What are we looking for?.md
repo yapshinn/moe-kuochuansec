@@ -8,13 +8,13 @@ third_nav_title: Leadership
 
 **What are we looking for?**
 
- We are looking for applicants with:
+&nbsp;We are looking for applicants with:
 
- ●       Passion for social causes (i.e., environmental, elderly)
+&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for social causes (i.e., environmental, elderly)
 
- ●      Ability to positively influence others
+&nbsp;●&nbsp; &nbsp; &nbsp;&nbsp;Ability to positively influence others
 
- ●       Good role model behaviour grounded on sound moral values
+&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good role model behaviour grounded on sound moral values
  
  <table>
 <thead>
@@ -25,7 +25,7 @@ third_nav_title: Leadership
 <tbody>
   <tr>
     <th>Selection Domain</th>
-    <th>Evidences and Records</th>
+    <th>Evidence and Records</th>
   </tr>
   <tr>
     <td>Aptitude</td>
