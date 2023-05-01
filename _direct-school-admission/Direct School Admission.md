@@ -53,6 +53,10 @@ description: ""
     <td>Visual Arts, Design and Media</td>
     <td>Visual Art - Media Arts / Film / Photography</td>
   </tr>
+	 <tr>
+    <td>Sports</td>
+    <td>Table Tennis</td>
+  </tr>
 </tbody>
 </table>
 
