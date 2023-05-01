@@ -1,11 +1,11 @@
 ---
-title: Introduction &amp; Background
+title: Introduction & Background
 permalink: /admission/direct-school-admission/visual-arts-design-n-media/introduction-n-background/
 description: ""
-third_nav_title: Visual Arts, Design &amp; Media
+third_nav_title: Visual Arts, Design & Media
 ---
 ## Introduction &amp; Background
-<div align="justify">
+
 The KCPSS Visual Art Programme is supported by the efforts of two of our exciting CCAs: Infocomm Technology and Photography.
 
 Choosing to pursue a DSA programme in Visual Art with us will give students access to professional trainers who will help them develop their skills in media and film production, as well as a wide array of photography areas.
@@ -40,4 +40,3 @@ For more information on the programme, please visit&nbsp;
 [https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/infocomm-tech-club/]
 
 [https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/)
-</div>
