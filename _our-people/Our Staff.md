@@ -18,10 +18,10 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class=""><b>Name</b>
+<td height="19" class="">Designation<b></b>
 </td>
   
-<td class=""><b>Designation</b>
+<td class=""><b>Name</b>
 </td>
   
 <td class=""><b>Email</b>
@@ -30,43 +30,34 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Justin
-  TAN
-</td>
-  
 <td class="">Principal
 </td>
-  
+  <td height="19" class="">Mr Justin
+  TAN
+</td>
 <td class="">Justin_TAN@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Lee Chui
-  Eng (Mrs.Chee)
-</td>
-  
 <td class="">Vice - Principal
 </td>
-  
+  <td height="19" class="">Ms Lee Chui
+  Eng (Mrs.Chee)
+</td>
 <td class="">Lee_Chui_Eng@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Jamie
-  Amanda YEE
-</td>
-  
-<td class="">Vice - Principal
+  <td class="">Vice - Principal
   (Admin)
 </td>
-  
+ <td height="19" class="">Ms Jamie
+  Amanda YEE
+</td> 
 <td class="">Jamie_Amanda_YEE@schools.gov.sg
 </td>
  
@@ -80,168 +71,132 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
-</td>
-  
+<tr height="19" class="">  
 <td class=""><b>Designation</b>
 </td>
-  
+ <td height="19" class=""><b>Name</b>
+</td>
 <td class=""><b>Email</b>
 </td>
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr Chelliah
-  Trevor Devendran&nbsp;
-</td>
-  
+<tr height="19" class=""> 
 <td class="">HOD - Humanities
 </td>
-  
+ <td height="19" class="">Mr Chelliah
+  Trevor Devendran&nbsp;
+</td> 
 <td class="">chelliah_trevor_devendran@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Yeo
+  <td class="">HOD - Science
+</td>
+ <td height="19" class="">Mr Yeo
   Chong Keat, Rene
-</td>
-  
-<td class="">HOD - Science
-</td>
-  
+</td> 
 <td class="">yeo_chong_keat_rene@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr Chua Chee
-  Yong&nbsp;
-</td>
-  
+<tr height="19" class="">  
 <td class="">School Staff Developer
 </td>
-  
+<td height="19" class="">Mr Chua Chee
+  Yong&nbsp;
+</td>  
 <td class="">chua_chee_yong@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mrs Dorothy
+  <td class="">Year Head Lower Sec
+</td>
+  <td height="19" class="">Mrs Dorothy
   Goh
 </td>
-  
-<td class="">Year Head Lower Sec
-</td>
-  
 <td class="">dorothy_tay_wyn_hui@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm
-  Genevieve Tan Hui Hong&nbsp;
-</td>
-  
 <td class="">HOD - MT
 </td>
-  
+<td height="19" class="">Mdm
+  Genevieve Tan Hui Hong&nbsp;
+</td>  
 <td class="">genevieve_tan_hui_hong@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr Goh Boon
-  Loon Patrick
-</td>
-  
+<tr height="19" class="">  
 <td class="">Year Head Upp Sec
 </td>
-  
+<td height="19" class="">Mr Goh Boon
+  Loon Patrick
+</td>  
 <td class="">goh_boon_loon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr Khoo Kian
-  Seong Kenneth&nbsp;
-</td>
-  
+<tr height="19" class="">  
 <td class="">HOD - PE &amp; CCA
 </td>
-  
+ <td height="19" class="">Mr Khoo Kian
+  Seong Kenneth&nbsp;
+</td> 
 <td class="">khoo_kian_seong_kenneth@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Tan Say
-  Pin
-</td>
-  
 <td class="">HOD - CCE
 </td>
-  
+<td height="19" class="">Mr Tan Say
+  Pin
+</td>  
 <td class="">tan_say_pin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Samboo
-  Elaine Natalie&nbsp;
-</td>
-  
 <td class="">HOD - EL
 </td>
-  
+ <td height="19" class="">Mdm Samboo
+  Elaine Natalie&nbsp;
+</td> 
 <td class="">samboo_elaine_natalie@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Cheung Ho
-  Wai
-</td>
-  
 <td class="">HOD - Student Management
 </td>
-  
+<td height="19" class="">Mr Cheung Ho
+  Wai
+</td>  
 <td class="">cheung_ho_wai@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Yeo Li li
-  Clara
-</td>
-  
 <td class="">HOD - Maths
 </td>
-  
+ <td height="19" class="">Ms Yeo Li li
+  Clara
+</td>
 <td class="">yeo_li_li_clara@schools.gov.sg
 </td>
  
@@ -256,116 +211,92 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
+ <td class=""><b>Designation</b>
 </td>
-  
-<td class=""><b>Designation</b>
+  <td height="19" class=""><b>Name</b>
 </td>
-  
 <td class=""><b>Email</b>
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Ravathi
-  Velayuthan&nbsp;
-</td>
-  
-<td class="">Lead Teacher - EL / 3
+  <td class="">Lead Teacher - EL / 3
   LOVE
 </td>
-  
+ <td height="19" class="">Mdm Ravathi
+  Velayuthan&nbsp;
+</td> 
 <td class="">ravathi_velayuthan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Yu
-  Xiaoqin&nbsp;
-</td>
-  
 <td class="">Senior Teacher - CL /
   4 JOY
 </td>
-  
+<td height="19" class="">Mdm Yu
+  Xiaoqin&nbsp;
+</td>  
 <td class="">yu_xiaoqin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Lim Shu
-  Yen&nbsp;
-</td>
-  
 <td class="">Senior Teacher - Math
   / 4 GRACE
 </td>
-  
+ <td height="19" class="">Mdm Lim Shu
+  Yen&nbsp;
+</td> 
 <td class="">lim_shu_yen@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mrs Tang Lai
-  Chan&nbsp;
-</td>
-  
 <td class="">Senior Teacher - POA
   / 2 FAITH
 </td>
-  
+<td height="19" class="">Mrs Tang Lai
+  Chan&nbsp;
+</td>  
 <td class="">tham_lai_chan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Png Siew
-  Hoon&nbsp;
-</td>
-  
-<td class="">SH - Design &amp;
+ <td class="">SH - Design &amp;
   Technology / 5 RE
 </td>
-  
+ <td height="19" class="">Mdm Png Siew
+  Hoon&nbsp;
+</td> 
 <td class="">png_siew_hoon@schools.gov.sg
 </td>
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mr Yap
-  Shinn&nbsp;
-</td>
-  
+<tr height="19" class="">  
 <td class="">SH -&nbsp; Ed Tech / 3 PRAISE
 </td>
-  
+ <td height="19" class="">Mr Yap
+  Shinn&nbsp;
+</td> 
 <td class="">yap_shinn@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">SH - CCE / 3 HOPE
+</td>
 <td height="19" class="">Mdm Abby
   Choo Choy Joo&nbsp;
-</td>
-  
-<td class="">SH - CCE / 3 HOPE
-</td>
-  
+</td>  
 <td class="">choo_choy_joo@schools.gov.sg
 </td>
  
