@@ -784,294 +784,231 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 3 PEACE
+</td>
 <td height="19" class="">Mr Sitoh Wei
   Sheng Wilson&nbsp;
-</td>
-  
-<td class="">Teacher - 3 PEACE
-</td>
-  
+</td>  
 <td class="">sitoh_wei_sheng_wilson@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 3 PEACE
+</td>
 <td height="19" class="">Mdm Selena
   Wee&nbsp;
-</td>
-  
-<td class="">Teacher - 3 PEACE
-</td>
-  
+</td>  
 <td class="">Selena_WEE@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Yap
-  Shinn&nbsp;
-</td>
-  
 <td class="">Teacher - 3 PRASIE
 </td>
-  
+ <td height="19" class="">Mr Yap
+  Shinn&nbsp;
+</td> 
 <td class="">yap_shinn@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Quek Imm
-  Ki&nbsp;
-</td>
-  
 <td class="">Teacher - 3 PRAISE
 </td>
-  
+<td height="19" class="">Ms Quek Imm
+  Ki&nbsp;
+</td>   
 <td class="">quek_imm_ki@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Noraliah
-  Abdul Samad&nbsp;
-</td>
-  
 <td class="">Teacher - 4 FAITH
 </td>
-  
+<td height="19" class="">Mdm Noraliah
+  Abdul Samad&nbsp;
+</td>  
 <td class="">noraliah_abdul_samad@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Chee Kian
+ <td class="">Teacher - 4 FAITH
+</td>
+ <td height="19" class="">Mr Chee Kian
   Ng&nbsp;
-</td>
-  
-<td class="">Teacher - 4 FAITH
-</td>
-  
+</td> 
 <td class="">ng_chee_kian@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Lim Shu
-  Yen&nbsp;
-</td>
-  
 <td class="">Teacher - 4 GRACE
 </td>
-  
+<td height="19" class="">Mdm Lim Shu
+  Yen&nbsp;
+</td>  
 <td class="">lim_shu_yen@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Keng Yang
-  Ng&nbsp;
-</td>
-  
 <td class="">Teacher - 4 GRACE
 </td>
-  
+<td height="19" class="">Mr Keng Yang
+  Ng&nbsp;
+</td>  
 <td class="">ng_keng_yang@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 4 HOPE
+</td>
 <td height="19" class="">Miss Chua
   Suet Ting Joyce&nbsp;
-</td>
-  
-<td class="">Teacher - 4 HOPE
-</td>
-  
+</td>  
 <td class="">chua_suet_ting_joyce@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Lau Chee
-  Keen Paul&nbsp;
-</td>
-  
 <td class="">Teacher - 4 HOPE
 </td>
-  
+<td height="19" class="">Mr Lau Chee
+  Keen Paul&nbsp;
+</td>  
 <td class="">lau_chee_keen_paul@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Yu
-  Xiaoqin&nbsp;
-</td>
-  
 <td class="">Teacher - 4 JOY
 </td>
-  
+<td height="19" class="">Mdm Yu
+  Xiaoqin&nbsp;
+</td>  
 <td class="">yu_xiaoqin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Yeo Xiao
-  Si Eunice&nbsp;
-</td>
-  
 <td class="">Teacher - 4 JOY
 </td>
-  
+ <td height="19" class="">Ms Yeo Xiao
+  Si Eunice&nbsp;
+</td>
 <td class="">yeo_xiao_si_eunice@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 4 LOVE
+</td>
 <td height="19" class="">Mr Loo Sze
   Yen&nbsp;
-</td>
-  
-<td class="">Teacher - 4 LOVE
-</td>
-  
+</td>  
 <td class="">loo_sze_yen@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Lim Zi
+  <td class="">Teacher - 4 LOVE
+</td>
+ <td height="19" class="">Mr Lim Zi
   Min&nbsp;
-</td>
-  
-<td class="">Teacher - 4 LOVE
-</td>
-  
+</td> 
 <td class="">Lim_Zi_min@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 4 PEACE
+</td>
 <td height="19" class="">Mr Yew
   Yishen&nbsp;
-</td>
-  
-<td class="">Teacher - 4 PEACE
-</td>
-  
+</td>  
 <td class="">yew_yishen@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 4 PEACE
+</td>
 <td height="19" class="">Mdm Zaleha
   Yusof&nbsp;
-</td>
-  
-<td class="">Teacher - 4 PEACE
-</td>
-  
+</td>  
 <td class="">zaleha_yusof@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Ho Yew
-  Kiat Brian&nbsp;
-</td>
-  
 <td class="">Teacher - 4 PRAISE
 </td>
-  
+ <td height="19" class="">Mr Ho Yew
+  Kiat Brian&nbsp;
+</td> 
 <td class="">ho_yew_kiat@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 4 PRAISE
+</td>
 <td height="19" class="">Ms Sek Hwee
   Leng&nbsp;
-</td>
-  
-<td class="">Teacher - 4 PRAISE
-</td>
-  
+</td>  
 <td class="">Sek_HWEE_LENG@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 5 RE
+</td>
 <td height="19" class="">Mdm Png Siew
   Hoon&nbsp;
-</td>
-  
-<td class="">Teacher - 5 RE
-</td>
-  
+</td>  
 <td class="">png_siew_hoon@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Yin Yin
+ <td class="">Teacher 
+</td>
+ <td height="19" class="">Ms Yin Yin
   Esther Yong&nbsp;
-</td>
-  
-<td class="">Teacher 
-</td>
-  
+</td> 
 <td class="">yong_yin_yin_esther@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Ho Jia
-  Yan
-</td>
-  
 <td class="">Teacher
 </td>
-  
+<td height="19" class="">Miss Ho Jia
+  Yan
+</td>  
 <td class="">ho_jia_yan@schools.gov.sg
 </td>
  
