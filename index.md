@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner2023.gif
+      background: /images/banner_5_5_23.gif
       key_highlights:
         - title: Happenings
           description: ""
@@ -15,4 +15,12 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: "Direct School Admission "
+      subtitle: "2023"
+      description: All talent areas are open to both male and female applicants.
+      button: More Info
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/admission/direct-school-admission/
+      image: /images/dsa2023.PNG
+      alt: Image alt text
 ---

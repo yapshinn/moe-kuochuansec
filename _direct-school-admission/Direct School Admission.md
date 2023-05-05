@@ -7,9 +7,9 @@ description: ""
 
 <p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for admissions. All talent areas are open to both male and female applicants.</p>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zfokx0Bw-E8" height="315" width="560"></iframe><br>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<br>
 
 <table>
 <thead>
