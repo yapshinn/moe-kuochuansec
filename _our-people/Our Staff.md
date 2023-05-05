@@ -1331,14 +1331,11 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr James Lau
+  <td class="">TSO
+</td>
+ <td height="19" class="">Mr James Lau
   Kam Fatt&nbsp;
 </td>
-  
-<td class="">TSO
-</td>
-  
 <td class="">james_lau_kam_fatt@schools.gov.sg
 </td>
  
@@ -1347,98 +1344,77 @@ description: ""
 
  
 <tr height="19" class="">
-  
+  <td class="">TSO
+</td>
 <td height="19" class="">Mdm Low Kar
   Yee
-</td>
-  
-<td class="">TSO
-</td>
-  
+</td>  
 <td class="">low_kar_yee_a@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">TSO
+</td>
 <td height="19" class="">Mdm Siti
   Hazura Efendi&nbsp;
-</td>
-  
-<td class="">TSO
-</td>
-  
+</td>  
 <td class="">siti_hazura_efendi@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss
+  <td class="">TSO
+</td>
+ <td height="19" class="">Miss
   Syawqina Adlin Ahmad&nbsp;
-</td>
-  
-<td class="">TSO
-</td>
-  
+</td> 
 <td class="">Syawqina_adlin_Ahmad@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm
+  <td class="">OSO
+</td>
+ <td height="19" class="">Mdm
   Sarswathy Palanisamy&nbsp;
-</td>
-  
-<td class="">OSO
-</td>
-  
+</td> 
 <td class="">sarswathy_palanisamy@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Danker
+  <td class="">OSO
+</td>
+ <td height="19" class="">Mr Danker
   Derrick Aloysius
-</td>
-  
-<td class="">OSO
-</td>
-  
+</td> 
 <td class="">danker_derrick_aloysius@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">OSO
+</td>
 <td height="19" class="">Mr Yusof Bin
   Masdar
-</td>
-  
-<td class="">OSO
-</td>
-  
+</td>  
 <td class="">yusof_masdar@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">OSO
+</td>
 <td height="19" class="">Mr Chow Tin
   Hoi
-</td>
-  
-<td class="">OSO
-</td>
-  
+</td>  
 <td class="">
 </td>
  
@@ -1446,13 +1422,13 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr Leong
-  Chee Kiong
-</td>
+
   
 <td class="">OSO
 </td>
-  
+ <td height="19" class="">Mr Leong
+  Chee Kiong
+</td> 
 <td class="">leong_chee_kiong@schools.gov.sg
 </td>
 </tr>
