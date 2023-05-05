@@ -495,29 +495,23 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
-  
-<td height="19" class="">Mrs Lee Hwee
-  Ling Grace&nbsp;
-</td>
-  
+<tr height="19" class=""> 
 <td class="">Teacher - 1 PRAISE
 </td>
-  
+<td height="19" class="">Mrs Lee Hwee
+  Ling Grace&nbsp;
+</td>  
 <td class="">lee_hwee_ling_grace@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 1 PRAISE
+</td>
 <td height="19" class="">Mr Samuel
   Chan Yew Fai
-</td>
-  
-<td class="">Teacher - 1 PRAISE
-</td>
-  
+</td>  
 <td class="">chan_yew_fai_samuel@schools.gov.sg
 </td>
  
