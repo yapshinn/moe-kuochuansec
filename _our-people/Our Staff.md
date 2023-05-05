@@ -1023,193 +1023,151 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
-</td>
-  
 <td class=""><b>Designation</b>
 </td>
-  
+<td height="19" class=""><b>Name</b>
+</td>  
 <td class=""><b>Email</b>
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Tan Pei
-  yin elaine
-</td>
-  
 <td class="">Gear Up Programme
 </td>
-  
+<td height="19" class="">Mdm Tan Pei
+  yin elaine
+</td>  
 <td class="">tan_pei_yin_elaine@schools.gov.sg
 </td>
  
 </tr>
  <tr height="19" class="">
-  
+ <td class="">Humanities
+</td>
 <td height="19" class="">Mdm
   Arunajeet Kaur
-</td>
-  
-<td class="">Humanities
-</td>
-  
+</td>  
 <td class="">arunajeet_kaur@schools.gov.sg
 </td>
  
 </tr>
 <tr height="19" class="">
-  
+ <td class="">English
+</td>
 <td height="19" class="">Mdm Sunu
   Sivadasan&nbsp;
-</td>
-  
-<td class="">English
-</td>
-  
+</td>  
 <td class="">Sunu_Sivadasan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Loh Tai
-  Lee
-</td>
-  
 <td class="">English
 </td>
-  
+ <td height="19" class="">Ms Loh Tai
+  Lee
+</td> 
 <td class="">loh_tai_lee@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">English
+</td>
 <td height="19" class="">Ms Juliana
   Teo Kim Hoon
-</td>
-  
-<td class="">English
-</td>
-  
+</td>  
 <td class="">juliana_teo_kim_hoon@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr
+  <td class="">Tamil Language
+</td>
+ <td height="19" class="">Mr
   Namasivayam Pillai sellakrishnan
-</td>
-  
-<td class="">Tamil Language
-</td>
-  
+</td> 
 <td class="">n_sellakrishnan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Tai Tze
+  <td class="">Chinese Language
+</td>
+ <td height="19" class="">Ms Tai Tze
   Ghee&nbsp;
-</td>
-  
-<td class="">Chinese Language
-</td>
-  
+</td> 
 <td class="">Tai_Tze_Ghee@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Teo Kian
+  <td class="">Chinese Language
+</td>
+ <td height="19" class="">Mr Teo Kian
   Fong Kenneth
-</td>
-  
-<td class="">Chinese Language
-</td>
-  
+</td> 
 <td class="">teo_kian_fong_kenneth@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Tan Siok
-  Kuan Angeline&nbsp;
-</td>
-  
 <td class="">Maths
 </td>
-  
+ <td height="19" class="">Mdm Tan Siok
+  Kuan Angeline&nbsp;
+</td>
 <td class="">Tan_Siok_Kuan_Angeline@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Maths
+</td>
 <td height="19" class="">Mr Haw Say
   Boon Clarence
-</td>
-  
-<td class="">Maths
-</td>
-  
+</td>  
 <td class="">Haw_Say_Boon@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Maths
+</td>
 <td height="19" class="">Ms Loo Yen
   Li
-</td>
-  
-<td class="">Maths
-</td>
-  
+</td>  
 <td class="">loo_yen_li@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Ha Yeong
-  Fook
-</td>
-  
 <td class="">Maths
 </td>
-  
+ <td height="19" class="">Mr Ha Yeong
+  Fook
+</td> 
 <td class="">ha_yeong_fook@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Music
+</td>
 <td height="19" class="">Mr Ong Wee
   Chong Daryl
-</td>
-  
-<td class="">Music
-</td>
-  
+</td>  
 <td class="">ong_wee_chong_daryl@schools.gov.sg
 </td>
  
@@ -1218,14 +1176,11 @@ description: ""
 
  
 <tr height="19" class="">
-  
+  <td class="">D&amp;T
+</td>
 <td height="19" class="">Mr Koh Tong
   Seah
-</td>
-  
-<td class="">D&amp;T
-</td>
-  
+</td>  
 <td class="">koh_tong_seah@schools.gov.sg
 </td>
  
@@ -1239,13 +1194,10 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
+ <td class=""><b>Designation</b>
 </td>
-  
-<td class=""><b>Designation</b>
+  <td height="19" class=""><b>Name</b>
 </td>
-  
 <td class=""><b>Email</b>
 </td>
  
