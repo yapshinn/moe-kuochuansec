@@ -295,5 +295,11 @@ Core Programmes
     <td><a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg
 </a></td>
   </tr>
-</tbody>
+ <tr>
+    <td>Mr Lee Chong Min 
+</td>
+    <td><a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg
+
+</a></td>
+</tr></tbody>
 </table>
