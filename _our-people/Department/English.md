@@ -30,10 +30,7 @@ third_nav_title: Department
     <td>Mdm. Fazliana </td>
     <td><a href="mailto:fazliana_pairin@schools.gov.sg">fazliana_pairin@schools.gov.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mdm. Tan Peck San Linda</td>
-    <td> <a href="mailto:tan_peck_san_linda@schools.gov.sg">tan_peck_san_linda@schools.gov.sg</a><br></td>
-  </tr>
+  
   <tr>
     <td>Ms. Chua Jazln<br></td>
     <td><a href="mailto:Jazlyn_Chua@schools.gov.sg">Jazlyn_Chua@schools.gov.sg</a></td>
@@ -61,6 +58,11 @@ third_nav_title: Department
   <tr>
     <td> Ms. Ang Siok Min, Mitchelle</td>
     <td><a href="mailto:ang_siok_min_mitchelle@schools.gov.sg">ang_siok_min_mitchelle@schools.gov.sg</a> </td>
+  </tr>
+	<tr><td>Mr Samuel Chan Yew Fai
+ </td>
+    <td><a href="mailto:chan_yew_fai_samuel@schools.gov.sg">chan_yew_fai_samuel@schools.gov.sg
+</a> </td>
   </tr>
 </tbody>
 </table>
