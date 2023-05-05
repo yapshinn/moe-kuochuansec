@@ -1204,39 +1204,30 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Special Educational Needs (SEN) Officer
+</td>
 <td height="19" class="">Miss Ng Sian
   Erh Angelia
-</td>
-  
-<td class="">Special Educational Needs (SEN) Officer
-</td>
-  
+</td>  
 <td class="">ng_sian_erh_angelia@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">School Counsellor
+</td>
 <td height="19" class="">Mr Joey Hong
-</td>
-  
-<td class="">School Counsellor
-</td>
-  
+</td>  
 <td class="">joey_hong@schools.gov.sg
 </td>
  
 </tr>
  <tr height="19" class="">
-  
+  <td class="">School ECG Counsellor
+</td>
 <td height="19" class="">Ms Lim Yin Leng Lisa
-</td>
-  
-<td class="">School ECG Counsellor
-</td>
-  
+</td>  
 <td class="">lim_yin_leng_lisa@schools.gov.sg
 </td>
  
@@ -1250,13 +1241,10 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
+  <td class=""><b>Designation</b>
 </td>
-  
-<td class=""><b>Designation</b>
-</td>
-  
+ <td height="19" class=""><b>Name</b>
+</td> 
 <td class=""><b>Email</b>
 </td>
  
@@ -1265,99 +1253,78 @@ description: ""
 
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Seah Bee
+  <td class="">Admin Manager
+</td>
+ <td height="19" class="">Ms Seah Bee
   Leng
-</td>
-  
-<td class="">Admin Manager
-</td>
-  
+</td> 
 <td class="">seah_bee_leng@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Operation Manager
+</td>
 <td height="19" class="">Mdm Koh Ai
   Mui, Rebecca&nbsp;
-</td>
-  
-<td class="">Operation Manager
-</td>
-  
+</td>  
 <td class="">koh_ai_mui@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr
+  <td class="">ICT Manager
+</td>
+ <td height="19" class="">Mr
   Gunasegaran Kuppusamy
-</td>
-  
-<td class="">ICT Manager
-</td>
-  
+</td> 
 <td class="">gunasegaran_al_kuppusamy@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Mahendran
-  Paramasivam Alex
-</td>
-  
-<td class="">Adjunct Operation
+  <td class="">Adjunct Operation
   Manager
 </td>
-  
+ <td height="19" class="">Mr Mahendran
+  Paramasivam Alex
+</td> 
 <td class="">Mahendran_Paramasivam_alex@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Lim Hui
+  <td class="">CSO
+</td>
+ <td height="19" class="">Mdm Lim Hui
   Kiang Madeline
-</td>
-  
-<td class="">CSO
-</td>
-  
+</td> 
 <td class="">lim_hui_kiang@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">CSO
+</td>
 <td height="19" class="">Mdm Saadiah
   Asdan&nbsp;
-</td>
-  
-<td class="">CSO
-</td>
-  
+</td>  
 <td class="">saadiah_asdan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">CSO
+</td>
 <td height="19" class="">Mr Luke Teo
   Lead
 </td>
-  
-<td class="">CSO
-</td>
-  
 <td class="">luke_teo_lead@schools.gov.sg
 </td>
  
