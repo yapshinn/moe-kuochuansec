@@ -197,3 +197,32 @@ Core Programmes
   
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th>VIA Team</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Lee Jian Liang Joel 
+</td>
+    <td><a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>Miss Amelia Yeo Jiaxin 
+</td>
+    <td><a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>Mr Teo Han Yang Edwin 
+</td>
+    <td><a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg
+</a></td>
+  </tr>
+</tbody>
+</table>
