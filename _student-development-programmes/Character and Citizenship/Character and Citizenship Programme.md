@@ -207,21 +207,22 @@ Core Programmes
 </thead>
 <tbody>
   <tr>
-    <td>Mr Lee Jian Liang Joel 
+    <td>Mr Keng Yang Ng 
+
 </td>
-    <td><a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg
+    <td><a href="mailto:ng_keng_yang@schools.gov.sg">ng_keng_yang@schools.gov.sg
 </a></td>
   </tr>
   <tr>
-    <td>Miss Amelia Yeo Jiaxin 
+    <td>Ms Tan Hui Si
 </td>
-    <td><a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg
+    <td><a href="mailto:tan_hui_si@schools.gov.sg">tan_hui_si@schools.gov.sg
 </a></td>
   </tr>
   <tr>
-    <td>Mr Teo Han Yang Edwin 
+    <td>Mdm Norhajjarrillah Abdul Baki 
 </td>
-    <td><a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg
+    <td><a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg
 </a></td>
   </tr>
 </tbody>
