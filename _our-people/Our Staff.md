@@ -303,70 +303,55 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Ho
-  Shiao Hwee
-</td>
-  
 <td class="">SH - Student Well-Being / 2 PRAISE
 </td>
-  
+<td height="19" class="">Miss Ho
+  Shiao Hwee
+</td>  
 <td class="">Ho_Shiao_Hwee@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Ng Soon
-  Chye&nbsp;
-</td>
-  
 <td class="">SH - Student Management&nbsp;
 </td>
-  
+	<td height="19" class="">Mr Ng Soon
+  Chye&nbsp;
+</td>
 <td class="">ng_soon_chye@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Koh Li
-  Eng
-</td>
-  
 <td class="">LH - Science / 1 JOY
 </td>
-  
+<td height="19" class="">Miss Koh Li
+  Eng
+</td>  
 <td class="">koh_li_eng@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Chua
+  <td class="">Asst YH Lower Sec
+</td>
+ <td height="19" class="">Miss Chua
   Jazlyn
-</td>
-  
-<td class="">Asst YH Lower Sec
-</td>
-  
+</td> 
 <td class="">Jazlyn_Chua@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Lim
-  Wenting Janell
-</td>
-  
 <td class="">Asst YH Upp Sec
 </td>
-  
+<td height="19" class="">Miss Lim
+  Wenting Janell
+</td>  
 <td class="">janell_lim@schools.gov.sg
 </td>
  
@@ -380,167 +365,131 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class=""><b>Name</b>
-</td>
-  
 <td class=""><b>Designation</b>
 </td>
-  
+<td height="19" class=""><b>Name</b>
+</td> 
 <td class=""><b>Email</b>
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Amelia
+  <td class="">Teacher - 1 FAITH
+</td>
+ <td height="19" class="">Miss Amelia
   Yeo Jiaxin&nbsp;
-</td>
-  
-<td class="">Teacher - 1 FAITH
-</td>
-  
+</td> 
 <td class="">amelia_yeo_jiaxin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Foo Seng
-  Hong&nbsp;
-</td>
-  
 <td class="">Teacher - 1 FAITH
 </td>
-  
+ <td height="19" class="">Mr Foo Seng
+  Hong&nbsp;
+</td> 
 <td class="">foo_seng_hong@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Chung Wei
-  Peng Joseph&nbsp;
-</td>
-  
 <td class="">Teacher - 1 GRACE
 </td>
-  
+<td height="19" class="">Mr Chung Wei
+  Peng Joseph&nbsp;
+</td>  
 <td class="">chung_wei_peng_joseph@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Tan Hui
-  Si
-</td>
-  
 <td class="">Teacher - 1 GRACE
 </td>
-  
+<td height="19" class="">Ms Tan Hui
+  Si
+</td>  
 <td class="">tan_hui_si@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Doreen
-  Tang Kah Yin&nbsp;
-</td>
-  
 <td class="">Teacher - 1 HOPE
 </td>
-  
+<td height="19" class="">Mdm Doreen
+  Tang Kah Yin&nbsp;
+</td>  
 <td class="">Doreen_Tang_Kah_Yin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Koh Li
-  Eng
-</td>
-  
 <td class="">Teacher - 1 JOY
 </td>
-  
+ <td height="19" class="">Miss Koh Li
+  Eng
+</td> 
 <td class="">koh_li_eng@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+ <td class="">Teacher - 1 JOY
+</td>
 <td height="19" class="">Miss Lee
   Rachel&nbsp;
-</td>
-  
-<td class="">Teacher - 1 JOY
-</td>
-  
+</td>  
 <td class="">Lee_RACHEL@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 1 LOVE
+</td>
 <td height="19" class="">Mdm Siti
   Shahirah Haider Bagesher&nbsp;
-</td>
-  
-<td class="">Teacher - 1 LOVE
-</td>
-  
+</td> 
 <td class="">siti_shahirah_haider_bagesher@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Kang
-  Joo Geok&nbsp;
-</td>
-  
 <td class="">Teacher - 1 LOVE
 </td>
-  
+<td height="19" class="">Miss Kang
+  Joo Geok&nbsp;
+</td>  
 <td class="">kang_joo_geok@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Tan Siaw
+  <td class="">Teacher - 1 PEACE
+</td>
+ <td height="19" class="">Mr Tan Siaw
   Chong&nbsp;
-</td>
-  
-<td class="">Teacher - 1 PEACE
-</td>
-  
+</td> 
 <td class="">tan_siaw_chong@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Goh Xin
-  Fang
-</td>
-  
 <td class="">Teacher - 1 PEACE
 </td>
-  
+<td height="19" class="">Miss Goh Xin
+  Fang
+</td> 
 <td class="">Goh_Xin_fang@schools.gov.sg
 </td>
  
