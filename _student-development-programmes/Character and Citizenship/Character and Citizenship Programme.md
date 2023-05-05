@@ -189,8 +189,10 @@ Core Programmes
 </a></td>
   </tr>
   <tr>
-    <td>Mdm Nor'Aliah Abdul Samad</td>
-    <td><a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
+    <td>Miss Lee Rachel 
+</td>
+    <td><a href="mailto:Lee_RACHEL@schools.gov.sg">Lee_RACHEL@schools.gov.sg
+</a></td>
   </tr>
   <tr>
     <td>Mdm Nur Diyanah Mohammad Suhaimi</td>
