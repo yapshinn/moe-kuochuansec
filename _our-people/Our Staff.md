@@ -518,322 +518,253 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  
+<td class="">Teacher - 2 FAITH
+</td>
 <td height="19" class="">Mdm Kavitha
   Ramachandran&nbsp;
 </td>
-  
-<td class="">Teacher - 2 FAITH
-</td>
-  
 <td class="">kavitha_ramachandran@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mrs Tang Lai
-  Chan&nbsp;
-</td>
-  
 <td class="">Teacher - 2 FAITH
 </td>
-  
+<td height="19" class="">Mrs Tang Lai
+  Chan&nbsp;
+</td>  
 <td class="">tham_lai_chan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Nam Tin
-  Yuen&nbsp;
-</td>
-  
 <td class="">Teacher - 2 GRACE
 </td>
-  
+<td height="19" class="">Miss Nam Tin
+  Yuen&nbsp;
+</td> 
 <td class="">nam_tin_yuen@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Su
-  Weizhi&nbsp;
-</td>
-  
 <td class="">Teacher - 2 GRACE
 </td>
-  
+<td height="19" class="">Mr Su
+  Weizhi&nbsp;
+</td> 
 <td class="">su_weizhi@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Lee Chong
-  Min&nbsp;
-</td>
-  
 <td class="">Teacher - 2 HOPE
 </td>
-  
+<td height="19" class="">Mr Lee Chong
+  Min&nbsp;
+</td>  
 <td class="">lee_chong_min@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Foo Ji
-  Ying, Eunice
-</td>
-  
 <td class="">Teacher - 2 HOPE
 </td>
-  
+<td height="19" class="">Miss Foo Ji
+  Ying, Eunice
+</td>  
 <td class="">foo_ji_ying_eunice@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Ang
+ <td class="">Teacher - 2 JOY
+</td>
+ <td height="19" class="">Miss Ang
   Siok Min Mitchelle&nbsp;
-</td>
-  
-<td class="">Teacher - 2 JOY
-</td>
-  
+</td> 
 <td class="">ang_siok_min_mitchelle@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Siti
-  Nurhizah Mohamed Hassan&nbsp;
-</td>
-  
 <td class="">Teacher - 2 JOY
 </td>
-  
+<td height="19" class="">Mdm Siti
+  Nurhizah Mohamed Hassan&nbsp;
+</td>  
 <td class="">siti_nurhizah_mohamed_hassan@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss Ng Yin
-  Yee&nbsp;
-</td>
-  
 <td class="">Teacher - 2 LOVE
 </td>
-  
+<td height="19" class="">Miss Ng Yin
+  Yee&nbsp;
+</td>  
 <td class="">ng_yin_yee@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Nur
-  Diyanah Mohammad Suhaini&nbsp;
-</td>
-  
 <td class="">Teacher - 2 LOVE
 </td>
-  
+<td height="19" class="">Mdm Nur
+  Diyanah Mohammad Suhaini&nbsp;
+</td> 
 <td class="">nur_diyanah_mohammad_suhai@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr
-  Mathivanan Kadarkarai&nbsp;
-</td>
-  
 <td class="">Teacher - 2 PEACE
 </td>
-  
+<td height="19" class="">Mr
+  Mathivanan Kadarkarai&nbsp;
+</td>  
 <td class="">mathivanan_kadarkarai@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Teo Han
-  Yang Edwin&nbsp;
-</td>
-  
 <td class="">Teacher - 2 PEACE
 </td>
-  
+<td height="19" class="">Mr Teo Han
+  Yang Edwin&nbsp;
+</td>  
 <td class="">teo_han_yang_edwin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+	<td class="">Teacher - 2 PRAISE
+</td>
 <td height="19" class="">Miss Ho
   Shiao Hwee
-</td>
-  
-<td class="">Teacher - 2 PRAISE
-</td>
-  
+</td>  
 <td class="">Ho_Shiao_Hwee@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm
+	<td class="">Teacher - 2 PRAISE
+</td>
+ <td height="19" class="">Mdm
   Norhajjarrillah Abdul Baki&nbsp;
 </td>
-  
-<td class="">Teacher - 2 PRAISE
-</td>
-  
 <td class="">norhajjarrillah_abdul_baki@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Wang
-  Ting&nbsp;
-</td>
-  
 <td class="">Teacher - 3 FAITH
 </td>
-  
+<td height="19" class="">Mdm Wang
+  Ting&nbsp;
+</td>  
 <td class="">wang_ting@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Fazliana
-  Pairin&nbsp;
-</td>
-  
 <td class="">Teacher - 3 FAITH
 </td>
-  
+ <td height="19" class="">Mdm Fazliana
+  Pairin&nbsp;
+</td> 
 <td class="">fazliana_pairin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Ng Geok
-  Koon Danny&nbsp;
-</td>
-  
 <td class="">Teacher - 3 GRACE
 </td>
-  
+<td height="19" class="">Mr Ng Geok
+  Koon Danny&nbsp;
+</td>  
 <td class="">ng_geok_koon_danny@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Ms Chang
-  Meng Hsia&nbsp;
-</td>
-  
 <td class="">Teacher - 3 GRACE
 </td>
-  
+<td height="19" class="">Ms Chang
+  Meng Hsia&nbsp;
+</td>  
 <td class="">chang_meng_hsia@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mdm Abby
+ <td class="">Teacher - 3 HOPE
+</td>
+ <td height="19" class="">Mdm Abby
   Choo Choy Joo&nbsp;
-</td>
-  
-<td class="">Teacher - 3 HOPE
-</td>
-  
+</td> 
 <td class="">choo_choy_joo@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mrs
-  Sivasankari Pravin&nbsp;
-</td>
-  
 <td class="">Teacher - 3 HOPE
 </td>
-  
+<td height="19" class="">Mrs
+  Sivasankari Pravin&nbsp;
+</td>  
 <td class="">sivasankari_pravin@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Mr Ong Wee
-  Xiang&nbsp;
-</td>
-  
 <td class="">Teacher - 3 JOY
 </td>
-  
+<td height="19" class="">Mr Ong Wee
+  Xiang&nbsp;
+</td>  
 <td class="">ong_wee_xiang@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
-<td height="19" class="">Miss
-  Christopher Cassandra&nbsp;
-</td>
-  
 <td class="">Teacher - 3 JOY
 </td>
-  
+ <td height="19" class="">Miss
+  Christopher Cassandra&nbsp;
+</td> 
 <td class="">cassandra_christopher@schools.gov.sg
 </td>
  
 </tr>
  
 <tr height="19" class="">
-  
+  <td class="">Teacher - 3 LOVE
+</td>
 <td height="19" class="">Mdm Ravathi
   Velayuthan&nbsp;
-</td>
-  
-<td class="">Teacher - 3 LOVE
-</td>
-  
+</td>  
 <td class="">ravathi_velayuthan@schools.gov.sg
 </td>
  
@@ -841,16 +772,15 @@ description: ""
  
 <tr height="19" class="">
   
-<td height="19" class="">Mr Lee Jian
-  Liang Joel&nbsp;
-</td>
+
   
 <td class="">Teacher - 3 LOVE
 </td>
-  
 <td class="">lee_jian_liang_joel@schools.gov.sg
 </td>
- 
+<td height="19" class="">Mr Lee Jian
+  Liang Joel&nbsp;
+</td> 
 </tr>
  
 <tr height="19" class="">
