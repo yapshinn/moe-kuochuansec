@@ -279,3 +279,21 @@ Core Programmes
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th>FEP &amp; Related events</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  
+  <tr>
+    <td>Ms Lee Hwee Ling, Grace
+</td>
+    <td><a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg
+</a></td>
+  </tr>
+</tbody>
+</table>
