@@ -116,7 +116,7 @@ Core Programmes
 <table>
 <thead>
   <tr>
-    <th>CCE Coordinators</th>
+    <th>CCE Specialised Teachers</th>
     <th></th>
   </tr>
 </thead>
@@ -132,6 +132,53 @@ Core Programmes
   <tr>
     <td>Ms Lee Hwee Ling, Grace</td>
     <td><a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms Ng Yin yee</td>
+    <td><a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm Nor'Aliah Abdul Samad</td>
+    <td><a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm Nur Diyanah Mohammad Suhaimi</td>
+    <td><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr Joey Hong (Counsellor)</td>
+    <td><a href="mailto:joey_hong@schools.gov.sg">joey_hong@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr Yew Yishen</td>
+    <td><a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>NE Team</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Lee Jian Liang Joel 
+</td>
+    <td><a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>Miss Amelia Yeo Jiaxin 
+</td>
+    <td><a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>Mr Ng Chee Kian</td>
+    <td><a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms Ng Yin yee</td>
