@@ -244,3 +244,20 @@ Core Programmes
   </tr>
 </tbody>
 </table>
+<table>
+<thead>
+  <tr>
+    <th>Publicity</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  
+  <tr>
+    <td>Mdm Siti Shahirah Haider Bagesher 
+</td>
+    <td><a href="mailto:siti_shahirah_haider_bagesher@schools.gov.sg">siti_shahirah_haider_bagesher@schools.gov.sg
+</a></td>
+  </tr>
+</tbody>
+</table>
