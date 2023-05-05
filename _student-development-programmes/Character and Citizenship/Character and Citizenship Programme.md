@@ -194,17 +194,6 @@ Core Programmes
     <td><a href="mailto:Lee_RACHEL@schools.gov.sg">Lee_RACHEL@schools.gov.sg
 </a></td>
   </tr>
-  <tr>
-    <td>Mdm Nur Diyanah Mohammad Suhaimi</td>
-    <td><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Joey Hong (Counsellor)</td>
-    <td><a href="mailto:joey_hong@schools.gov.sg">joey_hong@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Yew Yishen</td>
-    <td><a href="mailto:yew_yishen@schools.gov.sg">yew_yishen@schools.gov.sg</a></td>
-  </tr>
+  
 </tbody>
 </table>
