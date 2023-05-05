@@ -227,3 +227,20 @@ Core Programmes
   </tr>
 </tbody>
 </table>
+<table>
+<thead>
+  <tr>
+    <th>Photography</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  
+  <tr>
+    <td>Mdm Norhajjarrillah Abdul Baki 
+</td>
+    <td><a href="mailto:norhajjarrillah_abdul_baki@schools.gov.sg">norhajjarrillah_abdul_baki@schools.gov.sg
+</a></td>
+  </tr>
+</tbody>
+</table>
