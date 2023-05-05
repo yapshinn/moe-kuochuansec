@@ -177,12 +177,16 @@ Core Programmes
 </a></td>
   </tr>
   <tr>
-    <td>Mr Ng Chee Kian</td>
-    <td><a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a></td>
+    <td>Mr Teo Han Yang Edwin 
+</td>
+    <td><a href="mailto:teo_han_yang_edwin@schools.gov.sg">teo_han_yang_edwin@schools.gov.sg
+</a></td>
   </tr>
   <tr>
-    <td>Ms Ng Yin yee</td>
-    <td><a href="mailto:ng_yin_yee@schools.gov.sg">ng_yin_yee@schools.gov.sg</a></td>
+    <td>Mr Foo Seng Hong 
+</td>
+    <td><a href="mailto:foo_seng_hong@schools.gov.sg">foo_seng_hong@schools.gov.sg
+</a></td>
   </tr>
   <tr>
     <td>Mdm Nor'Aliah Abdul Samad</td>
