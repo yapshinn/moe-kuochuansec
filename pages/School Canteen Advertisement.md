@@ -17,4 +17,11 @@ Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stallholder to 
 We are a single session school with an estimated enrolment of 1080 pupils and about 100 staff. Our canteen operates from Mondays to Fridays, 7.30am to 3.30pm during the school term. The stall may be required to operate during School Holidays, where necessary, at the request of the school. Vendors may be required to operate till late afternoon on days where there are lessons and CCAs as required by school.<br>
 	
 For enquiries, interested vendors may call the school at 6259 3811 to speak with the Admin Manager.
+
+**General Requirements:**
+1. Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above.
+1. Able to provide good service and quality food at reasonable prices (in consultation with the school), that meet the health/nutritional standards set by the Health Promotion Board.
+
+
+
 </p>
