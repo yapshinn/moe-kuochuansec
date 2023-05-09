@@ -18,9 +18,20 @@ We are a single session school with an estimated enrolment of 1080 pupils and ab
 	
 For enquiries, interested vendors may call the school at 6259 3811 to speak with the Admin Manager.
 
-**General Requirements:**
-1. Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above.
-1. Able to provide good service and quality food at reasonable prices (in consultation with the school), that meet the health/nutritional standards set by the Health Promotion Board.
+**General Requirements:**<br>
+1.	Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above.
+2.	Able to provide good service and quality food at reasonable prices (in consultation with the school), that meet the health/nutritional standards set by the Health Promotion Board.
+3.	Able to observe high standard of food and personal hygiene that meet NEA requirements
+4.	Has catering experience, preferably with running a stall in a school canteen.
+5.	Must be in personal attendance at the stall during operating hours.
+6.	Provide good service and quality food at reasonable prices determined in consultation with the school.
+
+**Health &amp; Hygiene Requirements:**<br>
+1.	Successful candidates will have to register and pass the Basic Food Hygiene Course (WSQ BFHC).
+2.	Successful applicant will have to apply for a food stall licence from Singapore Food Agency (SFA)
+3.	Able to comply with the latest Healthy Meals in Schools Programme Guidelines Healthy Meals in Schools Programme (hpb.gov.sg)  and Health Promoting School Canteen (HPSC) guidelines. Either the successful applicant or the assistant(s), whoever is the chef, must attend the Healthy Meals in School Programme workshop if they have not done so.
+4.	The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
+
 
 
 
