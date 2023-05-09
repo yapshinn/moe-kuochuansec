@@ -34,7 +34,7 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 
 **Application Process:**<br>
 	The application form can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.
-	
+	[Application Form](/files/canteen%20application%20form.pdf)
 The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 May 2023:<br>
 •	Completed application form<br>
 •	Past records/testimonials<br>
