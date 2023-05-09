@@ -32,7 +32,7 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 4 \.  The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
 
 **Application Process:**<br>
-The [Application Form](/files/canteen%20application%20form.pdf) can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.<br>
+The [Application Form](/files/canteen%20application%20form.pdf) can be downloaded from MOE Canteen website at: [https://schadmsvc.moe.gov.sg/moescas/](https://schadmsvc.moe.gov.sg/moescas/) A hardcopy can also be obtained from the school's General Office.<br>
 	<br>
 	
 The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 May 2023:
@@ -42,4 +42,4 @@ The following documents must be submitted to school’s General office or via kc
 * List of proposed food items for sale and prices
 
 **Interview and Food Tasting**<br>
-Shortlisted applicants will be notified for the selection interview and they will be required to prepare food tasting for the School Canteen Selection Committee at the applicant's own expense.	
+Shortlisted applicants will be notified for the selection interview and they will be required to prepare food tasting for the School Canteen Selection Committee at the applicant's own expense.
