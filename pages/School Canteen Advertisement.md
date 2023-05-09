@@ -33,12 +33,13 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 4.	The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
 
 **Application Process:**<br>
-The application form can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.<br>  
+	The application form can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.  
 The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 May 2023:<br>
 •	Completed application form<br>
-•	Past records/testimonials
+•	Past records/testimonials<br>
 •	Supporting documents (e.g. photocopy of NRIC and relevant certificates e.g. NEA Basic Food Hygiene Course), and;<br>
 •	List of proposed food items for sale and prices
+
 
 **Interview and Food Tasting**<br>
 Shortlisted applicants will be notified for the selection interview and they will be required to prepare food tasting for the School Canteen Selection Committee at the applicant's own expense.	
