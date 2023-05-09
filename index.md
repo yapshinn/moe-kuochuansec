@@ -12,6 +12,9 @@ sections:
         - title: Happenings
           description: ""
           url: /others/happenings
+        - title: School Canteen Advertisement
+          description: ""
+          url: /school-canteen-advertisement
   - resources:
       title: Announcements
       button: Click Here
