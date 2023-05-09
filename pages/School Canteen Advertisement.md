@@ -40,5 +40,6 @@ The following documents must be submitted to school’s General office or via kc
 •	Supporting documents (e.g. photocopy of NRIC and relevant certificates e.g. NEA Basic Food Hygiene Course), and;<br>
 •	List of proposed food items for sale and prices
 
-
+**Interview and Food Tasting**<br>
+Shortlisted applicants will be notified for the selection interview and they will be required to prepare food tasting for the School Canteen Selection Committee at the applicant's own expense.	
 </p>
