@@ -27,10 +27,10 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 6.	Provide good service and quality food at reasonable prices determined in consultation with the school.
 
 **Health &amp; Hygiene Requirements:**<br>
-1.	Successful candidates will have to register and pass the Basic Food Hygiene Course (WSQ BFHC).
-2.	Successful applicant will have to apply for a food stall licence from Singapore Food Agency (SFA)
-3.	Able to comply with the latest Healthy Meals in Schools Programme Guidelines Healthy Meals in Schools Programme (hpb.gov.sg)  and Health Promoting School Canteen (HPSC) guidelines. Either the successful applicant or the assistant(s), whoever is the chef, must attend the Healthy Meals in School Programme workshop if they have not done so.
-4.	The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
+	1.  Successful candidates will have to register and pass the Basic Food Hygiene Course (WSQ BFHC).<br>
+2.  Successful applicant will have to apply for a food stall licence from Singapore Food Agency (SFA)<br>
+3.  Able to comply with the latest Healthy Meals in Schools Programme Guidelines Healthy Meals in Schools Programme (hpb.gov.sg)  and Health Promoting School Canteen (HPSC) guidelines. Either the successful applicant or the assistant(s), whoever is the chef, must attend the Healthy Meals in School Programme workshop if they have not done so.
+4.  The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
 
 **Application Process:**<br>
 	The application form can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.  
