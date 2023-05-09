@@ -32,7 +32,13 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 3.	Able to comply with the latest Healthy Meals in Schools Programme Guidelines Healthy Meals in Schools Programme (hpb.gov.sg)  and Health Promoting School Canteen (HPSC) guidelines. Either the successful applicant or the assistant(s), whoever is the chef, must attend the Healthy Meals in School Programme workshop if they have not done so.
 4.	The attendance of the above courses and attainment of certification shall be at the vendors’ own time and expense.
 
-
+**Application Process:**<br>
+The application form can be downloaded from MOE Canteen website at: https://schadmsvc.moe.gov.sg/moescas/ A hardcopy can also be obtained from the school's General Office.<br>  
+The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 May 2023:<br>
+•	Completed application form<br>
+•	Past records/testimonials
+•	Supporting documents (e.g. photocopy of NRIC and relevant certificates e.g. NEA Basic Food Hygiene Course), and;<br>
+•	List of proposed food items for sale and prices
 
 
 </p>
