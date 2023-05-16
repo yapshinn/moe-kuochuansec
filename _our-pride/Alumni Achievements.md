@@ -32,7 +32,7 @@ description: ""
   <tr>
     <td> Abigail Chioh</td>
     <td>4 FAITH, Class of 2019</td>
-    <td>Eunoia Junior College will be pursuing Bachelor of Arts (Political Science &amp; Econimics) in NUS Awarded the SPH Journalism Scholarship</td>
+    <td>Victoria Junior College will be pursuing Bachelor of Arts (Political Science &amp; Econimics) in NUS Awarded the SPH Journalism Scholarship</td>
   </tr>
 </tbody>
 </table>
@@ -64,6 +64,6 @@ description: ""
 
 
 
-Contact Us at <a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
+Contact Us at&nbsp;<a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a>
 
 KCPSS is always happy to hear from our alumni. Let us know your news and updates and stay connected!
