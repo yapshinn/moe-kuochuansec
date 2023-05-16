@@ -32,7 +32,7 @@ description: ""
   <tr>
     <td> Abigail Chioh</td>
     <td>4 FAITH, Class of 2019</td>
-    <td>Victoria Junior College will be pursuing Bachelor of Arts (Political Science &amp; Econimics) in NUS Awarded the SPH Journalism Scholarship</td>
+    <td>Victoria Junior College<br><br>She will be pursuing Bachelor of Arts (Political Science &amp; Economics) in NUS Awarded the SPH Journalism Scholarship.</td>
   </tr>
 </tbody>
 </table>
