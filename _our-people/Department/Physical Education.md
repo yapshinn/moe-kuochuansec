@@ -11,7 +11,7 @@ third_nav_title: Department
 <table>
 	
 <tbody><tr>
-<td>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA</td>
+<td>Mr Khoo Kian Seong Kenneth (HOD-PE/CCA)</td>
 <td>
 <a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">khoo_kian_seong_kenneth@schools.gov.sg</a></td></tr>
 	
