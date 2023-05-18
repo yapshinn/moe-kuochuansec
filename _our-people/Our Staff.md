@@ -11,14 +11,14 @@ description: ""
 <tbody class="">
 <tr height="19" class="">
   
-<td colspan="3" height="19" class="" width="811" style="text-align: center; width: 944px;"><b>School Management</b>
+<td colspan="3" height="19" class="" width="811" style="text-align: center; width: 944px;"><b>School Leaders</b>
 </td>
  
 </tr>
  
 <tr height="19" class="">
   
-<td height="19" class="">Designation<b></b>
+<td height="19" class=""><b>Designation</b>
 </td>
   
 <td class=""><b>Name</b>
