@@ -11,14 +11,14 @@ description: ""
 <tbody class="">
 <tr height="19" class="">
   
-<td colspan="3" height="19" class="" width="811" style="text-align: center; width: 944px;"><b>School Management</b>
+<td colspan="3" height="19" class="" width="811" style="text-align: center; width: 944px;"><b>School Leaders</b>
 </td>
  
 </tr>
  
 <tr height="19" class="">
   
-<td height="19" class="">Designation<b></b>
+<td height="19" class=""><b>Designation</b>
 </td>
   
 <td class=""><b>Name</b>
@@ -33,7 +33,7 @@ description: ""
 <td class="">Principal
 </td>
   <td height="19" class="">Mr Justin
-  TAN
+  Tan
 </td>
 <td class="">Justin_TAN@schools.gov.sg
 </td>
@@ -44,7 +44,7 @@ description: ""
 <td class="">Vice - Principal
 </td>
   <td height="19" class="">Ms Lee Chui
-  Eng (Mrs.Chee)
+  Eng (Mrs Chee)
 </td>
 <td class="">Lee_Chui_Eng@schools.gov.sg
 </td>
@@ -776,10 +776,10 @@ description: ""
   
 <td class="">Teacher - 3 LOVE
 </td>
-<td class="">lee_jian_liang_joel@schools.gov.sg
-</td>
-<td height="19" class="">Mr Lee Jian
+<td class="">Mr Lee Jian
   Liang Joel&nbsp;
+</td>
+<td height="19" class="">lee_jian_liang_joel@schools.gov.sg;
 </td> 
 </tr>
  

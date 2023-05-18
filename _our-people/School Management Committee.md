@@ -6,12 +6,17 @@ description: ""
 <table class="iveo_table ives_tab_1 ive_eobj_center" style="width: 621px; height: 410px;">
 <tbody>
 <tr>
-<th style="width: 271px;">Chairman
+<th style="width: 271px;">Designation
 </th>
-<th style="width: 349px;">Elder Kevin Lee Chin Chai
+<th style="width: 349px;">Name
 </th>
 </tr>
-<tr>
+<tr><td style="width: 60px;">Chairman
+</td>
+<td style="width: 60px;">Elder Kevin Lee Chin Chai
+</td>
+
+</tr><tr>
 <td style="width: 60px;">Vice Chairman
 </td>
 <td style="width: 60px;">Mr Loh Pui Wah

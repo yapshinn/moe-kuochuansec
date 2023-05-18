@@ -50,7 +50,7 @@ third_nav_title: Department
     <td><a href="mailto:noraliah_abdul_samad@schools.gov.sg">noraliah_abdul_samad@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr. Yap Shinn (Subject Head/Student Leadership)</td>
+    <td>Mr. Yap Shinn (Subject Head/Education Technology)</td>
     <td><a href="mailto:yap_shinn@schools.gov.sg">yap_shinn@schools.gov.sg</a></td>
   </tr>
   <tr>
