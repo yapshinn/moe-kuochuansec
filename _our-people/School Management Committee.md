@@ -98,7 +98,8 @@ description: ""
             <strong>KCPPS Principal (In attendance)
                 <br>
             </strong> 
-            <span style="color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; text-align: left;">Mrs Yee Toh Gek Khiaw</span><br>
+         <div id="cn10"><span style="background-color: initial; text-align: left;">Mrs Yee Toh Gek Khiaw</span><strong><br></strong>
+</div>
         
 </div>
 <div id="cn11"><br>
