@@ -13,11 +13,15 @@ third_nav_title: Department
 <table>
 <thead>
   <tr>
-    <td>Mr Chelliah Trevor Devendran (HOD Humanities)</td>
+    <td>Mr Chelliah Trevor Devendran (HOD/Humanities)</td>
     <td><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">chelliah_trevor_devendran@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td>Mr Tan Say Pin (HOD/CCE)</td>
+    <td><a href="mailto:tan_say_pin@schools.gov.sg">tan_say_pin@schools.gov.sg</a></td>
+  </tr>
   <tr>
     <td>Mdm Choo Choy Joo Abby (SH/CCE)</td>
     <td><a href="mailto:choo_choy_joo@schools.gov.sg">choo_choy_joo@schools.gov.sg</a></td>
