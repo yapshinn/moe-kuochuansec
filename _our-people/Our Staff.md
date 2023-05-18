@@ -62,8 +62,10 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
+</tbody></table>
+
+<table> 
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Head of
   Department&nbsp;</b>
@@ -201,8 +203,10 @@ description: ""
 </td>
  
 </tr>
+	</tbody></table>
+	<table>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Subject Head /
   Senior Teacher / Lead Teacher</b>
@@ -356,8 +360,9 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
+ </tbody></table>
+ <table>
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Teaching Staff</b>
 </td>
@@ -1013,8 +1018,10 @@ description: ""
 </td>
  
 </tr>
+	</tbody></table>
+	<table>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Flexi-Teachers /
   Relief Teachers</b>
@@ -1185,8 +1192,10 @@ description: ""
 </td>
  
 </tr>
+	</tbody></table>
+	<table>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Allied Educators</b>
 </td>
@@ -1232,7 +1241,9 @@ description: ""
 </td>
  
 </tr>
-<tr height="19" class="">
+	</tbody></table>
+	<table>
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Executive &amp;
   Admin Staff</b>
