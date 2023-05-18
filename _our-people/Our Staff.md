@@ -1096,7 +1096,7 @@ description: ""
   <td class="">Tamil Language
 </td>
  <td height="19" class="">Mr
-  Namasivayam Pillai sellakrishnan
+  Namasivayam Pillai Sellakrishnan
 </td> 
 <td class="">n_sellakrishnan@schools.gov.sg
 </td>
