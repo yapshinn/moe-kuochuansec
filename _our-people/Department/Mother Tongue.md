@@ -21,7 +21,7 @@ third_nav_title: Department
     <td><a href="mailto:yu_xiaoqin@schools.gov.sg">yu_xiaoqin@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr. Ng Soon Chye (SH -Std Management</td>
+    <td>Mr. Ng Soon Chye (SH -Std Management)</td>
     <td><a href="mailto:ng_soon_chye@schools.gov.sg">ng_soon_chye@schools.gov.sg</a></td>
   </tr>
   <tr>
