@@ -23,33 +23,50 @@ third_nav_title: Department
 
 | CCE Specialised Teachers |  |  
 | -------- | -------- | 
-| **Sec.1 Level Champion**| |
-|Mr. Ng Chee Kian|ng_chee_kian@schools.gov.sg |
-|Mr. Yew Yishen|yew_yishen@schools.gov.sg |
-|**Sec.2 Level Champion**| |
-|Ms. Ng Yin yee|ng_yin_yee@schools.gov.sg |
-|**Sec.3 Level Champion**| |
-|Ms. Nur Diyanah Mohammad Suhaimi|nur_diyanah_mohammad_suhai@schools.gov.sg |
-|**Sec.4/5 Level Champion**| |
+|***Sec.1 Level Champion***| |
+|Mr Ng Chee Kian|ng_chee_kian@schools.gov.sg |
+|Mr Yew Yishen|yew_yishen@schools.gov.sg |
+|***Sec.2 Level Champion***| |
+|Ms Ng Yin yee|ng_yin_yee@schools.gov.sg |
+|***Sec.3 Level Champion***| |
+|Ms Nur Diyanah Mohammad Suhaimi|nur_diyanah_mohammad_suhai@schools.gov.sg |
+|***Sec.4/5 Level Champion***| |
 |Mrs Sek Hwee Leng|sek_hwee_leng@schools.gov.sg  |
-|**NE events IC**| |
-|Ms. Lee Rachel  |lee_rachel@schools.gov.sg |
-|Mr. Teo Han Yang Edwin|teo_han_yang_edwin@schools.gov.sg |
-|Ms. Amelia Yeo Jiaxin |amelia_yeo_jiaxin@schools.gov.sg |
-|Mr. Foo Seng Hong|foo_seng_hong@schools.gov.sg |
-|**VIA coordinator** |
-|Upper Sec: Mr. Ng Keng Yang|ng_keng_yang@schools.gov.sg |
-|Lower Sec: Ms. Tan Hui Si   |Tan_Hui_Si@schools.gov.sg |
+
+| NE Events IC |  | 
+| -------- | -------- | 
+|Ms Lee Rachel  |lee_rachel@schools.gov.sg |
+|Mr Teo Han Yang Edwin|teo_han_yang_edwin@schools.gov.sg |
+|Ms Amelia Yeo Jiaxin |amelia_yeo_jiaxin@schools.gov.sg |
+|Mr Foo Seng Hong|foo_seng_hong@schools.gov.sg |
+
+|VIA Coordinators |  | 
+| -------- | -------- | 
+|Upper Sec: Mr Ng Keng Yang|ng_keng_yang@schools.gov.sg |
+|Lower Sec: Ms Tan Hui Si   |Tan_Hui_Si@schools.gov.sg |
+
+
 |**Food and Entreprenuer Programme**| |
-|Mr. Lee Chong Min |lee_chong_min@schools.gov.sg|
-|Ms. Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
-|**Applied Learning Module (ApLM) coordinator**| |
-|Ms. Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
-|**Publicity**|
-|Siti Shahirah Bte Haider Bagesher|Siti_Shahirah_Bte_Haider_Bagesher@schools.gov.sg|
-|**Photography**|
-|Norhajjarrillah Bte Abdul Baki|Norhajjarrillah_Bte_Abdul_Baki@schools.gov.sg
-|**Education and Career Guidance (ECG)  counsellor**
-|Ms. Lim Yin Leng Lisa   |Lim_Yin_Leng_Lisa@schools.gov.sg|
-| **Full-Time School Counsellor** |
-|Mr. Joey Hong (Counsellor) |joey_hong@schools.gov.sg |
+| -------- | -------- | 
+|Mr Lee Chong Min |lee_chong_min@schools.gov.sg|
+|Ms Lee Hwee Ling, Grace|lee_hwee_ling_grace@schools.gov.sg |
+
+|**Applied Learning Module (ApLM) Coordinator**| |
+| -------- | -------- | 
+|Ms Nor'Aliah Abdul Samad |noraliah_abdul_samad@schools.gov.sg|
+
+|**Publicity**||
+| -------- | -------- | 
+|Mdm Siti Shahirah Bte Haider Bagesher|Siti_Shahirah_Bte_Haider_Bagesher@schools.gov.sg|
+
+|**Photography**||
+| -------- | -------- | 
+|Mdm Norhajjarrillah Bte Abdul Baki|Norhajjarrillah_Bte_Abdul_Baki@schools.gov.sg
+ 
+|**Education and Career Guidance (ECG)  Counsellor**||
+| -------- | -------- | 
+|Ms Lim Yin Leng Lisa   |Lim_Yin_Leng_Lisa@schools.gov.sg|
+
+| **Full-Time School Counsellor** ||
+| -------- | -------- | 
+|Mr Joey Hong (Counsellor) |joey_hong@schools.gov.sg |
