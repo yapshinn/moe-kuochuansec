@@ -62,8 +62,10 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
+</tbody>
+
+
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Head of
   Department&nbsp;</b>
@@ -197,12 +199,13 @@ description: ""
  <td height="19" class="">Ms Yeo Li li
   Clara
 </td>
-<td class="">yeo_li_li_clara@schools.gov.sg
+	<td class="">yeo_li_li_clara@schools.gov.sg<br> <br>
 </td>
  
 </tr>
+</tbody> 
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Subject Head /
   Senior Teacher / Lead Teacher</b>
@@ -352,12 +355,13 @@ description: ""
 <td height="19" class="">Miss Lim
   Wenting Janell
 </td>  
-<td class="">janell_lim@schools.gov.sg
+	<td class="">janell_lim@schools.gov.sg<br><br>
 </td>
  
 </tr>
+	</tbody>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Teaching Staff</b>
 </td>
@@ -1009,12 +1013,13 @@ description: ""
 <td height="19" class="">Miss Ho Jia
   Yan
 </td>  
-<td class="">ho_jia_yan@schools.gov.sg
+	<td class="">ho_jia_yan@schools.gov.sg<br><br>
 </td>
  
 </tr>
+	</tbody>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Flexi-Teachers /
   Relief Teachers</b>
@@ -1089,7 +1094,7 @@ description: ""
   <td class="">Tamil Language
 </td>
  <td height="19" class="">Mr
-  Namasivayam Pillai sellakrishnan
+  Namasivayam Pillai Sellakrishnan
 </td> 
 <td class="">n_sellakrishnan@schools.gov.sg
 </td>
@@ -1181,12 +1186,13 @@ description: ""
 <td height="19" class="">Mr Koh Tong
   Seah
 </td>  
-<td class="">koh_tong_seah@schools.gov.sg
+	<td class="">koh_tong_seah@schools.gov.sg<br><br>
 </td>
  
 </tr>
+	</tbody>
  
-<tr height="19" class="">
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Allied Educators</b>
 </td>
@@ -1228,11 +1234,12 @@ description: ""
 </td>
 <td height="19" class="">Ms Lim Yin Leng Lisa
 </td>  
-<td class="">lim_yin_leng_lisa@schools.gov.sg
+	 <td class="">lim_yin_leng_lisa@schools.gov.sg<br><br>
 </td>
  
 </tr>
-<tr height="19" class="">
+	</tbody>
+<tbody><tr height="19" class="">
   
 <td colspan="3" height="19" class="" style="text-align: center;"><b>Executive &amp;
   Admin Staff</b>
