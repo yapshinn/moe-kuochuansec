@@ -20,8 +20,8 @@ We celebrate Chinese New Year together as Kuo Chuan Family.
 **<u>Hamper Wrapping and Classroom Decoration</u>**
 
 Our students make Chinese New Year hampers to bless the community
+![](/images/Our%20People/Departments/MT/2023/cny%20hamper%20classrm.jpeg)
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%202.png)
 
 ![](/images/Our%20People/Departments/MT/MT%20Prog%203.png)
 
