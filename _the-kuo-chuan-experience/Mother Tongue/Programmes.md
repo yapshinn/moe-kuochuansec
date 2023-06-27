@@ -15,8 +15,7 @@ third_nav_title: Mother Tongue
 
 We celebrate Chinese New Year together as Kuo Chuan Family.
 
-
-![](/images/Our%20People/Departments/MT/2023/dsc_0259.jpg)![](/images/Our%20People/Departments/MT/2023/dsc_0213.jpg)
+![](/images/Our%20People/Departments/MT/2023/dsc_0259.jpg)<br>![](/images/Our%20People/Departments/MT/2023/dsc_0213.jpg)
 
 **<u>Hamper Wrapping and Classroom Decoration</u>**
 
