@@ -13,6 +13,7 @@ third_nav_title: For Parents
 
 
 ### Termly Letters
+[Letter to Parent - Term 3](/files/Useful%20Links/Termly%20Updates/2023%20term%203%20parent%20letter%20(final).pdf)<br>
 [Letter to Parent - Term 2](/files/Useful%20Links/Termly%20Updates/2023%20kcpss%20term%202%20letter.pdf)
 
 ### Weighted Assessment Schedules

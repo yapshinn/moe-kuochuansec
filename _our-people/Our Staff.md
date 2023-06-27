@@ -430,8 +430,17 @@ description: ""
 </td>  
 <td class="">Doreen_Tang_Kah_Yin@schools.gov.sg
 </td>
+ </tr><tr height="19" class="">
+ <td class="">Teacher - 1 HOPE
+</td>
+ <td height="19" class="">Ms Yin Yin
+  Esther Yong&nbsp;
+</td> 
+<td class="">yong_yin_yin_esther@schools.gov.sg
+</td>
  
 </tr>
+
  
 <tr height="19" class="">
 <td class="">Teacher - 1 JOY
@@ -852,7 +861,16 @@ description: ""
 </td>
  
 </tr>
+ <tr height="19" class="">
+ <td class="">Teacher - 4 FAITH
+</td>
+ <td height="19" class="">Mdm Chan Ann Gee
+  Ng&nbsp;
+</td> 
+<td class="">chan_ann_gee@schools.gov.sg
+</td>
  
+</tr>
 <tr height="19" class="">
 <td class="">Teacher - 4 GRACE
 </td>
@@ -996,16 +1014,7 @@ description: ""
  
 </tr>
  
-<tr height="19" class="">
- <td class="">Teacher 
-</td>
- <td height="19" class="">Ms Yin Yin
-  Esther Yong&nbsp;
-</td> 
-<td class="">yong_yin_yin_esther@schools.gov.sg
-</td>
- 
-</tr>
+
  
 <tr height="19" class="">
 <td class="">Teacher
@@ -1055,20 +1064,7 @@ description: ""
 </td>  
 <td class="">arunajeet_kaur@schools.gov.sg
 </td>
- 
-</tr>
-<tr height="19" class="">
- <td class="">English
-</td>
-<td height="19" class="">Mdm Sunu
-  Sivadasan&nbsp;
-</td>  
-<td class="">Sunu_Sivadasan@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
+</tr><tr height="19" class="">
 <td class="">English
 </td>
  <td height="19" class="">Ms Loh Tai
@@ -1133,18 +1129,6 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
- <td class="">Maths
-</td>
-<td height="19" class="">Mr Haw Say
-  Boon Clarence
-</td>  
-<td class="">Haw_Say_Boon@schools.gov.sg
-</td>
- 
-</tr>
- 
 <tr height="19" class="">
   <td class="">Maths
 </td>
@@ -1155,31 +1139,7 @@ description: ""
 </td>
  
 </tr>
- 
-<tr height="19" class="">
-<td class="">Maths
-</td>
- <td height="19" class="">Mr Ha Yeong
-  Fook
-</td> 
-<td class="">ha_yeong_fook@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
-  <td class="">Music
-</td>
-<td height="19" class="">Mr Ong Wee
-  Chong Daryl
-</td>  
-<td class="">ong_wee_chong_daryl@schools.gov.sg
-</td>
- 
-</tr>
- 
 
- 
 <tr height="19" class="">
   <td class="">D&amp;T
 </td>
@@ -1187,6 +1147,15 @@ description: ""
   Seah
 </td>  
 	<td class="">koh_tong_seah@schools.gov.sg<br><br>
+</td>
+ 
+</tr>
+	<tr height="19" class="">
+  <td class="">Science
+</td>
+<td height="19" class="">Mdm Teo Wil Ping
+</td>  
+	<td class="">teo_wil_ping_a@schools.gov.sg<br><br>
 </td>
  
 </tr>
@@ -1336,7 +1305,20 @@ description: ""
 </td>
  
 </tr>
+ <tr height="19" class="">
+  <td class="">CSO
+</td>
+
+<td height="19" class="">Mdm V Nirumala
+  
+</td>
+<td class="">v_nirumala@schools.gov.sg
+</td>
  
+</tr>
+
+ 
+
 <tr height="19" class="">
   <td class="">TSO
 </td>
