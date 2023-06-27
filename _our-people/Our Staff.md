@@ -852,7 +852,16 @@ description: ""
 </td>
  
 </tr>
+ <tr height="19" class="">
+ <td class="">Teacher - 4 FAITH
+</td>
+ <td height="19" class="">Mdm Chan Ann Gee
+  Ng&nbsp;
+</td> 
+<td class="">chan_ann_gee@schools.gov.sg
+</td>
  
+</tr>
 <tr height="19" class="">
 <td class="">Teacher - 4 GRACE
 </td>
