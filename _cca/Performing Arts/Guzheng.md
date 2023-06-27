@@ -109,6 +109,6 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 
 
 
-| Lee Chong Min | Lim Zi Min | 
-| -------- | -------- | 
-| <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     |
+| Lim Zi Min  |Lee Chong Min | Foo ji Ying Eunice |
+| -------- | -------- |  -------- |
+| <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>     
