@@ -21,8 +21,6 @@ We celebrate Chinese New Year together as Kuo Chuan Family.
 
 Our students make Chinese New Year hampers to bless the community
 ![](/images/Our%20People/Departments/MT/2023/cny%20hamper%20classrm.jpeg)
-
-
 ![](/images/Our%20People/Departments/MT/MT%20Prog%203.png)
 
 **2.&nbsp;Conversational Chinese and Malay Programme (CCM)**  
@@ -34,15 +32,11 @@ This 10 weeks programmes carried out in Semester One aims to help Sec 1 students
 
 **3\. &nbsp;MT Fortnight Cum Cultural Day Camp**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%205.png)
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%206.jpg)
-![](/images/Our%20People/Departments/MT/MT%20Prog%207.png)
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%208.png)
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%209.png)
-
+Understanding of Han Fu and its customs
+![](/images/Our%20People/Departments/MT/2023/img_9888.jpg)<br>
+![](/images/Our%20People/Departments/MT/2023/hanfu_understand.jpeg)<br>
+CNY Calligraphy
+![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
 
 **4\. &nbsp;XINYAO Song Appreciation Programme**
 
