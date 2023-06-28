@@ -5,7 +5,7 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Halal Stall     | 31st May 2023     | (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).    |
+| Halal Stall     | 31st July 2023     | (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).    |
 
 Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stallholder to operate a Halal certified Food Stall in our school canteen, with effect from an agreed upon date after award. Besides providing sumptuous, healthy meals and snacks to the students and staff, our school is looking at our canteen to be a place where hungry students and staff can look forward to wide choices of exciting meals.  As such, we are open to different ideas and concepts of halal dishes (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).  Interested vendors are invited to participate in this bid for the stall.
 	
