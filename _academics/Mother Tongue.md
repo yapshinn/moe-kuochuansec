@@ -3,21 +3,18 @@ title: Mother Tongue
 permalink: /the-kuo-chuan-experience/academics/mt/
 description: ""
 ---
-
-
-
 **<center>MOTHER TONGUE DEPARTMENT</center>**
 
 
 ## Area of Focus
 
 <p style="text-align: justify;font-size:16px;">
-The Kuo Chuan Presbyterian Secondary School Mother Tongue (MT) Department aims to enthuse and develop students to become active learners and proficient MTL users so that they are able to use MTL to engage in effective communications in real life settings. </p>
+The Kuo Chuan Presbyterian Secondary School Mother Tongue (MT) Department aims to enthuse and develop students to become&nbsp;active learners and proficient MTL users so that they are able to use MTL to engage in effective communications in real life settings.&nbsp;</p>
 
   
 
 <p style="text-align: justify;font-size:16px;">
-Through the learning of MTL, the department also seeks to cultivate in students an appreciation of the cultural values and traditions associated with each MTL in our society.</p>
+Through the learning of MTL, the department also seeks to cultivate in students an appreciation of the cultural values and traditions&nbsp;associated with each MTL in our society.</p>
 
 **<center>Mother Tongue Department Pedagogical Approach</center>**
 
@@ -36,36 +33,29 @@ Through the learning of MTL, the department also seeks to cultivate in students 
 
 We celebrate Chinese New Year together as Kuo Chuan Family.
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%201.png)
+![](/images/Our%20People/Departments/MT/2023/dsc_0259.jpg)<br>![](/images/Our%20People/Departments/MT/2023/dsc_0213.jpg)
 
 **<u>Hamper Wrapping and Classroom Decoration</u>**
 
 Our students make Chinese New Year hampers to bless the community
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%202.png)
-
+![](/images/Our%20People/Departments/MT/2023/cny%20hamper%20classrm.jpeg)
 ![](/images/Our%20People/Departments/MT/MT%20Prog%203.png)
 
-**2. Conversational Chinese and Malay Programme (CCM)**  
+**2.&nbsp;Conversational Chinese and Malay Programme (CCM)**  
 
-<p style="text-align: justify;font-size:16px;">
-This 10 weeks programmes carried out in Semester One aims to help Sec 1 students to master basic conversation of the other Mother Tongue.</p>
+This 10 weeks programmes carried out in Semester One aims to help Sec 1 students to master basic conversation of the other Mother Tongue.
 
 ![](/images/Our%20People/Departments/MT/MT%20Prog%204.png)
 
 
-**3\.  MT Fortnight Cum Cultural Day Camp**
+**3\. &nbsp;MT Fortnight Cum Cultural Day Camp**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%205.png)
+Understanding of Han Fu and its customs
+![](/images/Our%20People/Departments/MT/2023/img_9888.jpg)<br>
+![](/images/Our%20People/Departments/MT/2023/hanfu_understand.jpeg)<br>
+CNY Calligraphy
+![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%206.jpg)
-![](/images/Our%20People/Departments/MT/MT%20Prog%207.png)
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%208.png)
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%209.png)
-
-
-**4\.  XINYAO Song Appreciation Programme**
+**4\. &nbsp;XINYAO Song Appreciation Programme**
 
 ![](/images/Our%20People/Departments/MT/MT%20Prog%2010.png)
