@@ -28,7 +28,7 @@ We are looking for applicants with:
 
 &nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interest in playing in an ensemble
 
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some competency in playing any musical instrument
+&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some competency in playing any band instrument
  
  <table>
 <thead>

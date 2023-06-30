@@ -27,11 +27,11 @@ third_nav_title: Department
 |Mr Ng Chee Kian|ng_chee_kian@schools.gov.sg |
 |Mr Yew Yishen|yew_yishen@schools.gov.sg |
 |***Sec.2 Level Champion***| |
-|Ms Ng Yin yee|ng_yin_yee@schools.gov.sg |
+|Ms Ng Yin Yee|ng_yin_yee@schools.gov.sg |
 |***Sec.3 Level Champion***| |
 |Ms Nur Diyanah Mohammad Suhaimi|nur_diyanah_mohammad_suhai@schools.gov.sg |
 |***Sec.4/5 Level Champion***| |
-|Mrs Sek Hwee Leng|sek_hwee_leng@schools.gov.sg  |<br><br>
+|Mrs Cheong Hwee Leng|sek_hwee_leng@schools.gov.sg  |<br><br>
 
 | NE Events IC |  | 
 | -------- | -------- | 
