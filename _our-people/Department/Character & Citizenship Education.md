@@ -31,7 +31,7 @@ third_nav_title: Department
 |***Sec.3 Level Champion***| |
 |Ms Nur Diyanah Mohammad Suhaimi|nur_diyanah_mohammad_suhai@schools.gov.sg |
 |***Sec.4/5 Level Champion***| |
-|Mrs Sek Hwee Leng|sek_hwee_leng@schools.gov.sg  |<br><br>
+|Mrs Cheong Hwee Leng|sek_hwee_leng@schools.gov.sg  |<br><br>
 
 | NE Events IC |  | 
 | -------- | -------- | 
