@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Alumni Achievements/Year 2022.md
       - Alumni Achievements/Year 2021.md
       - Alumni Achievements/.keep
       - Co Curricular Achievements/.keep
