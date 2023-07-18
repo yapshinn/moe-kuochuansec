@@ -17,4 +17,5 @@ third_nav_title: For Parents
 [Letter to Parent - Term 2](/files/Useful%20Links/Termly%20Updates/2023%20kcpss%20term%202%20letter.pdf)
 
 ### Weighted Assessment Schedules
-[Secondary 1 - WA3](/files/Useful%20Links/Termly%20Updates/sec1%20wa3%20schedule%202023.pdf)<br>[Secondary 2 - WA3](/files/Useful%20Links/Termly%20Updates/sec2%20wa3%20schedule%202023.pdf)<br>[Secondary 3 - WA3](/files/Useful%20Links/Termly%20Updates/sec%203%20wa3%20schedule%202023.pdf)
+[Secondary 1 - WA3](/files/Useful%20Links/Termly%20Updates/sec1%20wa3%20schedule%202023.pdf)<br>[Secondary 2 - WA3](/files/Useful%20Links/Termly%20Updates/secondary%202%20-%20wa3_updated.pdf)
+<br>[Secondary 3 - WA3](/files/Useful%20Links/Termly%20Updates/sec%203%20wa3%20schedule%202023.pdf)

@@ -19,7 +19,5 @@ description: ""
 [Leave of Absent (LOA)](https://go.gov.sg/kcpssloa)
 
 ### Weighted Assessment Schedules
-[Secondary 1 - WA2](/files/Useful%20Links/Termly%20Updates/s1_wa2_2023_final.pdf)<br>
-[Secondary 2 - WA2](/files/Useful%20Links/Termly%20Updates/s2_wa2_2023_f1.pdf)<br>
-[Secondary 3 - WA2](/files/Useful%20Links/Termly%20Updates/s3_wa2_2023_final.pdf)<br>
-[Secondary 4&amp;5 - WA2](/files/Useful%20Links/Termly%20Updates/s4_5_wa2_2023_final.pdf)
+[Secondary 1 - WA3](/files/Useful%20Links/Termly%20Updates/sec1%20wa3%20schedule%202023.pdf)<br>[Secondary 2 - WA3](/files/Useful%20Links/Termly%20Updates/secondary%202%20-%20wa3_updated.pdf)
+<br>[Secondary 3 - WA3](/files/Useful%20Links/Termly%20Updates/sec%203%20wa3%20schedule%202023.pdf)
