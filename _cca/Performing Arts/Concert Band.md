@@ -1,10 +1,10 @@
 ---
-title: Symphonic Band
+title: Concert Band
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Symphonic Band
+## Concert Band
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/symphonic%20band.jpg)
 

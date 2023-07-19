@@ -1022,7 +1022,17 @@ description: ""
 <td height="19" class="">Miss Ho Jia
   Yan
 </td>  
-	<td class="">ho_jia_yan@schools.gov.sg<br><br>
+	<td class="">ho_jia_yan@schools.gov.sg
+</td>
+ 
+</tr>
+	<tr height="19" class="">
+<td class="">Teacher
+</td>
+<td height="19" class="">Mr Chiz Poh Seng
+
+</td>  
+	<td class="">chiz_poh_seng@schools.gov.sg<br><br>
 </td>
  
 </tr>
@@ -1148,8 +1158,17 @@ description: ""
 </td>  
 	<td class="">koh_tong_seah@schools.gov.sg<br><br>
 </td>
+ </tr>
+	<tr height="19" class="">
+  <td class="">D&amp;T
+</td>
+<td height="19" class="">Mr Mok Heng Quan
+</td>  
+	<td class="">mok_heng_quan@schools.gov.sg<br><br>
+</td>
  
 </tr>
+
 	<tr height="19" class="">
   <td class="">Science
 </td>
@@ -1158,8 +1177,8 @@ description: ""
 	<td class="">teo_wil_ping_a@schools.gov.sg<br><br>
 </td>
  
-</tr>
-	</tbody>
+
+	</tr></tbody>
  
 <tbody><tr height="19" class="">
   
