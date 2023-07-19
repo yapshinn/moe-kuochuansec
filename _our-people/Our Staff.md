@@ -1148,8 +1148,17 @@ description: ""
 </td>  
 	<td class="">koh_tong_seah@schools.gov.sg<br><br>
 </td>
+ </tr>
+	<tr height="19" class="">
+  <td class="">D&amp;T
+</td>
+<td height="19" class="">Mr Mok Heng Quan
+</td>  
+	<td class="">mok_heng_quan@schools.gov.sg<br><br>
+</td>
  
 </tr>
+
 	<tr height="19" class="">
   <td class="">Science
 </td>
@@ -1158,8 +1167,8 @@ description: ""
 	<td class="">teo_wil_ping_a@schools.gov.sg<br><br>
 </td>
  
-</tr>
-	</tbody>
+
+	</tr></tbody>
  
 <tbody><tr height="19" class="">
   
