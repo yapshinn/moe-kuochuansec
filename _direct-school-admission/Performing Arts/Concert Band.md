@@ -23,12 +23,16 @@ For more information on the programme, please visit
 
 
 We are looking for applicants with:
+* Passion for music
+* Competency in playing a band instrument (double bass included)
 
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passion for music
 
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interest in playing in an ensemble
+Things to prepare for Band audition: 
 
-&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some competency in playing any band instrument
+* Scale
+* Two contrasting solo pieces (one slow and one fast piece, NOT band pieces)
+* Sight-reading (score will be provided on the spot)
+
  
  <table>
 <thead>
@@ -43,15 +47,15 @@ We are looking for applicants with:
   </tr>
   <tr>
     <td>Evidence of Aptitude</td>
-    <td>Any portfolios or audio/video recordings to highlight aptitude in talent area<br> <br>For example:<br>●       Videos of solo performances with a musical instrument</td>
+    <td>Audio/video recordings to highlight aptitude in relevant Band instrument<br> <br>For example:<br>●       Videos of solo performances with a band instrument</td>
   </tr>
   <tr>
     <td>Attainment</td>
-    <td>Applicants should preferably have:<br> <br>●       Experience with band or any other music-based area pursued either at CCA level or externally.<br>●       Record of performances or involvement in concerts at local level and beyond<br>●       Any certification in musical instruments</td>
+    <td>Applicants should preferably have:<br> <br>●       Experience with Band pursued either at CCA level or externally.<br>●       Record of performances or involvement in concerts at local level and beyond<br>●       Any certification in Band instruments</td>
   </tr>
   <tr>
     <td>Motivation and Interest</td>
-    <td>Brief personal statement (not exceeding 100 words) addressing the following areas:<br> <br>●       What are some personal qualities you have that will make you suitable for this talent area?<br>●       What do you hope to gain from coming to KCPSS?</td>
+    <td>Brief personal statement (not exceeding 100 words) addressing the following areas:<br> <br>●       What are some personal qualities you have that will make you suitable for Band?<br>●       What do you hope to gain from coming to KCPSS?</td>
   </tr>
 </tbody>
 </table>
