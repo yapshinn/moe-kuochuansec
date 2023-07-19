@@ -17,7 +17,7 @@ We welcome passionate, talented and committed individuals who want to join the K
 
 For more information on the programme, please visit
 
-[https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/](https://staging.d38b8pvh8spt44.amplifyapp.com/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/)
+[Concert Band](https://www.kuochuanpresbyteriansec.moe.edu.sg/the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/concert-band/)
 
 ### What are we looking for?
 
