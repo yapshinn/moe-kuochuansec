@@ -14,7 +14,8 @@ description: ""
 
 ### Join Us
 
-![](/images/Our%20People/PSG%203.png)
+![](/images/Our%20People/PSG/members_18_aug23.jpg)
+
 
 Please register at&nbsp;**[HERE](https://go.gov.sg/kcpss-psgmember-registration-form)**&nbsp;.
 
