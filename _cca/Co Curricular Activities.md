@@ -35,7 +35,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><a href="/files/ccaschedule2023(23 aug)">CCA Training Schedule</a></td>
+    <td><a href="/files/ccaschedule2023_23aug.pdf">CCA Training Schedule</a></td>
     <td><a href="/files/LEAPS2%20Grading%20System.pdf">LEAPS 2.0</a></td>
   </tr>
 </thead>
