@@ -18,4 +18,12 @@ sections:
   - resources:
       title: Announcements
       button: Click Here
+  - infopic:
+      title: OPEN HOUSE
+      id: infopic
+      description: |-
+        18 Nov 2023
+        9am - 12pm
+      image: /images/for motd ad 2023.png
+      alt: Image alt text
 ---
