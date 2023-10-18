@@ -5,9 +5,10 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Halal Stall     | 30th September 2023     | (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).    |
+| Halal Stall     | 31 December 2023     | (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).    |
+| Chinese Stall     | 31 December 2023     | (E.g. different ideas and concepts of Chinese dishes)  |
 
-Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stallholder to operate a Halal certified Food Stall in our school canteen, with effect from an agreed upon date after award. Besides providing sumptuous, healthy meals and snacks to the students and staff, our school is looking at our canteen to be a place where hungry students and staff can look forward to wide choices of exciting meals.  As such, we are open to different ideas and concepts of halal dishes (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc).  Interested vendors are invited to participate in this bid for the stall.
+Kuo Chuan Presbyterian Secondary School (KCPSS) is looking for a stall holder to operate a Halal certified Food Stall &amp; Chinese Rise Stall in our school canteen, with effect from an agreed upon date after award. Besides providing sumptuous, healthy meals and snacks to the students and staff, our school is looking at our canteen to be a place where hungry students and staff can look forward to wide choices of exciting meals.  As such, we are open to different ideas and concepts of halal dishes (E.g. Traditional Malay, Indian Muslim, Thai, Vietnamese, etc) &amp; Chinese dishes .  Interested vendors are invited to participate in this bid for the stall.
 	
 **Location:**<br>
 10 Bishan Street 13, Singapore 579795
@@ -35,7 +36,7 @@ For enquiries, interested vendors may call the school at 6259 3811 to speak with
 The [Application Form](/files/canteen%20application%20form.pdf) can be downloaded from MOE Canteen website at: [https://schadmsvc.moe.gov.sg/moescas/](https://schadmsvc.moe.gov.sg/moescas/) A hardcopy can also be obtained from the school's General Office.<br>
 
 	
-The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 May 2023:
+The following documents must be submitted to school’s General office or via kcpss@moe.edu.sg by 31 Dec 2023:
 * Completed application form
 * Past records/testimonials
 * Supporting documents (e.g. photocopy of NRIC and relevant certificates e.g. NEA Basic Food Hygiene Course), and;
