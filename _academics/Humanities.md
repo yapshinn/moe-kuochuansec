@@ -7,9 +7,6 @@ description: ""
 
 ## Area of Focus
 
-![](/images/Our%20People/Departments/Humanities.jpg)
-
-
 
 | Vision| Mission | 
 | -------- | -------- |
@@ -45,7 +42,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqRqv7kljUdkuEB3FMmUBUpKQApsB8oOL02wzmez0wxWelylLjrqE0SuQ_fRLZByBRtvEd_rtArebT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></td>
+    <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqRqv7kljUdkuEB3FMmUBUpKQApsB8oOL02wzmez0wxWelylLjrqE0SuQ_fRLZByBRtvEd_rtArebT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
     <td style="text-align: justify;font-size:16px;">Our Secondary One students embarked on a learning journey to the Singapore River with the theme, “From a sleepy fishing village into a modern metropolis”. Through this they were able to gather information and data for their ‘Historical Investigation’ in a fun and engaging way based on an amazing race format. In addition, they were also able to apply Maths concepts and EL elements to challenges set to them in their learning journey.</td>
   </tr>
 </thead>
@@ -59,7 +56,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz1TyIUahcLGoq7Mlh6QRaKqF_hbhLXwqD50ELOjDlwfXbnXI8OUm60Rv-QA7urOq7_qQ-Uakw8ORZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><br><br><br><br><br><br><br><br><br></td>
+    <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAjTqJAdG2V4IGQwJHmMyF-Vsob0n8NoZCo7MIX0j4vgS5ZF8kLd4IevQ-u_LrIZ7DDuyL8VXgfbir/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe><br><br><br><br><br><br><br><br><br></td>
     <td style="text-align: justify;font-size:16px;">History came alive for the Secondary Two students when they returned to the Japanese Occupation at the Memories at Old Ford Factory! A World War II historical site, the History and English department leveraged on the Secondary Two Learning Journey to walk through the pathway of ‘Syonan’ and relived the moments of the past. Many of our students walked away with a better understanding of the experiences of the locals and survivors of the Japanese Occupation, helping our young to appreciate that Singapore’s sovereignty came with a price. </td>
   </tr>
 </thead>
@@ -71,7 +68,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVEPsYFJH1Bao2REZA7sk7Cfv6BHYPyd_itvRLvoMML3sCjCCh4LgVX6KiUKDghN5cRgYVHU5OPgcT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe><br><br><br></td>
+    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVEPsYFJH1Bao2REZA7sk7Cfv6BHYPyd_itvRLvoMML3sCjCCh4LgVX6KiUKDghN5cRgYVHU5OPgcT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><br><br><br></td>
     <td style="text-align: justify;font-size:16px;">The Secondary One students embarked on learning journeys to either Labrador Park or Singapore Botanic Gardens to investigate the characteristics of the tropical forest. Students will also observe the human activities that take place in our tropical forests. This is part of their primary data collection for the Geographical Investigation. </td>
   </tr>
 </thead>
@@ -83,7 +80,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL2TYIzCvz0RHbW0rjuRKs6oOFQuLPX6i4rzUwE_45GKJhiaHGQgqJdtfQ8RWFhcixXMsIBBhphFHh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></td>
+    <td><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRL2TYIzCvz0RHbW0rjuRKs6oOFQuLPX6i4rzUwE_45GKJhiaHGQgqJdtfQ8RWFhcixXMsIBBhphFHh/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
     <td style="text-align: justify;font-size:16px;">The Secondary Two students embarked on a field study trip to explore the neighborhood at Ang Mo Kio and Bishan. They discovered elements of inclusive housing on their journey and a sense of place and space. </td>
   </tr>
 </thead>
@@ -126,9 +123,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/zoB2EwG27vM" title="Secondary 1 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/JYz6zTCHIKQ" title="Secondary 2 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/nCKonT43Xo0" title="Secondary 4 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Secondary 1 Media Literacy" src="https://www.youtube.com/embed/zoB2EwG27vM" height="240" width="352"></iframe></td>
+    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Secondary 2 Media Literacy" src="https://www.youtube.com/embed/JYz6zTCHIKQ" height="240" width="352"></iframe></td>
+    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Secondary 4 Media Literacy" src="https://www.youtube.com/embed/nCKonT43Xo0" height="240" width="352"></iframe></td>
   </tr>
 </tbody>
 </table>
