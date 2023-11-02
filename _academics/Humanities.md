@@ -3,16 +3,35 @@ title: Humanities
 permalink: /the-kuo-chuan-experience/academics/humanities/
 description: ""
 ---
-
-
 **<center>HUMANITIES DEPARTMENT</center>**
 
 ## Area of Focus
 
-![](/images/Our%20People/Departments/Humanities.jpg)
 
+| Vision| Mission | 
+| -------- | -------- |
+| Every KCPian an **A.C.E. (Analytical, Collaborative &amp; Ethical)** thinker, serving the community with an excellence mindset. | To develop KCPians holistically through collaborative, cooperative and inquiry based learning strategies to instill a sense of self directed for life-long learning    | 
+|
 
+**Values**<br>
+**T:** Teamwork **(T-GRACE)**<br>
+**G :** God-fearing <br>
+**R:** Resilience <br>
+**A:** Agape <br>
+**C:** Conscientiousness<br>
+**E:** Empathy<br>      
 
+**Strategies employed in the Humanities Department@KCPSS:**
+* Learning Journeys for an experiential learning experience
+* Field Studies for an authentic learning experience in the field of Geography
+* Inquiry based approach to hone critical and inventive thinking skills
+* Differentiated teaching practices to cater to the learning needs and styles of students
+* Collaborative and cooperative learning strategies to enable students to be engaged learners
+* Flipped classrooms to provide opportunities for students to be self-directed learners
+* AfL (Assessment for learning) to enhance the feedback given to students
+* Media platforms to understand and appreciate cross-cultural differences 
+	
+	
 ## Programmes
 
 
@@ -37,7 +56,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz1TyIUahcLGoq7Mlh6QRaKqF_hbhLXwqD50ELOjDlwfXbnXI8OUm60Rv-QA7urOq7_qQ-Uakw8ORZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><br><br><br><br><br><br><br><br><br></td>
+    <td><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAjTqJAdG2V4IGQwJHmMyF-Vsob0n8NoZCo7MIX0j4vgS5ZF8kLd4IevQ-u_LrIZ7DDuyL8VXgfbir/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe><br><br><br><br><br><br><br><br><br></td>
     <td style="text-align: justify;font-size:16px;">History came alive for the Secondary Two students when they returned to the Japanese Occupation at the Memories at Old Ford Factory! A World War II historical site, the History and English department leveraged on the Secondary Two Learning Journey to walk through the pathway of ‘Syonan’ and relived the moments of the past. Many of our students walked away with a better understanding of the experiences of the locals and survivors of the Japanese Occupation, helping our young to appreciate that Singapore’s sovereignty came with a price. </td>
   </tr>
 </thead>
@@ -92,8 +111,8 @@ description: ""
 </tbody>
 </table>
 
-<BR>
-
+<br>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXqsKwmQkbOEDowrzsFSofGgYBARNskr0kjHiwascLyAcqtjDp4I8KvCIIGcNPajySdjGEW_Vh_XMd/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></p>
 <table>
 <thead>
   <tr>
@@ -104,9 +123,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/zoB2EwG27vM" title="Secondary 1 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/JYz6zTCHIKQ" title="Secondary 2 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/nCKonT43Xo0" title="Secondary 4 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/zoB2EwG27vM" title="Secondary 1 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/JYz6zTCHIKQ" title="Secondary 2 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/nCKonT43Xo0" title="Secondary 4 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
