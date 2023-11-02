@@ -30,4 +30,5 @@ sections:
       image: /images/motd image.jpeg
       button: Vitual Open house
       url: https://www.kuochuanpresbyteriansec.moe.edu.sg/virtual-open-house/
+      alt: open house
 ---
