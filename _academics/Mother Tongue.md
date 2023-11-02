@@ -56,6 +56,15 @@ Understanding of Han Fu and its customs
 CNY Calligraphy
 ![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
 
-**4\. &nbsp;XINYAO Song Appreciation Programme**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%2010.png)
+**4\. &nbsp;Secondary 1 Learning Journey to Chinatown**
+
+![Learning Journey to Chinatown](/images/Our%20People/Departments/MT/2023/chinatownlj.jpg)
+
+**5\. &nbsp;Secondary 1 -3 Lerning Journey to Kampong Glam**
+
+![Learning Journey to Kampong Glam](/images/Our%20People/Departments/MT/2023/kgglum23.jpg)
+
+**6\. &nbsp;YES 933 Radio DJ Talk-Park**
+
+![YES 933 Radio DJ Talk-Park](/images/Our%20People/Departments/MT/2023/djs_lj.jpg)
