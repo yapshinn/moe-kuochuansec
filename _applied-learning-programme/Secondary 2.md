@@ -10,7 +10,7 @@ description: ""
 
 
 <p style="text-align: justify;font-size:16px;">
-Students tried their hand at being young film-makers as they crafted a broadcasting script and produced a storyboard for a news broadcast.   In view of the COVID-19 safety measures this year, the students were tasked to complete an adapted version of the Sec 2 Film &amp; Broadcasting programme. </p>
+Students tried their hand at being young film-makers as they crafted a broadcasting script and produced a storyboard for a news broadcast.   </p>
 
 <p style="text-align: justify;font-size:16px;">
 The 2 Express students created a video log of their book collection and the books that they have read during the circuit breaker period. They incorporated the use of various camera angles and creative editing to captivate their audience and express their love for reading. </p>  
