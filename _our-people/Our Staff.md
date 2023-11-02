@@ -511,7 +511,7 @@ description: ""
 <tr height="19" class=""> 
 <td class="">Teacher - 1 PRAISE
 </td>
-<td height="19" class="">Mrs Lee Hwee
+<td height="19" class="">Mrs Tham Hwee
   Ling Grace&nbsp;
 </td>  
 <td class="">lee_hwee_ling_grace@schools.gov.sg
@@ -1160,7 +1160,7 @@ description: ""
 </td>
  </tr>
 	<tr height="19" class="">
-  <td class="">D&amp;T
+  <td class="">PE
 </td>
 <td height="19" class="">Mr Mok Heng Quan
 </td>  
@@ -1281,18 +1281,6 @@ description: ""
 </tr>
  
 <tr height="19" class="">
-  <td class="">Adjunct Operation
-  Manager
-</td>
- <td height="19" class="">Mr Mahendran
-  Paramasivam Alex
-</td> 
-<td class="">Mahendran_Paramasivam_alex@schools.gov.sg
-</td>
- 
-</tr>
- 
-<tr height="19" class="">
   <td class="">CSO
 </td>
  <td height="19" class="">Mdm Lim Hui
@@ -1322,7 +1310,16 @@ description: ""
 </td>
 <td class="">luke_teo_lead@schools.gov.sg
 </td>
- 
+	</tr>
+	<tr height="19" class="">
+  <td class="">CSO
+</td>
+<td height="19" class="">Ms Siti Rashidah Binte Abu Bakar
+  
+</td>
+<td class="">siti_rashidah_abu_bakar@schools.gov.sg
+</td>
+		
 </tr>
  <tr height="19" class="">
   <td class="">CSO
