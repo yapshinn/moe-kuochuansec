@@ -3,8 +3,6 @@ title: Humanities
 permalink: /the-kuo-chuan-experience/academics/humanities/
 description: ""
 ---
-
-
 **<center>HUMANITIES DEPARTMENT</center>**
 
 ## Area of Focus
@@ -13,6 +11,30 @@ description: ""
 
 
 
+| Vision| Mission | 
+| -------- | -------- |
+| Every KCPian an **A.C.E. (Analytical, Collaborative &amp; Ethical)** thinker, serving the community with an excellence mindset. | To develop KCPians holistically through collaborative, cooperative and inquiry based learning strategies to instill a sense of self directed for life-long learning    | 
+|
+
+**Values**<br>
+**T:** Teamwork **(T-GRACE)**<br>
+**G :** God-fearing <br>
+**R:** Resilience <br>
+**A:** Agape <br>
+**C:** Conscientiousness<br>
+**E:** Empathy<br>      
+
+**Strategies employed in the Humanities Department@KCPSS:**
+* Learning Journeys for an experiential learning experience
+* Field Studies for an authentic learning experience in the field of Geography
+* Inquiry based approach to hone critical and inventive thinking skills
+* Differentiated teaching practices to cater to the learning needs and styles of students
+* Collaborative and cooperative learning strategies to enable students to be engaged learners
+* Flipped classrooms to provide opportunities for students to be self-directed learners
+* AfL (Assessment for learning) to enhance the feedback given to students
+* Media platforms to understand and appreciate cross-cultural differences 
+	
+	
 ## Programmes
 
 
@@ -92,7 +114,7 @@ description: ""
 </tbody>
 </table>
 
-<BR>
+<br>
 
 <table>
 <thead>
@@ -104,9 +126,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/zoB2EwG27vM" title="Secondary 1 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/JYz6zTCHIKQ" title="Secondary 2 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/nCKonT43Xo0" title="Secondary 4 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/zoB2EwG27vM" title="Secondary 1 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/JYz6zTCHIKQ" title="Secondary 2 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
+    <td><iframe width="352" height="240" src="https://www.youtube.com/embed/nCKonT43Xo0" title="Secondary 4 Media Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
