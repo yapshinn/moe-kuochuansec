@@ -4,7 +4,7 @@ title: Kuo Chuan Presbyterian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: KCPSS Open House 18 November 2023  (9am - 12pm )
 sections:
   - hero:
       background: /images/banner_5_5_23.gif
