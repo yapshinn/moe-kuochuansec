@@ -17,10 +17,10 @@ variant: markdown
 <img src="/images/Our%20People/Departments/English/el2023.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/craft-technology/">
-<img src="/images/Our%20People/Departments/Departments%20Main%20Page/Craft%20&amp;%20Tech.jpg" style="width:35%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/Craft%20&amp;%20Technology/design_t2.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
 
