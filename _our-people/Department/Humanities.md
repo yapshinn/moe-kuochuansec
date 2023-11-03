@@ -3,11 +3,12 @@ title: Humanities
 permalink: /our-people/Department/humanities/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>HUMANITIES DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/humans.jpg)
+![Humanities](/images/Our%20People/Departments/Departments%20Main%20Page/humanities2023.jpg)
 
 
 <table>

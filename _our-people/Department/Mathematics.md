@@ -3,10 +3,11 @@ title: Mathematics
 permalink: /our-people/Department/mathematics/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>MATHEMATICS DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/math.jpg)
+![Mathematics2023](/images/Our%20People/Departments/Math/mathematics2023.jpg)
 
 <table>
 <thead>

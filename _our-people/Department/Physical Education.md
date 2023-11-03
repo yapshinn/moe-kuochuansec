@@ -3,10 +3,11 @@ title: Physical Education
 permalink: /our-people/Department/pe/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>PE DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/pe.jpg)
+![PE2023](/images/Our%20People/Departments/PE/pe2023.jpg)
 
 <table>
 	

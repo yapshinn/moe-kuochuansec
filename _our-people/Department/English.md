@@ -3,12 +3,13 @@ title: English
 permalink: /our-people/Department/english/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>ENGLISH DEPARTMENT</center>**<br>
 **<center>A creative and critical thinker, who is a voice for change</center>**
 
 
-![](/images/Our%20People/Departments/el.jpg)
+![English Language](/images/Our%20People/Departments/English/el2023.jpg)
 
 <table>
 <thead>

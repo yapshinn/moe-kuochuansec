@@ -3,10 +3,11 @@ title: Character & Citizenship Education
 permalink: /our-people/Department/cce/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>CHARACTER &amp; CITIZENSHIP EDUCATION DEPARTMENT</center>**
 
-![](/images/Our%20People/Departments/cce.jpg)
+![CCE2023](/images/Our%20People/Departments/CCE/charactece2023.jpg)
 
 
 | Chairman |  |  

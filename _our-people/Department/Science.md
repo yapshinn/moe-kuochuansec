@@ -3,11 +3,12 @@ title: Science
 permalink: /our-people/Department/science/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>SCIENCE DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/sci.jpg)
+![Science2023](/images/Our%20People/Departments/Science/science2023.jpg)
 
 <table>
 <thead>
