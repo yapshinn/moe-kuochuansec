@@ -42,7 +42,7 @@ variant: markdown
 <br><br><br>
 
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/mother-tongue/">
-<img src="/images/Our%20People/Departments/Departments%20Main%20Page/MT.jpg" style="width:35%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/MT/mt2023.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
 
