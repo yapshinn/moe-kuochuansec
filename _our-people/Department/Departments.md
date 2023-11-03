@@ -25,7 +25,7 @@ variant: markdown
 
 
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/departments/cce/area-of-focus/">
-<img src="/images/Our%20People/Departments/Departments%20Main%20Page/CCE.jpg" style="width:35%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/CCE/charactece2023.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
 <br><br><br><br><br><br><br>
