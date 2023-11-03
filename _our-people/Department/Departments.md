@@ -41,17 +41,18 @@ variant: markdown
 
 <br><br><br>
 
+<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/science/">
+<img src="/images/Our%20People/Departments/Departments%20Main%20Page/Science.jpg" style="width:35%;margin-right:15px;" align="left">
+</a></p>
+
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/mother-tongue/">
 <img src="/images/Our%20People/Departments/MT/mt2023.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
 
+
+<br><br><br><br><br><br><br>
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/pe/">
 <img src="/images/Our%20People/Departments/Departments%20Main%20Page/PE.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
-<br><br><br><br><br><br><br>
-
-<p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/science/">
-<img src="/images/Our%20People/Departments/Departments%20Main%20Page/Science.jpg" style="width:35%;margin-right:15px;" align="left">
-</a></p>
