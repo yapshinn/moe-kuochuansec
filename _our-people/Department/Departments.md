@@ -14,7 +14,7 @@ variant: markdown
 </a></p>
 
 <p><a href="https://staging.d38b8pvh8spt44.amplifyapp.com/our-people/Department/english/">
-<img src="/images/Our%20People/Departments/Departments%20Main%20Page/English.jpg" style="width:35%;margin-right:15px;" align="left">
+<img src="/images/Our%20People/Departments/English/el2023.jpg" style="width:35%;margin-right:15px;" align="left">
 </a></p>
 
 <br><br><br><br><br><br><br>
