@@ -3,11 +3,12 @@ title: Craft & Technology
 permalink: /our-people/Department/craft-technology/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>CRAFT &amp; TECHNOLOGY DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/cnt.jpg)
+![Craft Tech 2023](/images/Our%20People/Departments/Craft%20&amp;%20Technology/design_t2.jpg)
 
 <table>
 <thead>
