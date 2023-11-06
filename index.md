@@ -18,6 +18,8 @@ sections:
         - title: ESPOIR
           description: ""
           url: https://go.gov.sg/kcpss-espoir-2023-issue2
+      button: Open House
+      url: https://www.kuochuanpresbyteriansec.moe.edu.sg/virtual-open-house/
   - resources:
       title: Announcements
       button: Click Here
