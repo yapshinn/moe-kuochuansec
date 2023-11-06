@@ -28,7 +28,7 @@ sections:
         18 Nov 2023
         9am - 12pm
       image: /images/motd image.jpeg
-      button: Vitual Open house
+      button: Open house
       url: https://www.kuochuanpresbyteriansec.moe.edu.sg/virtual-open-house/
       alt: open house
 ---
