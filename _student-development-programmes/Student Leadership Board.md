@@ -10,7 +10,7 @@ variant: markdown
 
 ![](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/Student%20Leadership%20Board%20Mission.jpg)
 
-### Structure
+### Structure 2023-2024
 
 ![SLBStructure23](/images/The%20Kuo%20Chuan%20Experience/Student%20Development%20Programmes/slbstructure2023.jpg)
 
