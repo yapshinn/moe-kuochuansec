@@ -11,4 +11,4 @@ variant: markdown
   
 
 
-<p> Students are given opportunities to be journalists where they work on their articles which will be published in the school’s semestral publication Espoir.</p> 
+<p style="text-align:justify;"> Students are given opportunities to be journalists where they work on their articles which will be published in the school’s semestral publication Espoir.</p> 
