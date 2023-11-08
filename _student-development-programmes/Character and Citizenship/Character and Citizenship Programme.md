@@ -3,6 +3,7 @@ title: Character and Citizenship Programme
 permalink: /the-kuo-chuan-experience/sd-progs/character-and-citizenship-programme/
 description: ""
 third_nav_title: Character and Citizenship
+variant: markdown
 ---
 ## Character and Citizenship Programme
 
@@ -47,22 +48,22 @@ Core Programmes
   <tr>
     <td>Sec 1</td>
     <td>Career Awareness</td>
-    <td style="text-align: justify;font-size:16px;>●      Introduction of MySkillsFuture portal and it’s resource potential exploration<br>●      Raising awareness of strength related to career choice using Self Assessment tool in MySkillsFuture portal.<br>●      ECG Lessons to raising awareness of the relationship between personal strength, work values to preferred occupation.<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Celebration.</td>
+    <td style="text-align: justify;font-size:16px;">●      Introduction of MySkillsFuture portal and it’s resource potential exploration<br>●      Raising awareness of strength related to career choice using Self Assessment tool in MySkillsFuture portal.<br>●      ECG Lessons to raising awareness of the relationship between personal strength, work values to preferred occupation.<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Celebration.</td>
   </tr>
   <tr>
     <td>Sec 2</td>
     <td>Career Exploration</td>
-    <td style=">●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
+    <td style="text-align: justify;font-size:16px;">●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
   </tr>
   <tr>
     <td>Sec 3</td>
     <td>Career Exploration &amp; Planning</td>
-    <td style="text-align: justify;font-size:16px;>●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
+    <td style="text-align: justify;font-size:16px;">●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
   </tr>
   <tr>
     <td>Sec 4 / 5</td>
     <td>Career Planning</td>
-    <td style=">●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
+    <td style="text-align: justify;font-size:16px;">●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
   </tr>
 </tbody>
 </table>
@@ -92,5 +93,3 @@ Core Programmes
 
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
-
-
