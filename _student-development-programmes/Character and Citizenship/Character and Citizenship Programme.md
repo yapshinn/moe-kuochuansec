@@ -94,4 +94,7 @@ Core Programmes
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)<br><br>
 
+**The KCPSS VIA Curriculum &amp; Approach**
+
+
 <p style="text-align: justify;font-size:16px;"></p>
