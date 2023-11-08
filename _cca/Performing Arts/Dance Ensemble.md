@@ -15,7 +15,7 @@ variant: markdown
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL1tCpSOPN3BXpiDSSNs9lvN_jc_6G3DwGwxAzer0vok81eJNE14CXr8a6fipJqBjY7dZbDuhF_H7E/embed?start=true&amp;loop=false&amp;delayms=3000" align="center"></iframe>
 
 <p style="text-align: justify;font-size:16px;">
-A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help them face the challenges of tomorrow.</p>
+A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help![dance holiday](/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance%20holiday%20camp%20photo.jpg) them face the challenges of tomorrow.</p>
 
 <p style="text-align: justify;font-size:16px;">
 We believe that through our original compositions and creative works, students will be inspired to be appreciative of the beauty of dance while maintaining a healthy and rigorous program for them to discover and develop the innate talent of all dancers within.</p>
@@ -73,7 +73,9 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 * 	Provided ECG experiences, i.e. learning journey to LASALLE College of the Arts &amp; camp experiences, students get to interact with dancers from other schools and explore to different dance genre.
 	</p>
 
-**June or End of Year Intensive Dance Training Camp**  
+**School Holiday Intensive Dance Training Camp**  
+
+![dance holiday](/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance%20holiday%20camp%20photo.jpg)
 <p style="text-align: justify;font-size:16px;">
 
 *   Enrichment training camp during 1st week of June/ End of year Training Camp.
