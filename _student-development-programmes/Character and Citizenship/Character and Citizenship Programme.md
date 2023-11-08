@@ -92,4 +92,6 @@ Core Programmes
 <p style="text-align: justify;font-size:16px;">The programme will target students who have an interest to understand more about the F&amp;B industry and be equipped with relevant experiences and skills to explore the various opportunities available in this area. The students will also be given platforms and opportunities to pay it forward to the community. The students will get to apply their learning to lead their classmates in setting up food stalls to raise funds and advocate for various social causes through the school Values In Action programme.</p>
 
 
-![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
+![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)<br><br>
+
+<p style="text-align: justify;font-size:16px;"></p>
