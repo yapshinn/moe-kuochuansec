@@ -81,11 +81,11 @@ Core Programmes
 
 **3. Food Entrepreneur Programme.**  
 
-<p style="text-align: justify;font-size:16px;">The Food Entrepreneur Programme is an initiative to provide authentic learning experiences in developing leadership competencies and encouraging a spirit of entrepreneurship for students from the Secondary 3 Normal (Academic) stream.<!--.p-->&nbsp;
+<p style="text-align: justify;font-size:16px;">The Food Entrepreneur Programme is an initiative to provide authentic learning experiences in developing leadership competencies and encouraging a spirit of entrepreneurship for students from the Secondary 3 Normal (Academic) stream.</p>
 
   
 
-</p><p style="text-align: justify;font-size:16px;">Students will vie for an opportunity to be mentored by established personalities from the Singapore F&amp;B industry. It will leverage the experiences of these F&amp;B personalities to inculcate values of dare, experimentation and resilience and impart relevant personal leadership skills to thrive in this industry. Students will also be challenged towards having a sense of purpose for career options they are passionate about, to dream big, to be willing to take risks in pursuing dreams and being willing to work hard.&nbsp;</p>
+<p style="text-align: justify;font-size:16px;">Students will vie for an opportunity to be mentored by established personalities from the Singapore F&amp;B industry. It will leverage the experiences of these F&amp;B personalities to inculcate values of dare, experimentation and resilience and impart relevant personal leadership skills to thrive in this industry. Students will also be challenged towards having a sense of purpose for career options they are passionate about, to dream big, to be willing to take risks in pursuing dreams and being willing to work hard.&nbsp;</p>
 
   
 
