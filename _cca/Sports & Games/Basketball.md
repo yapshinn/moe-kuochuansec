@@ -29,7 +29,7 @@ Our basketball sessions involve the training of both the physical and mental sta
 ### Programmes
 
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGTeavv79kqj_kIGiB3OP2ZnxPdHR9Awvpw-5V5FfIpfRiTvEuuQg7M662LLyNChajr1vskW5FS39H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfpHl_Mm90Au-B0l-Np8Xzux_TduFW-2JrmP4i0cb_JuVBlieeVJyzo3n5Kghrdz62vNcLEX7e31vx/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 **<u>Training</u>**
