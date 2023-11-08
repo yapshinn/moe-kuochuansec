@@ -22,7 +22,7 @@ We believe that through our original compositions and creative works, students w
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/area%20of%20focus.jpg" style="width:30%;margin-right:15px;" align="left">
 
 
 <p style="text-align: justify;font-size:16px;">
