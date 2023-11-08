@@ -130,7 +130,8 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 | Alumni Dinner   | 2016 Bishan-Thomson Mid-Autumn Nights Festival Performance
 
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VOPoztbHdjs?si=E-ntPkb0UAqLePTz" height="315" width="560"></iframe>
+<br>
 
 ### Teachers-in-Charge
 
