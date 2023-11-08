@@ -3,6 +3,7 @@ title: Dance Ensemble
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/dance-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Dance Ensemble
 
@@ -11,8 +12,7 @@ third_nav_title: Performing Arts
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance1.jpg" style="width:30%;margin-right:15px;" align = "left">
-
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL1tCpSOPN3BXpiDSSNs9lvN_jc_6G3DwGwxAzer0vok81eJNE14CXr8a6fipJqBjY7dZbDuhF_H7E/embed?start=true&amp;loop=false&amp;delayms=3000" align="center"></iframe>
 
 <p style="text-align: justify;font-size:16px;">
 A holistic approach is adopted in the inculcation of dance skills and the development of every student's character. Such skills of training with mental fortitude, resilience and discipline aims to enhance and build upon the core values of providing students with the relevant knowledge, skills and values that will help them face the challenges of tomorrow.</p>
@@ -22,7 +22,7 @@ We believe that through our original compositions and creative works, students w
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance2.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
 The Dance CCA aims to help aspiring young student dancers, with or without prior dance experience. The end result is that all students develop the confidence and critical awareness to appreciate dance and have a foundational basis to pursue it beyond their secondary school experience.</p>
@@ -39,7 +39,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance3.jpg" style="width:30%;margin-right:15px;" align="left">
 
 **<u>Training</u>**
 
@@ -80,7 +80,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 *   2019 SYF Contemporary (Accomplishment)
 *   2019 SYF Chinese (Accomplishment)
-*   2018 Combined Aesthetic Concert 
+*   2018 Combined Aesthetic Concert&nbsp;
 *   2017 SYF Contemporary (Accomplishment)
 *   2017 SYF Chinese (Distinction)
 *   2017 Let's Carnival (Performance for her excellency President Mdm Halimah)
