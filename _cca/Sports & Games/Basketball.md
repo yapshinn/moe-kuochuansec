@@ -24,19 +24,7 @@ Our basketball sessions involve the training of both the physical and mental sta
 
 <img align="left" style="width:45%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/area%20of%20focus%20(new).jpeg">
 
-<p style="text-align: justify;font-size:16px;">KCPSS Basketball CCA believes that CCA plays an important role in the physical, character and leadership development of the students.
-
-  
-
-Every year, the basketball team will represent the school in the South Zone Basketball Championships and the ActiveSG Basketball Development League. In preparation for the competitions, our basketball players go through physically demanding and challenging court and physical training sessions.&nbsp;
-
-  
-
-Under the dedicated guidance of the coach and teachers-in-charge, our basketball players challenge and strive to develop themselves both physically and mentally. Valuable teachable moments during trainings and competitions provide learning opportunities for character and values development.
-
-  
-
-In leadership development, our basketball players are also given leadership opportunities to take ownership of their development in the CCA. Basketball players are given the autonomy to plan for physical training sessions and bonding activities within the CCA and to inspire the team in creating a shared vision.</p>
+<p style="text-align: justify;font-size:16px;">We believe that CCA plays an important role in the physical, character and leadership development of the students. Every year, TEAM KCP Basketball team will represent the school in the South Zone Basketball Championship. In preparation for the competitions, our basketball players go through physically demanding and challenging court and physical training sessions. Under the dedicated guidance of the coach and teachers-in-charge, our basketball players challenge and strive to develop themselves both physically and mentally. Valuable teachable moments during trainings and competitions provide learning opportunities for character and values development. In leadership development, our basketball players are also given leadership opportunities to take ownership of their development in the CCA. Basketball players are given the autonomy to plan for physical training sessions and bonding activities within the CCA and to inspire the team in creating a shared vision.</p>
 
 ### Programmes
 
