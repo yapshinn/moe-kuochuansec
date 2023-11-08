@@ -102,7 +102,7 @@ Core Programmes
 <br><br>
 ![via gallery](/images/The%20Kuo%20Chuan%20Experience/viagallerywalk.png)<br><br>
 
-<br><br><table>
+<table>
 <tbody><tr>
 	<td style="text-align: justify;font-size:16px;">The phrase <b>“Let your light shine”</b> provides meaning to the space being used whilst reminding students about the impact of their work. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to contribute their bit through showcased works. </td>
 	</tr>
@@ -118,8 +118,7 @@ Core Programmes
 	<tr>
 	<td style="text-align: justify;font-size:16px;">The small icons included in the poster serve to show the importance of teamwork to make the project a success and through that, the beneficiaries are able to receive their love and care. </td>
 	</tr>
-	</tbody></table>
-	![](/images/The%20Kuo%20Chuan%20Experience/viagallerypic2.jpg)
-	
+	</tbody></table><br>
+	![viagallery2](/images/The%20Kuo%20Chuan%20Experience/viagallerypic2.jpg)
 	
 	
