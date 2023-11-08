@@ -122,4 +122,4 @@ Core Programmes
 
 ![viagallery](/images/The%20Kuo%20Chuan%20Experience/viagallerypic2.jpg)
 <br><br>
-<iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://www.canva.com/design/DAFHqbIKXPw/WxbVaT6-yFEKnGl1W1PvVw/watch?utm_content=DAFHqbIKXPw&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink"></iframe><br><br>
+<br><br>
