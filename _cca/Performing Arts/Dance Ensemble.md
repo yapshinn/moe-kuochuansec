@@ -79,7 +79,8 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 *   School Based Performances.
 *   Minimum of 1 SYF competition and Presentation.
 </p>
-**<u>Recent Achievements</u>**
+
+**Recent Achievements**
 <p style="text-align: justify;font-size:16px;">
 
 *   2019 SYF Contemporary (Accomplishment)
