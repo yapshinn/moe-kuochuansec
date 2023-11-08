@@ -111,8 +111,8 @@ Core Programmes
 
   
 &nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;<table><tbody><tr><td>Emil</td><td>Tobias</td><td>Linus</td>  
-</tr></tbody></table>  
+&nbsp; &nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;
+&nbsp;&nbsp;<table><tbody><tr><td>Emil</td><td>Tobias</td><td>Linus</td>  
+</tr></tbody></table>
