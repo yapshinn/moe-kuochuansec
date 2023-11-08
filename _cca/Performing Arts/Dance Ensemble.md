@@ -120,6 +120,12 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 **Performances**
 
 
+| School Performances | Public Performances | 
+| -------- | -------- | 
+| Chinese New Year     | 2023 National Day Parade @ Padang     | 
+
+
+
 ### Teachers-in-Charge
 
 
