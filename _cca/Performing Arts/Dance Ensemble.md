@@ -88,6 +88,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 </p>
 
 **Recent Achievements**
+
 <p style="text-align: justify;font-size:16px;">
 *   2023 SYF Contemporary (Accomplishment)
 *   2023 SYF Chinese (Distinction)
