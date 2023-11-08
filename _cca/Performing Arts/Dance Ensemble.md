@@ -68,10 +68,10 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 <p style="text-align: justify;font-size:16px;">
 
-*   Enrichment training camp during 1st week of June/ End of year Training Camp.
-*   Intensive training camp to prepare school team for upcoming SYF Celebrations (Biennial).
-*   School Based Performances.
-*   Minimum of 1 SYF competition and Presentation.
+*   Organized by MOE Art Education Branch
+*   Level up dancer's skillsets through workshops, performance opportunities,
+*   Provided ECG experiences, i.e. learning journey to LASALLE College of the Art &amp; camp experiences, students get to interect with dancers from other schools and explore to different dance genre.
+
 </p>
 
 
