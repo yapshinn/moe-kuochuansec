@@ -55,15 +55,14 @@ Our basketball sessions involve the training of both the physical and mental sta
 </tbody>
 </table>
 
-
 <div class="bp-youtube">
 <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gA8GuXShnJE" height="315" width="560"></iframe></div>
 
 **<u>Programmes</u>**
 
-*   External Basketball Competitions
-
-*   National School Games South Zone 'C' &amp; 'B' Division Competitions
+*   National School Games South Zone ‘C’ &amp; ‘B’ Division Competitions
+*   S7 Cluster Games (for Sec 1s)
+*   Friendly matches with other schools during off season
 
 	
 ### Teachers-in-Charge
