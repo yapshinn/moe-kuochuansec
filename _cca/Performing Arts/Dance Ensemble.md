@@ -44,7 +44,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 <thead>
   <tr>
     <th>Training Days</th>
-    <td>Every Wednesday</td>
+    <td>Every Tuesday</td>
     <td>Every Friday</td>
   </tr>
 </thead>
@@ -52,7 +52,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
   <tr>
     <th> Training Timing</th>
     <td>3.00PM - 6.00PM</td>
-    <td>3.00PM - 6.00PM</td>
+    <td>2.00PM - 6.00PM</td>
   </tr>
   <tr>
     <th> Venue</th>
