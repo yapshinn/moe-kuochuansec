@@ -24,18 +24,15 @@ We believe that through our original compositions and creative works, students w
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance2.jpg" style="width:30%;margin-right:15px;" align="left">
 
+
 <p style="text-align: justify;font-size:16px;">
 The Dance CCA aims to help aspiring young student dancers, with or without prior dance experience. The end result is that all students develop the confidence and critical awareness to appreciate dance and have a foundational basis to pursue it beyond their secondary school experience.</p>
-
-  
 
 <p style="text-align: justify;font-size:16px;">
 We also aim to develop their fitness, flexibility and technical dance strengths with an intense and systematic program meant to develop and push their capabilities as they progress through the ranks.</p>
 
-  
-
 <p style="text-align: justify;font-size:16px;">
-Dance Training is split between Technique Studies class, Choreographic class, Performance and Showcase opportunities, Theoretical and Practical Workshops as well as Theatre Exposure.</p>
+Dance Training is split between Technique Studies class, Choreographic class, Performance and Showcase opportunities, Theoretical and Practical Workshops as well as Theater Exposure.</p>
 
 ### Programmes
 
