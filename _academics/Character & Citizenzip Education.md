@@ -83,9 +83,9 @@ Core Programmes
 
 
 2 .**Elective Modules**
-<p style=">The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.<p></p>
+<p style="text-align: justify;font-size:16px;">The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.</p>
 
-<p style=">The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
+<p style="text-align: justify;font-size:16px;">The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%203.png)
 
@@ -103,5 +103,4 @@ Core Programmes
 																							
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
-
 
