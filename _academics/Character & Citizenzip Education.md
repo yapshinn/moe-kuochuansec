@@ -111,8 +111,8 @@ Core Programmes
 
   
 &nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table><tbody><tr><td>Emil</td><td>Tobias</td><td>Linus</td>  
-</tr></tbody></table>
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;<table><tbody><tr>  
+		<td style="text-align: justify;font-size:16px;">●	The phrase <b>“Let your light shine”</b> provides meaning to the space being used whilst reminding students about the impact of their work. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to contribute their bit through showcased works. </td></tr>  
+</tbody></table>
