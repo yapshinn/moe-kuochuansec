@@ -3,11 +3,12 @@ title: Basketball
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Basketball
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/basketballTIC.jpg)
 
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/banner%20photo%20(new).jpeg)
 ### Vision
 
 <img align="left" style="width:45%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/Basketball%205.jpeg">
