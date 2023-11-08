@@ -98,4 +98,6 @@ Core Programmes
 <br>
 <iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSERiOSnlSFmu4PlMXuIOLuAsiUbJE5yQfOendTkAXHkxtFOJyMGT0eswL8vzVopg3RBIOjceT-yIq2/embed?start=true&amp;loop=false&amp;delayms=10000"></iframe><br><br>
 
-<p style="text-align: justify;font-size:16px;"></p>
+**Our VIA Gallery Walk**
+<br><br>
+	
