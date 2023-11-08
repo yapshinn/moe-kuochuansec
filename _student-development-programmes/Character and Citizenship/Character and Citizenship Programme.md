@@ -119,6 +119,5 @@ Core Programmes
 	<td style="text-align: justify;font-size:16px;">The small icons included in the poster serve to show the importance of teamwork to make the project a success and through that, the beneficiaries are able to receive their love and care. </td>
 	</tr>
 	</tbody></table>
-	<br><br>
-	
-	
+
+![viagallery](/images/The%20Kuo%20Chuan%20Experience/viagallerypic2.jpg)
