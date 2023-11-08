@@ -100,4 +100,4 @@ Core Programmes
 
 **Our VIA Gallery Walk**
 <br><br>
-	
+![via gallery](/images/The%20Kuo%20Chuan%20Experience/viagallerywalk.png)
