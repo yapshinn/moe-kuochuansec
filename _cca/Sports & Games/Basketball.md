@@ -22,7 +22,7 @@ Our basketball sessions involve the training of both the physical and mental sta
 
 ### Area of Focus
 
-<img align="left" style="width:45%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/Basketball%206.jpeg">
+<img align="left" style="width:45%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Basketball/area%20of%20focus%20(new).jpeg">
 
 <p style="text-align: justify;font-size:16px;">KCPSS Basketball CCA believes that CCA plays an important role in the physical, character and leadership development of the students.
 
