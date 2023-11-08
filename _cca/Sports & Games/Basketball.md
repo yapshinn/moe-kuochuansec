@@ -33,7 +33,7 @@ Our basketball sessions involve the training of both the physical and mental sta
 
 
 **<u>Training</u>**
-
+* From 2024 onwards, training days will be on Tuesdays &amp; Fridays
 <table>
 <thead>
   <tr>
@@ -54,6 +54,7 @@ Our basketball sessions involve the training of both the physical and mental sta
   </tr>
 </tbody>
 </table>
+
 
 <div class="bp-youtube">
 <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gA8GuXShnJE" height="315" width="560"></iframe></div>
