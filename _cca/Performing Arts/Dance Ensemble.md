@@ -65,6 +65,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 **<u>Special Programmes</u>**
 
 **Strategic Partnership Co-Curricular Activity (Ethnic Dance**
+
 <p style="text-align: justify;font-size:16px;">
 	
 * 	Organized by MOE Art Education Branch
