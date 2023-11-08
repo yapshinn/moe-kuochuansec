@@ -117,6 +117,9 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 </p>
 
+**Performances**
+
+
 ### Teachers-in-Charge
 
 
