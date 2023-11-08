@@ -142,3 +142,5 @@ Core Programmes
 **Some reflections from Our students**
 <br>
 <iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSztWLEqnSw9aNJhd2eQ9MucULTaDhVEB7dbR84J5AORVJsObdKio9Xsr3SkUwmsnnKeNqMJs6x4D7W/embed?start=true&amp;loop=false&amp;delayms=10000"></iframe>
+<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KUTI9de6Wj4?si=UcfV_kBBjG5hsynl" height="315" width="560"></iframe>
