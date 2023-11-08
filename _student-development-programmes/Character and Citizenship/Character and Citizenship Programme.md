@@ -120,6 +120,5 @@ Core Programmes
 	</tr>
 	</tbody></table>
 	<br><br>
-	![viagallery2](/images/The%20Kuo%20Chuan%20Experience/viagallerypic2.jpg)
 	
 	
