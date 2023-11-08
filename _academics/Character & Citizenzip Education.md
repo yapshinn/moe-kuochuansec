@@ -112,8 +112,18 @@ Core Programmes
   
 &nbsp;&nbsp;  
 &nbsp;&nbsp;<table><tbody><tr>  
-		<td style="text-align: justify;font-size:16px;">●	The phrase <b>“Let your light shine”</b> provides meaning to the space being used whilst reminding students about the impact of their work. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to contribute their bit through showcased works. </td></tr> 
+		<td style="text-align: justify;font-size:16px;">The phrase <b>“Let your light shine”</b> provides meaning to the space being used whilst reminding students about the impact of their work. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to contribute their bit through showcased works. </td></tr> 
 	<tr>
-		<td style="text-align: justify;font-size:16px;">●	The small switch between the phrase <b>“Let your light shine”</b> is to allegorise that they can make a difference to other peoples’ lives if they want to just with a flick of the switch, a simple action. At the same time, the spotlight in the background represents the collective light from the many student volunteers, shining their light and making the world a brighter place, one community at a time.</td>
+		<td style="text-align: justify;font-size:16px;">The small switch between the phrase <b>“Let your light shine”</b> is to allegorise that they can make a difference to other peoples’ lives if they want to just with a flick of the switch, a simple action. At the same time, the spotlight in the background represents the collective light from the many student volunteers, shining their light and making the world a brighter place, one community at a time.</td>
 	</tr>
+	<tr>
+		<td style="text-align: justify;font-size:16px;">The sunny smiley faces represent how the beneficiaries perceive the student volunteers: like the sun that dawning on the abyss of darkness, as the students bring light to their life, regardless of the varying contributing approaches the students have to offer. </td>
+	</tr>
+	<tr>
+		<td style="text-align: justify;font-size:16px;">The types of contributions could be through playing games with the beneficiaries or raising awareness to improve the lives of the beneficiaries through posters and montages. This is highlighted through the use of photos taken during the physical sessions with the beneficiaries. Also, the images evidently show how much the beneficiaries enjoyed what the students had planned for them. </td>
+	</tr>
+	<tr>
+		<td style="text-align: justify;font-size:16px;">The small icons included in the poster serve to show the importance of teamwork to make the project a success and through that, the beneficiaries are able to receive their love and care. </td>
+	</tr>
+	
 </tbody></table>
