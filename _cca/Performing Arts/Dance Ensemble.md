@@ -123,6 +123,12 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 | School Performances | Public Performances | 
 | -------- | -------- | 
 | Chinese New Year     | 2023 National Day Parade @ Padang     | 
+| Founder's Day     | 2023 Let's Carnival (Performance for her excellency President Mdm Halimah)
+|National Day     | 2023 Dance Performance for Singapore Children's Society &amp;  walk for Our Children
+| Teachers' Day Aesthetic Showcase    | 2022 Bishan-Thomson Racial Harmony Day Performance
+| CCA Orientation     | 2017 Let's Carnival (Performance for her excellency President Mdm Halimah)
+| Alumni Dinner   | 2016 Bishan-Thomson Mid-Autumn Nights Festival Performance
+
 
 
 
