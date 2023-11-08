@@ -133,3 +133,7 @@ Core Programmes
 <br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9iQ3Ju-nd50?si=eXLxTbMbHkh9gYsP" height="315" width="560"></iframe>
 <br><br>
+
+**Affirmation from Our VIA partners**
+<br>
+<iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdoXo_xxl0jAbDPGjuQPjqYb8fu3td_SJB3nZAFvMVQPjT4LSEWX2rlE-sAl_hSEbEkyHhf306NbM5/embed?start=true&amp;loop=false&amp;delayms=10000"></iframe>
