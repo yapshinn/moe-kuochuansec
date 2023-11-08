@@ -2,11 +2,8 @@
 title: Character & Citizenzip Education
 permalink: /the-kuo-chuan-experience/academics/cce/
 description: ""
+variant: markdown
 ---
-
-
-
-
 **<center>CHARACTER &amp; CITIZENSHIP EDUCATION DEPARTMENT</center>**
 
 ## Area of Focus
@@ -66,17 +63,17 @@ Core Programmes
   <tr>
     <td>Sec 2</td>
     <td>Career Exploration</td>
-    <td style="text-align: justify;font-size:16px;>●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
+    <td style="text-align: justify;font-size:16px;">●      Exploration of MySkillsFuture portal to explore job requirements and corresponding educational pathways based on student’s interest.<br>●      Explore work skill assessment and use the result in the review of their preferred occupation’s requirement.<br>●      ECG lesson to relate student’s strength and inclination in subjects to their preferred occupation exploration.</td>
   </tr>
   <tr>
     <td>Sec 3</td>
     <td>Career Exploration &amp; Planning</td>
-    <td style=">●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
+    <td style="text-align: justify;font-size:16px;">●      Plan for aspired educational pathways and tentative career options<br>●      Preparing for demands and requirements of JC and Poly educational pathways<br>●      Development of social and emotional competencies in the process of preparing for Youth Day Carnival.</td>
   </tr>
   <tr>
     <td>Sec 4 / 5</td>
     <td>Career Planning</td>
-    <td style="text-align: justify;font-size:16px;>●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
+    <td style="text-align: justify;font-size:16px;">●      Plan for aspired educational pathways and tentative career options<br>●      Plan and prepare for EAE, PFP, DPP, JAE requirements of JC and Poly educational pathways<br>●      Explore and Plan for tentative career options through talks by professionals in respective career sectors.</td>
   </tr>
 </tbody>
 </table>
@@ -88,7 +85,7 @@ Core Programmes
 2 .**Elective Modules**
 <p style=">The Elective Module is a 4-day applied learning programme for Secondary 3NA students conducted in both Semester 1 and 2 by industrial professionals.<p></p>
 
-<p style="text-align: justify;font-size:16px;">The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
+<p style=">The programme provides students with an opportunity to explore their interests and personal inclinations, to help them in their decision-making for post-secondary courses. Some key highlights of the modules offered were F1 Engineering and Stop Motion Artiste.</p>
 
 ![](/images/Our%20People/Departments/CCE/CCE%20Prog%203.png)
 
@@ -105,4 +102,6 @@ Core Programmes
 <p style="text-align: justify;font-size:16px;">The programme will target students who have an interest to understand more about the F&amp;B industry and be equipped with relevant experiences and skills to explore the various opportunities available in this area. The students will also be given platforms and opportunities to pay it forward to the community. The students will get to apply their learning to lead their classmates in setting up food stalls to raise funds and advocate for various social causes through the school Values In Action programme.</p>
 																							
 
-![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)</td></tr></tbody></table>
+![](/images/Our%20People/Departments/CCE/CCE%20Prog%204.png)
+
+
