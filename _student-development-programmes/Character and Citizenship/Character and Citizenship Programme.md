@@ -106,4 +106,9 @@ Core Programmes
 <tbody><tr>
 	<td style="text-align: justify;font-size:16px;">The phrase <b>“Let your light shine”</b> provides meaning to the space being used whilst reminding students about the impact of their work. Aside from benefitting recipients of the VIA activities, student volunteers who let their light shine through such activities, can also inspire the rest to contribute their bit through showcased works. </td>
 	</tr>
-	</tbody></table>
+	<tr>
+	<td style="text-align: justify;font-size:16px;">The small switch between the phrase <b>“Let your light shine”</b> is to allegorise that they can make a difference to other peoples’ lives if they want to just with a flick of the switch, a simple action. At the same time, the spotlight in the background represents the collective light from the many student volunteers, shining their light and making the world a brighter place, one community at a time.</td>
+	</tr>
+	<tr>
+	<td style="text-align: justify;font-size:16px;">
+	</td></tr></tbody></table>
