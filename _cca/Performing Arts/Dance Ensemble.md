@@ -36,7 +36,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 ### Programmes
 
-
+![dance training](/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dancetraining.jpg)
 
 **<u>Training</u>**
 
