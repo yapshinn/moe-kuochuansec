@@ -7,8 +7,7 @@ variant: markdown
 ---
 ## Drama
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama.jpg)
-
+![mainpic](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/main%20pic.jpeg)
 ### Vision
 
 ![vision](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/vision.jpg)
