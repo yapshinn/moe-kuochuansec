@@ -79,17 +79,17 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 **School Holiday Intensive Dance Training Camp**  
 
 ![dance holiday](/images/The%20Kuo%20Chuan%20Experience/CCA/Dance%20Ensemble/dance%20holiday%20camp%20photo.jpg)
-<p style="text-align: justify;font-size:16px;">
+
 
 *   Enrichment training camp during march/ June/ End of year Training Camp.
 *   Intensive training camp to prepare school team for upcoming SYF Celebrations/ school Aesthetic Concert
 *   School Based Performances.
 *   Minimum of 1 SYF competition and Presentation.
-</p>
+
 
 **Recent Achievements**
 
-<p style="text-align: justify;font-size:16px;">
+
 	
 *   2023 SYF Contemporary (Accomplishment)
 *   2023 SYF Chinese (Distinction)
@@ -115,7 +115,7 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 *   2009 SYF Contemporary (Dance Gold with Honours)
 *   2009 SYF Chinese Dance (Silver)
 
-</p>
+
 
 **Performances**
 
