@@ -66,14 +66,9 @@ Dance Training is split between Technique Studies class, Choreographic class, Pe
 
 **Strategic Partnership Co-Curricular Activity (Ethnic Dance**
 
-<p style="text-align: justify;font-size:16px;">
-
 *   Organized by MOE Art Education Branch
 *   Level up dancer's skillsets through workshops, performance opportunities,
 *   Provided ECG experiences, i.e. learning journey to LASALLE College of the Art &amp; camp experiences, students get to interect with dancers from other schools and explore to different dance genre.
-
-</p>
-
 
 
 **School Holiday Intensive Dance Training Camp**  
