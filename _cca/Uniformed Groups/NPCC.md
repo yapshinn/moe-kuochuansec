@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## NPCC
 
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npccmain.jpg)
 ### Vision
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc1.jpg" style="width:40%;margin-right:15px;" align="left">
