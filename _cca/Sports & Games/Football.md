@@ -3,16 +3,15 @@ title: Football
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Football
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/soccer.jpg" style="width:95%">
-
+![mainphoto](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/main%20banner%20photo.jpg)
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football1.jpg" style="width:35%;margin-right:15px;" align="left">
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/vision%20photo.jpg)
 <p style="text-align: justify;font-size:16px;">The vision for&nbsp;<b>KCPSS Football CCA</b>&nbsp;is to inculcate values such as teamwork, resilience as well as good sportsmanship in all our students. The teachers-in-charge, together with our coaches, aim to create a respectful, positive and healthy environment for our students to improve their individual technical skills and conditioning as well as their understanding and appreciation of team play.</p>
 
 ### Area of Focus
