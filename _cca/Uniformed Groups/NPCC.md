@@ -64,9 +64,12 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 **<u>Achievements</u>**
 
-
-
 <iframe width="352" height="240" src="https://www.youtube.com/embed/AKtJXJ24rEc" title="Anti Scam Student Champions (ASSC 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+* <b>Unit Overall Profiency Award</b>
+	* 2022 : Distinction
+	* 2016-2019, 2021 : Gold
+* 
 
 ### Teachers-in-Charge
 
