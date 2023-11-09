@@ -26,7 +26,7 @@ variant: markdown
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Football/football3.jpg" style="width:35%;margin-right:15px;" align="left">
+
 
 **<u>Training</u>**
 
