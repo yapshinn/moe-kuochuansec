@@ -66,10 +66,11 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 <iframe width="352" height="240" src="https://www.youtube.com/embed/AKtJXJ24rEc" title="Anti Scam Student Champions (ASSC 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-* <b>Unit Overall Profiency Award</b>
+* **Unit Overall Profiency Award**
 	* 2022 : Distinction
 	* 2016-2019, 2021 : Gold
-* 
+* **1st Runner UP for 2nd Edition of Community Safety and Security Project (CSSP)**, title - Anti Scam Student Champions (ASSC) 2021
+* Selected as the **Most Impactful Police Youth Ambassador (PYA) Project 2018**.
 
 ### Teachers-in-Charge
 
