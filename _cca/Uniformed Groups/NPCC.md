@@ -3,10 +3,10 @@ title: NPCC
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## NPCC
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/NPCC.jpg)
 
 ### Vision
 
