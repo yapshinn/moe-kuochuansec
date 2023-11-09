@@ -26,7 +26,7 @@ variant: markdown
 
 ### Programmes
 
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/programmes%20photo.jpg)
 
 **<u>Training</u>**
 
@@ -41,7 +41,7 @@ variant: markdown
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00PM - 6.00Pm</td>
+    <td>3.00PM - 6.00PM</td>
     <td>2.00PM - 5.00PM</td>
   </tr>
   <tr>
