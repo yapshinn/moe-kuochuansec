@@ -8,13 +8,13 @@ variant: markdown
 ## NPCC
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npccmain.jpg)
-### Vision
+### Mission, Vision &amp; Value
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc1.jpg" style="width:40%;margin-right:15px;" align="left">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/vision.jpg)
 
-<p style="text-align: justify;font-size:16px;">Mission :To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>  
+<p style="text-align: justify;font-size:16px;"><b>Our Mission :</b>To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.</p>  
   
-<p style="text-align: justify;font-size:16px;">The Vision of the National Police Cadet Corps is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>  
+<p style="text-align: justify;font-size:16px;"><b>Our Vision :</b>To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>  
   
 <p style="text-align: justify;font-size:16px;">The KCPNPCC unit was formed in 1984. During the four or five years that the cadets are in NPCC, they go through a rigorous training programme which covers a wide range of activities from campcraft and foot drill, to weaponry training and citizenship education.</p>  
   
