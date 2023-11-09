@@ -95,6 +95,7 @@ Drama students also participate in a Drama exchange programme with other seconda
 *   Teachers' Day (Sep 2022)
 *   Aesthetic Night 2018 - 'Light Every Dream'
 
+![adhocprog](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/ad-hoc%20programmes.jpg)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=iOhiG-yvFcPfAc6U" height="315" width="560"></iframe>
 
 
