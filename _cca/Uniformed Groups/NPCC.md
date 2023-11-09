@@ -28,7 +28,8 @@ variant: markdown
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc2.jpg" style="width:40%;margin-right:15px;" align="left">
 
-The National Police Cadet Corp trains its cadets to be strong both physically and mentally. The Corp's core mission is to&nbsp;**"develop our cadets into caring and responsible citizens"**&nbsp;and its vision is to&nbsp;**"mould the builders of a safe and secure home"**. It is a co-curricular activity that emphasizes discipline, unity and taking initiative. It also provides cadets with opportunities for leadership training and character building.
+</p><p style="text-align: justify;font-size:16px;">
+The National Police Cadet Corp trains its cadets to be strong both physically and mentally. KCPSS NPCC’s core mission is to<b> “develop our cadets into caring and responsible citizens” </b>and its vision is to <b>“mould the builders of a safe and secure home” </b>. It is a co-curricular activity that emphasizes discipline, unity and taking initiative. It also provides cadets with opportunities for leadership training and character building.</p>
 
 <br>
 
@@ -37,7 +38,7 @@ The National Police Cadet Corp trains its cadets to be strong both physically an
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/npcc3.jpg" style="width:40%;margin-right:15px;" align="left">
 
 
-</p><p style="text-align: justify;font-size:16px;">The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition. </p> 
+<p></p><p style="text-align: justify;font-size:16px;">The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition. </p> 
   
 <p style="text-align: justify;font-size:16px;">Cadets also get the opportunity to participate in various camps such as the annual Adventure Training Camp and Survival Training Camp at Pulau Ubin.&nbsp; Selected cadets will also join cadets from other schools for Overseas Enrichment Visits to Hong Kong and Brunei.</p>  
   
