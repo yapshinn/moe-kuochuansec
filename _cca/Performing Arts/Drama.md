@@ -27,7 +27,7 @@ Drama students also participate in a Drama exchange programme with other seconda
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align="left">
+![training](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/training.jpeg)
 
 **<u>Training</u>**
 
@@ -53,9 +53,10 @@ Drama students also participate in a Drama exchange programme with other seconda
 </tbody>
 </table>
 
-<br><br>
+<br>
 
 **<u>Special Programmes</u>**
+![annualprog](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/annual%20programmes.jpg)
 
 **Singapore Youth Festival Arts Presentation**  
 
