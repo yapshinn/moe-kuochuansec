@@ -43,8 +43,6 @@ Cadets also get the opportunity to participate in various camps such as the annu
 These experiences will help to develop the leadership skills of our cadets and also build resilience in them.
 </p> 
   
-
-
 **<u>Training</u>**
 
 <table>
@@ -66,14 +64,9 @@ These experiences will help to develop the leadership skills of our cadets and a
 
 **<u>Achievements</u>**
 
-<table>
-<thead>
-  <tr>
-    <td colspan="5">- 1st Runner Up for 2nd Edition of Community Safety and Security Project (CSSP), <b>Title - Anti Scam Student Champions (ASSC)</b><br>- Unit Overall Proficiency Award – Gold (2016, 2017, 2018, 2019,2021)<br>- Singapore Police Force – NPCC Badge<br>- Police Youth Ambassador (PYA) Project – selected as the Most Impactful PYA Project for 2018</td>
-		<td><b><iframe width="352" height="240" src="https://www.youtube.com/embed/AKtJXJ24rEc" title="Anti Scam Student Champions (ASSC 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></b></td>
-  </tr>
-</thead>
-</table>
+
+
+<iframe width="352" height="240" src="https://www.youtube.com/embed/AKtJXJ24rEc" title="Anti Scam Student Champions (ASSC 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Teachers-in-Charge
 
