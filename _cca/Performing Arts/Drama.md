@@ -60,11 +60,10 @@ Drama students also participate in a Drama exchange programme with other seconda
 
 **Singapore Youth Festival Arts Presentation**  
 
-*   Achieved a Certificate of Accomplishment in 2013, 2015 &amp; 2019
+*   Achieved a Certificate of Accomplishment in 2013, 2015,2019 &amp; 2023.
 
   
 **Annual Aesthetics Exposure**  
-
 
 *   A Singaporean in Paris by Sing'Theatre in 2022
 *   During HBL, Online performance by The Necessary Stage - ‘Those Who Can't, Teach’ (2020)
@@ -74,24 +73,24 @@ Drama students also participate in a Drama exchange programme with other seconda
 *   Shakespeare in the Park (Twelfth Night) - 2012
 *   Model Citizens - A Drama in Education Program - 2012
 
-  
-
 **Community Involvement Program (CIP)**  
 
 *   Visit to Bishan Home to interact with and perform for the residents
 
-  
-
 **Annual School Programs**  
 
-*   Aesthetics Night 2018 - ‘Light Every Dream’
-*   Performances for
-
+*   Yearly Performances for
     *   Secondary 1 CCA Orientation (Jan)
-    *   Teachers' Day (Sept)
-    *   KCPSS Learning Carnival (Oct)
+    *   Performing Arts Aesthetics Presentation (biennial)
+    *   SYF Arts Presentation (biennial)
+    *  Sec 4 Farewell (March)
+    *  Drama Exchange Programme in ACS (Barker)
+    *  National Day Skit (August)
+    *  Open House Presentation (Nov)
 
-*   Annual Secondary 4 Farewell for our graduating seniors (Nov)
+*   Ad-hoc Performances:
+		*   Presentation of SYF performance &amp; Panel Discussion at the Theatre Arts Conference 2023 by the Singapore Drama Educators Association (SDEA) (July 2023)
+		*   
 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
