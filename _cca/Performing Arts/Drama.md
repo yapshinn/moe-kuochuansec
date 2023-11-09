@@ -20,12 +20,10 @@ The KCPSS Drama club is committed to helping our students realise their dramatic
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
-Each training session focuses on the fundamentals of drama training, ensemble work, characterisation and voice work.</p>  
+Each training session focuses on the fundamentals of drama training, ensemble work, characterisation and voice work.
 
-<p style="text-align: justify;font-size:16px;">
-Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.</p>
+Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.
 
-<p style="text-align: justify;font-size:16px;">
 Drama students also participate in a Drama exchange programme with other secondary schools.</p>
 
 ### Programmes
