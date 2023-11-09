@@ -35,7 +35,7 @@ The National Police Cadet Corp trains its cadets to be strong both physically an
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/programmes.jpg)
 
-<p></p><p style="text-align: justify;font-size:16px;">The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition. </p> 
+<p style="text-align: justify;font-size:16px;">The NPCC cadets are encouraged to take part in Inter-Unit and National competitions such as Annual Area Sports Day. Competitions organised by the Home Team Academy (NPCC HQ) include the Bi-Annual National Campcraft competition and the 22” Revolver shooting competition. </p> 
   
 <p style="text-align: justify;font-size:16px;">Cadets also get the opportunity to participate in various camps such as the annual Adventure Training Camp and Survival Training Camp at Pulau Ubin.&nbsp; Selected cadets will also join cadets from other schools for Overseas Enrichment Visits to Hong Kong and Brunei.</p>  
   
