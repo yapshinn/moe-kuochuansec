@@ -88,13 +88,14 @@ Drama students also participate in a Drama exchange programme with other seconda
     *  National Day Skit (August)
     *  Open House Presentation (Nov)
 
-*   Ad-hoc Performances:
+**Ad-hoc Performances:**
+
 		*   Presentation of SYF performance &amp; Panel Discussion at the Theatre Arts Conference 2023 by the Singapore Drama Educators Association (SDEA) (July 2023)
 		*   Choral Reading Performance (NSLF 2023)
 		*   Teachers' Day (Sep 2022)
 		*   Aesthetic Night 2018 - 'Light Every Dream'
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 
 
 ### Teachers-in-Charge
