@@ -3,6 +3,7 @@ title: Drama
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Drama
 
@@ -10,27 +11,26 @@ third_nav_title: Performing Arts
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align = "left">
-
+![vision](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/vision.jpg)
 <p style="text-align: justify;font-size:16px;">
 The KCPSS Drama club is committed to helping our students realise their dramatic and/or artistic potential and providing opportunities for our members to showcase their talent. In our Drama club, talent is not limited to acting and extends to various aspects of theatre production, including script writing, set designing and stage management. KCPSS is a mission school and we are committed to inculcating G.R.A.C.E values in all our trainings and programmes.</p>
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
-Each of our training sessions focus on exploring the self through fundamentals of drama training, ensemble work, characterisation and voice. Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.</p>  
-
- <p style="text-align: justify;font-size:16px;">
-We focus on a yearly drama production for National Day, and biannually for the Singapore Youth Festival and KCPSS Performing Arts Showcase.</p>
+Each training session focuses on the fundamentals of drama training, ensemble work, characterisation and voice work.</p>  
 
 <p style="text-align: justify;font-size:16px;">
-In addition, our drama students are taken each year to watch a drama production as part of ‘aesthetic exposure’ in their drama curriculum.</p>
+Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.</p>
+
+<p style="text-align: justify;font-size:16px;">
+Drama students also participate in a Drama exchange programme with other secondary schools.</p>
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **<u>Training</u>**
 
@@ -62,7 +62,7 @@ In addition, our drama students are taken each year to watch a drama production 
 
 **Singapore Youth Festival Arts Presentation**  
 
-*   Achieved a Certificate of Accomplishment in 2013, 2015 & 2019
+*   Achieved a Certificate of Accomplishment in 2013, 2015 &amp; 2019
 
   
 **Annual Aesthetics Exposure**  
@@ -95,7 +95,7 @@ In addition, our drama students are taken each year to watch a drama production 
 
 *   Annual Secondary 4 Farewell for our graduating seniors (Nov)
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 ### Teachers-in-Charge
