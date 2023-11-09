@@ -3,34 +3,31 @@ title: Drama
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Drama
 
-![](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama.jpg)
-
+![mainpic](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/main%20pic.jpeg)
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align = "left">
-
+![vision](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/vision.jpg)
 <p style="text-align: justify;font-size:16px;">
 The KCPSS Drama club is committed to helping our students realise their dramatic and/or artistic potential and providing opportunities for our members to showcase their talent. In our Drama club, talent is not limited to acting and extends to various aspects of theatre production, including script writing, set designing and stage management. KCPSS is a mission school and we are committed to inculcating G.R.A.C.E values in all our trainings and programmes.</p>
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama2.jpg" style="width:40%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
-Each of our training sessions focus on exploring the self through fundamentals of drama training, ensemble work, characterisation and voice. Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.</p>  
+Each training session focuses on the fundamentals of drama training, ensemble work, characterisation and voice work.
 
- <p style="text-align: justify;font-size:16px;">
-We focus on a yearly drama production for National Day, and biannually for the Singapore Youth Festival and KCPSS Performing Arts Showcase.</p>
+Drama students are also given opportunities to explore their individual interests in script writing, theatre production and management.
 
-<p style="text-align: justify;font-size:16px;">
-In addition, our drama students are taken each year to watch a drama production as part of ‘aesthetic exposure’ in their drama curriculum.</p>
+Drama students also participate in a Drama exchange programme with other secondary schools.</p>
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/drama1.jpg" style="width:40%;margin-right:15px;" align = "left">
+![training](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/training.jpeg)
 
 **<u>Training</u>**
 
@@ -56,17 +53,17 @@ In addition, our drama students are taken each year to watch a drama production 
 </tbody>
 </table>
 
-<br><br>
+<br>
 
 **<u>Special Programmes</u>**
+![annualprog](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/annual%20programmes.jpg)
 
 **Singapore Youth Festival Arts Presentation**  
 
-*   Achieved a Certificate of Accomplishment in 2013, 2015 & 2019
+*   Achieved a Certificate of Accomplishment in 2013, 2015,2019 &amp; 2023.
 
   
 **Annual Aesthetics Exposure**  
-
 
 *   A Singaporean in Paris by Sing'Theatre in 2022
 *   During HBL, Online performance by The Necessary Stage - ‘Those Who Can't, Teach’ (2020)
@@ -76,26 +73,30 @@ In addition, our drama students are taken each year to watch a drama production 
 *   Shakespeare in the Park (Twelfth Night) - 2012
 *   Model Citizens - A Drama in Education Program - 2012
 
-  
-
 **Community Involvement Program (CIP)**  
 
 *   Visit to Bishan Home to interact with and perform for the residents
 
-  
-
 **Annual School Programs**  
 
-*   Aesthetics Night 2018 - ‘Light Every Dream’
-*   Performances for
-
+*   Yearly Performances for
     *   Secondary 1 CCA Orientation (Jan)
-    *   Teachers' Day (Sept)
-    *   KCPSS Learning Carnival (Oct)
+    *   Performing Arts Aesthetics Presentation (biennial)
+    *   SYF Arts Presentation (biennial)
+    *  Sec 4 Farewell (March)
+    *  Drama Exchange Programme in ACS (Barker)
+    *  National Day Skit (August)
+    *  Open House Presentation (Nov)
 
-*   Annual Secondary 4 Farewell for our graduating seniors (Nov)
+**Ad-hoc Performances:**
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/5k-gxq8OLX0" title="Drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*   Presentation of SYF performance &amp; Panel Discussion at the Theatre Arts Conference 2023 by the Singapore Drama Educators Association (SDEA) (July 2023)
+*   Choral Reading Performance (NSLF 2023)
+*   Teachers' Day (Sep 2022)
+*   Aesthetic Night 2018 - 'Light Every Dream'
+
+![adhocprog](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/ad-hoc%20programmes.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4ktPQzrzOZ4?si=iOhiG-yvFcPfAc6U" height="315" width="560"></iframe>
 
 
 ### Teachers-in-Charge
