@@ -16,7 +16,7 @@ variant: markdown
   
 <p style="text-align: justify;font-size:16px;"><b>Our Vision :</b>To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>  
   
-<p style="text-align: justify;font-size:16px;">
+<p style="text-align: justify;font-size:16px;"><b>Our Value :</b>
 
 ### Area of Focus
 
