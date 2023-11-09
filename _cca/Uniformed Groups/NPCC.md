@@ -22,13 +22,13 @@ variant: markdown
 * 	I : Integrity
 * 	S : Service
 * 	E : Excellence
-	
+</p>	
 
 ### Area of Focus
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/NPCC/area%20of%20focus.jpg)
 	
-</p><p style="text-align: justify;font-size:16px;">
+<p style="text-align: justify;font-size:16px;">
 The National Police Cadet Corp trains its cadets to be strong both physically and mentally. KCPSS NPCC’s core mission is to<b> “develop our cadets into caring and responsible citizens” </b>and its vision is to <b>“mould the builders of a safe and secure home” </b>. It is a co-curricular activity that emphasizes discipline, unity and taking initiative. It also provides cadets with opportunities for leadership training and character building.</p>
 
 ### Programmes

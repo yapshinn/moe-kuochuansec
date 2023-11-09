@@ -25,6 +25,7 @@ Drama students are also given opportunities to explore their individual interest
 
 Drama students also participate in a Drama exchange programme with other secondary schools.</p>
 
+
 ### Programmes
 
 ![training](/images/The%20Kuo%20Chuan%20Experience/CCA/Drama/training.jpeg)

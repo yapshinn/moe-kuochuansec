@@ -17,9 +17,8 @@ variant: markdown
 ### Area of Focus
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Football/area%20of%20focus%20photo.jpg)
-<p style="text-align: justify;font-size:16px;">Every player, coach and teacher in KCPSS knows that Football is a highly physical game that requires great mental strength, strong physique and clever wits. Not only that, it requires a great amount of team work that only through&nbsp;<b>good relationships with team mates</b>&nbsp;will it be accomplished.&nbsp;</p>
 
-  
+<p style="text-align: justify;font-size:16px;">Every player, coach and teacher in KCPSS knows that Football is a highly physical game that requires great mental strength, strong physique and clever wits. Not only that, it requires a great amount of team work that only through&nbsp;<b>good relationships with team mates</b>&nbsp;will it be accomplished.&nbsp;</p>
 
 <p style="text-align: justify;font-size:16px;">Last but certainly not the least, Football requires&nbsp;<b>discipline in character</b>&nbsp;that makes him a Holistic player whom people hold with high regards. It is in these principles that the&nbsp;<b>KCPSS Football Team</b>&nbsp;is built on - every player to graduate from KCPSS with the knowledge of Football, the health and physique of a true athlete, relationships with team mates that lasts and character that brings every player through life.</p>
 
