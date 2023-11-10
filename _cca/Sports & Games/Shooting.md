@@ -63,12 +63,12 @@ Bonding sessions among the members of the Shooting Club.
   
 
 **Zonals/Nationals Competition**  <br>
-Main competition platforms (mid April)  
-
+* B Division National School Games (March/April)
+* C Division National School Games (July)
   
 
 **Invitational Shoot**<br> 
-Competition organized by schools like NTU, NUS, Singapore Shooting Association for our shooters to compete with shooters of other schools and know their ability.
+<p style="text-align: justify;font-size:16px;">National competitions organised by tertiary education institutions such as NTU, NUS. The competitions aim to provide a platform for our shooters to compete at the national level and benchmark their ability for self-improvement.</p>
 
 
 ### Teachers-in-Charge
