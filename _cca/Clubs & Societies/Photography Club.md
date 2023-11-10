@@ -3,6 +3,7 @@ title: Photography Club
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ## Photography Club
 
@@ -69,7 +70,7 @@ third_nav_title: Clubs & Societies
   
 <p style="text-align: justify;font-size:16px;">Competitions the members will participate in include 'Our School, Our Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvY98ReZ0MxGVVLBjNFKcWaKQJfiVjk-qFLP0hHIE5u1_sGjJpU3mZ9d3yHouTeNDvU2sELi0HEY76/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVhXHmpfRhV4aIUt46_0TfT4UbIab3R9yBrKmcVkfYfdHVRk03eWr2qELI89OwDMnVULmkRAbHGyq/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Teachers-in-Charge
 
