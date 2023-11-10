@@ -13,7 +13,8 @@ variant: markdown
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/vision.jpeg" style="width:40%;margin-right:15px;" align="left">
 
-<p style="text-align: justify;font-size:16px;">Co-curricular activities are a part of a student's life, be it primary, secondary or tertiary level. They are essential in completing a student's holistic education in school. The skills, knowledge and values that students take away with them from the training can be applicable in everyday life. The Shooting Club believes that our rigorous training programme will establish a good foundation of discipline and responsibility in every student, and hopes that every member will come out to be an all-rounded person in every aspect of life.</p>
+<p style="text-align: justify;font-size:16px;">Co-curricular activities play an integral role in a student's life, be it at the primary, secondary, or tertiary level. They are an essential contribution in achieving a student's holistic education in school. A combination of skill, attitude, and principles contribute to making a successful Shooter. <br><br>
+The Shooting Club’s vision is for our shooters to be leaders with precision, and a marksman with a resolute heart and mind.</p>
 
 
 ### Area of Focus
