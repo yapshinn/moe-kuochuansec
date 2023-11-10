@@ -25,7 +25,7 @@ variant: markdown
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/shooting3.jpg" style="width:40%;margin-right:15px;" align="left">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/Programme.jpeg)
 
 **<u>Training</u>**
 
