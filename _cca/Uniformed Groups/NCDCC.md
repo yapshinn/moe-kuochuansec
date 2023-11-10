@@ -3,6 +3,7 @@ title: NCDCC
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## NCDCC
 
@@ -106,11 +107,11 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td>Unit Overall Proficiency Award</td>
-    <td>Gold (2016, 2017, 2018, 2019)</td>
+    <td>Gold (2016, 2017, 2018, 2019)<br>Dinstinction (2022)</td>
   </tr>
   <tr>
     <td>Precision Drill Challenge</td>
-    <td>Champion (2014, 2016, 2017, 2018)</td>
+    <td>Champion (2014, 2016, 2017, 2018,2022,2023)</td>
   </tr>
   <tr>
     <td> UACDC</td>

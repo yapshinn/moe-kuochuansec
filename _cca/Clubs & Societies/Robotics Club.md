@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ## Robotics Club
 
@@ -10,37 +11,30 @@ third_nav_title: Clubs & Societies
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/CCA%201.jpeg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/CCA%201.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
-The Robotics Club aims to engage the members through a fun-filled learning experience in robot designing, building and programming using the Spike Prime and EV3 Mindstorm LEGO robotics kits . It also aims to create awareness among the members the use of robots as tools to improve the quality of our life. The Club provides a platform for students who have the passion for robot building and programming to develop their potential and to exhibit their talents by participating in national level competitions. During the regular training sessions and competitions, the members are constantly challenged to be innovative and inquisitive thinkers in problem solving through strategy building, teamwork and creativity. Therefore, not only would they learn about the technological skills, the members would also acquire life skills through working with others as responsible and effective team players.</p>
+At our Robotics Club, we are passionate about inspiring the next generation of innovators, engineers, and problem solvers. We provide an exciting and engaging platform for students to dive into the world of robotics, learn valuable technical skills and participate in hands-on projects. We are a dynamic and inclusive community that welcomes students from all backgrounds, whether they are beginners or have prior experience in robotics.</p>
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg" style="width:40%;margin-right:15px;" align = "left">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg)
 
-<p style="text-align: justify;font-size:16px;">
-Members to acquire the necessary software programming skills and robot design and building using Spike Prime and EV3 MindStorm LEGO sets to accomplish missions.  </p>
-  
-<p style="text-align: justify;font-size:16px;">
-Provide opportunities for members to exhibit their leadership skills through organizing club events. </p> 
-  
-
-<p style="text-align: justify;font-size:16px;">
-Learn to be a responsible and effective team player by working in teams to participate in the various selected competitions.</p>
+**1. Fun-filled Learning Experience:** We engage students in an enjoyable and educational journey. Through interactive sessions, we immerse students in the fascinating world of robotics, making learning both fun and rewarding.<br><br>
+**2. Robot Designing, Building and Programming:** We emphasize practical skills development by using the Lego Spike Prime and Mindstorms EV3 sets. Students learn how to design, construct and program robots, gaining valuable hands-on experience in the process.<br><br>
+**3. Competition and Talent Showcase:** We provide a platform for students with a passion for robot building and programming to develop their potential. By participating in national-level competitions, students can exhibit their talents, test their skills against peers, and gain recognition for their achievements.
 
   
 
-<p style="text-align: justify;font-size:16px;">
-Develop our members into an inquisitive and resilient person by providing opportunities to self-explore in daily CCA tasks.</p>
+
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Robotics_Programmes.jpeg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Robotics_Programmes.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **<u>Training</u>**
 
-Robotics  Club is actively inculcating aspiring students who aspire to be future robotics engineers and programmers. The club constantly strive to develop students’ robot construction and programming skills through exposure to a variety of robotics fields and engaging professional trainers for training. Students will be given ample opportunities to compete in various national competitions to pitch their skills against the best to create the strongest, smartest or fastest robot. Apart from that, students are also given opportunities to develop their leadership and management skills through committee postings as well as student leader positions during internal events such as School Open House Day.
+<p style="text-align: justify;font-size:16px;">We offer training that cover the fundamentals of robotics, including programming and mechanics. These sessions conducted by a professional trainer, are designed to accommodate both beginners and more experienced members, ensuring that everyone can participate and learn at their own pace.</p>
 
 <table>
 <thead>
@@ -52,7 +46,7 @@ Robotics  Club is actively inculcating aspiring students who aspire to be futur
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>2.30 PM - 5.30 PM</td>
+    <td>3.00 PM - 6.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
@@ -63,17 +57,19 @@ Robotics  Club is actively inculcating aspiring students who aspire to be futur
 
 **<u>Special Events / Competitions</u>**
 
-<iframe width="661" height="496" src="https://www.youtube.com/embed/RX6dfZLCiDk" title="Robotic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZiVlxaOaUGVWQuarYAQptITj9Rxh5iifYI-Sbw6Fyz_PzyqwT6RfHLS8hc8uYBqyXBk40qNOW0VA/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 <br>
 
 Every year, members from the club will take part in the following competitions and events.  
   
-* Jan - CCA Orientation  
-* Feb - ITE College East Robotics Challenge  
-* Apr - Internal Competition  
-* July - Asia Pacific Youth Robotics Competition  
-* Aug - National Junior Robotics Competition
+* Jan : Sec 1 CCA Orientation  
+* Feb - May : IDE (Innovation, Design &amp; Competition)
+		* IDE Sumobot
+		* IDE Sprint 
+* Mar - Apr :  KCPSS Robotics Competition (Internal)  
+* July - Sept : National Robotics Competition (NRC)  
+* Nov : KCPSS Open House
 
 ### Teachers-in-Charge
 
