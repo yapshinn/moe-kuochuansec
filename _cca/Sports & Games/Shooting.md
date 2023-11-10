@@ -22,7 +22,11 @@ The Shooting Club’s vision is for our shooters to be leaders with precision, a
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/area_of_focus.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 
-<p style="text-align: justify;font-size:16px;">The shooting CCA aims to train students in either Air Pistol or Air Rifle discipline. Regardless of experience in the field of shooting, we train every member and bring out his or her fullest potential. Students will be introduced to the rules, reglation and latest shooting techniques and trained with the technical and mental skills for preparation for zonal or national competitions. We also focus on physical training to condition their fitness and health so that they can actively participate in the sport. Besides focusing in striving for success, we will not forget to ensure that every member portrays good sportsmanship, moral values and that they are able to cope with both their CCA and academic work.</p>
+<p style="text-align: justify;font-size:16px;">The shooting CCA aims to develop our students to be skillful shooters of the Air Pistol or Air Rifle. Regardless of experience in the field of shooting, we train every member to his or her fullest potential.<br><br> 
+Over the 4 to 5 years of CCA trainings, students grow to be confident users of the guns, armed with the technical and mental skills to take on national competitions. <br><br> 
+Emphasis is also placed on their physical training to condition their fitness and health; this ensures our shooters are strengthened from within. <br><br>
+Teachable moments during CCA sessions are tapped on for character building and, strong bonds are built between the teachers, students and coaches to establish good lines of communication and understanding. 
+</p>
 
 ### Programmes
 
