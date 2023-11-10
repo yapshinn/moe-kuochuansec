@@ -48,7 +48,7 @@ Despite the focus on sporting excellence, we also place strong emphasis on ensur
   <tr>
     <th>Training Timing</th>
     <td>3.00 PM - 6.00 PM</td>
-    <td>3.00 PM - 6.00 PM<br></td>
+    <td>2.00 PM - 5.00 PM<br></td>
   </tr>
   <tr>
     <th>Venue</th>
