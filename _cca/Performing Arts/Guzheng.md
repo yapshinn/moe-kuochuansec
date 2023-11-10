@@ -28,12 +28,10 @@ Kuo Chuan Guzheng Ensemble takes on a holistic approach in developing every stud
 <img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng2.jpg">
 
 <p style="text-align: justify;font-size:16px;">
-Kuo Chuan Guzheng Ensemble aims to equip aspiring young student performers, with or without prior experience, to&nbsp;<b>earn the skills</b>&nbsp;of playing the guzheng. We also aim to&nbsp;<b>develop their interest</b>&nbsp;in performing oriental and western music on this unique instrument.&nbsp; We train the students to acquire the skills such that they are able to&nbsp;<b>perform in school or public events</b>&nbsp;and stay abreast with the standard required for the Singapore Youth Festival Arts Presentation.&nbsp; With such wide exposure, students who have acquired the standards are also given the opportunity to take the examination conducted by The Central Conservatory of Music and Nanyang Academy of Fine Arts Certificate of Chinese Instruments Graded Examination.</p>&nbsp;
-
-  
+Kuo Chuan Guzheng Ensemble aims to equip aspiring young student performers, with or without prior experience, to earn the skills of playing the guzheng.  We also aim to develop their interest in performing oriental and western music on this unique instrument.  Students will acquire the skills to perform in school or public events and stay abreast with the standard required for the Singapore Youth Festival Arts Presentation.  With such wide exposure, students who have acquired the standards are also given the opportunity to take the examination conducted by The TENG Company and the Nanyang Academy of Fine Arts Certificate of Chinese Instruments Graded Examination.</p>
 
 <p style="text-align: justify;font-size:16px;">
-Despite the focus in striving for success, we also place strong emphasis on ensuring that our student performers are&nbsp;<b>equipped with gracefulness and strong moral values</b>, and are able to juggle and cope with their academic work.</p>
+Despite the focus in striving for success, we also place strong emphasis on ensuring that our student performers are <b>equipped with gracefulness and strong moral values,</b> and are able to juggle and cope with their academic work.</p>
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAkhfBdxVoL3Mzs-Z7DAyiIW0HLzzXU5KWEQJ7rg9SrldenGYixi97JUVOEmEE2r5m-W5Tqhg-v4cd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
