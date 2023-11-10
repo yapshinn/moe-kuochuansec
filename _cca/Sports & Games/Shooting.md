@@ -54,7 +54,7 @@ Teachable moments during CCA sessions are tapped on for character building and, 
   </tr>
 </tbody>
 </table>
-
+<p style="text-align: justify;font-size:16px;">There may be additional training before competitions and students will be training in Yishun Safra Shooting Range as a practice in the competition venue. </p>
 <br>
 
 **Special Programme**<br>
