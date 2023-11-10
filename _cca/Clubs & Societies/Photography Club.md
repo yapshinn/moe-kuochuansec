@@ -7,8 +7,7 @@ variant: markdown
 ---
 ## Photography Club
 
-<img style="width:30%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Main_Prog___Banner.jpg)
 
 
 ### Vision
@@ -34,14 +33,13 @@ variant: markdown
 
 ### Area of Focus
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area%20of%20Focus.jpg">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area_of_Focus.jpg)
 
 <p style="text-align: justify;font-size:16px;">The club aims to train all its members with basic photography skills which will enable them to cover school events and activities and participate in competitions. As they progress, they will be introduced to advanced skills on different genres of photography, specialised equipment and participate in workshops and seminars. Apart from photography skills, members will also be trained to lead small teams of photographers, conduct classes for fellow members and be student trainers during workshops.</p>
 
 ### Programmes
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Programmes.jpg">
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Programmes.jpeg)
 
 **<u>Training</u>**
 
