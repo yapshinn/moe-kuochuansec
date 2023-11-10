@@ -3,6 +3,7 @@ title: Guzheng
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Guzheng
 
@@ -18,10 +19,9 @@ To enrich each individual through appreciation of the Chinese Music, and to deve
   
 **Our Mission**  
 <p style="text-align: justify;font-size:16px;">
-Enable pupils to have the opportunity to develop their potential in the area of Chinese Music.</p>&nbsp;  
+Enable pupils to have the opportunity to develop their potential in the area of Chinese Music.
   
-<p style="text-align: justify;font-size:16px;">
-Kuo Chuan Guzheng Ensemble takes on a holistic approach in developing every student in both their talent for Chinese music and also in their character by equipping them with skills and values that will help them face the challenges of the 21st century. We believe that through the right discipline and proper time management, students will grow to become resilient, disciplined and graceful Arts performers that will be able to exercise personal leadership in all areas of her/his life.</p>
+Kuo Chuan Guzheng Ensemble takes on a holistic approach in developing every student in their talent for Chinese music as well as in their character by equipping them with skills and values that will help them face the challenges of the 21st century. We believe that through the right discipline and proper time management, students will grow to become resilient, disciplined and graceful Arts performers that will be able to exercise personal leadership in all areas of her/his life.</p>
 
 ### Area of Focus
 
@@ -111,4 +111,4 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 
 | Lim Zi Min  |Lee Chong Min | Foo ji Ying Eunice |
 | -------- | -------- |  -------- |
-| <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>     
+| <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>
