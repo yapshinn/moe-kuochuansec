@@ -70,18 +70,11 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 
 **<u>Acheivements</u>**	
 	
-	  
-&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table><tbody><tr><td>Alfreds Futterkiste</td><td>Maria Anders</td><td>Germany</td></tr><tr><td>Centro comercial Moctezuma</td><td>Francisco Chang</td><td>Mexico</td></tr>  
-</tbody></table>
+| South Zone Table Tennis Championships (Boys) | South Zone Table Tennis Championships (Girls) | 
+| -------- | -------- |
+| Text     | Text     | 
+
+
 	
 ### Teachers-in-Charge
 
