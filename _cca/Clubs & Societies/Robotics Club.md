@@ -57,7 +57,7 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 **<u>Special Events / Competitions</u>**
 
-<iframe width="661" height="496" src="https://www.youtube.com/embed/RX6dfZLCiDk" title="Robotic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZiVlxaOaUGVWQuarYAQptITj9Rxh5iifYI-Sbw6Fyz_PzyqwT6RfHLS8hc8uYBqyXBk40qNOW0VA/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 <br>
 
