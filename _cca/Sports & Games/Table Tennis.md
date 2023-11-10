@@ -70,7 +70,23 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 
 **<u>Acheivements</u>**	
 	
-	
+	  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;Company  
+&nbsp;&nbsp;&nbsp;&nbsp;Contact  
+&nbsp;&nbsp;&nbsp;&nbsp;Country  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;Alfreds Futterkiste  
+&nbsp;&nbsp;&nbsp;&nbsp;Maria Anders  
+&nbsp;&nbsp;&nbsp;&nbsp;Germany  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;Centro comercial Moctezuma  
+&nbsp;&nbsp;&nbsp;&nbsp;Francisco Chang  
+&nbsp;&nbsp;&nbsp;&nbsp;Mexico  
+&nbsp;&nbsp;  
+
 	
 ### Teachers-in-Charge
 
