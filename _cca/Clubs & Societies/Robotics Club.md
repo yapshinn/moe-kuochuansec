@@ -34,7 +34,7 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 **<u>Training</u>**
 
-Robotics&nbsp; Club is actively inculcating aspiring students who aspire to be future robotics engineers and programmers. The club constantly strive to develop students’ robot construction and programming skills through exposure to a variety of robotics fields and engaging professional trainers for training. Students will be given ample opportunities to compete in various national competitions to pitch their skills against the best to create the strongest, smartest or fastest robot. Apart from that, students are also given opportunities to develop their leadership and management skills through committee postings as well as student leader positions during internal events such as School Open House Day.
+We offer training that cover the fundamentals of robotics, including programming and mechanics. These sessions conducted by a professional trainer, are designed to accommodate both beginners and more experienced members, ensuring that everyone can participate and learn at their own pace.
 
 <table>
 <thead>
