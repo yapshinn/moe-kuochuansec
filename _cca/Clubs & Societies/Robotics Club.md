@@ -34,7 +34,7 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 **<u>Training</u>**
 
-We offer training that cover the fundamentals of robotics, including programming and mechanics. These sessions conducted by a professional trainer, are designed to accommodate both beginners and more experienced members, ensuring that everyone can participate and learn at their own pace.
+<p style="text-align: justify;font-size:16px;">We offer training that cover the fundamentals of robotics, including programming and mechanics. These sessions conducted by a professional trainer, are designed to accommodate both beginners and more experienced members, ensuring that everyone can participate and learn at their own pace.</p>
 
 <table>
 <thead>
