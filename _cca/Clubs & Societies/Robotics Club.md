@@ -63,11 +63,13 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 Every year, members from the club will take part in the following competitions and events.  
   
-* Jan - CCA Orientation  
-* Feb - ITE College East Robotics Challenge  
-* Apr - Internal Competition  
-* July - Asia Pacific Youth Robotics Competition  
-* Aug - National Junior Robotics Competition
+* Jan : Sec 1 CCA Orientation  
+* Feb - May : IDE (Innovation, Design &amp; Competition)
+		* IDE Sumobot
+		* IDE Sprint 
+* Mar - Apr :  KCPSS Robotics Competition (Internal)  
+* July - Sept : National Robotics Competition (NRC)  
+* Nov : KCPSS Open House
 
 ### Teachers-in-Charge
 
