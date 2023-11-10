@@ -68,6 +68,10 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0vpdOzsxZk7TOKKkNt99zPPh826K-NyG81XfEe_lpILkWpenWtRig6o6IzREIdbExMHza0fI622Uf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+**<u>Acheivements</u>**	
+	
+	
+	
 ### Teachers-in-Charge
 
 
