@@ -26,9 +26,9 @@ variant: markdown
 
 <img align="left" style="width:35%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis2.jpg">
 
-<p style="text-align: justify;font-size:16px;">Kuo Chuan Table Tennis aims to equip aspiring young athletes, with or without prior experience, <b>to develop the skills<b> of the sport, such as service, footwork, forehand and backhand shots.  Students will acquire the skills to <b>perform in competitions</b> and stay abreast with the standard required for the school’s internal competitions and subsequently the South Zone and even National Inter-school table tennis competitions. The confidence they develop through the broad exposure will help the students to eventually apply what they have learned in the CCA to their daily lives.<br><br>
+<p style="text-align: justify;font-size:16px;">Kuo Chuan Table Tennis aims to equip aspiring young athletes, with or without prior experience, <b>to develop the skills</b> of the sport, such as service, footwork, forehand and backhand shots.  Students will acquire the skills to <b>perform in competitions</b> and stay abreast with the standard required for the school’s internal competitions and subsequently the South Zone and even National Inter-school table tennis competitions. The confidence they develop through the broad exposure will help the students to eventually apply what they have learned in the CCA to their daily lives.<br><br>
 Despite the focus on sporting excellence, we also place strong emphasis on ensuring that our student performers are <b>equipped with gracefulness and strong moral values,</b> and are able to manage their academic commitments.
-</b></b></p><b><b>
+</p><b><b>
 
 ### Programmes
 
