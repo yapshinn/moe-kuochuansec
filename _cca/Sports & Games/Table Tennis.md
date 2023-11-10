@@ -72,7 +72,7 @@ The End of Year intensive training will prepare the students for the Inter Schoo
 	
 | South Zone Table Tennis Championships (Boys) | South Zone Table Tennis Championships (Girls) | 
 | -------- | -------- |
-| •	C Div – 3rd Team Placing (2022)<br>•	B Div – 4th Team Placing (2019)<br>•	C Div – 4th Team Placing (2018)     | Text     | 
+| •	C Div – 3rd Team Placing (2022)<br>•	B Div – 4th Team Placing (2019)<br>•	C Div – 4th Team Placing (2018)     | •	B Div – 2nd Team Placing (2023)<br>•	C Division-4th Team Placing (2023)<br> •	C Division-4th Team Placing (2019)<br>•	B Div – 4th Team Placing (2018)<br>•	B Div – 4th Team Placing (2017)    | 
 
 
 	
