@@ -65,7 +65,8 @@ Bonding sessions among the members of the Shooting Club.
 **Zonals/Nationals Competition**  <br>
 * B Division National School Games (March/April)
 * C Division National School Games (July)
-  
+ 
+ ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Shooting/Nationals_competition.jpeg)
 
 **Invitational Shoot**<br> 
 <p style="text-align: justify;font-size:16px;">National competitions organised by tertiary education institutions such as NTU, NUS. The competitions aim to provide a platform for our shooters to compete at the national level and benchmark their ability for self-improvement.</p>
