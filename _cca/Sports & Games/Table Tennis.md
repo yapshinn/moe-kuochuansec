@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/sports-n-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Table Tennis
 
@@ -15,6 +16,11 @@ third_nav_title: Sports & Games
 <p style="text-align: justify;font-size:16px;">The CCA starts with the objective of teaching interested students to understand and apply the rules of Table Tennis. The CCA allows the students (ranging from beginners to advanced players) to learn and apply skills such as service, footwork, forehand and backhand shots.  
   
 The game itself will teach students to learn about sportsmanship and the value of fair play. Being in the teams promotes teamwork and discipline, which are beneficial to the students.</p>
+
+### Mission
+
+<p style="text-align: justify;font-size:16px;">Kuo Chuan Table Tennis takes on a holistic approach in developing every student in their talent for Table Tennis as well as in their character by equipping them with skills and values that will help them face the challenges of the 21st century. We believe that through discipline and the right approach, students can look forward to a holistic training programme that not only hones their skills and techniques to be highly competent players of the sport, but also develops their leadership potential to be effective Servant Leaders who can inspire a common vision for their peers.</p>
+
 
 ### Area of Focus
 
