@@ -20,8 +20,8 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg)
 
-**1. Fun-filled Learning Experience:** We engage students in an enjoyable and educational journey. Through interactive sessions, we immerse students in the fascinating world of robotics, making learning both fun and rewarding.<br>
-**2. Robot Designing, Building and Programming:** We emphasize practical skills development by using the Lego Spike Prime and Mindstorms EV3 sets. Students learn how to design, construct and program robots, gaining valuable hands-on experience in the process.<br>
+**1. Fun-filled Learning Experience:** We engage students in an enjoyable and educational journey. Through interactive sessions, we immerse students in the fascinating world of robotics, making learning both fun and rewarding.<br><br>
+**2. Robot Designing, Building and Programming:** We emphasize practical skills development by using the Lego Spike Prime and Mindstorms EV3 sets. Students learn how to design, construct and program robots, gaining valuable hands-on experience in the process.<br><br>
 **3. Competition and Talent Showcase:** We provide a platform for students with a passion for robot building and programming to develop their potential. By participating in national-level competitions, students can exhibit their talents, test their skills against peers, and gain recognition for their achievements.
 
   
