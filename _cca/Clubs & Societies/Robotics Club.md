@@ -46,7 +46,7 @@ Robotics&nbsp; Club is actively inculcating aspiring students who aspire to be f
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>2.30 PM - 5.30 PM</td>
+    <td>3.00 PM - 6.00 PM</td>
   </tr>
   <tr>
     <th>Venue</th>
