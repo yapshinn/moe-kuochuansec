@@ -18,7 +18,7 @@ At our Robotics Club, we are passionate about inspiring the next generation of i
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg" style="width:40%;margin-right:15px;" align="left">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Robotics%20Club/Area_Focus.jpeg)
 
 <p style="text-align: justify;font-size:16px;">
 Members to acquire the necessary software programming skills and robot design and building using Spike Prime and EV3 MindStorm LEGO sets to accomplish missions.  </p>
