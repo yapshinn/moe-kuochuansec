@@ -13,9 +13,9 @@ variant: markdown
 
 <img align="left" style="width:35%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Table%20Tennis/table-tennis1.jpg">
 
-<p style="text-align: justify;font-size:16px;">The CCA starts with the objective of teaching interested students to understand and apply the rules of Table Tennis. The CCA allows the students (ranging from beginners to advanced players) to learn and apply skills such as service, footwork, forehand and backhand shots.  
+<p style="text-align: justify;font-size:16px;">The CCA starts with the objective of teaching interested students to understand and apply the rules of Table Tennis. The CCA allows the students (ranging from beginners to advanced players) to learn and apply skills such as service, footwork, forehand and backhand shots.</p>  
   
-The game itself will teach students to learn about sportsmanship and the value of fair play. Being in the teams promotes teamwork and discipline, which are beneficial to the students.</p>
+<p style="text-align: justify;font-size:16px;">The game itself will teach students to learn about sportsmanship and the value of fair play. Being in the teams promotes teamwork and discipline, which are beneficial to the students.</p>
 
 ### Mission
 
