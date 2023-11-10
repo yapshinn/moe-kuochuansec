@@ -52,8 +52,8 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00PM - 6.00PM</td>
-    <td>2.00PM - 4.00PM</td>
+    <td>3.00PM - 5.30PM</td>
+    <td>2.00PM - 5.30PM</td>
   </tr>
   <tr>
     <th>Venue</th>
