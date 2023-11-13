@@ -11,29 +11,29 @@ third_nav_title: Performing Arts
 
 ### Vision
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir1.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir1.jpg" style="width:40%;margin-right:15px;" align="left">
 
 <p style="text-align: justify;font-size:16px;">
 "Music expresses that which cannot be said and on which it is impossible to be silent." - Victor Hugo0  </p>
   
 <p style="text-align: justify;font-size:16px;">
-Music making through Singing is an Art. In choir, our values are: Aspire, Perseverance and Team Work.We aim to provide a holistic education in this Performing Art(s) CCA to develop music literacy, interest and skills in Singing as well to develop performance excellence, to build character, team spirit,leadership skills and confidence.</p>
+Music making through Singing is an Art. In choir, our values are: Aspire, Perseverance and Team Work.We aim to provide a holistic education in this Performing Art(s) CCA to develop music literacy,&nbsp;interest and skills in Singing as well to develop performance excellence, to build character, team spirit,leadership skills and confidence.</p>
 
 
 ### Area of Focus
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir2.jpg" style="width:40%;margin-right:15px;" align="left">
 
 
 <p style="text-align: justify;font-size:16px;">
-The choir training programme focuses on voice projection, breathing techniques, aural training, sight singing, music theory and simple choreography.</p>
+The choir training programme focuses on voice projection, breathing techniques, aural training,&nbsp;sight singing, music theory and simple choreography.</p>
 
 
 
 
 ### Programmes
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Choir/choir3.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **<u>Training</u>**
 <table>
@@ -81,6 +81,6 @@ The choir training programme focuses on voice projection, breathing techniques, 
 
 
 
-| Lee Hwee Ling Grace| Esther Yong Yin Yin |Foo Ji Ying, Eunice|
-| -------- | -------- | -------- |
-|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>| <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>|
+| Lee Hwee Ling Grace| Esther Yong Yin Yin |
+| -------- | -------- | 
+|<a href="mailto:lee_hwee_ling_grace@schools.gov.sg">lee_hwee_ling_grace@schools.gov.sg</a>| <a href="mailto:yong_yin_yin_esther@schools.gov.sg">yong_yin_yin_esther@schools.gov.sg</a>| 

@@ -3,56 +3,58 @@ title: Humanities
 permalink: /our-people/Department/humanities/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 **<center>HUMANITIES DEPARTMENT</center>**
 
 
-![](/images/Our%20People/Departments/humans.jpg)
+![Humanities](/images/Our%20People/Departments/Departments%20Main%20Page/humanities2023.jpg)
 
 
 <table>
 <thead>
   <tr>
-    <td>Mr. Chelliah Trevor Devendran (HOD Humanities)</td>
+    <td>Mr Chelliah Trevor Devendran (HOD/Humanities)</td>
     <td><a href="mailto:chelliah_trevor_devendran@schools.gov.sg">chelliah_trevor_devendran@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Mdm. Choo Choy Joo Abby (SH/CCE)</td>
-    <td><a href="mailto:choo_choy_joo@schools.gov.sg">choo_choy_joo@schools.gov.sg</a></td>
+	 <tr>
+    <td>Mr Tan Say Pin (HOD/CCE)</td>
+    <td><a href="mailto:tan_say_pin@schools.gov.sg">tan_say_pin@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr. Lee Jian Liang Joel (Social Studies/History/Geography)</td>
+    <td>Mdm Choo Choy Joo Abby (SH/CCE)</td>
+    <td><a href="mailto:choo_choy_joo@schools.gov.sg">choo_choy_joo@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Ms Janell Lim (Asst YH Upper Sec)</td>
+    <td><a href="mailto:janell_lim@schools.gov.sg">janell_lim@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr Lee Jian Liang Joel (Social Studies/History)</td>
     <td><a href="mailto:lee_jian_liang_joel@schools.gov.sg">lee_jian_liang_joel@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Ms. Goh Xinfang (Social Studies/Math)</td>
+    <td>Ms Goh Xin Fang (Geography)</td>
     <td><a href="mailto:Goh_Xin_fang@schools.gov.sg">Goh_Xin_fang@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Ms. Rachel Lee (Social Studies/History)</td>
+    <td>Ms Rachel Lee (Social Studies/History)</td>
     <td><a href="mailto:Lee_RACHEL@schools.gov.sg">Lee_RACHEL@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Nur Diyanah Bte Mohammad Suhaini</td>
+    <td>Mdm Nur Diyanah Bte Mohammad Suhaini (Geography)</td>
     <td><a href="mailto:nur_diyanah_mohammad_suhai@schools.gov.sg">nur_diyanah_mohammad_suhai@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Khoon Kian Seong Kenneth</td>
-    <td><a href="mailto:khoo_kian_seong_kenneth@schools.gov.sg">khoo_kian_seong_kenneth@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Ng Chee Kian</td>
+    <td>Mr Ng Chee Kian (Geography)</td>
     <td><a href="mailto:ng_chee_kian@schools.gov.sg">ng_chee_kian@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Amelia Yeo Jiaxin</td>
+    <td>Ms Amelia Yeo Jiaxin (Social Studies/History)</td>
     <td><a href="mailto:amelia_yeo_jiaxin@schools.gov.sg">amelia_yeo_jiaxin@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>Lee Lip Chyun, Vincent</td>
-    <td><a href="mailto:lee_lip_chyun_vincent@schools.gov.sg">lee_lip_chyun_vincent@schools.gov.sg</a></td>
-  </tr>
+
 </tbody>
 </table>

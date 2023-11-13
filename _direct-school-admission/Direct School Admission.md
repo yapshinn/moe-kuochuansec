@@ -7,9 +7,9 @@ description: ""
 
 <p style="text-align: justify;font-size:16px;">These are the DSA talent areas that the school is offering for admissions. All talent areas are open to both male and female applicants.</p>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/jG6QGmOwVOY" title="DSA Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8-XSuHIlcQk" height="315" width="560"></iframe><br>
 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/aXIBn8RIw5w" title="DSA Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<br>
 
 <table>
 <thead>
@@ -53,6 +53,10 @@ description: ""
     <td>Visual Arts, Design and Media</td>
     <td>Visual Art - Media Arts / Film / Photography</td>
   </tr>
+	 <tr>
+    <td>Sports</td>
+    <td>Table Tennis</td>
+  </tr>
 </tbody>
 </table>
 
@@ -61,5 +65,10 @@ Shortlisted applicants may be asked to attend in-person auditions and interviews
 
 <p style="text-align: justify;font-size:16px;">Kindly send any inquiries concerning DSA to &nbsp;<a href="mailto:kcpss@moe.edu.sg">kcpss@moe.edu.sg</a></p><br>
 
-<p style="text-align: justify;font-size:16px;">You may also visit MOE’s DSA portal for more information concerning DSA:<a href="https://www.moe.gov.sg/secondary/dsa">https://www.moe.gov.sg/secondary/dsa</a>
+<p style="text-align: justify;font-size:16px;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec"> www.moe.gov.sg/dsa-sec</a>
 	</p>
+	
+<p style="text-align: justify;font-size:16px;">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and
+strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+
+<p style="text-align: justify;font-size:16px;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>

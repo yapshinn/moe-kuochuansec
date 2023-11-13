@@ -6,12 +6,17 @@ description: ""
 <table class="iveo_table ives_tab_1 ive_eobj_center" style="width: 621px; height: 410px;">
 <tbody>
 <tr>
-<th style="width: 271px;">Chairman
+<th style="width: 271px;">Designation
 </th>
-<th style="width: 349px;">Elder Kevin Lee Chin Chai
+<th style="width: 349px;">Name
 </th>
 </tr>
-<tr>
+<tr><td style="width: 60px;">Chairman
+</td>
+<td style="width: 60px;">Elder Kevin Lee Chin Chai
+</td>
+
+</tr><tr>
 <td style="width: 60px;">Vice Chairman
 </td>
 <td style="width: 60px;">Mr Loh Pui Wah
@@ -93,7 +98,8 @@ description: ""
             <strong>KCPPS Principal (In attendance)
                 <br>
             </strong> 
-            <span style="color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; text-align: left;">Mrs Yee Toh Gek Khiaw</span><br>
+         <div id="cn10"><span style="background-color: initial; text-align: left;">Mrs Yee Toh Gek Khiaw</span><strong><br></strong>
+</div>
         
 </div>
 <div id="cn11"><br>

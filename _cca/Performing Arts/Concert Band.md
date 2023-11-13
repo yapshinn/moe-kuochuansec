@@ -1,10 +1,10 @@
 ---
-title: Symphonic Band
+title: Concert Band
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Symphonic Band
+## Concert Band
 
 ![](/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/symphonic%20band.jpg)
 
@@ -15,7 +15,7 @@ third_nav_title: Performing Arts
 
 **Music for Life; Music to Inspire!**
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" style="width:60%;margin-left:15px;" align = "right">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/vision_band.jpg" style="width:60%;margin-left:15px;" align="right">
 
 <p style="text-align: justify;font-size:16px;">Since its formation in 1985, KCPSS Concert Band has endeavored to nurture its members' musical proficiency and to develop in them a life-long interest in music. In this spirit, the band has staged numerous school and public performances over the years and has actively participated in the Singapore Youth Festival.</p>
 
@@ -26,7 +26,7 @@ third_nav_title: Performing Arts
 
 <img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/band2.jpg" style="width:30%">
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg"  style="width:20%;margin-left:15px;" align = "right">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/areaoffocus.jpg" style="width:20%;margin-left:15px;" align="right">
 
 <p style="text-align: justify;font-size:16px;">The KCPSS Concert Band takes on a holistic approach in developing every band member's <b>character</b> and provides them with opportunities to gain the relevant knowledge and develop the skills and values that will help them face the challenges of the 21st century. </p>
 
@@ -45,7 +45,7 @@ third_nav_title: Performing Arts
 <table>
 <thead>
   <tr>
-    <td>Training Days : Every Tuesday (3.30pm-6.00pm)<br>Training Days : Every Thursday (3.30pm-6.00pm)<br>Venue : Auditorium</td>
+    <td>Training Days : Every Tuesday (3.30pm-6.00pm)<br>Training Days : Every Friday (2.30pm-5.00pm)<br>Venue : Auditorium</td>
     <td><img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/practice_band.jpg" style="width:100%"></td>
   </tr>
 </thead>
@@ -56,7 +56,7 @@ third_nav_title: Performing Arts
 
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:20%;margin-left:15px;" align = "right">
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/programe_band.jpg" style="width:20%;margin-left:15px;" align="right">
 <p style="text-align: justify;font-size:16px;">
 
 * Enrichment training camp during June/Dec holidays to hone musical skills and develop camaraderie.<br>
@@ -69,7 +69,7 @@ third_nav_title: Performing Arts
 **Singapore Youth Festival Arts Presentation - Concert Band**
 
 
-<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg" >
+<img src="/images/The%20Kuo%20Chuan%20Experience/CCA/Symphonic%20Band/syf.jpg">
 
 <p style="text-align: justify;font-size:16px;">
 	
@@ -82,7 +82,7 @@ third_nav_title: Performing Arts
 *   2009 SYF Arts Presentation (Silver)
 
 </p>
-<iframe width="843" height="496" src="https://www.youtube.com/embed/BM4ryE3upQc" title="Singapore Youth Festival 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="843" height="496" src="https://www.youtube.com/embed/BM4ryE3upQc" title="Singapore Youth Festival 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 ### Teachers-in-Charge

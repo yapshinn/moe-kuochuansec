@@ -15,35 +15,37 @@ third_nav_title: Mother Tongue
 
 We celebrate Chinese New Year together as Kuo Chuan Family.
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%201.png)
+![](/images/Our%20People/Departments/MT/2023/dsc_0259.jpg)<br>![](/images/Our%20People/Departments/MT/2023/dsc_0213.jpg)
 
 **<u>Hamper Wrapping and Classroom Decoration</u>**
 
 Our students make Chinese New Year hampers to bless the community
-
-![](/images/Our%20People/Departments/MT/MT%20Prog%202.png)
-
+![](/images/Our%20People/Departments/MT/2023/cny%20hamper%20classrm.jpeg)
 ![](/images/Our%20People/Departments/MT/MT%20Prog%203.png)
 
-**2. Conversational Chinese and Malay Programme (CCM)**  
+**2.&nbsp;Conversational Chinese and Malay Programme (CCM)**  
 
 This 10 weeks programmes carried out in Semester One aims to help Sec 1 students to master basic conversation of the other Mother Tongue.
 
 ![](/images/Our%20People/Departments/MT/MT%20Prog%204.png)
 
 
-**3\.  MT Fortnight Cum Cultural Day Camp**
+**3\. &nbsp;MT Fortnight Cum Cultural Day Camp**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%205.png)
+Understanding of Han Fu and its customs
+![](/images/Our%20People/Departments/MT/2023/img_9888.jpg)<br>
+![](/images/Our%20People/Departments/MT/2023/hanfu_understand.jpeg)<br>
+CNY Calligraphy
+![](/images/Our%20People/Departments/MT/2023/mtlf_calligraphy.jpeg)
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%206.jpg)
-![](/images/Our%20People/Departments/MT/MT%20Prog%207.png)
+**4\. &nbsp;Secondary 1 Learning Journey to Chinatown**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%208.png)
+![Learning Journey to Chinatown](/images/Our%20People/Departments/MT/2023/chinatownlj.jpg)
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%209.png)
+**5\. &nbsp;Secondary 1 -3 Lerning Journey to Kampong Glam**
 
+![Learning Journey to Kampong Glam](/images/Our%20People/Departments/MT/2023/kgglum23.jpg)
 
-**4\.  XINYAO Song Appreciation Programme**
+**6\. &nbsp;YES 933 Radio DJ Talk-Park**
 
-![](/images/Our%20People/Departments/MT/MT%20Prog%2010.png)
+![YES 933 Radio DJ Talk-Park](/images/Our%20People/Departments/MT/2023/djs_lj.jpg)

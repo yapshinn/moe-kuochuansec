@@ -3,6 +3,7 @@ title: Guzheng
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Guzheng
 
@@ -18,22 +19,19 @@ To enrich each individual through appreciation of the Chinese Music, and to deve
   
 **Our Mission**  
 <p style="text-align: justify;font-size:16px;">
-Enable pupils to have the opportunity to develop their potential in the area of Chinese Music.</p>&nbsp;  
+Enable pupils to have the opportunity to develop their potential in the area of Chinese Music.
   
-<p style="text-align: justify;font-size:16px;">
-Kuo Chuan Guzheng Ensemble takes on a holistic approach in developing every student in both their talent for Chinese music and also in their character by equipping them with skills and values that will help them face the challenges of the 21st century. We believe that through the right discipline and proper time management, students will grow to become resilient, disciplined and graceful Arts performers that will be able to exercise personal leadership in all areas of her/his life.</p>
+Kuo Chuan Guzheng Ensemble takes on a holistic approach in developing every student in their talent for Chinese music as well as in their character by equipping them with skills and values that will help them face the challenges of the 21st century. We believe that through the right discipline and proper time management, students will grow to become resilient, disciplined and graceful Arts performers that will be able to exercise personal leadership in all areas of her/his life.</p>
 
 ### Area of Focus
 
 <img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Guzheng/guzheng2.jpg">
 
 <p style="text-align: justify;font-size:16px;">
-Kuo Chuan Guzheng Ensemble aims to equip aspiring young student performers, with or without prior experience, to&nbsp;<b>earn the skills</b>&nbsp;of playing the guzheng. We also aim to&nbsp;<b>develop their interest</b>&nbsp;in performing oriental and western music on this unique instrument.&nbsp; We train the students to acquire the skills such that they are able to&nbsp;<b>perform in school or public events</b>&nbsp;and stay abreast with the standard required for the Singapore Youth Festival Arts Presentation.&nbsp; With such wide exposure, students who have acquired the standards are also given the opportunity to take the examination conducted by The Central Conservatory of Music and Nanyang Academy of Fine Arts Certificate of Chinese Instruments Graded Examination.</p>&nbsp;
-
-  
+Kuo Chuan Guzheng Ensemble aims to equip aspiring young student performers, with or without prior experience, <b>to earn the skills</b> of playing the guzheng.  We also aim to <b>develop their interest </b>in performing oriental and western music on this unique instrument.  Students will acquire the skills to <b>perform in school or public events </b>and stay abreast with the standard required for the Singapore Youth Festival Arts Presentation.  With such wide exposure, students who have acquired the standards are also given the opportunity to take the examination conducted by The TENG Company and the Nanyang Academy of Fine Arts Certificate of Chinese Instruments Graded Examination.</p>
 
 <p style="text-align: justify;font-size:16px;">
-Despite the focus in striving for success, we also place strong emphasis on ensuring that our student performers are&nbsp;<b>equipped with gracefulness and strong moral values</b>, and are able to juggle and cope with their academic work.</p>
+Despite the focus in striving for success, we also place strong emphasis on ensuring that our student performers are <b>equipped with gracefulness and strong moral values,</b> and are able to juggle and cope with their academic work.</p>
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAkhfBdxVoL3Mzs-Z7DAyiIW0HLzzXU5KWEQJ7rg9SrldenGYixi97JUVOEmEE2r5m-W5Tqhg-v4cd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -54,8 +52,8 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <tbody>
   <tr>
     <th>Training Timing</th>
-    <td>3.00PM - 6.00PM</td>
-    <td>2.00PM - 4.00PM</td>
+    <td>3.00PM - 5.30PM</td>
+    <td>2.00PM - 5.30PM</td>
   </tr>
   <tr>
     <th>Venue</th>
@@ -79,15 +77,12 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <tbody>
   <tr>
     <td><li>2011 - Silver Award</li><li>2009 - Gold Award</li><li>2007 - Silver Award</li><li>2005 - Silver Award</li></td>
-    <td><li>2021 - Centificate of Distinction</li><li>2019 - Certificate of Accomplishment</li><li>2017 - Certificate of Accomplishment</li><li>2015 - Certificate of Accomplishment</li><li>2013 - Centificate of Distinction</li></td>
+    <td><li>2023 - Centificate of Distinction</li><li>2021 - Centificate of Distinction</li><li>2019 - Certificate of Accomplishment</li><li>2017 - Certificate of Accomplishment</li><li>2015 - Certificate of Accomplishment</li><li>2013 - Centificate of Distinction</li></td>
   </tr>
 </tbody>
 </table>
 
 **<u>Performances</u>**
-
-
-
 
 <table>
 <thead>
@@ -99,7 +94,7 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 <tbody>
   <tr>
     <td><li>Chinese New Year</li><li>Founder's Day</li><li>Teacher's Day Aesthetics Showcase</li></td>
-    <td><li>2022 - Racial Harmony Day Performance @ Bishan CC</li><li>2014 - Singapore Conference Hall Ensemble Series</li><li>2010 - Kuo Chuan Biennial in Esplanate - Te Deum</li><li>2008 - SYF @ Vivo City</li></td>
+    <td><li>2023 - Beyond the Label Fest@ Jewel Changi</li><li>2022 - Racial Harmony Day Performance @ Bishan CC</li><li>2014 - Singapore Conference Hall Ensemble Series</li><li>2010 - Kuo Chuan Biennial in Esplanate - Te Deum</li><li>2008 - SYF @ Vivo City</li></td>
   </tr>
 </tbody>
 </table>
@@ -109,6 +104,6 @@ Despite the focus in striving for success, we also place strong emphasis on ensu
 
 
 
-| Lee Chong Min | Lim Zi Min | 
-| -------- | -------- | 
-| <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     |
+| Lim Zi Min  |Lee Chong Min | Foo ji Ying Eunice |
+| -------- | -------- |  -------- |
+| <a href="mailto:lim_zi_min@schools.gov.sg">lim_zi_min@schools.gov.sg</a>     | <a href="mailto:lee_chong_min@schools.gov.sg">lee_chong_min@schools.gov.sg</a>     | <a href="mailto:foo_ji_ying_eunice@schools.gov.sg">foo_ji_ying_eunice@schools.gov.sg</a>

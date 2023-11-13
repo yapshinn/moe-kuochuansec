@@ -3,11 +3,11 @@ title: Photography Club
 permalink: /the-kuo-chuan-experience/co-curricular-activities-cca/clubs-n-societies/photography-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ## Photography Club
 
-<img style="width:30%" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/photography2.jpg">
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Main_Prog___Banner.jpg)
 
 
 ### Vision
@@ -33,14 +33,13 @@ third_nav_title: Clubs & Societies
 
 ### Area of Focus
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area%20of%20Focus.jpg">
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Area_of_Focus.jpg)
 
 <p style="text-align: justify;font-size:16px;">The club aims to train all its members with basic photography skills which will enable them to cover school events and activities and participate in competitions. As they progress, they will be introduced to advanced skills on different genres of photography, specialised equipment and participate in workshops and seminars. Apart from photography skills, members will also be trained to lead small teams of photographers, conduct classes for fellow members and be student trainers during workshops.</p>
 
 ### Programmes
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Programmes.jpg">
-
+![](/images/The%20Kuo%20Chuan%20Experience/CCA/Photography/Programmes.jpeg)
 
 **<u>Training</u>**
 
@@ -67,9 +66,9 @@ third_nav_title: Clubs & Societies
 
 <p style="text-align: justify;font-size:16px;">School events the members will be rostered to cover school events such as Sec 1 orientation, CCA Open House, Founders’ Day, National Day, Thanksgiving Ceremony and many more on a regular basis to hone their skills. They can also expect to participate in cross-CCA group activities where they share their programmes and know-hows </p> 
   
-<p style="text-align: justify;font-size:16px;">Competitions the menbers will participate in include 'Our School, Our Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
+<p style="text-align: justify;font-size:16px;">Competitions the members will participate in include 'Our School, Our Story' , InstaGeylang and Ibuild SG Club Pinnacle Competition 2022.</p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvY98ReZ0MxGVVLBjNFKcWaKQJfiVjk-qFLP0hHIE5u1_sGjJpU3mZ9d3yHouTeNDvU2sELi0HEY76/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVhXHmpfRhV4aIUt46_0TfT4UbIab3R9yBrKmcVkfYfdHVRk03eWr2qELI89OwDMnVULmkRAbHGyq/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Teachers-in-Charge
 
